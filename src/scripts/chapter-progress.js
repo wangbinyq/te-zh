@@ -60,13 +60,19 @@ if (main) {
   function jumpTo(ratio) {
     const target = Math.round(Math.min(1, Math.max(0, ratio)) * maxScroll());
     window.scrollTo({ top: target, behavior: "auto" });
+    return target;
   }
 
   const hash = location.hash.match(/^#r-([\d.]+)$/);
   if (hash) {
     const ratio = Number(hash[1]) / 100;
-    requestAnimationFrame(() => jumpTo(ratio));
-    setTimeout(() => jumpTo(ratio), 250);
+    let tries = 0;
+    const settle = () => {
+      const target = jumpTo(ratio);
+      tries += 1;
+      if (tries < 8 && Math.abs(window.scrollY - target) > 24) setTimeout(settle, 120 * tries);
+    };
+    requestAnimationFrame(settle);
   } else {
     const saved = get(slug);
     if (bar && saved && window.scrollY < 300) {
