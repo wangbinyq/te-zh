@@ -12,7 +12,11 @@ if (main) {
   const bar = document.getElementById("resume");
   const anchors = [...main.querySelectorAll("[data-anchor]")];
 
-  const top = () => (bar && !bar.hidden ? bar.getBoundingClientRect().bottom : 64) + 8;
+  const header = document.querySelector(".bar");
+  const top = () => {
+    const bottom = header ? header.getBoundingClientRect().bottom : 56;
+    return Math.max(0, bottom) + 8;
+  };
 
   function position() {
     const limit = top();
