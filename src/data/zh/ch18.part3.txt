@@ -1,0 +1,464 @@
+@@ 451 [p]
+研究结束时，肘部总关节活动度的平均增加量有显著性（26°，范围 2°～60°），肘屈与肘伸活动度的增加也分别有显著性。支具方案开始前，肘部总关节活动度为 81°，方案结束时为 107°。研究期间，病人的总体满意度良好，没有病人需要使用抗炎药物。作者认为，每天使用动态支具并应用应力松弛原理，在相对较短的时间内即可有效增加肘部关节活动度。
+@@ 452 [h4]
+手法牵伸：肱二头肌
+@@ 453 [p]
+病人体位与操作：俯卧，肘位于终末范围但舒适地伸展，前臂旋前。稳定肩胛骨，被动伸展肩关节。
+@@ 454 [h4]
+机械牵伸：肱二头肌
+@@ 455 [h4]
+机械牵伸：轻度屈曲挛缩
+@@ 456 [p]
+病人体位与操作：仰卧，手臂支撑在治疗床上，前臂远端下垫折叠毛巾。病人体位与操作：仰卧，前臂远端套袖式沙袋，肘伸展、前臂旋前。让病人用对侧手稳定肱骨近端，然后将手臂垂于治疗床一侧。让肘与肩尽可能伸展，并长时间保持牵伸位（图 18.7 A）。
+@@ 457 [h4]
+自我牵伸：肱二头肌
+@@ 458 [p]
+病人体位与操作：站立于治疗床一侧。让病人握住床沿并向前走，使肩后伸、肘伸展（图 18.7 B）。需要注意的是，这一牵伸体位不包括前臂旋前。
+@@ 459 [p]
+A　B
+@@ 460 [caption]
+图 18.7　自我牵伸肱二头肌肌肉肌腱单位，包括跨过肩关节牵伸长头：（A）仰卧位；（B）站立位。
+@@ 461 [h4]
+增加肘屈
+@@ 462 [h4]
+自我牵伸：轻度伸展挛缩
+@@ 463 [li]
+病人体位与操作：俯卧，用肘支撑起上身，前臂置于运动垫上。让病人在肘屈允许的范围内尽量降低胸部，并尽可能长时间保持该体位。
+@@ 464 [li]
+病人体位与操作：坐位，肘尽量屈曲。让病人用对侧手推压前臂远端，以提供向屈曲方向的牵伸力。另一种方法是将前臂支撑在桌面或椅子扶手上，让病人身体前倾，使肱骨在固定的前臂上屈曲，并尽可能长时间保持该体位。
+@@ 465 [h4]
+自我牵伸：肱三头肌长头
+@@ 466 [p]
+病人体位与操作：坐位或站立位。让病人尽量屈肘、屈肩。另一只手可以推前臂使肘屈曲，或将肩推至更大屈曲（图 18.8）。尽可能长时间保持牵伸位。
+@@ 467 [caption]
+图 18.8　自我牵伸肱三头肌肌肉肌腱单位，包括跨过肩关节牵伸长头。
+@@ 468 [p]
+增加前臂旋前与旋后　病人体位：坐位，肘屈 90°，肘部放在加垫的桌面上或靠在躯干侧方稳定。
+@@ 469 [h4]
+增加旋前的自我牵伸
+@@ 470 [p]
+让病人握住患侧前臂的背侧，使健侧手的掌根贴住腕近端的桡骨背侧，手指绕过尺骨。然后让病人旋前前臂，并尽可能长时间保持牵伸。力量施加在桡骨上，因此不会损伤腕部。
+@@ 471 [h4]
+增加旋后的自我牵伸
+@@ 472 [p]
+让病人将健侧手的掌根贴住患侧腕近端的桡骨掌侧，旋后前臂，并尽可能长时间保持牵伸（图 18.9）。
+@@ 473 [caption]
+图 18.9　自我牵伸前臂至旋后位。重要的是牵伸力应作用于桡骨，而不是手部。
+@@ 474 [p]
+　
+@@ 475 [h4]
+自我牵伸技术：内、外上髁肌肉
+@@ 476 [p]
+牵伸腕伸肌（起自外上髁）
+@@ 477 [li]
+病人体位与操作：坐位或站立位，肘伸展、前臂旋前。保持此体位，让病人使腕尺偏并屈腕、屈指；然后向手背施加轻柔的牵伸力。病人应感到外上髁或前臂近端有牵伸感。
+@@ 478 [li]
+病人体位与操作：站立位，肘伸展、前臂旋前，手背贴墙（手指向下）。然后让病人将手背沿墙上滑（图 18.10）。为进一步牵伸，让病人主动屈指。
+@@ 479 [h3]
+发展与改善肌肉功能及功能控制的运动
+@@ 480 [p]
+除本章已述的情况外，跨过肘与前臂的肌肉在长度与力量上的失衡还可由多种原因引起，如神经损伤或手术后、创伤、失用或制动。为恢复功能性活动而发展神经肌肉控制、增加力量、改善肌肉耐力，可从下列运动以及第 6 章与第 23 章所述技术中选择合适的项目。
+@@ 481 [p]
+对肘部损伤的病人，治疗性运动方案中也应包括上方（肩带）与下方（腕与手）区域的运动，以预防并发症并恢复整个上肢带的正常功能。处理急性软组织损伤的一般原则见第 10 章。本节所述运动用于干预的控制运动期与恢复功能期，此时组织处于亚急性与慢性愈合阶段，仅需中等至最小限度的保护。
+@@ 482 [h4]
+等长运动
+@@ 483 [h4]
+多角度等长运动
+@@ 484 [p]
+在肘屈伸与前臂旋转的整个可用关节活动度内，于不同位置施加手法或机械阻力。分别针对关键肌群。阻力施加于前臂远端，而不是手部，以避免腕关节受到应力。
+@@ 485 [caption]
+图 18.10　自我牵伸外上髁肌肉。
+@@ 486 [h4]
+角度特异性训练
+@@ 487 [h4]
+牵伸腕屈肌（起自内上髁）
+@@ 488 [li]
+病人体位与操作：坐位或站立位，肘伸展、前臂旋后。保持此体位，让病人使腕桡偏并伸腕，用另一只手向手掌施加轻柔的牵伸力。应感到内上髁或前臂近端有牵伸感。
+@@ 489 [li]
+病人体位与操作：站立位，肘伸展、前臂旋后。让病人将手掌贴墙，手指向下，然后沿墙向上移动手，直到腕屈肌出现牵伸感。
+@@ 490 [p]
+等长运动时，强调模拟肘部在预期功能性活动中使用方式的关节位置。例如，为模拟在胸前抱持大箱子，在肘屈 70°～90°、前臂中立位与旋后位强化肘屈肌。强调长时间持物，以增加肌肉耐力并维持持久控制。
+@@ 491 [h4]
+交替等长收缩与节律性稳定
+@@ 492 [h4]
+开链运动
+@@ 493 [p]
+在肘屈／伸与前臂旋前／旋后的多个角度，对拮抗肌的交替等长收缩施加手法阻力。稳定肱骨，将阻力施加于前臂。
+@@ 494 [p]
+当病人能在肘与前臂的不同位置、以不同速度对交替阻力作出反应时，进展为使用整个上肢模式的交替等长收缩。为进一步发展叠加于运动之上的稳定性（动态稳定），让病人在肘、前臂和整个上肢的不同位置，以及各种运动过程中，握住振动的 BodyBlade。
+@@ 495 [h4]
+闭链运动
+@@ 496 [p]
+病人体位包括：站立位双手扶墙或扶桌、四点跪位，或俯卧撑位（以膝或足趾为支点）。让病人保持所需的肘位置，通过对肩与躯干施加手法阻力，进行交替等长收缩与节律性稳定。
+@@ 497 [h4]
+动态强化与耐力运动
+@@ 498 [p]
+跨过肘关节的许多肌肉是多关节肌，如肱二头肌、肱三头肌长头以及腕屈肌与腕伸肌。在肘部进行抗阻训练时，特别要考虑肩与前臂的位置。本节列出使用手法或机械阻力对肘、前臂与腕的原动肌进行动态强化与耐力活动的方法。开链与闭链活动中组合运动模式的介绍见最后一节，即肘与前臂的功能性进阶。
+@@ 499 [h4]
+肘屈
+@@ 500 [p]
+肌肉包括肱二头肌、肱肌与肱桡肌。
+@@ 501 [li]
+病人体位与操作：坐位或站立位，肱骨置于胸侧（手臂垂直于地面）。让病人持重物，或抓握一端固定在脚下或地面上的弹力带或弹力管，屈伸肘关节。这样可在整个可用关节活动度内向心与离心强化肘屈肌，模拟功能性提起与放下动作。前臂分别于旋后位、旋前位与中立位完成该运动。
+@@ 502 [li]
+病人体位与操作：仰卧或俯卧，肱骨支撑在治疗床上。病人仰卧时，来自自由重量或重力的阻力在接近终末伸展范围时对肌肉作用更大，而肘到达 90° 时几乎没有作用。病人俯卧、前臂垂于床侧时，使用滑轮系统或弹力阻力对肘屈肌施加阻力。
+@@ 503 [li]
+病人体位与操作：站立或坐位，前臂旋后持重物。让病人在屈肘的同时伸肩（图 18.11）。这一组合运动在肌肉缩短以移动肘部的同时，于肩部拉长肱二头肌，因此最有效地将肌肉维持在产生最大张力的最佳长度。该组合运动可训练在体侧携带物体的控制能力。
+@@ 504 [caption]
+图 18.11　抗阻屈肘，重点在肱二头肌。前臂旋后，屈肘的同时伸肩。这一组合动作在肌肉收缩以移动肘部的同时拉长跨肩的肌肉肌腱单位近端部分，从而在更大关节活动度内维持更佳的长度-张力关系。
+@@ 505 [h4]
+肘伸
+@@ 506 [p]
+肌肉包括肱三头肌与肘肌。
+@@ 507 [li]
+病人体位与操作：俯卧，肱骨外展 90° 并支撑在治疗床上的毛巾卷上。让病人持重物伸肘。这一体位只能在屈肘 90° 至终末伸展的范围内强化肘伸肌。
+@@ 508 [li]
+病人体位与操作：仰卧，肩屈 90°，手持重物。让病人从屈肘位开始，重物位于同侧或对侧肩部（肩外旋或内旋），然后伸肘、屈肘（提起与放下重物），向心与离心强化肘伸肌。为帮助维持肩部稳定，让病人用对侧手将肱骨固定在 90° 位置。
+@@ 509 [p]
+　
+@@ 510 [h4]
+肘伸时的肱三头肌长头
+@@ 511 [p]
+病人体位与操作：坐位或站立位，手臂举过头（肩屈），屈肘使重物靠近肩部（图 18.12）。让病人将重物举过头顶，再放下重物，进行向心与离心强化。病人可以
+@@ 512 [caption]
+图 18.12　抗阻伸肘，起始时肱三头肌长头处于牵伸位。
+@@ 513 [p]
+用对侧手支撑肱骨。只有在病人对肩部有充分控制时才进行这项运动。
+@@ 514 [h4]
+旋前与旋后
+@@ 515 [p]
+旋前的肌肉为旋前圆肌与旋前方肌；旋后的肌肉为旋后肌与肱二头肌。病人体位：坐位或站立位，肘屈 90°。坐位时，前臂可放在桌面上支撑。
+@@ 516 [li]
+自由重量。使用自由重量强化旋前肌与旋后肌时，必须将重物置于手的一侧或另一侧（图 18.13）。若握哑铃，手两侧的重量相等，因此重物一侧起助力作用，另一侧起阻力作用，实际上相互抵消。还要注意每项运动中拇指的位置，避免用拇指抬起横杆。也可以将重物经下方弧线转动，即将阻力置于手的尺侧。
+@@ 517 [li]
+弹力阻力。让病人用健手握住弹力带的一端，或踩住一端固定。让病人用患肢握住另一端，逆阻力转动前臂。为获得更大阻力，可将弹力带绕在短棒一端，让病人对抗阻力牵拉。
+@@ 518 [li]
+功能性活动。让病人站立，面对门把手，手臂保持在体侧，肘屈 90°，以避免用肩旋转代偿。让病人转动门把手。
+@@ 519 [p]
+A　B
+@@ 520 [caption]
+图 18.13　使用一侧加重的小横杆进行机械抗阻运动，以强化（A）前臂旋前肌与（B）旋后肌。也可将横杆经下方弧线转动，把重量置于手的尺侧，以训练每块肌肉另一半活动范围。
+@@ 521 [h4]
+腕屈与腕伸
+@@ 522 [p]
+腕屈涉及内上髁肌肉；腕伸涉及外上髁肌肉。
+@@ 523 [p]
+注：在下列运动中，前臂旋前时阻力施加于腕伸肌；前臂旋后时阻力施加于腕屈肌。
+@@ 524 [h4]
+■弹力阻力。
+@@ 525 [p]
+病人体位与操作：将弹力带或弹力管两端系在一起。坐位，让病人将环的一端踩在一只脚下。将前臂固定在股部，把环的另一端横过手背（图 18.14）或手掌，分别对腕伸肌或腕屈肌施加阻力。这种放置弹力带的方法适用于上髁痛病人，因为抗阻腕运动时同时握紧会引起疼痛。
+@@ 526 [p]
+进阶：当抗阻腕运动时同时握持已变得舒适，可握持弹力材料的一端完成同样的抗阻腕运动。
+@@ 527 [h4]
+■自由重量。
+@@ 528 [p]
+病人体位与操作：坐位，前臂放在桌面上，手持小重物置于桌沿外（图 18.15）。对抗阻力伸腕与屈腕。
+@@ 529 [h4]
+■腕部滚轴。
+@@ 530 [p]
+病人体位与操作：坐位或站立位，肘屈或伸，前臂旋前或旋后。将一根 2～4 ft 的绳子系在短棒中部，绳子另一端系重物。让病人握住棒的两端，交替做腕部动作转动短棒，使绳子绕在棒上并把重物提起。然后反向转动放下重物（图 18.16）。
+@@ 531 [caption]
+图 18.14　抗阻伸腕以强化外上髁肌肉，不需握持。
+@@ 532 [caption]
+图 18.15　握持手持重物作为阻力强化外上髁肌肉（腕伸肌）。
+@@ 533 [p]
+R
+@@ 534 [caption]
+图 18.16　腕部滚轴运动，用于强化握力并发展外上髁肌肉。此运动需要肩带与肘部肌肉的稳定。屈肘或前臂旋后，可分别强调肘屈肌或内上髁肌肉。
+@@ 535 [h4]
+肘与前臂的功能性进阶
+@@ 536 [p]
+为达到个人功能目标而设计的肘与前臂综合康复方案，包括一系列精心进阶的运动干预，旨在发展或恢复足够的活动度、力量、稳定性、肌肉耐力与爆发力。本章最后一节介绍肘与前臂功能性进阶中常包含的组成部分，以及运动干预与模拟功能性活动的示例。其他运动与活动参见第 17 章与第 23 章。
+@@ 537 [p]
+注：由于肘部主要在同时涉及肩与手的活动中发挥功能，应采用能发展整个上肢活动度与控制的组合运动模式。注意不要出现代偿性替代动作，以弥补动力链中的薄弱环节。
+@@ 538 [h4]
+对角模式
+@@ 539 [p]
+对抗手法或机械阻力的 PNF 模式。使用第 6 章所述的单侧或双侧对角模式。可用手法阻力、自由重量、弹力阻力、重锤滑轮系统或等速肌力测试训练仪提供阻力，让病人完成各对角模式。逐渐增加阻力、速度（若设备选择合适）与重复次数。
+@@ 540 [h4]
+组合拉的动作
+@@ 541 [p]
+肘屈肌在开链与闭链的拉、提、携带活动中发挥作用。这些上肢动作还需要肩胛骨后缩肌、肩伸肌以及腕手肌群的力量。第 17 章所述的许多肩部运动也包含抗阻屈肘，因此可用于在拉的动作中强化肌群。建议包括：
+@@ 542 [li]
+对抗弹力阻力的双侧引体向上（图 18.17）。
+@@ 543 [li]
+闭链引体向上，或在横杆上做改良引体向上（图 18.18）。
+@@ 544 [p]
+R　R
+@@ 545 [caption]
+图 18.17　对抗弹力阻力的双侧引体向上。
+@@ 546 [p]
+R
+@@ 547 [caption]
+图 18.18　闭链改良引体向上，以上半身的体重作为阻力强化肘屈肌。此运动可在带有过头吊架的床上进行。
+@@ 548 [li]
+单侧组合拉的模式，模拟启动割草机（图 18.19），或双侧或单侧划船动作，如使用划船机。
+@@ 549 [li]
+用一侧或双臂拉动各种重物，强调屈肘与正确的身体力学。
+@@ 550 [p]
+R
+@@ 551 [caption]
+图 18.19　模拟“割草机拉动”动作，用于上肢的功能性强化。
+@@ 552 [h4]
+组合推的动作
+@@ 553 [p]
+肱三头肌参与推的动作。推还涉及肩屈与肩胛骨前伸或下压的各种变化，因此控制这些运动的肌肉与肱三头肌共同发挥作用。第 17 章所述许多肩部运动及第 23 章的运动也包含抗阻伸肘，可用于强化参与推的模式的肌群。建议包括：
+@@ 554 [li]
+军事推举（见图 17.55）。
+@@ 555 [li]
+卧推。
+@@ 556 [li]
+上肢功率车运动（见图 6.54）。
+@@ 557 [li]
+墙推、半俯卧撑或俯卧撑（图 18.20 A）。
+@@ 558 [li]
+从椅子上或双杠上做推起（图 18.20 B）。
+@@ 559 [li]
+双手扶“踏板”的踏车／爬楼机。强调伸肘。
+@@ 560 [li]
+用一侧或双臂推动各种重物，利用动态伸肘（图 18.21）。
+@@ 561 [p]
+B　A
+@@ 562 [caption]
+图 18.20　肱三头肌的闭链强化。（A）改良俯卧撑。（B）坐位推起。
+@@ 563 [p]
+A　B
+@@ 564 [caption]
+图 18.21　通过推的活动强化肱三头肌。（A）在桌面上推动重物。（B）压下门把手并推开门。
+@@ 565 [h4]
+超等长训练（拉长-缩短练习）
+@@ 566 [p]
+以下是用超等长运动增强肘部肌肉爆发力的建议。这些高级训练活动见第 23 章。
+@@ 567 [li]
+对抗弹力阻力进行肘屈伸运动，强调离心与向心动作之间的快速转换。
+@@ 568 [li]
+使用负重球，让病人接球后迅速将球掷回。通过过头传球、胸前传球与侧向传球强调肘部动作。
+@@ 569 [li]
+前臂旋前与旋后时，对墙拍球或用网球拍颠球。
+@@ 570 [h4]
+模拟功能性任务与活动
+@@ 571 [p]
+确定病人期望的功能性活动以及职业或娱乐任务的动作成分。让病人模拟这些动作并练习整个任务。活动可包括提起、放下、携带、推、拉、扭转、转动、接、投或挥摆。例如，若病人因打网球导致外上髁肌肉反复创伤而正在康复，可让病人使用墙式滑轮系统练习各种球拍击球动作（图 18.22）。通过增加时间或重复次数、速度或阻力，施加可控的力来挑战病人。
+@@ 572 [p]
+A　B　C
+@@ 573 [caption]
+图 18.22　使用墙式滑轮进行机械抗阻运动，模拟网球挥拍动作。（A）反手击球。（B）正手击球。（C）发球。
+@@ 574 [p]
+　
+@@ 575 [h3]
+自主学习活动
+@@ 576 [h4]
+批判性思维与讨论
+@@ 577 [p]
+1. 区分内上髁痛与外上髁痛的病因、体征与症状以及处理方法，并指出其异同。
+@@ 578 [p]
+2. 针对两种全肘关节置换术后处理方案——（1）半限制型假体／肱三头肌翻转入路，（2）表面置换假体／肱三头肌劈开入路——分别制定并比较其术后处理（包括运动进阶与注意事项）。
+@@ 579 [p]
+3. 现有肘屈肌力量为 3/5 级、耐力为 4 次重复，目标是提高其肌肉功能与功能表现。指出在力量每一递增阶段可使用的运动，包括针对力量、耐力、爆发力、控制、稳定性与功能的运动。说明每项运动的进阶参数及注意事项。
+@@ 580 [p]
+4. 对肘伸肌进行同样的分析与确定序列。
+@@ 581 [p]
+5. 分析下列家务、职业或运动相关活动。指出与每项运动任务相关的动作成分与顺序；特别注意这些任务中肘与前臂的动作。设计一系列上肢运动与模拟活动，可纳入后期康复方案，使病人在肘部损伤后为恢复期望的任务作好准备。
+@@ 582 [p]
+- 打扫房屋　- 园艺　- 超市上货　- 木工　- 排球　- 网球　- 投掷类运动
+@@ 583 [h4]
+实验室练习
+@@ 584 [p]
+1. 对实验室同伴应用关节松动术，以增加以下肘与前臂活动：肘屈中间范围与终末范围；肘伸中间范围与终末范围；前臂旋前与旋后（近端与远端关节）。
+@@ 585 [p]
+2. 演示被动牵伸与保持-放松技术，以拉长以下跨肘肌肉：肱肌、肱桡肌、肱二头肌、肱三头肌长头、指总伸肌、尺侧腕屈肌、桡侧腕屈肌。
+@@ 586 [p]
+3. 使用下列抗阻设备，演示至少两种强化肘屈肌／肘伸肌与前臂旋转肌的方法（设置）：自由重量、重锤滑轮系统与弹力阻力。然后演示一套使用自我阻力（体重或手法阻力）强化同样肌群的渐进抗阻运动序列。
+@@ 587 [h4]
+案例研究
+@@ 588 [p]
+1. 描述下列情景中引起肘与前臂损伤的力学问题，以及可用于干预的技术。一位病人跌倒时以伸直的手臂和手撑地，致桡骨远端骨折，用石膏制动，4 周后被转介给你。她的肘、前臂与腕活动均受限。触诊时，你发现桡骨头外侧与肱骨小头之间的间隙减小，且肘、前臂与腕所有关节的关节间隙活动均减少。
+@@ 589 [p]
+2. 一位 15 岁病人有多关节型幼年类风湿关节炎 5 年病史，因肘部晚期关节病变刚接受开放性滑膜切除术与桡骨头切除并植入假体。术前病人肘部剧痛，肘屈／伸与前臂旋转均不能达到全范围，且手臂在功能性活动中的使用受限。住院期间（3 天）实施了持续被动运动（CPM）。出院前一天，病人被转介接受物理治疗以制定家庭方案。为这名青少年设计一套运动方案。对你想让病人在家第一周完成的每项运动排出优先顺序并加以描述。另列出后期康复过程中使用的运动方案。病人计划出院后一周内返校。说明你是否建议门诊治疗；若建议，说明频率与持续时间，并论证该建议的必要性。
+@@ 590 [h4]
+参考文献
+@@ 591 [p]
+1. Abbott, JH, Patla, CE, and Jensen, RH: Manual therapy to the elbow affects shoulder range of motion in subjects with lateral epicondylalgia. In Singer, KP (ed): Proceedings of the 7th Scientific Conference of the IFOMT. Perth, Australia: November, 2000, p 11.
+@@ 592 [p]
+2. Aiello, B: Ulnar nerve compression. In Clark, GL, et al (eds): Hand Rehabilitation, ed. 2. New York: Churchill Livingstone, 1998, p 213.
+@@ 593 [p]
+3. American Physical Therapy Association: Guide to Physical Therapist Practice, ed. 2. Phys Ther 81:9–744, 2001.
+@@ 594 [p]
+4. Andrews, JR, and Whiteside, JA: Common elbow problems in the athlete. J Orthop Sports Phys Ther 17(6):289–295, 1993.
+@@ 595 [p]
+5. Angst, F, et al: Comprehensive assessment of clinical outcomes and quality of life after total elbow arthroplasty. Arthritis Rheum 53:73–82, 2005.
+@@ 596 [p]
+6. Antuna, SA: Rehabilitation after elbow arthroplasty. In Williams, GR, et al (eds): Shoulder and Elbow Arthroplasty. Philadelphia: Lippincott Williams & Wilkins, 2005, pp 475–484.
+@@ 597 [p]
+7. Armstrong, AD, King, GJW, and Yamaguchi, K: Total elbow arthroplasty design. In Williams, GR, et al (eds): Shoulder and Elbow Arthroplasty. Philadelphia: Lippincott Williams & Wilkins, 2005, pp 297–312.
+@@ 598 [p]
+8. Armstrong, AD, and Galatz, LM: Complications of total elbow arthroplasty. In Williams, GR, et al (eds): Shoulder and Elbow Arthroplasty. Philadelphia: Lippincott Williams & Wilkins, 2005, pp 459–473.
+@@ 599 [p]
+9. Barenholtz, A, and Wolff, A: Elbow fractures and rehabilitation. Orthop Phys Ther North Am 10(4):525–539, 2001.
+@@ 600 [p]
+10. Basmajian, JV: Muscles Alive: Their Functions Revealed by Electromyography, ed. 4. Baltimore: Williams & Wilkins, 1979.
+@@ 601 [p]
+11. Bennett, JB, and Mehlhoff, TL: Total elbow arthroplasty: surgical technique. J Hand Surg (Am) 34:933–939, 2009.
+@@ 602 [p]
+12. Blackmore, SM, and Hotchkiss, RN: Therapist’s management of ulnar neuropathy at the elbow. In Hunter, JM, Mackin, EJ, and Callahan, AD (eds): Rehabilitation of the Hand: Surgery and Therapy, ed. 4. St. Louis: Mosby Year Book, 1995, p 665.
+@@ 603 [p]
+13. Bonutti, PM, et al: Static progressive stretch to re-establish elbow range of motion. Clin Orthop 303:128–134, 1984.
+@@ 604 [p]
+14. Buckwalter, JA, and Ballard, WT: Operative treatment of rheumatic disease. In Klippel, JH (ed): Primer on the Rheumatic Diseases, ed. 12. Atlanta: Arthritis Foundation, 2001, pp 613–623.
+@@ 605 [p]
+15. Celli, A, et al: Triceps insufficiency following total elbow arthroplasty. J Bone Joint Surg Am 87(9):1957–1964, 2005.
+@@ 606 [p]
+16. Celli, A, and Morrey, BF: Total elbow arthroplasty in patients forty years of age or less. J Bone Joint Surg (Am) 91:1414–1418, 2009.
+@@ 607 [p]
+17. Clifford, PE, and Mallon, WJ: Sports after total joint replacement. Clin Sports Med 24:175–186, 2005.
+@@ 608 [p]
+18. Cobb, TK, and Morrey, BF: Total elbow arthroplasty as primary treatment for distal humeral fractures in elderly patients. J Bone Joint Surg Am 79(6):826–832, 1997.
+@@ 609 [p]
+19. Coisier, JL, et al: An isokinetic eccentric programme for the management of chronic lateral epicondylar tendinopathy. Br J Sports Med 41:269–275, 2007.
+@@ 610 [p]
+20. Connor, PM, and Morrey BF: Total elbow arthroplasty in patients who have juvenile rheumatoid arthritis. J Bone Joint Surg Am 80(5):678–688, 1998.
+@@ 611 [p]
+21. Cooney, WP: Elbow arthroplasty: Historical perspective and current concepts. In Morrey, BF (ed): The Elbow and Its Disorders, ed 3. Philadelphia: WB Saunders, 2000, p 583.
+@@ 612 [p]
+22. Cresswell, T, and Stanley, D: Unlinked elbow arthroplasty. In Williams, GR, et al (eds): Shoulder and Elbow Arthroplasty. Philadelphia: Lippincott Williams & Wilkins, 2005, pp 333–345.
+@@ 613 [p]
+23. Cyriax, J: Textbook of Orthopaedic Medicine, ed. 8. vol 1. Diagnosis of Soft Tissue Lesions. London: Bailliere Tindall, 1982.
+@@ 614 [p]
+24. Dee, R: Total replacement arthroplasty of the elbow for rheumatoid arthritis. J Bone Joint Surg Br 54:88–95, 1972.
+@@ 615 [p]
+25. Edmonds, A: Elbow arthroplasty. In Clark, GL, et al (eds): Hand Rehabilitation, ed. 2. New York: Churchill Livingstone, 1998, p 287.
+@@ 616 [p]
+26. Ellenbecker, TS, and Mattalino, A: The Elbow in Sport: Injury, Treatment and Rehabilitation. Champaign, IL: Human Kinetics, 1997.
+@@ 617 [p]
+27. Ellenbecker, TS, Pieczynski, TE, and Davies, GJ: Rehabilitation of the elbow following sports injury. Clin Sports Med 29:33– 60, 2010.
+@@ 618 [p]
+28. Ferlic, DC: Rheumatoid arthritis in the elbow. In Green, DP, Hotchkiss, RM, and Peterson, WC (eds): Green’s Operative Hand Surgery, vol 2, ed. 4. New York: Churchill Livingstone, 1999, p 1740.
+@@ 619 [p]
+29. Fernádez-de-las-Peñas, C, et al. J Orthop Sports Phys Ther 40(11):751–760, 2010.
+@@ 620 [p]
+30. Fevang, B-TS, et al: Results after 562 total elbow replacements: a report from the Norwegian arthroplasty register. J Shoulder Elbow Surg 18:449–456, 2009.
+@@ 621 [p]
+31. Field, LD, and Savoié, FH, III: Master Cases: Shoulder and Elbow Surgery. New York: Thieme, 2003.
+@@ 622 [p]
+32. Gallo, RA, Payatakes, A, and Sotereanos, DG: Surgical options for the arthritic elbow. J Han Surg 33(5):746–759, 2008.
+@@ 623 [p]
+33. Gebel, GT, and Morrey, BF: Operative treatment of medial epicondylitis: influence of concomitant ulna neuropathy at the elbow. J Bone Joint Surg Am 77(7):1065–1069, 1995.
+@@ 624 [p]
+34. Gill, DR, and Morrey, BF: The Coonrad-Morrey total elbow arthroplasty in patients who have rheumatoid arthritis: a 10 to 15 year follow-up study. J Bone Joint Surg Am 80:1327–1335, 1998.
+@@ 625 [p]
+35. Gschwend, N, Simmen BR, and Matejovsky, Z: Late complications in elbow arthroplasty. J Shoulder Elbow Surg 5:86–96, 1996.
+@@ 626 [p]
+36. Gupta, GG, Lucas, G, and Hahn DL: Biomechanical and computer analysis of radial head prostheses. J Shoulder Elbow Surg 6:37–48, 1997.
+@@ 627 [p]
+37. Hall, JA, and McKee, MA: Posterolateral rotary instability of the elbow following radial head resection. J Bone Joint Surg Am 87(7):1571–1579, 2005.
+@@ 628 [p]
+38. Hepburn, G, and Crivelli, K: Use of elbow dynasplint for reduction of elbow flexion contractures: a case study. J Orthop Sports Phys Ther 5(5):269–274, 1984.
+@@ 629 [p]
+39. Hertling, D, and Kessler, RM: Management of Common Musculoskeletal Disorders: Physical Therapy Principles and Methods, ed. 3. Philadelphia: Lippincott Williams & Wilkins, 1996.
+@@ 630 [p]
+40. Hotchkiss, RN: Displaced fractures of the radial head: internal fixation or excisions? J Am Acad Orthop Surg 5(1):1–10, 1997.
+@@ 631 [p]
+41. Inglis, AE, et al: Total elbow arthroplasty for flail and unstable elbows. J Shoulder Elbow Surg 6(1):29–36, 1997.
+@@ 632 [p]
+42. Jafarian, FS, Demneh, ES, and Tyson, SF: The immediate effect of orthotic management on grip strength or patients with lateral epicondylosis. J Orthop Sports Phys Ther 39(6):484–489, 2009.
+@@ 633 [p]
+43. Jerosch, J, Schroder, M, and Schneider, T: Good and relative indications for elbow arthroscopy: a retrospective study on 103 patients. Arch Orthop Trauma Surg 117:246–249, 1998.
+@@ 634 [p]
+44. Kapadji, IA, and Kandel, MJ: The Physiology of the Joints, Vol. I, ed. 5. Edinburgh: Churchill Livingstone, 1997.
+@@ 635 [p]
+45. Kelly, EV, Coghlan, J, and Bell, S: Five- to thirteen-year followup of the GBS III total elbow arthroplasty. J Shoulder Elbow Surg 13:434–440, 2004.
+@@ 636 [p]
+46. Kraushaar, BS, and Nirschl, RP: Tendinosis of the elbow (tennis elbow): clinical features and findings of histological, immunohistochemical and electron microscopy studies. J Bone Joint Surg Am 81(2):259–278, 1999.
+@@ 637 [p]
+47. Lee, BP, and Morrey, BF: Synovectomy of the elbow. In Morrey, BF (ed): The Elbow and Its Disorders, ed. 3. Philadelphia: WB Saunders, 2000, p 708.
+@@ 638 [p]
+48. Linscheid, RL, and Morrey, BF: Resurfacing elbow replacement arthroplasty. In Morrey, BF (ed): Joint Replacement Arthroplasty, ed. 3. Philadelphia: Churchill Livingstone, 2003, pp 303–315.
+@@ 639 [p]
+49. Lutz, FR: Radial tunnel syndrome: an etiology of chronic lateral elbow pain. J Orthop Sports Phys Ther 14(1):14–17, 1991.
+@@ 640 [p]
+50. Magee, DJ: Orthopedic Physical Assessment, ed. 5. St. Louis: Saunders/Elsevier, 2008.
+@@ 641 [p]
+51. Manning-Kloos, S, and Nestor, BJ: Elbow surgery and rehabilitation. In Melvin, J, and Gall, V (eds): Rheumatologic Rehabilitation Series, vol 5. Surgical Rehabilitation. Bethesda, MD: American Occupational Therapy Association, 1999, p 13.
+@@ 642 [p]
+52. Martinez-Sivestrini, JA, et al: Chronic lateral epicondylitis: comparative effectiveness of a home exercise program including stretching alone versus stretching supplemented with eccentric or concentric strengthening. J Hand Ther 18(4):411–419, 2005.
+@@ 643 [p]
+53. McKee, MD, et al: A multicenter, prospective randomized, controlled trial of open reduction—internal fixation versus total elbow arthroplasty for displaced intra-articular distal humeral fractures in elderly patients. J Shoulder Elbow Surg 18(1):3–12, 2009.
+@@ 644 [p]
+54. Mercier, LR: Practical Orthropedics, ed. 4. St. Louis: CV Mosby, 1995.
+@@ 645 [p]
+55. Miller, J: Mulligan concept—management of “Tennis Elbow.” Orthop Div Rev May/June:45–46, 2000.
+@@ 646 [p]
+56. Monica, JT, and Mudogal, CS: Radial head arthroplasty. Hand Clin 26:403–410, 2010.
+@@ 647 [p]
+57. Morrey, BF: Ectopic ossificans about the elbow. In Morrey, BF (ed): The Elbow and Its Disorders, ed. 3. Philadelphia: WB Saunders, 2000, p 437.
+@@ 648 [p]
+58. Morrey, BF: Linked arthroplasty. In Williams, GR, et al (eds): Shoulder and Elbow Arthroplasty. Philadelphia: Lippincott Williams & Wilkins, 2005, pp 475–484.
+@@ 649 [p]
+59. Morrey, BF: Radial head fracture. In Morrey, BF (ed): The Elbow and Its Disorders, ed. 3. Philadelphia: WB Saunders, 2000, p 341.
+@@ 650 [p]
+60. Morrey, BF: Radial head prosthetic replacement. In Morrey, BF (ed): Joint Replacement Arthroplasty, ed. 3. Philadelphia: Churchill Livingstone, 2003, pp 294–302.
+@@ 651 [p]
+61. Morrey, BF: Semiconstrained total elbow replacement: Indications and surgical technique. In Morrey, BF (ed): Joint Replacement Arthroplasty, ed. 3. Philadelphia: Churchill Livingstone, 2003, pp 316–328.
+@@ 652 [p]
+62. Morrey, BF, Adams, RA, and Bryan, RS: Total replacement for post-traumatic arthritis of the elbow. J Bone Joint Surg Br 73(4):607–612, 1991.
+@@ 653 [p]
+63. Morrey, BF, and Adams, RA: Results of semiconstrained replacement for rheumatoid arthritis. In Morrey, BF (ed): Joint Replacement Arthroplasty, ed. 3. Philadelphia: Churchill Livingstone, 2003, pp 329–337.
+@@ 654 [p]
+64. Morrey, BF, and Adams, RA: Semiconstrained elbow for distal humeral nonunion. J Bone Joint Surg Br 77(1):67–72, 1995.
+@@ 655 [p]
+65. Morrey, BF, and An, K: Functional evaluation of the elbow. In Morrey, BF (ed): The Elbow and Its Disorders, ed. 3. Philadelphia: WB Saunders, 2000, p 74.
+@@ 656 [p]
+66. Mulligan, BR: Manual Therapy “NAGS,” “SNAGS,” “MWM’S” etc., ed. 4. Wellington: Plane View Press, 1999.
+@@ 657 [p]
+67. Neumann, DA: Elbow and forearm. In Neumann, DA: Kinesiology of the Musculoskeletal System: Foundations for Rehabilitaion, ed. 2. St. Louis: Mosby/Elsevier, 2010, pp. 173–215.
+@@ 658 [p]
+68. Norkin, CC: The elbow complex. In Levangie, PK, and Norkin, CC (eds): Joint Structure and Function: A Comprehensive Analysis, ed. 5. Philadelphia: FA Davis, 2011, pp 271–304.
+@@ 659 [p]
+69. Noteboom, T, et al: Tennis elbow: a review. J Orthop Sports Phys Ther 19(6):357–366, 1994.
+@@ 660 [p]
+70. O’Driscoll, SW: Complications of total elbow arthroplasty. In Morrey, BF (ed): Joint Replacement Arthroplasty, ed. 3. Philadelphia: Churchill Livingstone, 2003, pp 352–378.
+@@ 661 [p]
+71. Pappas, N, and Bernstein, J: Fractures in brief: radial head fractures. Clin Orthop Relat Res 468:914–916, 2010.
+@@ 662 [p]
+72. Petrie, RS, and Bradley, JP: Osteochondral defects in the elbow. In Mirzayan, R (ed): Cartilage Injury in the Athlete. New York: Thieme, 2006, pp. 201–216.
+@@ 663 [p]
+73. Ramsey, ML: The history and development of total elbow arthroplasty. In Williams, GR, et al (eds): Shoulder and Elbow Arthroplasty. Philadelphia: Lippincott Williams & Wilkins, 2005, pp 271–278.
+@@ 664 [p]
+74. Ramsey, ML, Adams, RA, and Morrey, BF: Instability of the elbow treated with semiconstrained total elbow arthroplasty. J Bone Joint Surg Am 81(1):38–47, 1999.
+@@ 665 [p]
+75. Sanchez-Sotelo, J, and Morrey, BF: Total elbow arthroplasty. J Am Academy Orthop Surgeons 19(2):121–125, 2011.
+@@ 666 [p]
+76. Schemitsch, EH, Ewald, FC, and Thornhill, TS: Results of total elbow arthroplasty after excision of the radial head and synovectomy in patients who had rheumatoid arthritis. J Bone Joint Surg Am 78(10):1541–1547, 1996.
+@@ 667 [p]
+77. Schneeberger, AG, Adams, R, and Morrey, BF: Semiconstrained total elbow replacement for the treatment of post-traumatic osteoarthrosis. J Bone Joint Surg Am 79(8):1211–1222, 1997.
+@@ 668 [p]
+78. Stans, AA, and Wedge, JH: Fractures of the neck of the radius in children. In Morrey, BF (ed): The Elbow and Its Disorders, ed. 3. Philadelphia: WB Saunders, 2000, p 236.
+@@ 669 [p]
+79. Stasinopoulos, D, Stasinopoulou, K, and Johnson, MI: An exercise programme for the management of lateral elbow tendinopathy. Br J Sports Med 39:944–947, 2005.
+@@ 670 [p]
+80. Stroyan, M, and Wilk, KE: The functional anatomy of the elbow complex. J Orthop Sports Phys Ther 17(6):279–288, 1993.
+@@ 671 [p]
+81. Tanaka, N, et al: Kudo total elbow arthroplasty in patients with rheumatoid arthritis. J Bone Joint Surg Am 83:1506–1513, 2001.
+@@ 672 [p]
+82. Trail, IA, Nuttall, D, and Stanley, JK: Survivorship and radiological analysis of the standard Souter-Strathclyde total elbow arthroplasty. J Bone Joint Surg Br 81:80–84, 1999.
+@@ 673 [p]
+83. Ulrich, SD, et al: Restoring range of motion via stress relaxation and static progressive stretch in posttraumatic elbow contractures. J Shoulder Elbow Surg 19:196–201, 2010.
+@@ 674 [p]
+84. Vander-Wilde, RS, et al: Inflammatory arthrosis of the ulnohumeral joint after failed silicone radial head implant. J Bone Joint Surg Br 76:78–81, 1994.
+@@ 675 [p]
+85. van Hofwegen, C, Baker III, CL, and Baker Jr, CL: Epicondylitis in the athlete’s elbow. Clin Sports Med 29:577–597, 2010.
+@@ 676 [p]
+86. Vicenzino, B, Buratowski, S, and Wright, A: Preliminary study of the initial hypoalgesic effect of a mobilisation with movement treatment for lateral epicondylalgia. In Singer, KP (ed): Proceedings of the 7th Scientific Conference of the IFOMT. Perth, Australia: November 2000, p 460.
+@@ 677 [p]
+87. Vicenzino, B, and Wright, A: Effects of a novel manipulative physiotherapy technique on tennis elbow: a single case study. Manual Ther 1(1):30–35, 1995.
+@@ 678 [p]
+88. Voloshin, I, et al: Complications of total elbow replacement: a systematic review. J Shoulder Elbow Surg 20:158–168, 2011.
+@@ 679 [p]
+89. Waugh, EJ, Jaglal, SB, and Davis, AM: Computer use associated with poor long-term prognosis of conservatively managed lateral epicondylalgia. J Orthop Sports Phys Ther 34(12):770–780, 2004.
+@@ 680 [p]
+90. Wilk, KE, Arrigo, C, and Andrews, JR: Rehabilitation of the elbow in the throwing athlete. J Orthop Sports Phys Ther 17(6):305–317, 1993.
+@@ 681 [p]
+91. Wilk, KE, and Andrews, JR: Elbow injuries. In Brotzman, SB, and Wilk, KE (eds): Clinical Orthopedic Rehabilitation, ed. 2. Philadelphia: Mosby, 2003, pp 85–123.
+@@ 682 [p]
+92. Woodley, BL, Newsham-West, RJ, and Baxter, GD: Chronic tendinopathy: effectiveness of eccentric exercise. Br J Sports Med 41:188–199, 2007.
