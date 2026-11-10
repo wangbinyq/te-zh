@@ -10,32 +10,30 @@ if (main) {
   const startShare = Number(main.dataset.start ?? 0);
   const chapterShare = Number(main.dataset.share ?? 0);
   const bar = document.getElementById("resume");
-  const header = document.querySelector(".bar");
-  const anchors = [...main.querySelectorAll("[data-anchor]")];
+
+  const maxScroll = () => Math.max(0, document.documentElement.scrollHeight - window.innerHeight);
 
   function position() {
-    const limit = Math.max(0, header ? header.getBoundingClientRect().bottom : 56) + 8;
-    let current = anchors[0];
-    for (const el of anchors) {
-      if (el.getBoundingClientRect().top <= limit) current = el;
-      else break;
-    }
-    const max = document.documentElement.scrollHeight - window.innerHeight;
+    const max = maxScroll();
     const y = window.scrollY;
-    return {
-      y,
-      anchor: current ? Number(current.dataset.anchor) : 0,
-      ratio: max > 0 ? Math.min(1, Math.max(0, y / max)) : 0,
-    };
+    return { y, max, ratio: max > 0 ? Math.min(1, Math.max(0, y / max)) : 0 };
   }
+
+  let leaving = false;
+  document.addEventListener(
+    "click",
+    (event) => {
+      if (event.target.closest?.("a[href]")) leaving = true;
+    },
+    true,
+  );
 
   let last = null;
   let timer = 0;
 
   function save() {
-    if (!last || last.y < 40) return;
+    if (!last || last.y < 40 || last.max < 200) return;
     put(slug, {
-      anchor: last.anchor,
       ratio: last.ratio,
       num,
       title,
@@ -44,16 +42,6 @@ if (main) {
       bookProgress: startShare + last.ratio * chapterShare,
     });
   }
-
-  let leaving = false;
-
-  document.addEventListener(
-    "click",
-    (event) => {
-      if (event.target.closest?.("a[href]")) leaving = true;
-    },
-    true,
-  );
 
   function schedule() {
     if (leaving) return;
@@ -69,29 +57,35 @@ if (main) {
     save();
   });
 
-  const saved = get(slug);
-  if (bar && saved && window.scrollY < 300) {
-    const target = anchors.find((el) => Number(el.dataset.anchor) === saved.anchor) ?? null;
-    const where = saved.ratio > 0.97 ? "上次读完了这一章" : `上次读到 ${Math.round(saved.ratio * 100)}%`;
-    bar.innerHTML = `
-      <span class="resume-text">${where}<span class="meta"> · ${ago(saved.at)}</span></span>
-      <span class="resume-actions">
-        <button type="button" class="resume-go">${saved.ratio > 0.97 ? "从头再读" : "继续"}</button>
-        <button type="button" class="resume-close" aria-label="关闭">×</button>
-      </span>`;
-    bar.hidden = false;
+  function jumpTo(ratio) {
+    const target = Math.round(Math.min(1, Math.max(0, ratio)) * maxScroll());
+    window.scrollTo({ top: target, behavior: "auto" });
+  }
 
-    bar.querySelector(".resume-go").addEventListener("click", () => {
-      if (saved.ratio > 0.97 || !target) {
-        window.scrollTo({ top: 0, behavior: "smooth" });
-      } else {
-        const y = window.scrollY + target.getBoundingClientRect().top - 72;
-        window.scrollTo({ top: Math.max(0, y), behavior: "smooth" });
-      }
-      bar.hidden = true;
-    });
-    bar.querySelector(".resume-close").addEventListener("click", () => {
-      bar.hidden = true;
-    });
+  const hash = location.hash.match(/^#r-([\d.]+)$/);
+  if (hash) {
+    const ratio = Number(hash[1]) / 100;
+    requestAnimationFrame(() => jumpTo(ratio));
+    setTimeout(() => jumpTo(ratio), 250);
+  } else {
+    const saved = get(slug);
+    if (bar && saved && window.scrollY < 300) {
+      const where = saved.ratio > 0.97 ? "上次读完了这一章" : `上次读到 ${Math.round(saved.ratio * 100)}%`;
+      bar.innerHTML = `
+        <span class="resume-text">${where}<span class="meta"> · ${ago(saved.at)}</span></span>
+        <span class="resume-actions">
+          <button type="button" class="resume-go">${saved.ratio > 0.97 ? "从头再读" : "继续"}</button>
+          <button type="button" class="resume-close" aria-label="关闭">×</button>
+        </span>`;
+      bar.hidden = false;
+
+      bar.querySelector(".resume-go").addEventListener("click", () => {
+        jumpTo(saved.ratio > 0.97 ? 0 : saved.ratio);
+        bar.hidden = true;
+      });
+      bar.querySelector(".resume-close").addEventListener("click", () => {
+        bar.hidden = true;
+      });
+    }
   }
 }
