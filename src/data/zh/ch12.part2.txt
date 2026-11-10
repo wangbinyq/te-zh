@@ -239,3 +239,257 @@
 胫距关节 | 中立位（90°）或轻度马蹄位，适用于穿低跟鞋的女性
 距下关节 | 中立至外翻
 脊柱 | 中立位，以维持正常的前凸或后凸
+@@ 367 [p]
+辅助活动所需。对女性而言，踝关节融合术的最佳位置可能比男性稍多跖屈，以便女性穿鞋跟稍高的鞋。
+@@ 368 [p]
+尽管关节融合术消除了受累关节的疼痛并建立稳定性，但并非没有缺点。由于负荷被转移到融合关节上下的关节，随着时间推移，这些关节可能出现过度应力，导致疼痛与活动过度。
+@@ 369 [h4]
+手术方式
+@@ 370 [p]
+以最大功能位融合关节面通过内固定（即钢针、髓内钉、螺钉、钢板、植骨）实现。术后初期，用石膏将关节固定于融合部位上下 6 至 12 周。之后使用矫形器，直至骨性愈合与关节强直完成。
+@@ 371 [h4]
+术后处理
+@@ 372 [li]
+由于融合关节无法活动，必须在手术关节上下维持关节活动度与力量。
+@@ 373 [li]
+在有骨性愈合证据之前限制负重。
+@@ 374 [h4]
+关节外骨性手术
+@@ 375 [p]
+涉及关节外骨性结构的手术干预有两个较常见的原因：需要切开复位并内固定的骨折，以及骨的畸形或对线不良（有时与关节炎相关）。
+@@ 376 [h4]
+骨折的切开复位内固定
+@@ 377 [p]
+骨折可用闭合或切开复位处理。第 11 章所述的骨愈合过程与骨折处理适用于任何复位方法。在多数需要切开复位的情况下，会使用某种内固定装置，在骨折部位愈合时稳定并维持其对线。
+@@ 378 [h4]
+手术方式
+@@ 379 [p]
+手术中暴露骨折部位后，可使用任意数量的内固定装置（如钢针、髓内钉、螺钉、钢板或髓内杆）使骨块对线并稳定。例如，股骨转子间骨折常用加压钢板与螺钉固定，如图 12.4 所示。骨折愈合后，可能需要第二次手术取出部分或全部内固定装置，因为其随时间趋于移位。
+@@ 380 [h4]
+术后处理
+@@ 381 [p]
+术后主要优先事项是维持骨折部位的稳定以使骨性愈合得以发生，并让病人尽可能早地下床、离床。骨折手术固定后康复的进阶不仅取决于骨折的类型与严重程度、病人的年龄与健康状况等因素，还取决于所用的一种或多种内固定方法。
+@@ 382 [p]
+某些固定方法无需对骨折部位行外固定（如用石膏），从而使病人术后不久即可开始受累肢体的辅助或主动运动以及保护性负重。然而，对于其他骨折，即使使用内固定，仍需要外固定与限制负重。
+@@ 383 [p]
+在术后处理中，不仅必须在骨折部位愈合时予以保护，对骨折发生时受伤、并在手术暴露术野时进一步受损的软组织，也必须在其愈合时予以适当处理。
+@@ 384 [p]
+　
+@@ 385 [caption]
+图 12.4　左股骨转子间骨折，以加压钢板与螺钉固定。（引自 McKinnis, LN: Fundamentals of Musculoskeletal Imaging, ed 3. Philadelphia, FA Davis, 2010, p 65，经许可。）
+@@ 386 [p]
+注意：髋部骨折后的手术干预与术后处理在第 20 章讨论。
+@@ 387 [h4]
+截骨术
+@@ 388 [p]
+截骨术——骨的手术切断与重新对线——是一种关节外手术，适用于处理多种肌肉骨骼疾病相关的损伤。最常在膝或髋施行。例如，截骨术用于减轻特定病人的疼痛并矫正畸形，如因骨关节炎导致膝内侧间室中度局灶性关节退变与膝内翻畸形的年轻成人，或因先天性发育不良或 Legg-Calvé-Perthes 病（股骨头缺血性坏死）继发严重髋关节退变与疼痛的儿童。
+@@ 389 [p]
+在这两个例子中，在受累关节附近切断并重新对线骨，可将负重负荷转移到完整的关节面，从而减轻关节疼痛并减少受累关节软骨的进一步退化。也有人认为，重新分布关节面上的负荷可能刺激关节未负重间室中纤维软骨的生长。成功的截骨术可推迟全关节置换的需要，因为这些病人很可能比一般退行性关节炎病人更早需要翻修关节成形术。
+@@ 390 [p]
+截骨术也用于矫正先天性或发育性疾病中出现的骨成角或旋转畸形，如先天性髋脱位、脑性瘫痪中的获得性髋脱位或先天性足畸形。为矫正严重下肢不等长而手术缩短或延长骨，也需要截骨术。
+@@ 391 [h4]
+手术方式
+@@ 392 [p]
+许多手术被归类为截骨术。举例如下：
+@@ 393 [li]
+胫骨高位内侧或外侧开放楔形截骨术，以螺钉-钢板固定，用于矫正膝内翻或外翻畸形、改变膝关节机械轴，并在单间室退行性膝关节炎病人中转移关节面上的负荷。
+@@ 394 [li]
+股骨远端内侧楔形截骨术，以矫正膝外翻畸形，并将负重负荷从膝外侧间室退变的软骨处转移开。
+@@ 395 [li]
+股骨近端转子间截骨术，重新定位股骨头，以改变关节炎或缺血性坏死髋关节病人的负重区域。
+@@ 396 [li]
+髋臼周围截骨术，重新定位髋臼，以改善先天性髋发育不良并反复脱位、无法通过夹板等非手术方法有效处理的病人股骨头的覆盖。
+@@ 397 [p]
+在截骨术中，可能需要将肌肉与其他软组织剥离以暴露术野，然后再重新附着或重新定位。与任何类型的软组织修复一样，术中受扰的肌肉-肌腱单元在术后必须受到保护，避免过度应力。
+@@ 398 [h4]
+术后处理
+@@ 399 [p]
+术后处理的首要关注是维持骨与骨的接触，以使截骨部位愈合。某些手术允许早期关节运动与保护性负重，因为内固定维持了截骨骨块的接触。其他手术则需要用石膏对截骨部位上下的关节额外外固定，直至骨性愈合，这可能需要长达 8 至 12 周。截骨术后完全功能恢复可能需要长达 6 个月。
+@@ 400 [p]
+在允许的情况下，术后运动包括以下各项。
+@@ 401 [li]
+如果需要以石膏制动，病人可开始截骨部位上下关节的主动关节活动度运动，以预防关节僵硬与过度肌无力。
+@@ 402 [li]
+当允许运动和负重时（术后立即或拆除石膏后），进行主动辅助与主动运动，并进阶为轻度抗阻运动，以恢复关节活动度与力量。（参见第 11 章关于制动后骨折处理的讨论。）
+@@ 403 [li]
+负重通常需保护 4 至 6 周或更长时间。
+@@ 404 [h3]
+独立学习活动
+@@ 405 [h4]
+批判性思维与讨论
+@@ 406 [p]
+1. 有人请你为一组计划接受全髋或全膝关节置换术的个体制定术前病人教育方案。你的讲演应涵盖哪些主题？为什么这些主题对即将接受手术的病人来说值得理解？
+@@ 407 [p]
+2. 你首次接诊一位老年病人，该病人昨天接受了髋部（股骨近端）骨折的切开复位内固定。你初次检查的优先事项是什么？在术后康复的最大保护、中等保护与最小保护阶段，术后处理的一般重点是什么（包括目标与干预）？
+@@ 408 [p]
+3. 运动与身体活动计划在深静脉血栓（DVT）的总体预防或处理中起什么作用？有DVT风险的病人必须学会识别哪些DVT的体征与症状？如果你怀疑某位下肢骨科手术后由你随访的病人发生了DVT，应向病人询问哪些问题？在联系病人的医师之前你应做什么？
+@@ 409 [p]
+4. 简要描述用于修复关节软骨的各种手术干预。
+@@ 410 [p]
+5. 区分以下主要用于处理关节炎的软组织或骨性手术：关节融合术、关节成形术、关节软骨修复、清理术与截骨术。简要描述每种手术，并就治疗性运动的使用比较其术后处理的异同。
+@@ 411 [p]
+6. 讨论以下软组织手术术后处理的异同：肌肉修复、肌腱修复、肌腱移位、韧带重建、关节囊修复、肌腱切断术或肌切开术，以及减压手术。
+@@ 412 [h4]
+参考文献
+@@ 413 [p]
+1. Aldrich, D, and Hunt, DP: When can the patient with deep vein thrombosis begin to ambulate? Phys Ther 84(3):268–273, 2004.
+@@ 414 [p]
+2. Anand, SS, et al: Does this patient have a deep vein thrombosis? JAMA 279:1094–1099, 1998.
+@@ 415 [p]
+3. Armstrong, AD, and Galatz, LM: Complications of total elbow arthroplasty. In Williams, GR, et al, (eds): Shoulder and Elbow Arthroplasty. Philadelphia: Lippincott Williams & Wilkins, 2005, pp 459–473.
+@@ 416 [p]
+4. Baerga-Varela, L, and Malanga, GA: Rehabilitation and minimally invasive surgery. In Hozack, M, et al (eds): Minimally Invasive Total Joint Arthroplasty. Heidelberg: Springer Verlag, 2004, pp 2–5.
+@@ 417 [p]
+5. Ball, CM, and Yamaguchi, K: Interpositional arthroplasty. In Williams, GR, et al (eds): Shoulder and Elbow Arthroplasty. Philadelphia: Lippincott Williams & Wilkins, 2005, pp 49–56.
+@@ 418 [p]
+6. Barrick, EF: Orthopedic trauma. In Kauffman, TL (ed): Geriatric Rehabilitation Manual. New York: Churchill Livingstone, 1999.
+@@ 419 [p]
+7. Batts Shanku, CD: Rheumatoid arthritis. In Hansen, RA, and Atchison, B (eds): Conditions in Occupational Therapy, ed. 2. Philadelphia: Lippincott Williams & Wilkins, 2000.
+@@ 420 [p]
+8. Beckenbaugh, RD: Arthrodesis. In Morrey, BF (ed): The Elbow and Its Disorders. Philadelphia: WB Saunders, 2000, p 751.
+@@ 421 [p]
+9. Berlet, GC, Mascia, A, and Miniaci, A: Treatment of unstable osteochondritis dessicans lesions of the knee using autogenous osteochondral grafts (mosaicplasty). Arthroscopy 15:312–316, 1999.
+@@ 422 [p]
+10. Berry, DJ, et al: Minimally invasive total hip arthroplasty: Development, early results, and critical analysis. J Bone Joint Surg Am 85:2235–2246, 2003.
+@@ 423 [p]
+11. Brinker, M, and Miller, M: Fundamentals of Orthopedics. Philadelphia: WB Saunders, 1999.
+@@ 424 [p]
+12. Brittberg, M, et al: Treatment of deep cartilage defects in the knee with autologous chondrocyte transplantation. N Engl J Med 331:889–895, 1994.
+@@ 425 [p]
+13. Buckwalter, JA, and Ballard, WT: Operative treatment of arthritis. In Klippel, JH, (ed): Primer on the Rheumatic Diseases, ed. 12. Atlanta: Arthritis Foundation, 2001, pp 613–623.
+@@ 426 [p]
+14. Burks, R, Burke, W, and Stevanovic, M: Rehabilitation following repair of a torn latissimus dorsi tendon. Phys Ther 86(3): 411–423, 2006.
+@@ 427 [p]
+15. Canavan, PK: Rehabilitation in Sports Medicine: A Comprehensive Guide. Stamford, CT: Appleton & Lange, Stamford, 1998.
+@@ 428 [p]
+16. Chapman, M: Chapman’s Orthopaedic Surgery, ed. 3 (Vols 1–4). Philadelphia: Lippincott Williams & Wilkins, 2004.
+@@ 429 [p]
+17. Chu, CR: Cartilage therapies: Chondrocyte transplantation, osteochondral allografts, and autografts. In Pedowitz, RA, O’Connor, JJ, and Akeson, WH (eds): Daniel’s Knee Injuries: Ligament and Cartilage Structure, Function, Injury, and Repair, ed. 2. Philadelphia: Lippincott Williams & Wilkins, 2003, pp 227–237.
+@@ 430 [p]
+18. Comp, PC, et al: Prolonged enoxaparin therapy to prevent venous thromboembolism after primary hip or knee replacement. J Bone Joint Surg Am 83:336–343, 2001.
+@@ 431 [p]
+19. Cooney, WP: Elbow arthroplasty: Historical perspective and current concepts. In Morrey, BF (ed): The Elbow and Its Disorders, ed. 3. Philadelphia: WB Saunders, 2000, p 581.
+@@ 432 [p]
+20. Cooney III, WP: Arthroplasty of the thumb axis. In Morrey, BF (ed): Joint Replacement Arthroplasty, ed. 3. Philadelphia: Churchill Livingstone, 2003, pp 204–225.
+@@ 433 [p]
+21. Cooney III, WP, and Berger, RA: The distal radioulnar joint. In Morrey, BF (ed): Joint Replacement Arthroplasty, ed. 3. Philadelphia: Churchill Livingstone, 2003, pp 226–243.
+@@ 434 [p]
+22. Coventry, MB, Ilstrup, DM, and Wallrichs, SL: Proximal tibial osteotomy: a critical long-term study of eighty-seven cases. J Bone Joint Surg Am 75:196–201, 1993.
+@@ 435 [p]
+23. Cummings, GS, and Tillman, LJ: Remodeling of dense connective tissue in normal adult tissues. In Currier, DP, and Nelson, RM (eds): Dynamics of Human Biologic Tissues. Philadelphia: FA Davis, 1992, p 45.
+@@ 436 [p]
+24. D’Amato, M, and Bach, BR: Knee injuries. In Brotzman, SB, and Wilk, KE (eds): Clinical Orthopedic Rehabilitation, ed. 2. Philadelphia: Mosby, 2003, pp 251–370.
+@@ 437 [p]
+25. D’Lima, DD, et al: The effect of preoperative exercise on total knee replacement outcomes. Clin Orthop 326:174–182, 1996.
+@@ 438 [p]
+26. Enseki, JR, et al: The hip joint: arthroscopic procedures and postoperative rehabilitation. J Ortho Sports Phys Ther 36(7): 516–525, 2006.
+@@ 439 [p]
+27. Enwemeka, CS: Connective tissue plasticity: ultrastructural, biomechanical, and morphometric effects of physical factors on intact and regenerating tendons. J Orthop Sports Phys Ther 14(5):198–212, 1991.
+@@ 440 [p]
+28. Fealey, S, Kingham, TP, and Altchek, DW: Mini-open rotator cuff repair using a two-row fixation technique: outcomes analysis in patients with small, moderate, and large rotator cuff tears. Arthroscopy 18(6):665–670, 2002.
+@@ 441 [p]
+29. Fink, NL, and Stoneman, PD: Deep vein thrombosis in an active military cadet. J Orthop Sports Phys Ther 36(9):686–697, 2006.
+@@ 442 [p]
+30. Galatz, LM (ed): Orthopedic Knowledge Update: Shoulder and Elbow, ed. 3. Rosemont, IL: American Academy of Orthopedic Surgeons, 2008.
+@@ 443 [p]
+31. Gillogly, SD, Voight, M, and Blackburn, T: Treatment of articular cartilage defects of the knee with autologous chondrocyte implantation. J Orthop Sports Phys Ther 28(4):241–251, 1998.
+@@ 444 [p]
+32. Goodman, CC: The cardiovascular system. In Goodman, CC, Fuller, KS, and Boissonnault, WG (eds): Pathology: Implications for the Physical Therapist, ed. 2. Philadelphia: Elsevier, 1998, pp 367–476.
+@@ 445 [p]
+33. Green, DP, et al (eds): Green’s Operative Hand Surgery, ed. 5. Philadelphia: Churchill Livingstone, 2005.
+@@ 446 [p]
+34. Grotle, M, et al: What’s in team rehabilitation care after arthroplasty for osteoarthritis? Results of a multicenter, longitudinal study assessing structure, process, and outcome. Phys Ther 40(1):121–131, 2010.
+@@ 447 [p]
+35. Hansen, M: Pathophysiology: Foundations of Disease and Clinical Intervention. Philadelphia: WB Saunders, 1998.
+@@ 448 [p]
+36. Hart, JA, and Sekel, R: Osteotomy of the knee: is there a seat at the table? J Arthoplasty 4(Suppl 1):45–49, 2002.
+@@ 449 [p]
+37. Hatrup, SJ: Synovectomy. In Morrey, BF (ed): Reconstructive Surgery of the Joints, ed. 2. New York: Churchill Livingstone, 1996, p 1599.
+@@ 450 [p]
+38. Hull, RD, et al: Extended out-of-hospital low-molecular-weight heparin prophylaxis against deep venous thrombosis in patients after elective hip arthroplasty. Ann Intern Med 1355:858–869, 2001.
+@@ 451 [p]
+39. Irrgang, JJ, and Pezzullo, D: Rehabilitation following surgical procedures to address articular cartilage lesions in the knee. J Orthop Sports Phys Ther 28(4):232–240, 1998.
+@@ 452 [p]
+40. Jacobson, MD, et al: Muscle function deficits after tourniquet ischemia. Am J Sports Med 22(3):372–377, 1994.
+@@ 453 [p]
+41. Jones, RE, and Blackburn, WD: Joint replacement surgery preoperative management. Bull Rheum Dis 47(4):5–8, 1998.
+@@ 454 [p]
+42. Kean, CO, et al: Preoperative strength training for patients undergoing high tibial osteotomy: a prospective cohort study with historical controls. J Orthop Sports Phys Ther 41(2):52–59, 2011.
+@@ 455 [p]
+43. Keene, J, and Malone, TR: Ligament and muscle-tendon unit injuries. In Malone, TR, McPoil T, and Nitz, AJ (eds): Orthopaedic and Sports Physical Therapy, ed. 3. St. Louis: Mosby, 1997, p 135.
+@@ 456 [p]
+44. Khan, RJK, et al: Treatment of acute Achilles tendon rupture: a meta-analysis of randomized controlled trials. J Bone Joint Surg AM 87(10):2202–2210, 2005.
+@@ 457 [p]
+45. Khatod, M, and Akerson, WH: Ligament injury and repair. In Pedowitz, RA, O’Connor, JJ, and Akeson, WH (eds): Daniel’s Knee Injuries: Ligament and Cartilage Structure, Function, Injury, and Repair, ed. 2. Philadelphia: Lippincott Williams & Wilkins, 2003, pp 185–201.
+@@ 458 [p]
+46. Kim, CW, and Pedowitz, RA: Principles of surgery. Part A. Graft choice and the biology of graft healing. In Pedowitz, RA, O’Connor, JJ, and Akeson, WH (eds): Daniel’s Knee Injuries: Ligament and Cartilage Structure, Function, Injury, and Repair, ed. 2. Philadelphia: Lippincott Williams & Wilkins, 2003, pp 435–455.
+@@ 459 [p]
+47. King, L: Case study: physical therapy management of hip osteoarthritis prior to total hip arthroplasty. J Orthop Sports Phys Ther 26(1):35–38, 1997.
+@@ 460 [p]
+48. Kitaoka, HB: Complications of replacement arthroplasty of the ankle. In Morrey, BF (ed): Joint Replacement Arthroplasty, ed. 3. Philadelphia: Churchill Livingstone, 2003, pp 1151–1171.
+@@ 461 [p]
+49. Knight, CA: Peripheral vascular disease and wound care. In O’Sullivan, SB, and Schmitz, TJ (eds): Physical Rehabilitation: Assessment and Treatment, ed. 4. Philadelphia: FA Davis, 2001, p 583.
+@@ 462 [p]
+50. Laimins, PD, and Powell, SE: Principles of surgery. Part C. Anterior cruciate ligament reconstruction: Techniques past and present. In Pedowitz, RA, O’Connor, JJ, and Akeson, WH (eds): Daniel’s Knee Injuries: Ligament and Cartilage Structure, Function, Injury, and Repair, ed. 2. Philadelphia: Lippincott Williams & Wilkins, 2003, pp 227–223.
+@@ 463 [p]
+51. Matsen, FA, et al: Glenohumeral instability. In Rockwood, Jr, et al (eds): The Shoulder, Vol 2, ed. 3. Philadelphia: Saunders, 2004, p 655.
+@@ 464 [p]
+52. Matsen, FA, et al: Glenohumeral arthritis and its management. In Rockwood, Jr, CA, et al (eds): The Shoulder, Vol 2, ed. 3. Philadelphia: Saunders, 2004, p 879.
+@@ 465 [p]
+53. McGinty, JB (ed): Operative Arthroscopy, ed. 3. Philadelphia: Lippincott Williams & Wilkins, 2003.
+@@ 466 [p]
+54. McNally, MA, and Mollan, RAB: The effect of active movement of the foot on venous blood flow after total hip replacement. J Bone Joint Surg Am 79:1198–1201, 1997.
+@@ 467 [p]
+55. Melvin, JL, and Gall, V (eds): Rheumatologic Rehabilitation Series, Vol 5: Surgical Rehabilitation. Bethesda, MD: American Occupational Therapy Association, 1999.
+@@ 468 [p]
+56. Mercier, LR: Practical Orthopedics, ed. 4. St. Louis: Mosby, 1995.
+@@ 469 [p]
+57. Minas, T, and Nehrer, S: Current concepts in the treatment of articular cartilage defects. Orthopedics 20:525–538, 1997.
+@@ 470 [p]
+58. Mirzayan, R: Cartilage Injury in the Athlete. New York: Thieme, 2006.
+@@ 471 [p]
+59. Morrey, BF: Radial head fracture. In Morrey, BF (ed): The Elbow and Its Disorders, ed. 3. Philadelphia: WB Saunders, 2000, p 341.
+@@ 472 [p]
+60. Morrey, BF (ed): Joint Replacement Arthroplasty, ed. 4. Philadelphia: Wolthers Kluwer Health/Lippincott Williams & Wilkins, 2010.
+@@ 473 [p]
+61. NIH Consensus Development Panel on Total Hip Replacement. JAMA 273:1950–1956, 1995.
+@@ 474 [p]
+62. Noonan, TJ, and Garrett, WE: Injuries at the myotendinous junction. Clin Sports Med 11:783–806, 1992.
+@@ 475 [p]
+63. Noyes, FR, et al: Biomechanical analysis of human ligament grafts used in knee ligament repairs and reconstructions. J Bone Joint Surg Am 66:334–352, 1984.
+@@ 476 [p]
+64. Peljovich, A, Ratner, JA, and Marino, J: Update of the physiology and biomechanics of tendon transfer surgery. J Hand Surg 35A:1365–1369, 2010.
+@@ 477 [p]
+65. Peterson, CA, Alteck, DW, and Warren, RE: Shoulder arthroscopy. In Rockwood, CA, and Matsen, FA (eds): The Shoulder, Vol 2, ed. 2. Philadelphia: WB Saunders, 1998, p 290.
+@@ 478 [p]
+66. Riddle, DL, et al: Diagnosis of lower extremity deep vein thrombosis in outpatients with musculoskeletal disorders: a national survey study of physical therapists. Phys Ther 84(8):717–728, 2004.
+@@ 479 [p]
+67. Roach, JA, Tremblay, LM, and Bowers, DL: A preoperative assessment and education program: implementation and outcomes. Patient Educ Couns 25:83–88, 1995.
+@@ 480 [p]
+68. Rooks, DS, et al: Effect of preoperative exercise on measures of functional status in men and women undergoing total hip and knee arthroplasty. Arthritis Rheum 55:700–708, 2006.
+@@ 481 [p]
+69. Salter, RB: Textbook of Disorders and Injuries of the Musculoskeletal System, ed. 3. Baltimore: Williams & Wilkins, 1999.
+@@ 482 [p]
+70. Scott, RD: Total Knee Arthroplasty. Philadelphia: Saunders, 2006. 71. Scott, WN (ed): Insall & Scott’s Surgery of the Knee, ed. 4. Philadelphia: Churchill Livingstone, 2006.
+@@ 483 [p]
+72. Tasto, JP, et al: Surgical decisions and treatment alternatives—Meniscal tears, malalignment, chondral injury and chronic arthrosis. In Pedowitz, RA, O’Connor, JJ, and Akeson, WH (eds): Daniel’s Knee Injuries: Ligament and Cartilage Structure, Function, Injury, and Repair, ed. 2. Philadelphia: Lippincott Williams & Wilkins, 2003, pp 567–586.
+@@ 484 [p]
+73. Thomas, RH, and Daniels, TR: Ankle arthritis. J Bone Joint Surg Am 85:923–936, 2003.
+@@ 485 [p]
+74. Tibone, JE, and McMahon, PJ: Biomechanics and pathologic lesions in the overhead athlete. In Innotti, JP, and Williams, GR (eds): Disorders of the Shoulder: Diagnosis and Management. Philadelphia: Lippincott Williams & Wilkins, 1999, p 233.
+@@ 486 [p]
+75. Tria, Jr, AJ: Advances in minimally invasive total knee arthroplasty. Orthopedics 26(8 Suppl):859–863, 2003.
+@@ 487 [p]
+76. Weinmann, EE, and Salzman, EW: Deep vein thrombosis. N Engl J Med 331:1630–1641, 1994.
+@@ 488 [p]
+77. White, RH, et al: Predictors of rehospitalization for symptomatic venous thromboembolism after total hip arthroplasty. N Engl J Med 343:1758–1764, 2000.
+@@ 489 [p]
+78. Wiesel, SW, et al: Orthopedic Surgery: Principles of Diagnosis and Treatment. Philadelphia: Wolthers Kluwer Health/Lippincott Williams & Wilkins, 2010.
+@@ 490 [p]
+79. Wilk, KE, and Andrews, JR: Rehabilitation following thermal assisted capsular shrinkage of the glenohumeral joint: current concepts. J Orthop Sports Phys Ther 32(6):268–287, 2002.
+@@ 491 [p]
+80. Wynn Parry, CB, and Stanley, JK: Synovectomy of the hand. Br J Rheumatol 32:1089–1095, 1993.
+@@ 492 [p]
+81. Young, BA, and Flynn, TW: Pulmonary embolism: the differential diagnosis dilemma. J Orthop Phys Ther 35(10):637–642, 2005.
+@@ 493 [p]
+82. Zazzali, MS, et al: Shoulder instability. In Donatelli, RA (ed): Physical Therapy of the Shoulder, ed. 4. St. Louis: Churchill Livingstone, 2004, pp 483–505.
