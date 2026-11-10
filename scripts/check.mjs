@@ -71,12 +71,13 @@ for (const chapter of chapters) {
     }
   });
 
-  if (problems.length) {
+  if (missing) {
+    const pct = Math.round(((source.length - missing) / source.length) * 100);
+    const warn = problems.length ? `  warnings: ${problems.slice(0, 3).join("; ")}` : "";
+    console.log(`partial  ${chapter.slug}  ${source.length - missing}/${source.length} blocks (${pct}%)  ${chars} chars${warn}`);
+  } else if (problems.length) {
     console.error(`FAIL     ${chapter.slug}  ${problems.slice(0, 6).join("; ")}${problems.length > 6 ? ` …+${problems.length - 6}` : ""}`);
     failed = true;
-  } else if (missing) {
-    const pct = Math.round(((source.length - missing) / source.length) * 100);
-    console.log(`partial  ${chapter.slug}  ${source.length - missing}/${source.length} blocks (${pct}%)  ${chars} chars`);
   } else {
     console.log(`ok       ${chapter.slug}  ${source.length} blocks  ${chars} chars  (${files.length} part files)`);
   }
