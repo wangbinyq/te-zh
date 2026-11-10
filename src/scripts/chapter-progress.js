@@ -45,8 +45,13 @@ if (main) {
     });
   }
 
+  let lastHeight = 0;
+
   function schedule() {
     if (document.visibilityState === "hidden") return;
+    const height = document.documentElement.scrollHeight;
+    if (lastHeight && Math.abs(height - lastHeight) > 60) return;
+    lastHeight = height;
     last = position();
     window.clearTimeout(timer);
     timer = window.setTimeout(save, 250);
