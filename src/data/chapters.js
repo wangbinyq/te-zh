@@ -1,0 +1,46 @@
+export const book = {
+  title: "治疗性运动",
+  subtitle: "基础与技术",
+  titleEn: "Therapeutic Exercise: Foundations and Techniques",
+  author: "卡罗琳·基斯纳、林恩·艾伦·科尔比",
+  authorEn: "Carolyn Kisner, Lynn Allen Colby",
+  edition: "第 6 版",
+  year: "2012",
+  publisher: "F. A. Davis",
+};
+
+export const parts = [
+  { id: "I", title: "总论", titleEn: "General Concepts", chapters: [1, 2] },
+  { id: "II", title: "运动的应用科学", titleEn: "Applied Science of Exercise", chapters: [3, 4, 5, 6, 7, 8, 9] },
+  { id: "III", title: "干预原则", titleEn: "Principles of Intervention", chapters: [10, 11, 12, 13] },
+  { id: "IV", title: "运动干预", titleEn: "Exercise Interventions", chapters: [14, 15, 16, 17, 18, 19, 20, 21, 22, 23] },
+  { id: "V", title: "特殊领域", titleEn: "Special Areas of Therapeutic Exercise", chapters: [24, 25] },
+];
+
+export const chapters = [
+  { num: 1, slug: "ch01", title: "治疗性运动：基础概念", titleEn: "Therapeutic Exercise: Foundational Concepts" },
+  { num: 2, slug: "ch02", title: "预防、健康与健全", titleEn: "Prevention, Health, and Wellness" },
+  { num: 3, slug: "ch03", title: "关节活动度", titleEn: "Range of Motion" },
+  { num: 4, slug: "ch04", title: "活动度受限的牵伸治疗", titleEn: "Stretching for Impaired Mobility" },
+  { num: 5, slug: "ch05", title: "外周关节松动与手法治疗", titleEn: "Peripheral Joint Mobilization/Manipulation" },
+  { num: 6, slug: "ch06", title: "肌功能受损的抗阻运动", titleEn: "Resistance Exercise for Impaired Muscle Performance" },
+  { num: 7, slug: "ch07", title: "有氧运动原则", titleEn: "Principles of Aerobic Exercise" },
+  { num: 8, slug: "ch08", title: "平衡功能受损的运动治疗", titleEn: "Exercise for Impaired Balance" },
+  { num: 9, slug: "ch09", title: "水中运动", titleEn: "Aquatic Exercise" },
+  { num: 10, slug: "ch10", title: "软组织损伤、修复与处理", titleEn: "Soft Tissue Injury, Repair, and Management" },
+  { num: 11, slug: "ch11", title: "关节、结缔组织与骨疾患及其处理", titleEn: "Joint, Connective Tissue, and Bone Disorders and Management" },
+  { num: 12, slug: "ch12", title: "外科干预与术后处理", titleEn: "Surgical Interventions and Postoperative Management" },
+  { num: 13, slug: "ch13", title: "周围神经疾患及其处理", titleEn: "Peripheral Nerve Disorders and Management" },
+  { num: 14, slug: "ch14", title: "脊柱：结构、功能与姿势", titleEn: "The Spine: Structure, Function, and Posture" },
+  { num: 15, slug: "ch15", title: "脊柱：处理指南", titleEn: "The Spine: Management Guidelines" },
+  { num: 16, slug: "ch16", title: "脊柱：运动与手法干预", titleEn: "The Spine: Exercise and Manipulation Interventions" },
+  { num: 17, slug: "ch17", title: "肩与肩带", titleEn: "The Shoulder and Shoulder Girdle" },
+  { num: 18, slug: "ch18", title: "肘与前臂复合体", titleEn: "The Elbow and Forearm Complex" },
+  { num: 19, slug: "ch19", title: "腕与手", titleEn: "The Wrist and Hand" },
+  { num: 20, slug: "ch20", title: "髋", titleEn: "The Hip" },
+  { num: 21, slug: "ch21", title: "膝", titleEn: "The Knee" },
+  { num: 22, slug: "ch22", title: "踝与足", titleEn: "The Ankle and Foot" },
+  { num: 23, slug: "ch23", title: "进阶功能训练", titleEn: "Advanced Functional Training" },
+  { num: 24, slug: "ch24", title: "女性健康：产科与盆底", titleEn: "Women's Health: Obstetrics and Pelvic Floor" },
+  { num: 25, slug: "ch25", title: "淋巴系统疾患的处理", titleEn: "Management of Lymphatic Disorders" },
+];

@@ -1,0 +1,621 @@
+:root {
+  --paper: #f7f4ef;
+  --ink: #23201c;
+  --muted: #8a8377;
+  --rule: #ded7c9;
+  --accent: #9a3b2f;
+  --measure: 32rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --paper: #16151a;
+    --ink: #e6e2da;
+    --muted: #8d877d;
+    --rule: #2c2a30;
+    --accent: #d0806f;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB",
+    "Noto Sans CJK SC", "Source Han Sans SC", "Microsoft YaHei", system-ui, sans-serif;
+  font-size: var(--fs, 18px);
+  line-height: 1.95;
+  letter-spacing: 0.012em;
+  overflow-wrap: break-word;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.bar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.55rem max(1rem, calc((100vw - var(--measure)) / 2));
+  background: color-mix(in srgb, var(--paper) 88%, transparent);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--rule);
+  font-size: 0.82rem;
+  letter-spacing: 0.04em;
+}
+
+.bar-title {
+  flex: 1;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  color: var(--muted);
+}
+
+.bar button {
+  font: inherit;
+  letter-spacing: inherit;
+  color: var(--muted);
+  background: none;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  padding: 0.1rem 0.65rem;
+  cursor: pointer;
+}
+
+.bar button[aria-pressed="true"] {
+  color: var(--paper);
+  background: var(--muted);
+  border-color: var(--muted);
+}
+
+main {
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: 1.5rem 1.15rem 4rem;
+}
+
+.kicker {
+  margin: 1rem 0 0.4rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+h1 {
+  margin: 0;
+  font-size: 1.55rem;
+  line-height: 1.45;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.orig-title {
+  margin: 0.35rem 0 2rem;
+  font-size: 0.9rem;
+  font-style: italic;
+  color: var(--muted);
+}
+
+article p {
+  margin: 0;
+}
+
+article .block {
+  margin: 0 0 1.05rem;
+}
+
+article .zh {
+  text-indent: 2em;
+}
+
+article h2 {
+  margin: 2.8rem 0 1rem;
+  font-size: 1.06rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+article h2 .en {
+  display: block;
+  margin-top: 0.15rem;
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+
+article .figcap {
+  margin: 0.4rem 0 1.9rem;
+  padding-left: 0.9rem;
+  border-left: 2px solid var(--rule);
+  font-size: 0.86rem;
+  line-height: 1.7;
+  color: var(--muted);
+  text-indent: 0;
+}
+
+figure {
+  margin: 1.6rem 0 0.6rem;
+}
+
+figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 3px;
+  filter: saturate(0.92);
+}
+
+.en {
+  display: none;
+  margin-top: 0.35rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.86rem;
+  line-height: 1.65;
+  letter-spacing: 0;
+  color: var(--muted);
+  text-indent: 0;
+}
+
+.show-en .en {
+  display: block;
+}
+
+.standalone-en {
+  display: block;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.98rem;
+  line-height: 1.7;
+  color: var(--ink);
+  text-indent: 0;
+}
+
+.pager {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 3.5rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--rule);
+  font-size: 0.9rem;
+}
+
+.pager a {
+  display: block;
+  max-width: 48%;
+}
+
+.pager .dir {
+  display: block;
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+}
+
+.pager .next {
+  text-align: right;
+  margin-left: auto;
+}
+
+.cover {
+  min-height: 82vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.cover h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+}
+
+.cover .sub {
+  margin: 0.4rem 0 0;
+  font-size: 1.05rem;
+  color: var(--muted);
+  letter-spacing: 0.1em;
+}
+
+.cover .en-title {
+  margin: 1.4rem 0 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+  font-size: 0.95rem;
+  letter-spacing: 0;
+  color: var(--muted);
+}
+
+.cover .byline {
+  margin: 3rem 0 0;
+  font-size: 0.95rem;
+}
+
+.cover .byline small {
+  display: block;
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.toc {
+  margin: 3rem 0 0;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid var(--rule);
+}
+
+.toc li {
+  border-bottom: 1px solid var(--rule);
+}
+
+.toc a,
+.toc .pending {
+  display: flex;
+  gap: 0.9rem;
+  align-items: baseline;
+  padding: 0.85rem 0.1rem;
+}
+
+.toc .num {
+  width: 2.4rem;
+  flex: none;
+  font-size: 0.78rem;
+  color: var(--muted);
+  letter-spacing: 0.08em;
+}
+
+.toc .label {
+  flex: 1;
+}
+
+.toc .pending .label {
+  color: var(--muted);
+}
+
+.toc .state {
+  flex: none;
+  font-size: 0.72rem;
+  color: var(--muted);
+  letter-spacing: 0.08em;
+}
+
+.note {
+  margin: 2.5rem 0 0;
+  font-size: 0.8rem;
+  line-height: 1.7;
+  color: var(--muted);
+}
+
+.resume {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin: 0 0 1.5rem;
+  padding: 0.55rem 0.75rem 0.55rem 0.9rem;
+  border: 1px solid var(--rule);
+  border-radius: 0.55rem;
+  font-size: 0.84rem;
+  background: color-mix(in srgb, var(--ink) 4%, var(--paper));
+}
+
+.resume[hidden],
+.resume-card[hidden] {
+  display: none;
+}
+
+.resume .meta {
+  color: var(--muted);
+}
+
+.resume-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  flex: none;
+}
+
+.resume button {
+  font: inherit;
+  color: var(--paper);
+  background: var(--accent);
+  border: 0;
+  border-radius: 999px;
+  padding: 0.15rem 0.8rem;
+  cursor: pointer;
+}
+
+.resume .resume-close {
+  color: var(--muted);
+  background: none;
+  font-size: 1rem;
+  padding: 0 0.35rem;
+}
+
+.resume-card {
+  margin: 2.2rem 0 0;
+}
+
+.resume-link {
+  display: block;
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--rule);
+  border-radius: 0.6rem;
+  background: color-mix(in srgb, var(--ink) 4%, var(--paper));
+}
+
+.resume-kicker {
+  display: block;
+  font-size: 0.72rem;
+  letter-spacing: 0.16em;
+  color: var(--accent);
+}
+
+.resume-title {
+  display: block;
+  margin-top: 0.15rem;
+}
+
+.resume-meta {
+  display: block;
+  font-size: 0.76rem;
+  color: var(--muted);
+}
+
+.toc li {
+  position: relative;
+}
+
+.toc li::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+  height: 2px;
+  background: var(--accent);
+  opacity: 0.45;
+  transform: scaleX(var(--p, 0));
+  transform-origin: left;
+}
+
+.toc li:not(.touched)::after {
+  display: none;
+}
+
+dialog.sheet {
+  width: 100%;
+  max-width: 30rem;
+  max-height: 88vh;
+  overflow-y: auto;
+  margin: auto 0 0;
+  padding: 1rem 1.15rem calc(1.25rem + env(safe-area-inset-bottom));
+  border: 0;
+  border-radius: 1rem 1rem 0 0;
+  background: var(--paper);
+  color: var(--ink);
+  box-shadow: 0 -10px 40px rgb(0 0 0 / 18%);
+}
+
+dialog.sheet::backdrop {
+  background: rgb(0 0 0 / 35%);
+}
+
+@media (min-width: 40rem) {
+  dialog.sheet {
+    margin: auto;
+    border-radius: 1rem;
+    padding-bottom: 1.4rem;
+  }
+}
+
+.sheet-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.2rem;
+}
+
+.sheet-head h2 {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+
+.sheet-close {
+  font: inherit;
+  outline: none;
+  font-size: 1.2rem;
+  line-height: 1;
+  color: var(--muted);
+  background: none;
+  border: 0;
+  padding: 0.2rem 0.4rem;
+  cursor: pointer;
+}
+
+.sheet-label {
+  margin: 0 0 0.5rem;
+  font-size: 0.78rem;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+}
+
+.seg {
+  display: flex;
+  gap: 0.4rem;
+  margin-bottom: 1.2rem;
+}
+
+.seg button {
+  flex: 1;
+  font: inherit;
+  font-size: 0.92rem;
+  padding: 0.5rem 0;
+  color: var(--ink);
+  background: none;
+  border: 1px solid var(--rule);
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.seg button[aria-pressed="true"] {
+  color: var(--paper);
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+.sheet-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--rule);
+  font-size: 0.92rem;
+  cursor: pointer;
+}
+
+.sheet-row input {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.switch {
+  position: relative;
+  flex: none;
+  width: 2.6rem;
+  height: 1.5rem;
+  border-radius: 999px;
+  background: var(--rule);
+  transition: background 0.15s ease;
+}
+
+.switch::after {
+  content: "";
+  position: absolute;
+  top: 0.2rem;
+  left: 0.2rem;
+  width: 1.1rem;
+  height: 1.1rem;
+  border-radius: 50%;
+  background: var(--paper);
+  box-shadow: 0 1px 2px rgb(0 0 0 / 25%);
+  transition: transform 0.15s ease;
+}
+
+.sheet-row input:checked + .switch {
+  background: var(--accent);
+}
+
+.sheet-row input:checked + .switch::after {
+  transform: translateX(1.1rem);
+}
+
+.sheet-row input:focus-visible + .switch {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.part-label {
+  margin: 2.6rem 0 0.4rem;
+  font-size: 0.74rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.table-block {
+  margin: 1.4rem 0 1.8rem;
+}
+
+.table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--rule);
+  border-radius: 0.5rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.8rem;
+  line-height: 1.6;
+}
+
+th,
+td {
+  padding: 0.45rem 0.6rem;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid var(--rule);
+}
+
+th {
+  font-weight: 600;
+  background: color-mix(in srgb, var(--ink) 6%, var(--paper));
+}
+
+tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+.table-block .en {
+  overflow-x: auto;
+  margin-top: 0.5rem;
+}
+
+.table-block .en table {
+  font-size: 0.74rem;
+}
+
+article h3 {
+  margin: 2.2rem 0 0.8rem;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+article h4 {
+  margin: 1.8rem 0 0.6rem;
+  font-size: 0.94rem;
+  font-weight: 700;
+  color: color-mix(in srgb, var(--ink) 80%, var(--muted));
+}
+
+article h5 {
+  margin: 1.5rem 0 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--muted);
+}
+
+article .li-block {
+  margin: 0 0 0.5rem;
+  padding-left: 1.1rem;
+}
+
+article .li {
+  position: relative;
+  text-indent: 0;
+}
+
+article .li::before {
+  content: "·";
+  position: absolute;
+  left: -0.9rem;
+  color: var(--muted);
+}

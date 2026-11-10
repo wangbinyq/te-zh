@@ -1,0 +1,552 @@
+@@ 631 [p]
+回到重心转移的例子——若要在功能性训练中运用结果知识，治疗师应让病人伸手去够放置在支撑面正外侧不同位置的物体，以此完成重心转移。给病人一个目标之后，病人把注意力集中在动作的预期结果上，任务便具有了目标导向性。因此，病人学会根据来自外部线索的反馈来判断自身动作的有效性。
+@@ 632 [p]
+反馈的安排——追加反馈的时机与频率。练习过程中反馈的安排（见专栏 1.18）涉及提供追加／外在反馈的时机与频率。反馈安排会影响运动技能的习得与保持，应随学习过程加以调整。
+@@ 633 [p]
+同步反馈是追加反馈的一种形式，在病人执行或尝试执行某一运动任务的“实时”过程中发生。康复超声成像仪（见图 1.11）提供的视觉反馈就是同步反馈的一例；当病人初次学习如何对躯干稳定肌进行等长收缩时，这种反馈很有用，因为此时身体并不出现可观察到的运动。
+@@ 634 [p]
+另一种同步反馈是手法引导的使用，它向病人提供触觉线索，可能是
+@@ 635 [caption]
+图 1.11　（A、B）在运动指导过程中，康复超声成像在屏幕上提供追加（视觉）反馈，帮助病人学会如何激活腹横肌与腹内斜肌。
+@@ 636 [p]
+保障病人安全所必需的，也可能有助于病人理解某项运动或功能任务所需的动作。然而，过多或长期使用手法引导可能妨碍运动学习，因为它可能不允许病人在摸索如何完成动作的过程中“安全地犯错”。正如运动学习阶段的讨论中所述，自我察觉与自我纠正错误对于学习的发生是绝对必要的。关键在于以尽可能短的时间使用尽可能少的手法引导等同步反馈，使病人不至于依赖它来完成任务。
+@@ 637 [p]
+反应后即时反馈是追加／外在反馈的另一种形式，常用于学习的初始阶段。治疗师常在每次尝试后立即以口头方式提供关于任务结果（KR）的信息。虽然在每次尝试后立即给出反馈可能促进早期技能习得，但它同样没有给病人留出在无治疗师提示的情况下自行解决问题和察觉错误的时间。因此，虽然初始技能习得可能相当快，但包括保持在内的学习却被延迟。
+@@ 638 [p]
+作为即时反馈的替代，治疗师在任务的每次重复后给予延迟反馈，或在完成数次尝试后给予总结性反馈，可使病人在练习中有时间对任务的完成情况进行自我评价与问题解决，从而促进所学技能的保持与泛化。虽然延迟或总结性反馈安排较同步反馈或每次尝试后的即时反馈更慢地带来技能习得，但一般认为，延迟反馈的时机使病人关注任务中固有的内在反馈。
+@@ 639 [p]
+一项在无损伤个体中进行的研究考察了同步反馈、反应后即时反馈与总结性反馈安排的影响。当受试者练习部分负重活动时，接受同步视觉反馈（观看体重秤）者比接受反应后反馈（即时或总结性）者更快掌握该技能。然而，接受同步反馈的受试者在练习结束 2 天后的保持测试中表现最差，不及另外两组接受反应后反馈的受试者。此外，总结性反馈在促进保持方面优于即时反应后反馈。
+@@ 640 [p]
+治疗师提供追加反馈的频率也应加以考虑。关于追加反馈的一条基本原则是“越少越好”。虽然在病人初次学习如何完成某项运动或功能任务的认知（初始）阶段，必须以最高的频率提供反馈，但过多或长期使用任何形式的追加反馈都可能造成对反馈的依赖，并可能妨碍自我察觉与自我纠正错误。例如，治疗师在每次尝试后都提供过多的口头反馈，也会分散注意力，并可能打断病人对任务的注意。
+@@ 641 [p]
+与其在每次重复练习后都提供反馈，治疗师不妨考虑变化反馈的频率（可变反馈安排），即在超过一次重复之后再给病人提示，且以可变的、较不可预测的方式进行。练习中的可变（间歇）反馈已被证明比在每次重复中或之后给予的恒定（连续）反馈更有效地促进所学运动技能的保持。然而，治疗师必须牢记，在学习的初始阶段，恒定（连续）反馈比可变（间歇）反馈更快地改善技能（表现）习得。
+@@ 642 [p]
+同样重要的是随时间逐渐淡化（降低）反馈的频率，以避免长期使用反馈。总结性反馈，尤其是在学习的联结阶段，是减少一次练习课中反馈总量的有效策略。随着追加反馈的淡化，病人必须探索动作策略的细微调整并分析其结果。这促进问题解决、自我监控与自我纠正，凡此种种都使病人能够独立、安全地完成任务，并把学习迁移到新的任务情境中。
+@@ 643 [h4]
+运动学习原则在运动指导中的应用：小结
+@@ 644 [p]
+专栏 1.21 依据运动学习的原则与阶段，对本节所讨论的学习者特质以及运动指导与功能训练的有效策略作了小结。
+@@ 645 [h4]
+专栏 1.21　运动学习三个阶段的学习者特征与教学策略
+@@ 646 [h4]
+认知阶段
+@@ 647 [h4]
+学习者特征
+@@ 648 [p]
+必须只注意当前任务；必须思考每一个步骤或成分；容易分心；开始理解该运动任务的要求；开始对运动产生“感觉”；会出现错误并改变表现，尤以接受追加反馈时为甚；开始区分正确与错误、安全与不安全的动作表现。
+@@ 649 [h4]
+教学策略
+@@ 650 [p]
+■ 在无干扰的（闭合）环境中开始指导。
+@@ 651 [p]
+■ 说明该运动或功能任务的目的与功能相关性。
+@@ 652 [p]
+■ 示范动作的理想执行方式（示范）。
+@@ 653 [p]
+■ 起初引导或协助病人完成动作。一旦病人能够安全地控制动作，即减少手法引导反馈。
+@@ 654 [p]
+■ 指明动作的距离与速度（移动多远或多快）。
+@@ 655 [p]
+■ 强调有控制地完成动作的重要性。
+@@ 656 [p]
+■ 在适当时候把复杂动作分解为若干部分。
+@@ 657 [p]
+■ 让病人口头描述各动作成分的顺序。
+@@ 658 [p]
+■ 让病人演示每一项运动或任务，但只练习少数几项运动任务。保持较少的重复次数并交替任务，以确保安全、避免疲劳。
+@@ 659 [p]
+■ 指出病人应当注意的感觉线索（内在反馈）。
+@@ 660 [p]
+■ 针对动作知识（KP）与结果知识（KR）提供频繁而明确的正面反馈。
+@@ 661 [p]
+■ 使用多种形式的反馈（口头、触觉、视觉）并加以变化。
+@@ 662 [p]
+■ 初期在每次重复后给予反馈以改善表现（习得）；逐步过渡到可变与延迟反馈，以促进学习（保持）。
+@@ 663 [p]
+■ 引入对动作进行自我评价与自我纠正的概念。
+@@ 664 [p]
+■ 初期采用固定（分组）顺序练习；逐步引入随机顺序练习。；■ 允许在安全范围内出现试误。
+@@ 665 [h4]
+联结阶段
+@@ 666 [h4]
+学习者特征
+@@ 667 [p]
+动作表现更为稳定，错误或多余动作减少；以有条理的方式完成动作；在运动或功能任务中不断精炼动作；出现动作错误时能察觉并自我纠正；较少依赖治疗师提供的追加／外在反馈；能利用前瞻性线索并在错误发生前预判错误。
+@@ 668 [h4]
+教学策略
+@@ 669 [p]
+■ 强调练习更多数量与更多种类的动作或任务。
+@@ 670 [p]
+■ 增加运动或任务的复杂性。
+@@ 671 [p]
+■ 变化所练习的运动或任务的顺序（随机顺序练习）。
+@@ 672 [p]
+续
+@@ 673 [h4]
+专栏 1.21　运动学习三个阶段的学习者特征与教学策略（续）
+@@ 674 [li]
+让病人独立练习，强调问题解决和利用本体感觉线索（内在反馈）来察觉错误。
+@@ 675 [li]
+■ 把功能任务的模拟引入练习课。；■ 继续针对动作知识与结果知识提供追加反馈，但避免使用手法引导。
+@@ 676 [li]
+■ 延迟反馈或采用可变反馈安排，使学习者有机会察觉动作错误并自我纠正。
+@@ 677 [li]
+通过减少反馈总量逐步淡化反馈，但同时提高反馈的特异性。
+@@ 678 [li]
+■ 让学习者在完成一整套运动或数次重复某项功能任务之后再给予反馈（总结性反馈）。
+@@ 679 [li]
+■ 提高练习环境中的干扰程度。；■ 让病人做好在家庭或社区环境中执行运动计划的准备。
+@@ 680 [h4]
+自主阶段
+@@ 681 [h4]
+学习者特征
+@@ 682 [p]
+能稳定而自动地执行运动计划或功能任务，并可同时完成其他任务；把所学的动作策略应用于越来越困难的任务或新的环境情境；在适当情况下，以更快的速度或以更低的能量消耗在更长时间内完成任务。
+@@ 683 [h4]
+教学策略
+@@ 684 [li]
+安排一系列难度逐步增加、学习者能独立完成的活动，例如提高运动或任务的速度、距离与复杂性。
+@@ 685 [li]
+■ 建议学习者如何改变原有的运动或任务，并把该任务用于日常活动中更具挑战性的情境。
+@@ 686 [li]
+■ 如果病人仍在接受治疗（通常至多只是复查），除发现明显动作错误或出现可能不安全的情况外，应尽量不给予反馈。
+@@ 687 [li]
+按需提供帮助，使所学的运动技能融入健身或体育活动。
+@@ 688 [h3]
+运动依从性
+@@ 689 [p]
+以功能为导向的运动计划要取得有效的病人相关指导，必须包含促进依从性的方法。当病人不习惯规律运动，或运动计划必须长期执行时，这一点尤其具有挑战性。治疗的积极结局与其说取决于为病人设计“理想”的运动计划，不如说取决于设计出病人或家庭真正会执行的计划。
+@@ 690 [p]
+注意：尽管临床工作者和文献中常把依从（adherence）与遵从（compliance）两词互换使用，本讨论选用依从一词，因为它更强地含有病人主动参与和病人与治疗师协作的意味。相比之下，遵从往往暗示对病人行为较为被动的看法。
+@@ 691 [h4]
+影响运动计划依从性的因素
+@@ 692 [p]
+影响运动计划依从性的因素很多，可归为几类：病人自身的特征、与病人健康状况或损伤相关的因素，以及与计划相关的变量。
+@@ 693 [h4]
+病人相关因素
+@@ 694 [p]
+下列病人相关因素可对依从性产生正面或负面的影响：对健康状况、损伤或运动计划的理解；动机、自律、注意力、记忆力水平以及对变化的意愿与接受程度；疲劳或应激的程度；可用于运动计划的时间；病人对自身与治疗师是否合得来、对运动计划掌控程度的自我感受；社会经济与文化背景；对运动的信念与态度以及病人对运动计划的重视程度；以及病人可获得资源的情况。病人的年龄与性别也影响运动计划的依从性，男性的依从率高于女性。年龄与依从性之间的关系则不那么明确。
+@@ 695 [h4]
+与健康状况或损伤相关的因素
+@@ 696 [p]
+原发健康状况及相关损伤的急性程度、慢性程度、严重程度或稳定性，以及合并症的有无，都会影响依从性。疼痛显然是依从性的阻碍因素，因此在运动计划中必须尽量减轻疼痛。当损伤严重或长期存在时，设定可定期达成的短期目标，能促进病人对必须长期坚持的运动计划的依从性。
+@@ 697 [h4]
+与计划相关的变量
+@@ 698 [p]
+运动计划的复杂性与所需时长；治疗师指导、监督与反馈的充分程度；病人是否参与了照护计划的制定；以及从住院到居家照护的连续性，都会影响依从性。顾及病人兴趣水平与动机需求的计划依从率较高。在门诊环境中，地点与时间安排等后勤事宜、由治疗师／运动指导者营造的计划氛围，以及社会支持的可获得性和工作人员给予的个别关注或咨询，也都是促进依从性的重要因素。
+@@ 699 [h4]
+促进依从性的策略
+@@ 700 [p]
+治疗师应当预计到，多数病人不会一丝不苟地遵从任何治疗方案，尤其是当规律运动在疾病或损伤发生之前并不是病人生活的一部分时。治疗师至多能做的是实施促进依从性的策略。文献中若干资料提出的建议列于专栏 1.22。
+@@ 701 [h4]
+专栏 1.22　促进运动计划依从性的策略
+@@ 702 [li]
+了解并努力理解病人对运动的信念，或病人对以运动作为“好起来”手段的重视程度。
+@@ 703 [li]
+帮助病人明确依从运动计划所带来的个人益处。
+@@ 704 [li]
+解释每一项运动与功能活动的理由与重要性。
+@@ 705 [li]
+说明各项具体运动如何设计以满足特定的以病人为中心的目标或功能结局。
+@@ 706 [li]
+允许并鼓励病人对运动计划的性质与范围、练习与反馈的选择与安排，以及何时及在多大程度上逐步增加运动难度的决定发表意见，以增强病人的自我掌控感。
+@@ 707 [li]
+使运动计划尽可能简短。
+@@ 708 [li]
+找出在日常任务中完成所选运动的实用且以功能为导向的方式。
+@@ 709 [li]
+让病人记录运动日志。
+@@ 710 [li]
+如有可能，安排随访以复查或修改运动内容。
+@@ 711 [li]
+指出与运动相关的具体进展。
+@@ 712 [li]
+找出依从性的障碍（一天中没有足够时间做运动、运动时不适、缺少必要器材），然后提出解决办法或修改运动计划。
+@@ 713 [h2]
+自主学习活动
+@@ 714 [h4]
+批判性思维与讨论
+@@ 715 [p]
+1. 批判性地分析你自己、一位熟人或一位家人的运动史。然后指出规律的运动方案如何能改善你或他们的生活质量。
+@@ 716 [p]
+2. 查找四种导致（1）肌肉骨骼、（2）神经肌肉、（3）心血管／呼吸和（4）体被系统原发损伤的健康状况（疾病、损伤或功能障碍）。指出与每种健康状况相关的特征性损伤（体征与症状），并推测最可能出现哪些活动／功能受限与参与限制。
+@@ 717 [p]
+3. 为什么物理治疗师必须理解并能够（以口头或书面形式）清楚阐述各类健康状况病人通常表现出的损伤、活动／功能受限、参与限制与失能之间的相互关系？
+@@ 718 [p]
+4. 上个月你扭伤了踝关节（内翻扭伤）。你有几天必须使用拐杖，但此后一直独立行走。剧烈活动后仍会出现疼痛与肿胀，在不平坦的地面上踝关节感觉不稳。以功能和失能模型为参照框架，指出由于你的病史与现存问题，你的生活中最可能出现哪些具体的活动受限。
+@@ 719 [p]
+5. 运用你目前关于检查程序的知识，列出你在检查原发损伤影响（1）肌肉骨骼、（2）神经肌肉、（3）心血管和／或呼吸以及（4）体被系统的病人时，最可能选择使用的具体测试与测量。
+@@ 720 [p]
+6. 有人请你提出建议，为所在机构采用一种或多种新的测量工具，用于收集和分析以病人为中心的功能结局数据。查阅肌肉骨骼评估方面的文献，找出并总结五种测量四肢、颈部或躯干肌肉骨骼损伤所致活动受限的工具的主要特征。此外，找出并总结五种评估病人自感失能程度的测量工具的主要特征。
+@@ 721 [p]
+7. 三个人最近都发生了类似的髋部骨折，均接受了切开复位内固定。这三位病人分别是：一位其他方面健康的 19 岁大学生，因车祸受伤，希望出院后返回校园；一位 60 岁、生活方式较为久坐的人，计划术后康复结束后回家，并希望尽快恢复办公室工作；以及一位 85 岁、患有严重年龄相关性骨质疏松、过去一年居住在辅助生活机构的人。在为这些病人确定预期目标与预期结局并决定照护计划中适当的干预措施时，必须考虑哪些问题？这些病人的目标与预期结局会在哪些方面有所不同？
+@@ 722 [p]
+8. 指出本章所述病人管理模式的关键组成部分，并讨论每一组成部分与治疗性运动干预可能的应用之间的关系。
+@@ 723 [p]
+9. 运用本章讨论的运动任务分类法，指出你日常生活中必需或重要的由简单到复杂的活动。在分类法所述的 16 个条件变量中，每一类至少指出三项活动。
+@@ 724 [p]
+10. 你在家庭环境中随访一位病人，查看其术后运动计划及在医院开始的功能活动进展。病人是一位 55 岁的计算机分析师，10 天前接受了（左）全膝关节置换术。你已完成检查与评估。除长期（左）膝退行性关节炎病史外，病人无其他重大健康问题。如你所料，病人有（左）膝疼痛与关节活动度受限，（左）下肢力量下降。病人目前使用腋拐行走，（左）下肢可耐受负重。（a）指出最能描述该病人损伤的肌肉骨骼诊断分类（如《物理治疗师实践指南》所述）。（b）随着病人力量与关节活动度恢复，依据本章所述的运动任务分类法，设计一系列难度逐步增加的功能性运动任务，供病人在你的监督下或在家中独立练习。
+@@ 725 [h4]
+参考文献
+@@ 726 [p]
+1. American College of Sports Medicine: ACSM’s Guidelines for Exercise Testing and Prescription, ed. 8. Philadelphia: Wolthers Kluwer/Lippincott Williams & Wilkins, 2010.
+@@ 727 [p]
+2. American College of Sports Medicine: Position stand: physical activity and bone health. Med Sci Sports Exerc 36:1985-1986, 2004.
+@@ 728 [p]
+3. American Physical Therapy Association: Guide to Physical Therapist Practice, ed. 2. Phys Ther 81:9–744, 2001.
+@@ 729 [p]
+4. Baker, SM, et al: Patient participation in physical therapy goal setting. Phys Ther 81:1118–1126, 2001.
+@@ 730 [p]
+5. Basmajian, J (ed): Physical Rehabilitation Outcome Measures. Toronto: Canadian Physiotherapy Association in cooperation with Health and Welfare Canada and Canada Communications Group, 1994.
+@@ 731 [p]
+6. Beaton, DE, and Schemitsch, E: Measures of health-related quality of life and physical function. Clin Orthop 413:90–105, 2003.
+@@ 732 [p]
+7. Beattie, P: Evidence-based practice in outpatient orthopedic physical therapy: using research findings to assist clinical decision-making. Orthop Phys Ther Pract 16:27–29, 2004.
+@@ 733 [p]
+8. Beattie, P, et al: Longitudinal continuity of care is associated with high patient satisfaction with physical therapy. Phys Ther 85(10):1046–1052, 2005.
+@@ 734 [p]
+9. Beattie, P, et al: MedRisk instrument for measuring patient satisfaction with physical therapy care: a psychometric analysis. J Orthop Sports Phys Ther 35:24–32, 2005.
+@@ 735 [p]
+10. Beneciuk, JM, Bishop, MD, and George, SZ: Clinical prediction rules for physical therapy interventions: a systematic review. Phys Ther 89(2):114–124, 2009.
+@@ 736 [p]
+11. Bernsen, T: The future: documentation using the International Classification of Functioning, Disability and Health. In Kettenbach, G (ed): Writing Patient/Client Notes: Ensuring Accuracy in Documentation. Philadelphia: FA Davis, 2009, pp. 207–213.
+@@ 737 [p]
+12. Bloomfield, SA: Changes in musculoskeletal structure and function with prolonged bed rest. Med Sci Sports Exerc 29:197–206, 1997.
+@@ 738 [p]
+13. Boissonnault, WG: Prevalence of comorbid conditions, surgeries and medication use in a physical therapy outpatient population: a multi-centered study. J Orthop Sports Phys Ther 29:506–519, 1999.
+@@ 739 [p]
+14. Boissonnault, WG: Differential diagnosis: taking a step back before stepping forward. PT Magazine Phys Ther 8(11):46–54, 2000.
+@@ 740 [p]
+15. Boissonnault, WG: Patient health history including identification of health risk factors. In Boissonnault, WG (ed): Primary Care for the Physical Therapist: Examination and Triage. St. Louis: Elsevier Saunders, 2005, pp 55–65.
+@@ 741 [p]
+16. Boissonnault, WG: Review of systems. In Boissonnault, WG (ed): Primary Care for the Physical Therapist: Examination and Triage. St. Louis: Elsevier Saunders, 2005, pp 87–104.
+@@ 742 [p]
+17. Boissonnault, WG, and Badke, MB: Collecting health history information: the accuracy of a patient self-administered questionnaire in an orthopedic outpatient setting. Phys Ther 85: 531–543, 2005.
+@@ 743 [p]
+18. Botha-Scheepers, S, et al: Changes in outcome measures for impairment, activity limitation, and participation restriction over two years in osteoarthritis of the lower extremities. Arthritis and Rheum 59(12):1750–1755, 2008.
+@@ 744 [p]
+19. Brandt, EN Jr, and Pope, AM (eds): Enabling America: assessing the Role of Rehabilitation Science and Engineering. Washington, DC: Institute of Medicine, National Academies Press, 1997, p 62.
+@@ 745 [p]
+20. Butler, RJ, and Johnson, WG: Satisfaction with low back pain care. Spine J 8:510–521, 2008.
+@@ 746 [p]
+21. Campbell, R, et al: Why don’t patients do their exercises? Understanding non-compliance with physical therapy in patients with osteoarthritis of the knee. J Epidemiol Community Health 55:132–138, 2001.
+@@ 747 [p]
+22. Carcia, CR, et al: Achilles pain, stiffness, and muscle power deficits: achilles tendinitis—clinical practice guidelines linked to the International Classification of Functioning, Disability and Health from the Orthopedic Section of the American Physical Therapy Association. J Orthop Sports Phys Ther 40(9):A1–A26, 2010.
+@@ 748 [p]
+23. Charness, AL: Outcomes measurement: intervention versus outcomes. Orthop Phys Ther Clin North Am 3:147, 1994.
+@@ 749 [p]
+24. Chase, L, et al: Perceptions of physical therapists toward patient education. In Shepard, KF, Jensen, GM (eds): Handbook of Teaching for Physical Therapists. Boston: Butterworth Heinemann, 1997, p 225.
+@@ 750 [p]
+25. Childs, JD, and Cleland, JA: Development and application of clinical prediction rules to improve decision making in physical therapist practice. Phys Ther 86(1):122–131, 2006.
+@@ 751 [p]
+26. Childs, JD, et al: Neck pain: Clinical practice guidelines linked to the International Classification of Functioning, Disability and Health from the Orthopedic Section of the American Physical Therapy Association. J Orthop Sports Phys Ther 38(9):A1–A24, 2008.
+@@ 752 [p]
+27. Cibulka, TM, et al: Hip pain and mobility deficits: hip osteoarthritis—clinical practice guidelines linked to the International Classification of Functioning, Disability and Health from the Orthopedic Section of the American Physical Therapy Association. J Orthop Sports Phys Ther 39(4):A1–A25, 2009.
+@@ 753 [p]
+28. Cleland, JA, et al: Development of a clinical prediction rule for guiding treatment of a subgroup of patients with neck pain: use of thoracic spine manipulation, exercise, and patient education. Phys Ther 87(1):9–23, 2007.
+@@ 754 [p]
+29. Cormack, JC: Evidence-based practice: what it is and how to do it? J Orthop Sports Phys Ther 32:484–487, 2002.
+@@ 755 [p]
+30. Costa, LOP, et al: Core journals that publish clinical trials of physical therapy interventions. Phys Ther 90(11):1631–1640, 2010.
+@@ 756 [p]
+31. Cress, ME, et al: Functional training: muscle structure, function and performance in older women. J Orthop Sports Phys Ther 24:4-10, 1996.
+@@ 757 [p]
+32. Croakin, E: Osteopenia: implications for physical therapists managing patients of all ages. PT Magazine Phys Ther 9:80, 2001.
+@@ 758 [p]
+33. Dahl, TH: International Classification of Functioning, Disability and Health: an introduction and discussion of its potential impact on rehabilitation services and research. J Rehabil Med 34:201–204, 2002.
+@@ 759 [p]
+34. Dalton, D: The guide to physical therapist practice: Incorpo - rating preferred practice patterns into orthopedic practice. Orthop Phys Ther Pract 11:15, 1999.
+@@ 760 [p]
+35. Dekker, J, et al: Diagnosis and treatment in physical therapy: an investigation of their relationship. Phys Ther 73:568–577, 1993.
+@@ 761 [p]
+36. DeLitto, A, and Snyder-Mackler, L: The diagnostic process: Examples in orthopedic physical therapy. Phys Ther 75:203-211, 1995.
+@@ 762 [p]
+37. Dennis, JK, and McKeough, DM: Mobility. In May, BJ (ed): Home Health and Rehabilitation: Concepts of Care, ed. 2. Philadelphia: FA Davis, 1999, p 109.
+@@ 763 [p]
+38. Dickstein, R, and Deutsch, JE: Motor imagery in physical therapist practice. Phys Ther 87:942–953, 2007.
+@@ 764 [p]
+39. Edwards, I, et al: Clinical reasoning strategies in physical therapy. Phys Ther 84:312–330, 2004.
+@@ 765 [p]
+40. Escorpizo, R, et al: Creating an interface between the International Classification of Functioning, Disability and Health and physical therapist practice. Phys Ther 90(7):1053–1063, 2010.
+@@ 766 [p]
+41. Fitts, PM, and Posner, MI: Human Performance. Belmont, CA: Brooks & Cole, 1967.
+@@ 767 [p]
+42. Francis, KT: Status of the year 2000 health goals for physical activity and fitness. Phys Ther 79:405–414, 1999.
+@@ 768 [p]
+43. Friedrich, M, Cernak, T, and Maderbacher, P: The effect of brochure use versus therapist teaching on patients’ performing therapeutic exercise and on changes in impairment status. Phys Ther 76:1082–1088, 1996.
+@@ 769 [p]
+44. Fritz, JM: Clinical prediction rules in physical therapist practice: coming of age? J Orthop Sports Phys Ther 39(3):159–161, 2009.
+@@ 770 [p]
+45. Fritz, JM, and Wainner, RS: Examining diagnostic tests and evidence-based perspective. Phys Ther 81:1546–1564, 2001.
+@@ 771 [p]
+46. Fritz, JM: Evidence-based examination of diagnostic information. In Boissonnault, WG (ed): Primary Care for the Physical Therapist: Examination and Triage. St. Louis: Elsevier Saunders, 2005, pp 18–25.
+@@ 772 [p]
+47. Gahimer, JE, and Domboldt, E: Amount of patient education in physical therapy practice and perceived effects. Phys Ther 76:1089–1096, 1996.
+@@ 773 [p]
+48. Gentile, AM: Skill acquisition: action, movement, and neuromotor processes. In Carr, J, Shepherd, R (eds): Movement Science: Foundations for Physical Therapy in Rehabilitation. Gaithersburg, MD: Aspen Publishers, 2000, pp 111–187.
+@@ 774 [p]
+49. Giallonardo, L: The guide to physical therapist practice: An overview for the orthopedic physical therapist. Orthop Phys Ther Pract 10:10, 1998.
+@@ 775 [p]
+50. Godges, JJ, and Irrgang, JJ: ICF-based practice guidelines for common musculoskeletal conditions. J Orthop Sports Phys Ther 38(4):167–168, 2008.
+@@ 776 [p]
+51. Goodman, CC, and Snyder, TEK: Differential Diagnosis in Physical Therapy, ed. 4. Philadelphia: Elsevier/Saunders, 2007.
+@@ 777 [p]
+52. Grindley, EJ, Zizzi, SS, and Nasypany, AM: Use of protection motivation theory, affect, and barriers to understand and predict adherence to outpatient rehabilitation. Phys Ther 88 (12): 1529–1540, 2008.
+@@ 778 [p]
+53. Guccione, A: Arthritis and the process of disablement. Phys Ther 74:408–414, 1994.
+@@ 779 [p]
+54. Guccione, A: Physical therapy diagnosis and the relationship between impairment and function. Phys Ther 71:449–503, 1991.
+@@ 780 [p]
+55. Guccione, AA, et al: Development and testing of a self-report instrument to measure actions: Outpatient Physical Therapy Improvement in Movement Assessment Log (OPTIMAL). Phys Ther 85:515–530, 2005.
+@@ 781 [p]
+56. Hack, LM: History, purpose and structure of part two: preferred practice patterns. PT Magazine Phys Ther 6:72, 1998.
+@@ 782 [p]
+57. Hardman, AE: Physical activity and health: Current issues and research needs. Int J Epidemiol 30(5):1193–1197, 2001 58. Harris, BA: Building documentation using a clinical decisionmaking model. In Stewart, DL, Abeln, SH (eds): Documenting Functional Outcomes in Physical Therapy. St. Louis: Mosby-Year Book, 1993, p 81.
+@@ 783 [p]
+59. Hart, DL, Geril, AC, and Pfohl, RL: Outcomes process in daily practice. PT Magazine Phys Ther 5:68, 1997.
+@@ 784 [p]
+60. Heerkens, YF, et al: Impairments and disabilities: the difference: proposal for the adjustment of the International Classification of Impairments, Disabilities and Handicaps. Phys Ther 74:430–442, 1994.
+@@ 785 [p]
+61. Herbert, WJ, Heiss, DG, and Basso, DM: Influence of feedback schedule in motor performance and learning of a lumbar multifidus muscle task using rehabilitative ultrasound imaging: a randomized clinical trial. Phys Ther 88(2):261–269, 2008.
+@@ 786 [p]
+62. Herman, KM, and Reese, CS: Relationship among selected measures of impairment, functional limitation, and disability in patients with cervical spine disorders. Phys Ther 81:903–914, 2001.
+@@ 787 [p]
+63. Hernandez, ME, Goldberg, A, and Alexander, NB: Decreased muscle strength relates to self-reported stooping, crouching, or kneeling difficulty in older adults. Phys Ther 90(1):67–74, 2010.
+@@ 788 [p]
+64. Hicks, GE, et al: Preliminary development of a clinical prediction rule for determining which patients with low back pain will respond to a stabilization exercise program. Arch Phys Med Rehabil 86:1753–1762, 2005.
+@@ 789 [p]
+65. Hodges, PW: Motor control. In Kolt, GS, Snyder-Mackler, L (eds): Physical Therapies in Sport and Exercise. Edinburgh: Churchill Livingstone, 2003, pp 107–142.
+@@ 790 [p]
+66. Hush, JM, Cameron, K, and Mackey, M: Patient satisfaction with musculoskeletal physical therapy care: a systematic review. Phys Ther 91(1):25–36, 2011.
+@@ 791 [p]
+67. ICIDH: International Classification of Impairments, Disabilities and Handicaps: A Manual of Classification Relating to Consequences of Disease. Geneva: World Health Organization, 1980.
+@@ 792 [p]
+68. ICF: International Classification of Functioning, Disability and Health. Geneva: World Health Organization, 2001.
+@@ 793 [p]
+69. ICF: International Classification of Functioning, Disability and Health . Geneva: World Health Organization, 2008.
+@@ 794 [p]
+70. Iverson, CA, Sutive, TG, and Crowell, MS: Lumbopelvic manipulation for the treatment of patients with patellofemoral pain syndrome: development of a clinical prediction rule. J Orthop Sports Phys Ther 38:297–312, 2008.
+@@ 795 [p]
+71. Jensen, GM, Shepard, KF, and Hack, LM: The novice versus the experienced clinician: insights into the work of the physical therapist. Phys Ther 70:314–323, 1990.
+@@ 796 [p]
+72. Jensen, GM, et al: Attribute dimensions that distinguish master and novice physical therapy clinicians in orthopedic settings . Phys Ther 72:711–722, 1992.
+@@ 797 [p]
+73. Jensen, GM, and Lorish, C: Promoting patient cooperation with exercise programs: linking research, theory, and practice. Arthritis Care Res 7:181–189, 1994.
+@@ 798 [p]
+74. Jensen, GM, Lorish C, and Shepard, KF: Understanding patient receptivity to change: Teaching for treatment adherence. In Shepard, KF, Jensen, GM (eds): Handbook of Teaching for Physical Therapists. Boston: Butterworth-Heinemann, 1997, p 241.
+@@ 799 [p]
+75. Jensen, GM, et al: Expert practice in physical therapy. Phys Ther 80:28–43, 2000.
+@@ 800 [p]
+76. Jetle, AM, Branch, LG, and Berlin, J: Musculoskeletal impairment and physical disablement among the aged. J Gerontol 45:M203, 1990.
+@@ 801 [p]
+77. Jette, AM: Diagnosis and classification by physical therapists: a special communication. Phys Ther 69:967–969, 1989.
+@@ 802 [p]
+78. Jette, AM: Physical disablement concepts for physical therapy research and practice. Phys Ther 74:380–386, 1994.
+@@ 803 [p]
+79. Jette, AM, et al: Exercise: It’s never too late—the strong for life program. Am J Public Health 89:66–72, 1999.
+@@ 804 [p]
+80. Jette, AM: The changing language of disablement. Phys Ther 85:198–199, 2005.
+@@ 805 [p]
+81. Jette, AM: Toward a common language for function, disability, and health. Phys Ther 86:726–734, 2006.
+@@ 806 [p]
+82. Jette, DU, et al: Evidence-based practice: beliefs, attitudes, knowledge, and behaviors of physical therapists. Phys Ther 83:786–805, 2003.
+@@ 807 [p]
+83. Jones, MA: Clinical reasoning in manual therapy. Phys Ther 72:875, 1992.
+@@ 808 [p]
+84. Jones, M, Jensen, G, and Rothstein, J: Clinical reasoning in physiotherapy. In Higgs, J, Jones, M (eds): Clinical Reasoning in the Health Professions. Oxford: Butterworth-Heinemann, 1995, p 72.
+@@ 809 [p]
+85. Kauffman, TL, Nashner, LM, and Allison, LK: Balance is a critical parameter in orthopedic rehabilitation. Orthop Phys Ther Clin N Am 6:43–78, 1997.
+@@ 810 [p]
+86. Kelo, MJ: Use of self-report disability measures in daily practice. Orthop Phys Ther Pract 11:22–27, 1999.
+@@ 811 [p]
+87. Kettenbach, G: Writing Patient/Client Notes: Ensuring Accuracy in Documentation. Philadelphia: FA Davis, 2009.
+@@ 812 [p]
+88. Krebs, DE, Jetle, AM, and Assmann, SF: Moderate exercise improves gait stability in disabled elders. Arch Phys Med Rehabil 79:1489–1495, 1998.
+@@ 813 [p]
+89. Lange, B, et al: Breathe: A fame to motivate adherence of breathing exercises. J Phys Ther Educ 25(1):30–35, 2011.
+@@ 814 [p]
+90. Lee, T, and Swanson, L: What is repeated in a repetition: effects of practice conditions on motor skill acquisition. Phys Ther 71:150–156, 1991.
+@@ 815 [p]
+91. Leighton, RD, and Sheldon, MR: Model for teaching clinical decision making in a physical therapy professional curriculum. J Phys Ther Educ 11(Fall):23, 1997.
+@@ 816 [p]
+92. Lephart, S, Swanik, CB, and Fu, F: Reestablishing neuromuscular control. In Prentice, WE (ed): Rehabilitation Techniques in Sports Medicine, ed. 3. Boston: McGraw-Hill, 1999, p 88.
+@@ 817 [p]
+93. Lin, C-H, et al: Effect of task practice order in motor skill learning in adults with Parkinson’s disease. Phys Ther 87(9): 1120–113, 2007.
+@@ 818 [p]
+94. Logerstedt, DS, et al: Knee pain and mobility impairments: meniscal and articular cartilage lesions — clinical practice guidelines linked to the International Classification of Functioning, Disabilty and Health from the Orthopedic Section of the American Physical Therapy Association. J Orthop Sports Phys Ther 40(6):A1–A35, 2010.
+@@ 819 [p]
+95. Logerstedt, DS, et al: Knee stability and movement coordination impairments: knee ligament sprain—clinical practice guidelines linked to the International Classification of Functioning, Disabilty and Health from the Orthopedic Section of the American Physical Therapy Association. J Orthop Sports Phys Ther 40(4):A1–A37, 2010.
+@@ 820 [p]
+96. Lorish, C, and Gale, JR: Facilitating behavior change: strategies for education and practice. J Phys Ther Educ 13:31–37, 1999.
+@@ 821 [p]
+97. Lusardi, MM: Mobility and balance in later life. Orthop Phys Ther Clin N Am 6:305, 1997.
+@@ 822 [p]
+98. Magee, DJ: Orthopedic Physical Assessment , ed. 5. Elsevier/ Saunders, St. Louis, 2008.
+@@ 823 [p]
+99. Maher, CG, et al: A description of the trials, reviews, and practice guidelines indexed in the PEDro database. Phys Ther 88(9): 1068–1077, 2008.
+@@ 824 [p]
+100. Mahler, HI, Kulik, JA, and Tarazi, RY: Effects of videotape intervention at discharge on diet and exercise compliance after coronary bypass surgery. J Cardiopulm Rehabil 19(3):170–177, 1999.
+@@ 825 [p]
+101. Malouin, F, and Richards, CL: Mental practice for relearning locomotor skills. Phys Ther 90(2):240–251, 2010.
+@@ 826 [p]
+102. Maring, J: Effects of mental practice on rate of skill acquisition. Phys Ther 70:165–172, 1990.
+@@ 827 [p]
+103. May, BJ, and Dennis, JK: Clinical decision-making. In May, BJ (ed): Home Health and Rehabilitation: Concepts of Care, ed. 2. Philadelphia: FA Davis, 1999, p 21.
+@@ 828 [p]
+104. May, BJ, and Dennis, JK: Expert decision-making in physical therapy: A survey of practitioners. Phys Ther 71:190–202, 1991.
+@@ 829 [p]
+105. McArdle, WD, Katch, FI, and Katch, VL: Nutrition, Energy, and Human Performance, ed. 7. Philadelphia: Wolthers Kluwer/ Lippincott Williams & Wilkins, 2009.
+@@ 830 [p]
+106. McNevin, NH, Wulf, G, and Carlson, C: Effects of attentional focus, self-control, and dyad training on motor learning: implications for physical rehabilitation. Phys Ther 80: 373-385, 2000.
+@@ 831 [p]
+107. McPoil, TG, Martin, RL, and Cornwall, MW: Heel pain: Plantar fasciitis—clinical practice guidelines linked to the International Classification of Functioning, Disabilty, and Health from the Orthopedic Section of the American Physical Therapy Association. The Journal of Orthop Sports Phys Ther 38(4):A1–A18, 2008.
+@@ 832 [p]
+108. Michaleff, ZA, et al: CENTRAL, PEDro, PubMed, and EMBASE are the most comprehensive databases indexing randomized controlled trials of physical therapy interventions. Phys Ther 91(2):190–197, 2011.
+@@ 833 [p]
+109. Miller, PA, McKibbon, KA, and Haynes, RB: A quantitative analysis of research publications in physical therapy journals. Phys Ther 83:123–131, 2003.
+@@ 834 [p]
+110. Mueller, MJ, and Maluf, KS: Tissue adaptation to physical stress: A proposed “physical stress theory” to guide physical therapist practice, education, and research. Phys Ther 82: 382–403, 2002.
+@@ 835 [p]
+111. Myers, JB, et al: Reflexive muscle activation alterations in shoulders with anterior glenohumeral instability. Am J Sports Med 32(4):1013–1021, 2004.
+@@ 836 [p]
+112. Nagi, S: Some conceptual issues in disability and rehabilitation. In Sussman MB (ed): Sociology and Rehabilitation. Washington, DC: American Sociological Association, 1965, pp 100–113.
+@@ 837 [p]
+113. Nagi, SZ: Disability concepts revisited: Implications for prevention. In Pope, AM, Tarlov, AR (eds): Disability in America. Washington, DC: National Academies Press, 1991.
+@@ 838 [p]
+114. Nashner, L: Sensory, neuromuscular and biomechanical contributions to human balance. In Duncan, P (ed): Balance. Alexandria, VA: American Physical Therapy Association, 1990, p 5.
+@@ 839 [p]
+115. National Advisory Board on Medical Rehabilitation Research, Draft V: Report and Plan for Medical Rehabilitation Research. Bethesda, MD: National Institutes of Health, 1992.
+@@ 840 [p]
+116. Nemshick, MT: Designing educational interventions for patients and families. In Shepard, KF, Jensen, GM (eds): Handbook of Teaching for Physical Therapists. Boston: ButterworthHeinemann, 1997, p 303.
+@@ 841 [p]
+117. Nicholson, DE: Teaching psychomotor skills. In Shepard, KF, Jensen, GM (eds): Handbook of Teaching for Physical Therapists. Boston: Butterworth-Heinemann, 1997, p 271.
+@@ 842 [p]
+118. O’Sullivan, SB, and Schmitz, TJ: Improving Functional Outcomes. Philadelphia: FA Davis, 2010.
+@@ 843 [p]
+119. O’Sullivan, SB, and Schmitz, TJ: Physical Rehabilitation: Assessment and Treatment, ed. 5. Philadelphia: FA Davis, 2007.
+@@ 844 [p]
+120. Ozer, MN, Payton, OD, and Nelson, CE: Treatment Planning for Rehabilitation: A Patient-Centered Approach. New York: McGraw-Hill, 2000.
+@@ 845 [p]
+121. Page, SJ, et al: Mental practice combined with physical practice for upper limb motor deficits in subacute stroke. Phys Ther 81:1455–1462, 2001.
+@@ 846 [p]
+122. Posner, JD, et al: Physical determinants in independence in mature women. Arch Phys Med Rehabil 76:373–380, 1995.
+@@ 847 [p]
+123. Philadelphia Panel evidence-based clinical practice guidelines on selected rehabilitation interventions for knee pain. Phys Ther 81:1675–1700, 2001.
+@@ 848 [p]
+124. Philadelphia Panel evidence-based clinical practice guidelines on selected rehabilitation interventions for low back pain. Phys Ther 81:1641–1674, 2001.
+@@ 849 [p]
+125. Philadelphia Panel evidence-based clinical practice guidelines on selected rehabilitation interventions for neck pain. Phys Ther 81:1701–1717, 2001.
+@@ 850 [p]
+126. Philadelphia Panel evidence-based clinical practice guidelines on selected rehabilitation interventions for shoulder pain. Phys Ther 81:1719–1730, 2001.
+@@ 851 [p]
+127. Philadelphia Panel evidence-based clinical practice guidelines on selected rehabilitation interventions: overview and methodology. Phys Ther 81:1629–1640, 2001.
+@@ 852 [p]
+128. Public Health Service: Healthy People 2000 : National Health Promotion and Disease Prevention Objectives. Washington, DC: U.S. Department of Health and Human Services, 1991.
+@@ 853 [p]
+129. Puthoff, ML, and Nielsen, DH: Relationships among impairments in lower extremity strength and power, functional limitations, and disability in older adults. Phys Ther 87(10): 1334–1347, 2007.
+@@ 854 [p]
+130. Randall, KE, and McEwen, IR: Writing patient-centered functional goals. Phys Ther 80(12):1197–1203, 2000.
+@@ 855 [p]
+131. Rantanen, T, et al: Disability, physical activity and muscle strength in older women: The Women’s Health and Aging Study. Arch Phys Med Rehabil 80:130–135, 1999.
+@@ 856 [p]
+132. Reo, JA, and Mercer, VS: Effects of live, videotaped, or written instruction on learning an upper extremity exercise program. Phys Ther 84:622–633, 2004.
+@@ 857 [p]
+133. Riddle, DL, and Stratford, PW: Use of generic vs. regionspecific functional status measures on patients with cervical spine disorders. Phys Ther 78:951–963, 1998.
+@@ 858 [p]
+134. Riddle, DL, et al: Preliminary validation of a clinical assessment for deep vein thrombosis in orthopedic outpatients. Clin Orthop 432:252–257, 2005.
+@@ 859 [p]
+135. Rivett, DA, and Higgs, J: Hypothesis generation in the clinical reasoning behavior of manual therapists. J Phys Ther Educ 11: 40–49, 1997.
+@@ 860 [p]
+136. Rose, SJ: Physical therapy diagnosis: Role and function. Phys Ther 69:535–537, 1989.
+@@ 861 [p]
+137. Rothstein, JM: Disability and our identity. Phys Ther 74: 375-378, 1994.
+@@ 862 [p]
+138. Rohstein, JM, and Echternach, JL: Hypothesis-oriented algorithm for clinicians: a method for evaluation and treatment planning. Phys Ther 66:1388–1394, 1986.
+@@ 863 [p]
+139. Rothstein, JM, Echternach, JL, and Riddle, DL: The HypothesisOriented Algorithm for Clinicians II (HOAC II): A guide for patient management. Phys Ther 83:455–470, 2003.
+@@ 864 [p]
+140. Roush, SE, and Sonstroen, RJ: Development of the Physical Therapy Outpatient Satisfaction Survey (PTOPS). Phys Ther 79:159–170, 1999.
+@@ 865 [p]
+141. Ruhland, JL, and Shields, RK: The effects of a home exercise program on impairment and health-related quality of life in persons with chronic peripheral neuropathies. Phys Ther 77:1026–1039, 1997.
+@@ 866 [p]
+142. Sackett, DL, et al: Evidence-based medicine: what it is and what it isn’t. BMJ 312:71–72, 1996.
+@@ 867 [p]
+143. Sackett, DL, et al: Evidence-Based Medicine: How to Practice and Teach EBM, ed. 2. New York: Churchill Livingstone, 2000.
+@@ 868 [p]
+144. Sahrmann, SA: Diagnosis by physical therapists: a prerequisite for treatment. Phys Ther 68:1703–1706, 1988.
+@@ 869 [p]
+145. Sahrmann, S: Are physical therapists fulfilling their responsibilities as diagnostician? J Orthop Sports Phys Ther 35:556–558, 2005.
+@@ 870 [p]
+146. Scalzitti, DA: Evidence-based guidelines: application to clinical practice. Phys Ther 81:1622–1628, 2001.
+@@ 871 [p]
+147. Schenkman, M, and Butler, R: A model for multisystem evaluation, interpretation, and treatment of individuals with neurologic dysfunction. Phys Ther 69:538–547, 1989.
+@@ 872 [p]
+148. Schmidt, RA, and Lee, TD: Motor Control and Learning: A Behavioral Emphasis, ed. 4. Champaign, IL: Human Kinetics Publishers, 2005.
+@@ 873 [p]
+149. Schmidt, RA, and Wrisberg, CA: Motor Learning and Performance: A Problem-Based Learning Approach, ed. 3. Champaign, IL: Human Kinetics Publishers, 2004.
+@@ 874 [p]
+150. Schmitz, TJ: Coordination assessment. In O’Sullivan, SB, Schmitz, TJ (eds): Physical Rehabilitation: Assessment and Treatment, ed. 4. Philadelphia: FA Davis, 2001, p 157.
+@@ 875 [p]
+151. Seyer, MA: Balance deficits: Examination, evaluation, and intervention. In Montgomery, PC, Connolly, BH (eds): Clinical Applications for Motor Control. Thorofare, NJ, Slack, 2003, pp 271–306.
+@@ 876 [p]
+152. Seymour, CJ, and Dybel, GJ: Developing skillful clinical decisionmaking: evaluation of two classroom teaching strategies. J Phys Ther Educ 10:77–81, 1996.
+@@ 877 [p]
+153. Shuijs, EM, Kok, GJ, and van der Zee, J: Correlates of exercise compliance in physical therapy. Phys Ther 73:771–786, 1993.
+@@ 878 [p]
+154. Shumway-Cook, A, and Woollacott, MH: Motor Control: Translating Research in Clinical Practice, ed. 3. Philadelphia: Wolthers Kluwer/Lippincott Williams & Wilkins, 2007.
+@@ 879 [p]
+155. Shumway-Cook, A, et al: The effect of multidimensional exercises on balance, mobility and fall risk in community-dwelling older adults. Phys Ther 77:46–57, 1997.
+@@ 880 [p]
+156. Sidaway, B, and Trzaska, A: Can mental practice increase ankle dorsiflexor torque? Phys Ther 85:1053–1060, 2005.
+@@ 881 [p]
+157. Stanton, TR, et al: Critical appraisal of clinical prediction rules that aim to optimize treatment selection for musculoskeletal conditions. Phys Ther 90(6):843–859, 2010.
+@@ 882 [p]
+158. Steiner, WA, et al: Use of the ICF model as a clinical problemsolving tool in physical therapy and rehabilitation medicine. Phys Ther 82:1098–1107, 2002.
+@@ 883 [p]
+159. Stucki, G, Ewert, T, and Cieza, A: Value and application of the ICF in rehabilitation medicine. Disabil Rehabil 24:932–938, 2002.
+@@ 884 [p]
+160. Stucki, G: International Classification of Functioning, Disability and Health (ICF): a promising framework and classification for rehabilitation medicine. Am J Phys Med Rehabil 84(10):733– 740, 2005.
+@@ 885 [p]
+161. Sullivan, PE, and Markos, PD: Clinical Decision Making in Therapeutic Exercise. Norwalk, CT: Appleton & Lange, 1995.
+@@ 886 [p]
+162. Sutive, TG, et al: Development of a clinical prediction rule for diagnosing hip osteoarthritis in individuals with unilateral hip pain. J Orthop Sports Phys Ther 38:542–550, 2008.
+@@ 887 [p]
+163. Swanson, G: Functional outcome report: The next generation in physical therapy reporting. In Stewart, DL, Abeln, SH (eds): Documenting Functional Outcomes in Physical Therapy. St. Louis: Mosby-Year Book, 1993, p 101.
+@@ 888 [p]
+164. Task Force for Standards of Measurement in Physical Therapy: Standards for tests and measurements in physical therapy practice. Phys Ther 71:589–622, 1991.
+@@ 889 [p]
+165. Taylor, JD, Fletcher, JP, and Tiarks, J: Impact of physical therapist-directed exercise counseling combined with fitness center-based exercise training on muscular strength and exercise capacity in people with type 2 diabetes: A randomized clinical trial. Phys Ther 89(9):884–892, 2009.
+@@ 890 [p]
+166. Taylor, NF, et al: Therapeutic exercise in physiotherapy practice is beneficial: a summary of systematic reviews 2002–2005. Aust J Physiother 53(1):7–16, 2007.
+@@ 891 [p]
+167. Thoomes, EJ, and Schmit, MS: Practical use of the HOAC-II for clinical decision-making and subsequent therapeutic interventions in an elite athlete with low back pain. J Orthop Sports Phys Ther 41(2):108–117, 2011.
+@@ 892 [p]
+168. Towards a Common Language for Functioning, Disability and Health. Geneva: World Health Organization, 2001. Available at: http://www.who.int/classifications/icf/training/ icfbeginnersguide. pdf. Accessed July 8, 2011.
+@@ 893 [p]
+169. Triffitt, PD: The relationship between motion of the shoulder and the stated ability to perform activities of daily living. J Bone Joint Surg Am 80(1):41–46, 1998.
+@@ 894 [p]
+170. Turk, D: Correlates of exercise compliance in physical therapy. Phys Ther 73:783–786, 1993.
+@@ 895 [p]
+171. Umphried, D: Physical therapy differential diagnosis in the clinical setting. J Phys Ther Educ 9:39, 1995.
+@@ 896 [p]
+172. Office of Disease Prevention and Health Promotion: Healthy People 2010 . Washington, DC: U.S. Department of Health and Human Services, 1998. Available at: http://www.healthypeople.gov/ 173. Office of Disease Prevention and Health Promotion: Healthy People 2020 . Washington, DC: U.S. Department of Health and Human Services, Available at: http://www.healthypeople.gov/. Accessed June 2011.
+@@ 897 [p]
+174. Van Sant, AE: Motor control, motor learning and motor development. In Montgomery, PC, Connolly, BH (eds): Clinical Applications for Motor Control. Thorofare, NJ: Slack, 2003, pp 25–52.
+@@ 898 [p]
+175. Verbrugge, L, and Jetle, A: The disablement process. Soc Sci Med 38:1, 1994.
+@@ 899 [p]
+176. Wainwright, SF, Shephard, K, and Harman, LB: Factors that influence the clinical decision making of novice and experienced physical therapists. Phys Ther 91(1):87–101, 2011.
+@@ 900 [p]
+177. Warner, L, and Mc Neill, ME: Mental imagery and its potential for physical therapy. Phys Ther 68:516–521, 1988.
+@@ 901 [p]
+178. Winstein, C, and Sullivan, K: Some distinctions on the motor learning/motor control distinction. Neurol Rep 21:42, 1997.
+@@ 902 [p]
+179. Winstein, C, et al: Learning a partial weight-bearing skill effectiveness of two forms of feedback. Phys Ther 76:985–993, 1996.
+@@ 903 [p]
+180. Winstein, C: Knowledge of results and motor learning: Implications for physical therapy. Phys Ther 71:140–149, 1991.
+@@ 904 [p]
+181. Wulf, G, Hob, M, and Prinz, W: Instructions for motor learning: differential effects of internal vs. external focus of attention. J Motor Behav 30:169–179, 1998.
+@@ 905 [p]
+182. Zinny, NJ: Physical therapy management from physical therapy diagnosis: necessary but insufficient. J Phys Ther Educ 9:36, 1995.
+@@ 906 [p]
+183. Zinny, NJ: Diagnostic classification and orthopedic physical therapy practice: what we can learn from medicine. J Orthop Sports Phys Ther 34:105–109, 2004.

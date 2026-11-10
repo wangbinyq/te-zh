@@ -1,0 +1,63 @@
+---
+import Base from "../layouts/Base.astro";
+import { book, parts, chapters } from "../data/chapters.js";
+import { translatedChapters } from "../lib/book.js";
+
+const base = import.meta.env.BASE_URL;
+const done = new Set(translatedChapters(chapters).map((c) => c.slug));
+const byNum = new Map(chapters.map((c) => [c.num, c]));
+---
+
+<Base>
+  <main class="cover">
+    <p class="kicker">{book.edition} · {book.year}</p>
+    <h1>{book.title}</h1>
+    <p class="sub">{book.subtitle}</p>
+    <p class="en-title">{book.titleEn}</p>
+    <p class="byline">
+      {book.author}
+      <small>{book.authorEn} · {book.publisher}</small>
+    </p>
+
+    <div id="resume-card" class="resume-card" hidden></div>
+
+    {
+      parts.map((part) => (
+        <>
+          <p class="part-label">
+            {part.id} · {part.title}
+          </p>
+          <ol class="toc">
+            {part.chapters.map((num) => {
+              const c = byNum.get(num);
+              return (
+                <li data-slug={c.slug}>
+                  {done.has(c.slug) ? (
+                    <a href={`${base}${c.slug}/`}>
+                      <span class="num">{c.num}</span>
+                      <span class="label">{c.title}</span>
+                    </a>
+                  ) : (
+                    <span class="pending">
+                      <span class="num">{c.num}</span>
+                      <span class="label">{c.title}</span>
+                      <span class="state">待译</span>
+                    </span>
+                  )}
+                </li>
+              );
+            })}
+          </ol>
+        </>
+      ))
+    }
+
+    <p class="note">
+      中文译文由机器翻译完成，供学习参考，与原著出版方无关。原文版权归 F. A. Davis Company 与作者所有。
+    </p>
+
+    <script>
+      import "../scripts/index-progress.js";
+    </script>
+  </main>
+</Base>

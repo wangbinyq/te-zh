@@ -1,0 +1,166 @@
+---
+import Base from "../layouts/Base.astro";
+import { chapters } from "../data/chapters.js";
+import { loadChapter, translatedChapters } from "../lib/book.js";
+
+export function getStaticPaths() {
+  return translatedChapters(chapters).map((c) => ({ params: { slug: c.slug } }));
+}
+
+const { slug } = Astro.params;
+const chapter = chapters.find((c) => c.slug === slug);
+const { blocks } = loadChapter(slug);
+const base = import.meta.env.BASE_URL;
+const i = chapters.findIndex((c) => c.slug === slug);
+const prev = chapters[i - 1];
+const next = chapters[i + 1];
+const done = new Set(translatedChapters(chapters).map((c) => c.slug));
+---
+
+<Base>
+  <header class="bar">
+    <a href={base}>目录</a>
+    <span class="bar-title">{chapter.title}</span>
+    <button id="open-settings" type="button">设置</button>
+  </header>
+
+  <main data-slug={chapter.slug} data-title={chapter.title} data-num={chapter.num}>
+    <div id="resume" class="resume" hidden></div>
+    <p class="kicker">第 {chapter.num} 章</p>
+    <h1>{chapter.title}</h1>
+    <p class="orig-title">{chapter.titleEn}</p>
+
+    <article>
+      {
+        blocks.map((b) => {
+          if (b.type === "table") {
+            return (
+              <div class="block table-block" id={`b-${b.i}`} data-anchor={b.i}>
+                <div class="table-wrap">
+                  <table>
+                    {b.zhRows ? (
+                      <>
+                        <thead>
+                          <tr>{b.zhRows[0].map((c) => <th>{c}</th>)}</tr>
+                        </thead>
+                        <tbody>
+                          {b.zhRows.slice(1).map((row) => (
+                            <tr>{row.map((c) => <td>{c}</td>)}</tr>
+                          ))}
+                        </tbody>
+                      </>
+                    ) : (
+                      <tbody>
+                        {(b.enRows ?? []).map((row) => (
+                          <tr>{row.map((c) => <td>{c}</td>)}</tr>
+                        ))}
+                      </tbody>
+                    )}
+                  </table>
+                </div>
+                {b.zhRows && (
+                  <div class="en">
+                    <table>
+                      <tbody>
+                        {(b.enRows ?? []).map((row) => (
+                          <tr>{row.map((c) => <td>{c}</td>)}</tr>
+                        ))}
+                      </tbody>
+                    </table>
+                  </div>
+                )}
+              </div>
+            );
+          }
+
+          const level = b.type === "h1" ? 2 : b.type === "h2" ? 3 : b.type === "h3" ? 4 : 5;
+          const Tag = `h${level}`;
+          const text = b.zh ?? b.en;
+
+          if (b.type.startsWith("h")) {
+            if (b.type === "h1") return null;
+            return (
+              <Tag id={`b-${b.i}`} data-anchor={b.i}>
+                {text}
+                {b.zh && <span class="en">{b.en}</span>}
+              </Tag>
+            );
+          }
+
+          if (b.type === "li") {
+            return (
+              <div class="block li-block" id={`b-${b.i}`} data-anchor={b.i}>
+                <p class={b.zh ? "zh li" : "standalone-en"}>{text}</p>
+                {b.zh && <p class="en" lang="en">{b.en}</p>}
+              </div>
+            );
+          }
+
+          if (b.type === "caption") {
+            return (
+              <p id={`b-${b.i}`} class="block figcap" data-anchor={b.i}>
+                {text}
+                {b.zh && <span class="en" lang="en">{b.en}</span>}
+              </p>
+            );
+          }
+
+          return (
+            <div id={`b-${b.i}`} class="block" data-anchor={b.i}>
+              <p class={b.zh ? "zh" : "standalone-en"} lang={b.zh ? "zh-CN" : "en"}>
+                {text}
+              </p>
+              {b.zh && <p class="en" lang="en">{b.en}</p>}
+            </div>
+          );
+        })
+      }
+    </article>
+
+    <nav class="pager">
+      {
+        prev && done.has(prev.slug) && (
+          <a href={`${base}${prev.slug}/`}>
+            <span class="dir">上一章</span>
+            {prev.title}
+          </a>
+        )
+      }
+      {
+        next && done.has(next.slug) && (
+          <a class="next" href={`${base}${next.slug}/`}>
+            <span class="dir">下一章</span>
+            {next.title}
+          </a>
+        )
+      }
+    </nav>
+  </main>
+
+  <dialog id="settings" class="sheet">
+    <div class="sheet-head">
+      <h2>阅读设置</h2>
+      <button type="button" class="sheet-close" data-close aria-label="关闭">×</button>
+    </div>
+
+    <p class="sheet-label">字号</p>
+    <div class="seg" id="font-seg">
+      <button type="button" data-font="0">中</button>
+      <button type="button" data-font="1">大</button>
+      <button type="button" data-font="2">特大</button>
+    </div>
+
+    <label class="sheet-row">
+      <span>显示英文原文</span>
+      <input type="checkbox" id="show-en" />
+      <span class="switch" aria-hidden="true"></span>
+    </label>
+  </dialog>
+
+  <script>
+    import "../scripts/chapter-progress.js";
+    import { initSettings } from "../scripts/settings.js";
+
+    initSettings();
+  </script>
+</Base>
