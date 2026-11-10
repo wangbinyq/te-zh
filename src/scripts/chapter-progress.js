@@ -50,12 +50,15 @@ if (main) {
 
   function schedule() {
     window.clearTimeout(timer);
-    timer = window.setTimeout(commit, 600);
+    timer = window.setTimeout(commit, 250);
   }
 
   window.addEventListener("scroll", schedule, { passive: true });
   document.addEventListener("visibilitychange", () => {
-    if (document.visibilityState === "hidden") commit();
+    if (document.visibilityState === "hidden") {
+      window.clearTimeout(timer);
+      commit();
+    }
   });
 
   const saved = get(slug);
