@@ -1,0 +1,826 @@
+@@ 643 [p]
+注意事项：据报道，肘部在创伤或烧伤后可发生异位骨化（关节周围软组织中出现异位骨）。一般认为，对肘屈肌进行强烈、用力的被动牵伸可能增加该情况发生的风险。因此，在肘部区域施加被动或辅助牵伸时应非常轻柔、渐进。也可考虑使用主动牵伸，如主动肌收缩。
+@@ 644 [h4]
+前臂旋后或旋前
+@@ 645 [p]
+增加前臂旋后或旋前。
+@@ 646 [h4]
+手的位置与操作程序
+@@ 647 [li]
+病人肱骨支撑于治疗床上、肘屈曲 90°，握住前臂远端。
+@@ 648 [li]
+稳定肱骨。
+@@ 649 [h4]
+伸肘　视频 4.5
+@@ 650 [p]
+增加伸肘（牵伸肘屈肌）（图 4.23）。
+@@ 651 [li]
+将前臂旋后或旋前至刚超过组织抵抗点。
+@@ 652 [li]
+确保牵伸力施加于绕尺骨旋转的桡骨。不要扭转手，以避免对腕关节产生应力。
+@@ 653 [li]
+在伸肘位重复该程序。务必稳定肱骨，防止肩关节内旋或外旋。
+@@ 654 [p]
+严重腕屈曲挛缩，可能有必要将病人的手置于治疗床边缘之外。
+@@ 655 [li]
+将前臂稳定于治疗床上。
+@@ 656 [li]
+为拉长腕屈肌，伸展病人的腕关节，允许手指被动屈曲。
+@@ 657 [h4]
+桡偏
+@@ 658 [h4]
+腕与手：特殊考虑
+@@ 659 [p]
+增加桡偏。
+@@ 660 [h4]
+视频 4.6
+@@ 661 [p]
+手指的外在肌跨越腕关节，因此可能影响腕关节的活动度。腕部运动还可能受肘和前臂位置的影响，因为腕屈肌和腕伸肌近端附着于肱骨上髁。
+@@ 662 [p]
+牵伸腕部肌肉时，牵伸力应施加于掌指（MCP）关节近端，手指应保持放松。
+@@ 663 [h4]
+病人体位
+@@ 664 [p]
+牵伸腕与手部肌肉时，让病人坐在你旁边的椅子上，前臂支撑于桌面，以有效稳定前臂。
+@@ 665 [h4]
+腕屈曲
+@@ 666 [p]
+增加腕屈曲。
+@@ 667 [h4]
+手的位置与操作程序
+@@ 668 [li]
+前臂可旋后、置于中立位或旋前。
+@@ 669 [li]
+将前臂稳定于桌面，握住病人手背。
+@@ 670 [li]
+为拉长腕伸肌，屈曲病人的腕关节，允许手指被动伸展。
+@@ 671 [li]
+为进一步拉长腕伸肌，伸展病人的肘关节。
+@@ 672 [h4]
+腕伸展
+@@ 673 [p]
+增加腕伸展（图 4.24）。
+@@ 674 [h4]
+手的位置与操作程序
+@@ 675 [li]
+使前臂旋前或置于中立位，握住病人手掌侧。若存在
+@@ 676 [caption]
+图 4.24　增加腕伸展牵伸程序中手的位置与前臂的稳定。
+@@ 677 [h4]
+手的位置与操作程序
+@@ 678 [li]
+沿第 5 掌骨握住手的尺侧。
+@@ 679 [li]
+将腕保持于中立位。
+@@ 680 [li]
+稳定前臂。
+@@ 681 [li]
+使腕桡偏以拉长腕的尺偏肌。
+@@ 682 [h4]
+尺偏
+@@ 683 [p]
+增加尺偏。
+@@ 684 [h4]
+手的位置与操作程序
+@@ 685 [li]
+沿第 2 掌骨握住手的桡侧，不要握拇指。
+@@ 686 [li]
+稳定前臂。
+@@ 687 [li]
+使腕尺偏以拉长桡偏肌。
+@@ 688 [p]
+手指：特殊考虑　视频 4.7　手指关节结构以及内在肌和多关节外在肌之间关系的复杂性，要求仔细检查与评估因运动受限造成手功能丧失的各种因素。治疗师必须确定受限是源于关节受限、肌肉-肌腱单元可延展性下降，还是肌腱或韧带粘连。手指应始终逐个牵伸，不可同时牵伸。若某块外在肌限制运动，先在一个关节上拉长它并稳定其他关节；然后保持已拉长的位置，再跨第二个关节牵伸，如此继续，直至获得正常长度。如第 3 章所述，运动应从最远端的关节开始，以尽量减少对手指小关节面的剪切和压缩应力。处理肌腱粘连的具体干预措施在第 19 章描述。
+@@ 689 [h4]
+拇指腕掌（CMC）关节
+@@ 690 [p]
+增加拇指腕掌（CMC）关节的屈曲、伸展、外展或内收。
+@@ 691 [h4]
+手的位置与操作程序
+@@ 692 [li]
+用你的拇指和示指稳定大多角骨。
+@@ 693 [li]
+用另一只手的拇指和示指握住第 1 掌骨（不是第 1 指骨）。
+@@ 694 [li]
+按所需方向移动第 1 掌骨，以增加 CMC 关节的屈曲、伸展、外展和内收。
+@@ 695 [h4]
+手指的掌指（MCP）关节
+@@ 696 [p]
+增加手指 MCP 关节的屈曲、伸展、外展或内收。
+@@ 697 [p]
+按解剖运动平面划分的手法牵伸技术
+@@ 698 [h4]
+手的位置与操作程序
+@@ 699 [li]
+用你的拇指和示指稳定掌骨。
+@@ 700 [li]
+用另一只手的拇指和示指握住近节指骨。
+@@ 701 [li]
+将腕保持于中立位。
+@@ 702 [li]
+按牵伸所需方向移动 MCP 关节。
+@@ 703 [li]
+允许指间（IP）关节被动屈曲或伸展。
+@@ 704 [h4]
+PIP 与 DIP 关节
+@@ 705 [p]
+增加近端和远端指间（PIP 和 DIP）关节的屈曲或伸展。
+@@ 706 [h4]
+手的位置与操作程序
+@@ 707 [li]
+用你的拇指和手指握住中节或远节指骨。
+@@ 708 [li]
+用另一只手的拇指和手指稳定近节或中节指骨。
+@@ 709 [li]
+按牵伸所需方向移动 PIP 或 DIP 关节。
+@@ 710 [h4]
+牵伸手指特定的外在肌和内在肌
+@@ 711 [p]
+手部外在肌和内在肌的拉长在第 3 章描述。为将这些肌肉牵伸超过其现有范围，采用与被动关节活动度相同的手的位置和稳定方法。技术的唯一区别是治疗师将每个节段移入牵伸范围。
+@@ 712 [h4]
+下肢牵伸
+@@ 713 [p]
+髋：特殊考虑　视频 4.8　由于髋部肌肉附着于骨盆或腰椎，拉长髋部周围的肌肉时必须始终稳定骨盆。若骨盆未稳定，牵伸力会传递至腰椎，从而在腰椎出现不想要的代偿性运动。
+@@ 714 [h4]
+髋屈曲
+@@ 715 [p]
+在屈膝下增加髋屈曲（牵伸臀大肌）。
+@@ 716 [p]
+A　B
+@@ 717 [caption]
+图 4.25　为增加伸膝位髋屈曲（牵伸腘绳肌）的牵伸程序中，对侧股骨的手的位置与稳定，治疗师（A）站在治疗床旁或（B）跪于治疗床上。
+@@ 718 [h4]
+手的位置与操作程序
+@@ 719 [li]
+同时屈曲髋和膝。
+@@ 720 [li]
+将对侧股骨稳定于伸展位，防止骨盆后倾。
+@@ 721 [li]
+将病人的髋和膝移至完全屈曲，以拉长单关节髋伸肌。
+@@ 722 [h4]
+伸膝位髋屈曲
+@@ 723 [p]
+增加伸膝位髋屈曲（牵伸腘绳肌）（图 4.25 A 和 B）。
+@@ 724 [h4]
+手的位置与操作程序
+@@ 725 [li]
+在病人膝完全伸展的情况下，用你的上肢或肩支撑病人小腿。
+@@ 726 [li]
+用另一只手、用皮带或在他人协助下，沿大腿前侧稳定对侧下肢。
+@@ 727 [li]
+在膝伸展 0°、髋处于中立旋转位的情况下，尽可能屈曲髋关节。
+@@ 728 [p]
+注：在屈髋之前将髋外旋，可使牵伸力集中于内侧腘绳肌；将髋内旋，可使牵伸力集中于外侧腘绳肌。
+@@ 729 [h4]
+治疗师的替代体位
+@@ 730 [p]
+跪在垫上，将病人的足跟或胫骨远端抵住你的肩部（见图 4.25 B）。将你的双手置于大腿远端前侧，以保持膝伸展。用绕过对侧大腿远端的皮带或毛巾将对侧下肢固定于伸展位，并由治疗师的膝将其固定。
+@@ 731 [h4]
+髋伸展　视频 4.9
+@@ 732 [p]
+增加髋伸展（牵伸髂腰肌）（图 4.26）。
+@@ 733 [caption]
+图 4.26　病人仰卧，为增加髋伸展（牵伸髂腰肌）时骨盆的手的位置与稳定。在此体位下屈膝也可拉长股直肌。
+@@ 734 [caption]
+图 4.27　病人俯卧，为增加髋过度伸展时手的位置与稳定。
+@@ 735 [h4]
+屈膝位髋伸展
+@@ 736 [p]
+同时增加髋伸展和膝屈曲（牵伸股直肌）。
+@@ 737 [h4]
+病人体位
+@@ 738 [p]
+采用前述在仰卧位或俯卧位增加髋伸展的任一体位（见图 4.26 和 4.27）。
+@@ 739 [h4]
+手的位置与操作程序
+@@ 740 [h4]
+病人体位
+@@ 741 [p]
+让病人卧于靠近治疗床边缘处，使受牵伸的髋能伸展超过中立位。将对侧髋和膝屈向病人胸前，以稳定骨盆和脊柱。
+@@ 742 [h4]
+手的位置与操作程序
+@@ 743 [li]
+用一只手将对侧腿稳定于病人胸前；如有可能，让病人自己抱住大腿并将其保持于胸前，以防牵伸过程中骨盆前倾。
+@@ 744 [li]
+用另一只手在大腿远端前侧向下施压，使受牵伸的髋伸展或过度伸展。允许膝伸展，以免双关节的股直肌限制范围。
+@@ 745 [h4]
+替代体位
+@@ 746 [p]
+病人可俯卧（图 4.27）。
+@@ 747 [h4]
+手的位置与操作程序
+@@ 748 [li]
+支撑并握住病人股骨远端前侧。
+@@ 749 [li]
+稳定病人臀部，防止骨盆移动。
+@@ 750 [li]
+将股骨抬离床面，使病人的髋伸展。
+@@ 751 [li]
+在受牵伸侧髋保持完全伸展的情况下，将手移至胫骨远端，尽可能轻柔地屈曲该侧膝关节。
+@@ 752 [li]
+不要让髋外展或旋转。
+@@ 753 [h4]
+髋外展　视频 4.10
+@@ 754 [p]
+增加髋外展（牵伸内收肌）（图 4.28）。
+@@ 755 [caption]
+图 4.28　为增加髋外展的牵伸程序中，对侧下肢（或骨盆）的手的位置与稳定。
+@@ 756 [p]
+按解剖运动平面划分的手法牵伸技术
+@@ 757 [h4]
+手的位置与操作程序
+@@ 758 [li]
+用你的上臂和前臂支撑大腿远端。
+@@ 759 [li]
+在对侧髂嵴前部施压，或将对侧下肢保持于轻度外展位，以稳定骨盆。
+@@ 760 [li]
+尽可能外展髋关节以牵伸内收肌。
+@@ 761 [p]
+注：只有在膝稳定且无痛时，才可谨慎地将牵伸力施加于内踝。这样会对膝内侧支持结构造成很大应力，作者一般不推荐。
+@@ 762 [h4]
+髋内收　视频 4.11
+@@ 763 [p]
+增加髋内收（牵伸阔筋膜张肌和髂胫束）（图 4.29）。
+@@ 764 [caption]
+图 4.29　病人取侧卧位。牵伸阔筋膜张肌和髂胫束的手的位置与操作程序。
+@@ 765 [h4]
+病人体位
+@@ 766 [p]
+让病人取侧卧位，受牵伸的髋位于上方。屈曲下方髋和膝以稳定病人。
+@@ 767 [h4]
+手的位置与操作程序
+@@ 768 [li]
+用近侧手在髂嵴处稳定骨盆。
+@@ 769 [li]
+屈曲膝关节，并使病人的髋伸展至中立位，如有可能则轻度过度伸展。
+@@ 770 [li]
+让病人的髋借助重力内收，并用另一只手在大腿远端外侧施加额外的牵伸力，使髋进一步内收。
+@@ 771 [p]
+注：若病人的髋不能伸展至中立位，必须先牵伸髋屈肌，然后才能牵伸阔筋膜张肌。
+@@ 772 [h4]
+髋外旋
+@@ 773 [p]
+增加髋外旋（牵伸内旋肌）（图 4.30 A）。
+@@ 774 [h4]
+病人体位
+@@ 775 [p]
+让病人取俯卧位，髋伸展，膝屈曲 90°。
+@@ 776 [p]
+A
+@@ 777 [caption]
+图 4.30　（A）为增加髋外旋时骨盆的手的位置与稳定。
+@@ 778 [h4]
+手的位置与操作程序
+@@ 779 [li]
+握住受牵伸侧下肢的胫骨远端。
+@@ 780 [li]
+用另一只手在臀部施压，稳定骨盆。
+@@ 781 [li]
+向外踝或胫骨外侧施压，尽可能外旋髋关节。
+@@ 782 [h4]
+替代体位与操作程序
+@@ 783 [p]
+坐于治疗床边缘，髋和膝屈曲 90°：
+@@ 784 [li]
+用一只手在髂嵴处施压，稳定骨盆。
+@@ 785 [li]
+向外踝或小腿外侧施加牵伸力，外旋髋关节。
+@@ 786 [p]
+注：以这种方式对小腿施加牵伸力会跨越膝关节，因此膝必须稳定且无痛。若膝不稳定，可握住大腿远端施加牵伸力，但杠杆作用较差，且容易扭伤皮肤。
+@@ 787 [h4]
+髋内旋
+@@ 788 [p]
+增加髋内旋（牵伸外旋肌）（图 4.30 B）。
+@@ 789 [h4]
+病人体位与稳定
+@@ 790 [p]
+按前述增加髋外旋时的方法摆放病人体位。
+@@ 791 [h4]
+手的位置与操作程序
+@@ 792 [p]
+向内踝或胫骨内侧施压，尽可能内旋髋关节。
+@@ 793 [p]
+活动度受限的牵伸治疗
+@@ 794 [caption]
+图 4.30（续）　（B）病人俯卧，为增加髋内旋时骨盆的手的位置与稳定。
+@@ 795 [p]
+膝：特殊考虑　视频 4.12　牵伸时髋的位置会影响膝屈肌和膝伸肌的柔韧性。必须将腘绳肌和股直肌的柔韧性与影响膝运动的单关节肌分开检查和评估。
+@@ 796 [h4]
+膝屈曲
+@@ 797 [p]
+增加膝屈曲（牵伸膝伸肌）（图 4.31）。
+@@ 798 [h4]
+病人体位
+@@ 799 [p]
+让病人取俯卧位。
+@@ 800 [caption]
+图 4.31　病人俯卧，为增加膝屈曲（牵伸股直肌和股四头肌）时手的位置与稳定。
+@@ 801 [h4]
+手的位置与操作程序
+@@ 802 [li]
+在臀部向下施压，稳定骨盆。
+@@ 803 [li]
+握住胫骨远端前侧，屈曲病人的膝关节。
+@@ 804 [p]
+注意事项：在膝上方大腿下垫一卷毛巾，以免牵伸时髌骨受压抵住床面。在俯卧位过度用力牵伸膝伸肌可能损伤膝关节并引起肿胀。
+@@ 805 [h4]
+替代体位与操作程序
+@@ 806 [li]
+让病人取坐位，大腿支撑于治疗床面，小腿在床缘外尽可能屈曲。
+@@ 807 [li]
+用一只手稳定股骨近端前侧。
+@@ 808 [li]
+向胫骨远端前侧施加牵伸力，尽可能屈曲病人的膝关节。
+@@ 809 [p]
+注：该体位适用于膝屈曲 0°～100° 范围的操作。俯卧位最适合增加 90°～135° 的膝屈曲。
+@@ 810 [h4]
+膝伸展
+@@ 811 [p]
+增加中段范围的膝伸展（牵伸膝屈肌）（图 4.32）。
+@@ 812 [caption]
+图 4.32　病人俯卧，为增加中段范围的膝伸展时手的位置与稳定。
+@@ 813 [h4]
+病人体位
+@@ 814 [p]
+让病人取俯卧位，在股骨远端、髌骨上方垫一小卷毛巾。
+@@ 815 [h4]
+手的位置与操作程序
+@@ 816 [li]
+用一只手握住胫骨远端，用另一只手稳定臀部，防止髋屈曲。
+@@ 817 [li]
+缓慢伸展膝关节以牵伸膝屈肌。
+@@ 818 [p]
+终末范围膝伸展　视频 4.13　增加终末范围膝伸展（图 4.33）。
+@@ 819 [p]
+按解剖运动平面划分的手法牵伸技术
+@@ 820 [caption]
+图 4.33　为增加终末范围膝伸展时手的位置与稳定。
+@@ 821 [h4]
+病人体位
+@@ 822 [p]
+病人取仰卧位。
+@@ 823 [h4]
+手的位置与操作程序
+@@ 824 [li]
+握住受牵伸侧的胫骨远端。
+@@ 825 [li]
+将手或前臂置于大腿前侧以稳定髋部。这可防止牵伸过程中髋屈曲。
+@@ 826 [li]
+向胫骨远端后侧施加牵伸力，伸展病人的膝关节。
+@@ 827 [h4]
+踝与足：特殊考虑
+@@ 828 [h4]
+视频 4.14
+@@ 829 [p]
+踝和足由多个关节构成。增加踝与足的活动度时，要考虑这些关节的活动性（见第 5 章）以及跨越这些关节的多关节肌。
+@@ 830 [h4]
+踝背屈
+@@ 831 [p]
+在伸膝下增加踝背屈（牵伸腓肠肌）（图 4.34）。
+@@ 832 [caption]
+图 4.34　在伸膝下增加踝背屈（牵伸腓肠肌）的手的位置与操作程序。
+@@ 833 [h4]
+手的位置与操作程序
+@@ 834 [li]
+用一只手握住病人的足跟（跟骨），将距下关节保持于中立位，并将前臂置于足底。
+@@ 835 [li]
+用另一只手稳定胫骨前侧。
+@@ 836 [li]
+用拇指和手指将跟骨向下方牵拉，同时用前臂在跖骨头近端向上方轻轻施压，使踝的距小腿关节背屈。
+@@ 837 [p]
+在屈膝下增加踝背屈（牵伸比目鱼肌）。必须屈膝以消除双关节腓肠肌的影响。手的位置、稳定和牵伸力与牵伸腓肠肌时相同。
+@@ 838 [p]
+注意事项：牵伸腓肠肌或比目鱼肌时，避免向跖骨头施加过大压力而牵伸足纵弓。过度牵伸足纵弓可导致平足或摇椅底足。
+@@ 839 [h4]
+踝跖屈
+@@ 840 [p]
+增加踝跖屈。
+@@ 841 [h4]
+手的位置与操作程序
+@@ 842 [li]
+用一只手支撑胫骨远端后侧。
+@@ 843 [li]
+沿跗骨和跖骨区握住足部。
+@@ 844 [li]
+向足背侧施加牵伸力，尽可能跖屈足部。
+@@ 845 [h4]
+踝内翻与外翻
+@@ 846 [p]
+增加踝内翻和外翻。踝的内翻和外翻发生在距下关节，是旋前和旋后的组成部分。距下关节的活动性（并配合适当的力量）对在不平地面上行走尤为重要。
+@@ 847 [h4]
+手的位置与操作程序
+@@ 848 [li]
+用一只手在踝下方握住距骨以稳定距骨。
+@@ 849 [li]
+用另一只手握住跟骨，在距下关节处将其向内、向外移动。
+@@ 850 [h4]
+牵伸踝与足的特定肌肉
+@@ 851 [h4]
+手的位置与操作程序
+@@ 852 [li]
+用近侧手稳定胫骨远端。
+@@ 853 [li]
+用另一只手握住足部，使运动方向和力线与肌腱的牵拉方向相反。向肌肉远端附着处的骨施加牵伸力。
+@@ 854 [li]
+牵伸胫骨前肌（使踝内翻和背屈）：握住足背侧
+@@ 855 [p]
+跨过跗骨和跖骨，并使足跖屈和外展。
+@@ 856 [li]
+牵伸胫骨后肌（使足跖屈和内翻）：握住足底跗骨和跖骨区，并使足背屈和外展。
+@@ 857 [li]
+牵伸腓骨肌（使足外翻）：握住足外侧的跗骨和跖骨区，并使足内翻。
+@@ 858 [h4]
+足趾屈曲与伸展
+@@ 859 [p]
+增加足趾的屈曲和伸展：限制足趾运动的肌肉最好逐个牵伸。用一只手稳定受限关节近端的骨，用另一只手按所需方向移动趾骨。
+@@ 860 [h4]
+颈与躯干
+@@ 861 [p]
+增加颈椎、胸椎和腰椎活动性的牵伸技术见第 16 章。
+@@ 862 [h4]
+自我牵伸技术
+@@ 863 [p]
+自我牵伸技术的示例，即病人接受适当指导后独立进行的牵伸，见第 17 至 22 章（上肢和下肢）以及第 16 章（颈与躯干）。
+@@ 864 [h3]
+自主学习活动
+@@ 865 [h4]
+批判性思维与讨论
+@@ 866 [p]
+1. 对病人检查中的哪些身体发现会使你判定牵伸运动是合适的干预？
+@@ 867 [p]
+2. 讨论各种牵伸运动的优缺点，特别是手法牵伸、自我牵伸和机械牵伸。在什么情况下一种形式比另一种更合适？
+@@ 868 [p]
+3. 讨论牵伸活动方案的有效性如何受收缩性和非收缩性软组织对牵伸的反应影响。考虑牵伸强度、速度、持续时间和频率等因素。
+@@ 869 [p]
+4. 讨论在为（a）肩、（b）膝或（c）踝活动度受限的健康年轻成人，与为同一部位活动受限、患有骨质疏松的老年人制定牵伸运动时，你的方法和实施会有何不同。
+@@ 870 [p]
+5. 解释以下各类神经肌肉抑制技术的操作程序和原理：HR、HR-AC、CR 和 AC。在什么情况下你会选择其中一种技术而不是另一种？
+@@ 871 [p]
+6. 选择一盘流行的运动录像带。复习并评论其中的柔韧性运动。该方案中的柔韧性运动是否均衡？运动是否安全、正确地完成？这些运动是否适合目标人群？
+@@ 872 [p]
+7. 你的病人近几个月一直在参加普拉提课程，但现因腘绳肌慢性拉伤接受你的治疗服务。你如何将病人参加这些课程与你的照护计划相结合？
+@@ 873 [h4]
+实验室练习
+@@ 874 [p]
+1. 在病人取俯卧、侧卧或坐位的情况下，对上下肢尽可能多的主要肌群进行安全、切实可行的手法牵伸。
+@@ 875 [p]
+2. 在考虑各肌肉作用和力线的前提下，演示如何特异而充分地拉长以下肌肉：胸大肌、肱二头肌、肱桡肌、肱肌、肱三头肌、尺侧或桡侧腕伸肌或腕屈肌、指浅屈肌或指深屈肌、股直肌与髂腰肌的对比、腓肠肌与比目鱼肌的对比，以及胫骨前肌和胫骨后肌。
+@@ 876 [p]
+3. 教你的同伴利用自身体重或袖带重量作为牵伸力，牵伸上下肢的主要肌群。尽可能包括这些牵伸技术的有效稳定程序。
+@@ 877 [p]
+4. 使用保持-放松或收缩-放松以及保持-放松加主动肌收缩的 PNF 牵伸技术，拉长肩、肘、腕、髋、膝和踝至少两个主要肌群。务必正确摆放、对线和稳定你的同伴。
+@@ 878 [p]
+5. 设计一套有效而高效的自我牵伸运动，供整天在办公桌前工作的人纳入每日家庭健身方案。向你的实验室同伴演示并教授每一项自我牵伸运动。
+@@ 879 [p]
+6. 确定一项你的同伴喜欢的休闲／运动项目（如网球、高尔夫、骑车、慢跑等），设计并演示一套自我牵伸运动方案，使你的同伴为该活动做好准备并降低受伤风险。
+@@ 880 [p]
+7. 设计一套渐进放松运动方案以实现全身放松。然后与你的同伴一起实施该放松训练程序。
+@@ 881 [p]
+按解剖运动平面划分的手法牵伸技术
+@@ 882 [h4]
+参考文献
+@@ 883 [p]
+1. American College of Sports Medicine: ACSM’s Resource Manual for Guidelines for Exercise Testing and Prescription, ed. 6. Wolters Kluwer/Lippincott Williams & Wilkins, Baltimore, 2010.
+@@ 884 [p]
+2. American Physical Therapy Association: Guide to Physical Therapist Practice, ed. 2. Phys Ther 81(1):9–738, 2001.
+@@ 885 [p]
+3. Amundsen, LR: The effect of aging and exercise on joint mobility. Orthop Phys Ther Clin North Am 2:241, 1993.
+@@ 886 [p]
+4. Amundsen, LR: Effects of age on joints and ligaments. In Kauffman, TL (ed): Geriatric Rehabilitation Manual. New York: Churchill Livingstone, 1999, pp 14–16.
+@@ 887 [p]
+5. Anderson, BD, and Spector, A: Introduction to Pilates-based rehabilitation. Orthop Phys Ther Clin North Am 9:395–411, 2000.
+@@ 888 [p]
+6. Bandy, WB, and Irion, JM: The effects of time on static stretch on the flexibility of the hamstring muscles. Phys Ther 74: 845–850, 1994.
+@@ 889 [p]
+7. Bandy, W, Irion, J, and Briggler, M: The effect of time and frequency of static stretch on flexibility of the hamstring muscle. Phys Ther 77:1090–1096, 1997.
+@@ 890 [p]
+8. Bandy, W, Irion, J, and Briggler, M: The effect of static stretch and dynamic range of motion training on the flexibility of the hamstring muscles. J Orthop Sports Phys Ther 27(4): 295–300, 1998.
+@@ 891 [p]
+9. Beissner, KL, Collins JE, and Holmes, H: Muscle force and range of motion as predictors of function in older adults. Phys Ther 80:556–563, 2000.
+@@ 892 [p]
+10. Benjamin, PJ, and Lamp, SP: Understanding Sports Massage. Champaign, IL: Human Kinetics, 1996.
+@@ 893 [p]
+11. Blanton, S, Grissom, SP, and Riolo, L: Use of a static adjustable ankle-foot orthosis following tibial nerve block to reduce plantar-flexion contracture in an individual with brain injury. Phys Ther 82(11):1087–1097, 2002.
+@@ 894 [p]
+12. Bloomfield, SA: Changes in musculoskeletal structure and function with prolonged bed rest. Med Sci Sports Exerc 29: 197–206, 1997.
+@@ 895 [p]
+13. Boakes, JL, et al: Muscle adaptation by serial sarcomere addition 1 year after femoral lengthening. Clin Orthop Rel Res 456: 250–253, 2007.
+@@ 896 [p]
+14. Bohannon, RW: Effect of repeated eight minute muscle loading on the angle of straight leg raising. Phys Ther 64:491–497, 1984.
+@@ 897 [p]
+15. Bohannon, RW, and Larkin, PA: Passive ankle dorsiflexion increases in patients after a regimen of tilt table: Wedge board standing. Phys Ther 65:1676–1678, 1985.
+@@ 898 [p]
+16. Bohannon, R, Tiberio, D, and Zito, M: Effect of 5 minutes of stretch on ankle dorsiflexion range of motion. J Phys Ther Sci 6:2–8, 1994.
+@@ 899 [p]
+17. Bonutti, PM, et al: Static progressive stretch to re-establish elbow range of motion. Clin Orthop 303:128–134, 1994.
+@@ 900 [p]
+18. Boone, L, Ingersoll, CD, and Cordova, ML: Passive hip flexion does not increase during or following ultrasound treatment of the hamstring muscle. Sports Med Training Rehabil 9(3): 189–198, 2000.
+@@ 901 [p]
+19. Booth, FW: Physiologic and biochemical effects of immobilization on muscle. Clin Orthop 219:15–20, 1987.
+@@ 902 [p]
+20. Brach, J, and Van Swearingen, JM: Physical impairment and disability: Relationship to performance of activities of daily living in community-dwelling older men. Phys Ther 82: 752–761, 2002.
+@@ 903 [p]
+21. Butler, DS: The Sensitive Nervous System. Adelaide, Australia: Noigroup Publications, 2000.
+@@ 904 [p]
+22. Cantu, RI, and Grodin, AJ: Myofascial Manipulation: Theory and Clinical Application, ed. 2. Gaithersburg, MD: Aspen, 2001.
+@@ 905 [p]
+23. Chaitow, L: Muscle Energy Techniques, ed. 3. St. Louis: Elsevier, 2007.
+@@ 906 [p]
+24. Chalmers, G: Re-examination of the possible role of the Golgi tendon organ and muscle spindle reflexes in proprioceptive neuromuscular facilitation muscle stretching. Sports Biomech 3:159–183, 2004.
+@@ 907 [p]
+25. Chandler, JM: Understanding the relationship between strength and mobility in frail elder persons: A review of the literature. Top Geriatr Rehabil 11:20–37, 1996.
+@@ 908 [p]
+26. Chleboun, G: Muscle structure and function. In Levangie, PK, Norkin, CC (eds): Joint Structure and Function: A Comprehensive Analysis, ed. 5. Philadelphia: FA Davis, 2011, pp 108–137.
+@@ 909 [p]
+27. Cipriani, D, Abel, B, and Purrwitz, D: A comparison of two stretching protocols on hip range of motion: Implications for total daily stretch duration. J Strength Cond Res 17: 274–278, 2003.
+@@ 910 [p]
+28. Clark, MA: Muscle energy techniques in rehabilitation. In Prentice, WE, Voight, ML (eds): Techniques in Musculoskeletal Rehabilitation. New York: McGraw-Hill, 2001, pp 215–223.
+@@ 911 [p]
+29. Clark, S, et al: Effects of ipsilateral anterior thigh soft tissue stretching on passive unilateral straight leg raise. J Orthop Sports Phys Ther 29(1):4–9, 1999.
+@@ 912 [p]
+30. Condon, SN, and Hutton, RS: Soleus muscle electromyographic activity and ankle dorsiflexion range of motion during four stretching procedures. Phys Ther 67:24–30, 1987.
+@@ 913 [p]
+31. Cornelius, WL, Jensen, RL, and Odell, ME: Effects of PNF stretching phases on acute arterial blood pressure. J Appl Physiol 20:222–229, 1995.
+@@ 914 [p]
+32. Cramer, JT, et al: An acute bout of static stretching does not affect maximal eccentric isokinetic peak torque, the joint angle at peak torque, mean power, electromyography, or mechanomyography. J Orthop Sports Phys Ther 37(3):130–139, 2007.
+@@ 915 [p]
+33. Culav, EM, Clark, CH, and Merrilees, MJ: Connective tissue matrix composition and its relevance to physical therapy. J Orthop Sports Phys Ther 79:308–319, 1999.
+@@ 916 [p]
+34. Cummings, GS, Crutchfeld, CA, and Barnes, MR: Soft Tissue Changes in Contractures, vol 1. Atlanta: Stokesville, 1983.
+@@ 917 [p]
+35. Cummings, GS, and Tillman, LJ: Remodeling of dense connective tissue in normal adult tissues. In Currier, DP, Nelson, RM (eds): Dynamics of Human Biologic Tissues. Philadelphia: FA Davis, 1992, p 45–73.
+@@ 918 [p]
+36. Curwin, S: Joint structure and function. In Levangie, PK, Norkin, CC (eds): Joint Structure & Function: A Comprehensive Analysis, ed. 5. Philadelphia: FA Davis, 2011, pp 64–107.
+@@ 919 [p]
+37. Cyriax, J: Textbook of Orthopedic Medicine: Treatment by Manipulation, ed. 11. Philadelphia: WB Saunders, 1984.
+@@ 920 [p]
+38. Davis, DS, et al: The effectiveness of 3 proprioceptive neuromuscular facilitation stretching techniques on the flexibility of the hamstring muscle group. J Orthop Sports Phys Ther 34(1):33A–34A, 2004.
+@@ 921 [p]
+39. Decoster, LC, et al: The effect of hamstring stretching on range of motion: A systematic literature review. J Orthop Sports Phys Ther 35:377–387, 2005.
+@@ 922 [p]
+40. DeDeyne, PG: Application of passive stretch and its implications for muscle fibers. Phys Ther 81(2):819–827, 2001.
+@@ 923 [p]
+41. DeDomenico, G, and Wood, EC: Beard’s Massage, ed. 4. Philadelphia: WB Saunders, 1997.
+@@ 924 [p]
+42. Dennis, JK, and McKeough, DM: Mobility. In May, BJ (ed): Home Health and Rehabilitation: Concepts of Care. Philadelphia: FA Davis, 1999, pp 109–143.
+@@ 925 [p]
+43. de Vries, HA: Evaluation of static stretching procedures for improvement of flexibility. Res Q 33:222–229, 1962.
+@@ 926 [p]
+44. de Weijer, VC, Gorniak, GC, and Shamus, E: The effect of static stretch and warm-up exercise on hamstring length over the course of 24 hours. J Orthop Sports Phys Ther 33(12): 727–732, 2003.
+@@ 927 [p]
+45. Donatelli, R, and Owens-Burkhart, H: Effects of immobilization on the extensibility of periarticular connective tissue. J Orthop Sports Phys Ther 3:67–72, 1981.
+@@ 928 [p]
+46. Draper, DO, and Richard, MD: Rate of temperature decay in human muscle following 3 MHz ultrasound: The stretching window revealed. J Athletic Training 30:304–307, 1996.
+@@ 929 [p]
+47. Draper, DO, et al: Shortwave diathermy and prolonged stretching increase hamstring flexibility more than prolonged stretching alone. J Orthop Sports Phys Ther 34(1):13–20, 2004.
+@@ 930 [p]
+48. Dutton, M: Orthopedic Examination, Evaluation, and Intervention. New York: McGraw-Hill, 2004.
+@@ 931 [p]
+49. Eldred, E, Hulton, RS, and Smith, JL: Nature of persisting changes in afferent discharge from muscle following its contraction. Prog Brain Res 44:157–170, 1976.
+@@ 932 [p]
+50. Ellerin, BE, et al: Current therapy in the management of heterotopic ossification of the elbow: A review with case studies. Am J Phys Med Rehabil 78(3):259–271, 1999.
+@@ 933 [p]
+51. Engel, JM: Relaxation and related techniques. In Hertling, D, Kessler, RM (eds): Management of Common Musculoskeletal Disorders, ed. 4. Philadelphia: Lippincott Williams and Wilkins, 2006, pp 261–266.
+@@ 934 [p]
+52. Etnyre, BR, and Abraham, LD: Gains in range of ankle dorsiflexion using three popular stretching techniques. Am J Phys Med 65:189–196, 1986.
+@@ 935 [p]
+53. Euhardy, R: Contracture. In Kauffman, TL (ed): Geriatric Rehabilitation Manual. New York: Churchill-Livingstone, 1999, pp 77–80.
+@@ 936 [p]
+54. Feland, JB, et al: The effect of duration of stretching of the hamstring muscle group for increasing range of motion in people aged 65 years or older. Phys Ther 81(5):1110–1117, 2001.
+@@ 937 [p]
+55. Feldenkrais, M: Awareness Through Movement. New York: Harper & Row, 1985.
+@@ 938 [p]
+56. Flitney, FW, and Hirst, DG: Cross-bridge detachment and sarcomere “give” during stretch of active frog’s muscle. J Physiol 276:449–465, 1978.
+@@ 939 [p]
+57. Fowles, JR, Sale, DG, and MacDougall, JD: Reduced strength after passive stretch of the human plantarflexors. J Appl Physiol 89:1179–1188, 2000.
+@@ 940 [p]
+58. Fukami, Y, and Wilkinson, RS: Responses of isolated golgi tendon organs of the cat. J Physiol 265:673–689, 1977.
+@@ 941 [p]
+59. Fung, YC: Biomechanics: Mechanical Properties of Living Tissue, ed. 2. New York: Springer-Verlag, 1993.
+@@ 942 [p]
+60. Gajdosik, RL: Effects of static stretching on the maximal length and resistance to passive stretch of short hamstring muscles. J Orthop Sports Phys Ther 14(6):250–255, 1991.
+@@ 943 [p]
+61. Gillette, TM, et al: Relationship of body core temperature and warm-up to knee range of motion. J Orthop Sports Phys Ther 13(3):126–131, 1991.
+@@ 944 [p]
+62. Gilchrist, J, et al: A randomized controlled trial to prevent noncontact anterior cruciate ligament injury in female college soccer players. Am J Sports Med 36(8):1476–1483, 2008.
+@@ 945 [p]
+63. Godges, JJ, et al: The effects of two stretching procedures on hip range of motion and gait economy. J Orthop Sports Phys Ther 10(9):350–356, 1989.
+@@ 946 [p]
+64. Godges, JJ, MacRae, PG, and Engelke, KA: Effects of exercise on hip range of motion, trunk muscle performance, and gait economy. Phys Ther 73:468–477, 1993.
+@@ 947 [p]
+65. Guyton, AC, and Hall, JE: Textbook of Muscle Physiology, ed. 10. Philadelphia: WB Saunders, 2000.
+@@ 948 [p]
+66. Halbertsma, JPK, et al: Repeated passive stretching: Acute effect on the passive muscle moment and extensibility of short hamstrings. Arch Phys Med Rehabil 80:407–414, 1999.
+@@ 949 [p]
+67. Halkovich, LR, et al: Effect of Fluori-Methane spray on passive hip flexion. Phys Ther 61:185–189, 1981.
+@@ 950 [p]
+68. Hanten, WP, and Chandler, SD: The effect of myofascial release leg pull and sagittal plane isometric contract-relax technique on passive straight-leg raise angle. J Orthop Sports Phys Ther 20:138–144, 1994.
+@@ 951 [p]
+69. Hardy, MA: The biology of scar formation. Phys Ther 69: 1014–1024, 1989.
+@@ 952 [p]
+70. Hengeveld, E, and Banks, K: Maitland’s Peripheral Manipulation, ed. 4. Oxford, UK: Butterworth Heinemann, 2005.
+@@ 953 [p]
+71. Henricson, AS, et al: The effect of heat and stretching on range of hip motion. J Orthop Sports Phys Ther 6(2):110–115, 1984.
+@@ 954 [p]
+72. Herbert, LA: Preventative stretching exercises for the workplace. [Abst] Orthop Phys Ther Pract 11:11, 1999.
+@@ 955 [p]
+73. Herbert, RD, Gabriel, M: Effects of stretching before and after exercising on muscle soreness and risk of injury: Systematic review. BMJ 325:468–472, 2002.
+@@ 956 [p]
+74. Hertling, D: Soft tissue manipulations. In Hertling, D, Kessler, RM (eds): Management of Common Musculoskeletal Disorders, ed. 4. Philadelphia: Lippincott Williams & Wilkins, 2006, pp 179–259.
+@@ 957 [p]
+75. Hertling, D, and Kessler, RM: Introduction to manual therapy. In Hertling, D, Kessler, RM (eds): Management of Common Musculoskeletal Disorders, ed. 4. Philadelphia: Lippincott Williams & Wilkins, 2006, pp 112–132.
+@@ 958 [p]
+76. Hulton, RS: Neuromuscular basis of stretching exercise. In Komi, PV (ed): Strength and Power in Sports. Boston: Blackwell Scientific, 1992, pp 29–38.
+@@ 959 [p]
+77. Ito, CS: Conservative management of joint deformities and dynamic posturing. Orthop Phys Ther Clin N Am 2(1):25–38, 1993.
+@@ 960 [p]
+78. Iyer, MB, Mitz, AR, and Winstein, C: Motor 1: Lower centers. In Cohen, H (ed): Neuroscience for Rehabilitation. Philadelphia: Lippincott Williams & Wilkins, 1999, pp 209–242.
+@@ 961 [p]
+79. Jacobson, E: Progressive Relaxation. Chicago: University of Chicago Press, 1929.
+@@ 962 [p]
+80. Jansen, CM, et al: Treatment of a knee contracture using a knee orthosis incorporating stress-relaxation techniques. Phys Ther 76(2):182–186, 1996.
+@@ 963 [p]
+81. Johnagen, S, Nemeth, G, and Grikkson, F: Hamstring injuries in sprinters: The role of concentric and eccentric muscle strength and flexibility. Am J Sports Med 22:262–266, 1994.
+@@ 964 [p]
+82. Jokl, P, and Konstadt, S: The effect of limb immobilization on muscle function and protein composition. Clin Orthop 174: 222–229, 1983.
+@@ 965 [p]
+83. Kaltenborn, FM: The Kaltenborn Method of Examination and Treatment, vol 1: The Extremities, ed. 5. Oslo: Olaf Norlis Bokhandel, 1999.
+@@ 966 [p]
+84. Kannus, P, et al: The effects of training, immobilization and remobilization on musculoskeletal tissue. I. Training and immobilization. Scand J Med Sci Sports 2:100–118, 1992.
+@@ 967 [p]
+85. Kannus, P, et al: The effects of training, immobilization and remobilization on musculoskeletal tissue. II. Remobilization and prevention of immobilization atrophy. Scand J Med Sci Sports 2:164–176, 1992.
+@@ 968 [p]
+86. Keays, KS, et al: Effects of Pilates exercises on shoulder range of motion, pain, mood, and upper extremity function in women living with breast cancer: A pilot study. Phys Ther 88:494–510, 2008.
+@@ 969 [p]
+87. Kendall, F, et al: Muscles, Testing and Function: With Posture and Pain, ed. 5. Philadelphia: Lippincott Williams & Wilkins, 2005.
+@@ 970 [p]
+88. Kirch, RF, et al: Effect of maintained stretch on the range of motion of the human anklejoint. Clin Biomech 10:166–168, 1995.
+@@ 971 [p]
+89. Knight, CA, et al: Effect of superficial heat, deep heat, and active exercise warm-up on the extensibility of the plantar flexors. Phys Ther 81(6):1206–1214, 2001.
+@@ 972 [p]
+90. Knight, KL: Cryotherapy: Theory, Technique and Physiology. Chattanooga, TN: Chattanooga Corp., 1989.
+@@ 973 [p]
+91. Kokkonen, J, et al: Chronic static stretching improves exercise performance. Med Sci Sports Exerc 39(10):1825–1831, 2007.
+@@ 974 [p]
+92. Kubo, K, et al: Measurement of viscoelastic properties of tendon structures in vivo. Scand J Med Sci Sports 12(1):3–8, 2002.
+@@ 975 [p]
+93. Law, RYW, et al: Stretch exercises increase tolerance to stretch in patients with chronic musculoskeletal pain: A randomized, controlled trial. Phys Ther 89(10):1016–1026, 2009.
+@@ 976 [p]
+94. Lehmann, JF, and DeLateur, BJ: Therapeutic heat. In Lehmann, JF (ed): Therapeutic Heat and Cold, ed. 4. Baltimore: Williams & Wilkins, 1990.
+@@ 977 [p]
+95. Lentell, G, et al: The use of thermal agents to influence the effectiveness of a low-load prolonged stretch. J Orthop Sports Phys Ther 16(5):200–207, 1992.
+@@ 978 [p]
+96. Lieber, RL: Skeletal Muscle Structure, Function, and Plasticity: The Physiological Basis of Rehabilitation, ed. 3. Philadelphia: Wolters Kluwer/Lippincott Williams & Wilkins, 2010.
+@@ 979 [p]
+97. Lieber, RL, and Boodine-Fowler, SC: Skeletal muscle mechanisms: Implications for rehabilitation. Phys Ther 73:844–856, 1993.
+@@ 980 [p]
+98. Liebesman, JL, and Cafarelli, E: Physiology of range of motion in human joints: A critical review. Crit Rev Phys Rehabil Med 6:131–160, 1994.
+@@ 981 [p]
+99. Light, KE, et al: Low-load prolonged stretch vs. high-load brief stretch in treating knee contractures. Phys Ther 64(3):330–333, 1984.
+@@ 982 [p]
+100. Liston, C: Specialized systems of massage. In De Domenico, G, Wood, EC (eds): Beard’s Massage, ed. 4. Philadelphia: WB Saunders, 1997, pp 163–171.
+@@ 983 [p]
+101. Lundy-Ekman, L: Neuroscience: Fundamentals for Rehabilitation, ed. 2. Philadelphia: WB Saunders, 2002.
+@@ 984 [p]
+102. Macefield, G, et al: Decline in spindle support to alpha motoneurons during sustained voluntary contractions. J Physiol 440:497–512, 1991.
+@@ 985 [p]
+103. MacKay-Lyons, M: Low-load prolonged stretch in treatment of elbow flexion contractures secondary to head trauma: A case report. Phys Ther 69(4):292–296, 1989.
+@@ 986 [p]
+104. Madding, SW, et al: Effect of duration of passive stretch on hip abduction range of motion. J Orthop Sports Phys Ther 8:409–416, 1987.
+@@ 987 [p]
+105. Maganaris, CN: Tensile properties of in vivo human tendinous tissue. J Biomech 35(8):1019–1027, 2002.
+@@ 988 [p]
+106. Magnusson, SP, et al: Biomechanical responses to repeated stretches in human hamstring muscle in vivo. Am J Sports Med 24:622–628, 1996.
+@@ 989 [p]
+107. Magnusson, SP, et al: A mechanism for altered flexibility in human skeletal muscle. J Physicol 497:291–298, 1996.
+@@ 990 [p]
+108. Magnusson, SP, et al: Mechanical and physical responses to stretching with and without pre-isometric contraction in human skeletal muscle. Arch Phys Med Rehabil 77:373–378, 1996.
+@@ 991 [p]
+109. McClure, M: Exercise and training for spinal patients. Part B. Flexibility training. In Basmajian, JV, Nyberg, R (eds): Rational Manual Therapies. Baltimore: Williams & Wilkins, 1993, p 359.
+@@ 992 [p]
+110. McClure, PW, Blackburn, LG, and Dusold, C: The use of splints in the treatment of stiffness: Biologie ranoncle and an algorithm for making clinical decisions. Phys Ther 74: 1101–1107, 1994.
+@@ 993 [p]
+111. McHugh, MP, et al: Viscoelastic stress relaxation in human skeletal muscle. Med Sci Sports Exerc 24:1375–1381, 1992.
+@@ 994 [p]
+112. McNair, PJ, et al: Stretching at the ankle joint: Viscoelastic responses to hold and continuous passive motion. Med Sci Sports Exerc 33:354–358, 2001.
+@@ 995 [p]
+113. Monroe, LG: Motion restrictions. In Cameron, MH (ed): Physical Agents in Rehabilitation, ed. 2. Philadelphia: WB Saunders, 2003, pp 111–128.
+@@ 996 [p]
+114. Morse, CI, et al: The acute effects of stretching on the passive stiffness of the human gastrocnemius muscle-tendon unit. J Physiol 586:97–106, 2008.
+@@ 997 [p]
+115. Mueller, MJ, and Maluf, KS: Tissue adaptation to physical stress: A proposed “physical stress theory” to guide physical therapist practice, education, and research. Phys Ther 82(4): 383–403, 2002.
+@@ 998 [p]
+116. Muir, IW, Chesworth, BM, and Vandervoort, AA: Effect of a static calf-stretching exercise on resistive torque during passive ankle dorsiflexion in healthy subjects. J Orthop Sports Phys Ther 29:107–113, 1999.
+@@ 999 [p]
+117. Nelson, AG, et al: Acute effects of passive muscle stretching on sprint performance. J Sports Sci 23:449–454, 2005.
+@@ 1000 [p]
+118. Nelson, RT, and Bandy,WD: Eccentric training and static stretching improve hamstring flexibility of high school males. J Ath Training 39:31–35, 2004.
+@@ 1001 [p]
+119. Neuman, DA: Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation, ed. 2. St. Louis: Mosby, 2010.
+@@ 1002 [p]
+120. Noyes, FR: Functional properties of knee ligaments and alterations induced by immobilization. Clin Orthop 123:210–242, 1977.
+@@ 1003 [p]
+121. Noyes, FR, et al: Advances in understanding of knee ligament injury, repair, and rehabilitation. Med Sci Sports Exerc 16: 427–443, 1984.
+@@ 1004 [p]
+122. Noyes, FR, et al: Biomechanics of ligament failure. J Bone Joint Surg Am 56:1406–1418, 1974.
+@@ 1005 [p]
+123. Ostering, LR, et al: Differential response to proprioceptive neuromuscular facilitation (PNF) stretch technique. Med Sci Sports Exerc 22:106–111, 1990.
+@@ 1006 [p]
+124. O’Sullivan, SB: Assessment of motor function. In O’Sullivan, SB, Schmitz, TJ (eds): Physical Rehabilitation: Assessment and Treatment, ed. 4. Philadelphia: FA Davis, 2001, pp 177–212.
+@@ 1007 [p]
+125. O’Sullivan, SB: Strategies to improve motor control and motor learning. In O’Sullivan, SB, Schmitz, TJ (eds): Physical Rehabilitation: Assessment and Treatment, ed. 4. Philadelphia: FA Davis, 2001, pp 363–411.
+@@ 1008 [p]
+126. O’Sullivan, SB: Interventions to improve motor control and motor learning. In O’Sullivan, SB, Schmitz, TJ (eds): Improving Functional Outcomes in Physical Rehabilitation. Philadelphia: FA Davis, 2010, pp 12–41.
+@@ 1009 [p]
+127. Pearson, K, and Gordon, J: Spinal reflexes. In Kandel, ER, Schwartz, JH, Jessell, TM (eds): Principles of Neural Science, ed. 4. New York: McGraw-Hill, 2000, pp 713–736.
+@@ 1010 [p]
+128. Pope, RP, et al: A randomized trial of pre-exercise stretching for prevention of lower limb injury. Med Sci Sports Exerc 32:271–277, 2000.
+@@ 1011 [p]
+129. Rennie, GA, and Michlovitz, SL: Biophysical principles of heating and superficial heating agents. In Michlovitz, SL (ed): Thermal Agents in Rehabilitation. Philadelphia: FA Davis, 1996.
+@@ 1012 [p]
+130. Roberts, JM, and Wilson, K: Effect of Stretching duration on active and passive range of motion in the lower extremity. Br J Sports Med 33:259–263, 1999.
+@@ 1013 [p]
+131. Rose, S, et al: The stretching window, part two: Rate of thermal decay in deep muscle following 1 MHz ultrasound. J Athletic Training 31:139–143, 1996.
+@@ 1014 [p]
+132. Rubini, EC, Costa, ALL, and Gomes, PSC: The effects of stretching on strength performance. Sports Med 37(3):213–224, 2007.
+@@ 1015 [p]
+133. Ryan, ED, et al: The time course of musculotendinous stiffness responses following different durations of passive stretching. J Orthop Sports Phys Ther 38(10):632–639, 2008.
+@@ 1016 [p]
+134. Rydeard, R, Leger, A, and Smith, D: Pilates-based therapeutic exercise: Effects on subjects with nonspecific, chronic low back pain and functional disability—A randomized controlled trial. J Orthop Sports Phys Ther 36(7):472–484, 2006.
+@@ 1017 [p]
+135. Sady, SP, Wortman, M, and Blanke, D: Flexibility training: Ballistic, static, or proprioceptive neuromuscular facilitation. Arch Phys Med Rehabil 63:261–263, 1982.
+@@ 1018 [p]
+136. Schultz, JH, and Luthe, W: Autogenic Training: A Psychophysiologic Approach in Psychotherapy. New York: Grune & Stratton, 1959.
+@@ 1019 [p]
+137. Segal, NA, Hein, J, and Basford, JR: The effects of Pilates training on flexibility and body composition: An observational study. Arch Phys Med Rehabil 85:1977–1981, 2004.
+@@ 1020 [p]
+138. Sharman, MJ, Creswell, AG, and Riek, S: Proprioceptive neuromuscular facilitation stretching: Mechanisms and clinical implications. Sports Med 36:929–939, 2006.
+@@ 1021 [p]
+139. Shehab, R, et al: Pre-exercise stretching and sports-related injuries: Knowledge, attitudes, and practices. Clin J Sports Med 16:228–231, 2006.
+@@ 1022 [p]
+140. Shrier, I: Does stretching improve performance? A systematic and critical review of the literature. Clin J Sport Med 14: 267–273, 2004.
+@@ 1023 [p]
+141. Smith, CA: The warm-up procedure: To stretch or not to stretch; A brief review. J Orthop Sports Phys Ther 19(1):12–17, 1994.
+@@ 1024 [p]
+142. Smith, E, and Smith, K: Pilates for Rehab: A Guidebook for Integrating Pilates in Patient Care. Minneapolis, MN: OPTP, 2005.
+@@ 1025 [p]
+143. Starring, DT, et al: Comparison of cyclic and sustained passive stretching using a mechanical device to increase resting length of hamstring muscles. Phys Ther 68:314–320, 1988.
+@@ 1026 [p]
+144. Sullivan, MK, Dejulia, JJ, and Worrell, TW: Effect of pelvic position and stretching method on hamstring muscle flexibility. Med Sci Sports Exerc 24:1383–1389, 1992.
+@@ 1027 [p]
+145. Sullivan, PE, and Markos, PD: Clinical Decision Making in Therapeutic Exercise. Norwalk, CT: Appleton & Lange, 1995.
+@@ 1028 [p]
+146. Tabary, JC, et al: Physiological and structural changes in the cat soleus muscle due to immobilization at different lengths by plaster casts. J Physiol (Lond) 224:231–244, 1972.
+@@ 1029 [p]
+147. Tappan, FM, and Benjamin, PJ: Tappan’s Handbook of Healing Massage Techniques. Stamford, CT: Appleton & Lange, 1998.
+@@ 1030 [p]
+148. Taylor, BF, Waring, CA, and Brashear, TA: The effects of therapeutic heat or cold followed by static stretch on hamstring muscle length. J Orthop Sports Phys Ther 21: 283–286, 1995.
+@@ 1031 [p]
+149. Taylor, DC, et al: Viscoelastic properties of muscle-tendon units: The biomechanical effects of stretching. Am J Sports Med 18(3):300–309, 1990.
+@@ 1032 [p]
+150. Thacker, SB, et al: The impact of stretching on sports injury risk: A systematic review of the literature. Med Sci Sports Exerc 36:371–378, 2004.
+@@ 1033 [p]
+151. Thompson, LV: Skeletal muscle adaptations with age, inactivity, and therapeutic exercise. J Orthop Sports Phys Ther 32(2): 33–57, 2002.
+@@ 1034 [p]
+152. Thornton, GM, Schwab, TD, and Oxland, TR: Fatigue is more damaging than creep in ligament revealed by modulus reduction and residual strength. Ann Biomed End 35(10):1713–1721, 2007.
+@@ 1035 [p]
+153. Threlkeld, AJ: The effects of manual therapy on connective tissue. Phys Ther 72:893–902, 1992.
+@@ 1036 [p]
+154. Tiidus, PM: Manual massage and recovery of muscle function following exercise: A literature review. J Orthop Sports Phys Ther 25:107–112, 1997.
+@@ 1037 [p]
+155. Tillman, LJ, and Cummings, GS: Biologic mechanisms of connective tissue mutability. In Currier, DP, Nelson, RM (eds): Dynamics of Human Biologic Tissues. Philadelphia: FA Davis, 1992, p 1–44.
+@@ 1038 [p]
+156. Townsend, MC: Psychiatric Mental Health Nursing: Concepts of Care, ed. 3. Philadelphia: FA Davis, 2000.
+@@ 1039 [p]
+157. Travell, JG, and Simons, DG: Myofascial Pain and Dysfunction Trigger Point Manuals, vol. 2. Baltimore: Williams & Wilkins, 1992.
+@@ 1040 [p]
+158. Voss, DE, Ionla, MK, and Myers, BJ: Proprioceptive Neuromuscular Facilitation, ed. 3. Philadelphia: Harper & Row, 1985.
+@@ 1041 [p]
+159. Walker, SM: Delay of twitch relaxation induced by stress and stress relaxation. J Appl Physiol 16:801–806, 1961.
+@@ 1042 [p]
+160. Warren, CG, Lehmann, JF, and Koblanski, JN: Elongation of rat tail tendon: Effect of load and temperature. Arch Phys Med Rehabil 52:465–474, 1971.
+@@ 1043 [p]
+161. Webright, WG, Randolph, BJ, and Perin, DH: Comparison of nonballistic active knee extension in neural slump position and static stretch techniques on hamstring flexibility. J Orthop Sports Phys Ther 26:7–13, 1997.
+@@ 1044 [p]
+162. Weppler, CH, and Magnuson, SP: Increasing muscle extensibility: A matter of increasing length or modifying sensation. Phys Ther 90(3):438–449, 2010.
+@@ 1045 [p]
+163. Wessel, J, and Wan, A: Effect of stretching on intensity of delayed-onset muscle soreness. J Sports Med 2:83–87, 1994.
+@@ 1046 [p]
+164. Wessling, KC, Derane, DA, and Hylton, CR: Effect of static stretch vs. static stretch and ultrasound combined on triceps surae muscle extensibility in healthy women. Phys Ther 67: 674–679, 1987.
+@@ 1047 [p]
+165. Wilkinson, A: Stretching the truth: A review of the literature on muscle stretching. Aust J Physiother 38:283–287, 1992.
+@@ 1048 [p]
+166. Willy, RW, et al: Effect of cessation and resumption of static hamstring muscle stretching on joint range of motion. J Orthop Sports Phys Ther 31:138–144, 2001.
+@@ 1049 [p]
+167. Wilson, E, et al: Muscle energy techniques in patients with acute low back pain: A pilot clinical trial. J Orthop Sports Phys Ther 33(9):502–512, 2003.
+@@ 1050 [p]
+168. Winters, MV, et al: Passive versus active stretching of hip flexor muscles in subjects with limited hip extension: A randomized clinical trial. Phys Ther 84(9):800–807, 2004.
+@@ 1051 [p]
+169. Witvrouw, E, et al: Muscle flexibility as a risk factor for developing muscle injuries in male professional soccer players: A prospective study. Am J Sports Med 31:41–46, 2003.
+@@ 1052 [p]
+170. Worrell, TW, Smith, TL, and Winegardner, J: Effect of hamstring stretching on hamstring muscle performance. J Orthop Sports Phys Ther 20:154–159, 1994.
+@@ 1053 [p]
+171. Youdas, JW, et al: The effect of static stretching of the calf muscle-tendon unit on active ankle dorsiflexion range of motion. J Orthop Sports Phys Ther 33(7):408–417, 2003.
+@@ 1054 [p]
+172. Youdas, JW, et al: The influence of gender and age on hamstring muscle length in healthy adults. J Orthop Sports Phys Ther 35(4):246–252, 2005.
+@@ 1055 [p]
+173. Zachazewski, JE: Flexibility in sports. In Sanders, B (ed): Sports Physical Therapy. Norwalk, CT, Appleton & Lange, 1990, pp 201–229.
