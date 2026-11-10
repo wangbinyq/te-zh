@@ -19,8 +19,8 @@ function parse(file) {
     if (current !== null && rows) map.set(current, rows);
   };
   for (const raw of fs.readFileSync(path.join("src/data/zh", file), "utf8").split("\n")) {
-    const line = raw.trim();
-    if (!line) continue;
+    const line = raw.replace(/[ \t\r]+$/, "");
+    if (!line.trim() && !line.includes("\u3000")) continue;
     const m = line.match(/^@@\s+(\d+)(?:\s+\[(\w+)\])?/);
     if (m) {
       flush();

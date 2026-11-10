@@ -29,8 +29,8 @@ function readInto(file, map) {
     map.set(current, { rows });
   };
   for (const raw of fs.readFileSync(file, "utf8").split("\n")) {
-    const line = raw.trim();
-    if (!line) continue;
+    const line = raw.replace(/[ \t\r]+$/, "");
+    if (!line.trim() && !line.includes("\u3000")) continue;
     const m = line.match(/^@@\s+(\d+)(?:\s+\[(\w+)\])?/);
     if (m) {
       flush();
@@ -53,7 +53,9 @@ export function loadChapter(slug) {
   const blocks = source.map((block, i) => {
     const tr = zh?.get(i) ?? null;
     const zhText = tr?.text ?? null;
-    const pageOnly = typeof zhText === "string" && /^\d{1,4}$/.test(zhText.trim());
+    const pageOnly =
+      typeof zhText === "string" &&
+      (/^\d{1,4}$/.test(zhText.trim()) || /^[\s\u3000]*$/.test(zhText));
     return {
       i,
       skip: pageOnly,

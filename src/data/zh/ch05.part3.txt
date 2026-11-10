@@ -1,0 +1,214 @@
+@@ 905 [h4]
+距下关节内侧滑动或外侧滑动（图 5.62）
+@@ 906 [h4]
+适应证
+@@ 907 [p]
+内侧滑动用于增加外翻；外侧滑动用于增加内翻。
+@@ 908 [h4]
+病人体位
+@@ 909 [p]
+病人取侧卧位或俯卧位，下肢支撑于治疗床上或以毛巾卷垫起。
+@@ 910 [h4]
+治疗师体位与手法放置
+@@ 911 [li]
+使你的肩与上肢与足底平行。
+@@ 912 [li]
+用近端手稳定距骨。
+@@ 913 [li]
+将远端手的掌根置于跟骨内侧以产生外侧滑动，置于外侧以产生内侧滑动。
+@@ 914 [li]
+手指环绕足跖面。
+@@ 915 [h4]
+松动力量
+@@ 916 [h4]
+病人与治疗师体位及手法放置
+@@ 917 [li]
+病人取仰卧位，下肢支撑于治疗床上，足跟置于床缘外。
+@@ 918 [li]
+髋关节外旋，使距小腿关节能借助你的大腿对病人前足跖面的压力而稳定于背屈位。
+@@ 919 [li]
+远端手从足的后方环绕握住跟骨。另一手将距骨与内、外踝固定于治疗床上。
+@@ 920 [h4]
+松动力量
+@@ 921 [p]
+沿小腿长轴将跟骨向远端牵拉。
+@@ 922 [p]
+向尾侧施加 I 级分离力，然后以掌根沿与足跟跖面平行的方向推跟骨的侧面。
+@@ 923 [h4]
+替代体位
+@@ 924 [p]
+与分离时的体位相同，用掌根使跟骨向内或向外移动。
+@@ 925 [h4]
+跗骨间关节与跗跖关节
+@@ 926 [p]
+当相对于足作背侧-跖向运动时，所有关节面的凹、凸方向都一致。例如，近端关节面为凸面，远端关节面为凹面。各关节的松动技术相同。调整手法放置以稳定近端骨，从而可移动远端骨。
+@@ 927 [p]
+　
+@@ 928 [caption]
+图 5.62　距下关节：外侧滑动。（A）俯卧位。（B）侧卧位。
+@@ 929 [p]
+跗骨间与跗跖关节的跖向滑动（图 5.63）
+@@ 930 [h4]
+适应证
+@@ 931 [p]
+增加跖屈附属运动（旋后所必需）。
+@@ 932 [h4]
+病人体位
+@@ 933 [p]
+仰卧位，髋与膝屈曲；或取坐位，膝屈曲置于床缘外，足跟置于你的大腿上。
+@@ 934 [caption]
+图 5.63　远端跗骨在已稳定的近端骨上的跖向滑动。图示为楔骨在舟骨上。
+@@ 935 [h4]
+稳定与手法放置
+@@ 936 [li]
+以示指将较近端的骨固定于该骨的跖面。
+@@ 937 [li]
+若要沿足的内侧松动跗骨关节，站在足的外侧。将近端手放在足背、手指指向内侧，使示指能环绕并置于拟稳定的骨下方。
+@@ 938 [li]
+将远端手的大鱼际置于拟移动骨的背面，手指环绕足跖面。
+@@ 939 [li]
+若要松动外侧跗骨关节，站在足的内侧，手指指向外侧，并按上述方法将双手置于各骨周围。
+@@ 940 [h4]
+松动力量
+@@ 941 [p]
+从足背向跖侧推远端骨。
+@@ 942 [p]
+跗骨间与跗跖关节的背向滑动（图 5.64）
+@@ 943 [h4]
+适应证
+@@ 944 [p]
+增加背向滑动附属运动（旋前所必需）。
+@@ 945 [caption]
+图 5.64　远端跗骨在近端跗骨上的背向滑动。图示为骰骨在跟骨上。
+@@ 946 [h4]
+病人体位
+@@ 947 [p]
+俯卧位，膝屈曲。
+@@ 948 [h4]
+稳定与手法放置
+@@ 949 [li]
+固定较近端的骨。
+@@ 950 [li]
+若要松动外侧跗骨关节（例如骰骨在跟骨上），站在病人小腿的内侧，手指环绕足的外侧（如图 5.64）。
+@@ 951 [li]
+若要松动内侧诸骨（例如舟骨在距骨上），站在病人小腿的外侧，手指环绕足的内侧。
+@@ 952 [li]
+将你的第二掌指关节抵住拟移动的骨。
+@@ 953 [h4]
+松动力量
+@@ 954 [p]
+从跖面向背侧推。
+@@ 955 [h4]
+替代技术
+@@ 956 [p]
+体位与手法放置同跖向滑动，只是改为稳定远端骨、将近端骨向跖侧施力。此时远端骨的相对运动为向背侧移动。
+@@ 957 [h4]
+跖骨间关节、跖趾关节与趾间关节
+@@ 958 [p]
+足趾的跖骨间关节、跖趾关节与趾间关节的稳定与松动方法与手指相同。各例中，近端骨的关节面为凸面，远端骨的关节面为凹面。最容易的做法是稳定近端骨，使远端骨的关节面向跖侧滑动以产生屈曲、向背侧滑动以产生伸展、向内或向外滑动以产生内收与外展。
+@@ 959 [h3]
+自主学习活动
+@@ 960 [h4]
+批判性思维与讨论
+@@ 961 [p]
+1. 一个人骨折后以石膏制动 4 至 6 周。一般而言，哪些结构会丧失弹性？在检查关节活动度、关节间隙活动和柔韧性时，你会感到哪些限制？
+@@ 962 [p]
+2. 描述四肢关节的正常关节运动学关系，并界定各关节治疗平面的位置。
+@@ 963 [p]
+3. 利用活动 1 的信息，设定一个具体的骨折，例如前臂远端的科勒斯骨折（Colle’s fracture）。指出为获得腕、前臂和肘等相关关节、结缔组织与肌肉的活动度和关节活动范围，需要哪些技术。逐一练习使用这些技术。
+@@ 964 [p]
+4. 解释对因疼痛和肌肉防卫而受限的病人、或对关节囊或韧带组织受限的病人使用被动关节技术的理由。两种情况下技术的应用方式有何不同？
+@@ 965 [p]
+5. 描述关节松动技术如何纳入关节活动度受损病人的整体治疗性干预计划。
+@@ 966 [p]
+6. 解释被动关节松动技术与运动伴随松动技术之间的区别。
+@@ 967 [h4]
+实验室练习
+@@ 968 [p]
+与同伴一起练习松动上肢和下肢的各个关节。
+@@ 969 [p]
+注意事项：不要在关节活动度过大或关节不稳的个体身上练习。
+@@ 970 [p]
+1. 先从关节静息位开始，以各强度（持续 I、II、III 级）施加分离技术，体会“非常轻柔”“消除松弛”和“牵伸”的感觉。不要对关节正常的人施加强力牵伸。务必使用适当的稳定。
+@@ 971 [p]
+2. 在关节静息位下，练习该关节所有适用的滑动。每次滑动技术都要配合 I 级分离。技术在持续与振荡之间交替。
+@@ 972 [p]
+3. 练习逐步推进每项技术：将关节带到你判定的“活动范围末端”，并：■ 在该位置对肢体施加分离技术。
+@@ 973 [p]
+- 在该范围施加适当的滑动（每次滑动务必配合 I 级分离）。
+@@ 974 [p]
+- 加旋转（例如肩外展时加外旋），然后施加适当的滑动。
+@@ 975 [h4]
+参考文献
+@@ 976 [p]
+1. Akeson, WH, et al: Effects of immobilization on joints. Clin Orthop 219:28–37, 1987.
+@@ 977 [p]
+2. American Physical Therapy Association. Guide to physical therapist practice, ed. 2. Phys Ther 81:9–746, 2001.
+@@ 978 [li]
+2a.American Physical Therapy Association Manipulation Task Force Manipulation Education Committee: Manipulation Education Manual for Physical Therapist Professional Degree Programs. Alexandria, VA: American Physical Therapy Association, 2004.
+@@ 979 [p]
+3. Backstrom, KM: Mobilization with movement as an adjunct in tervention in a patient with complicated De Quervain’s tenosynovitis: a case report. J Orthop Sports Phys Ther 32(3):86–97, 2002.
+@@ 980 [p]
+4. Boissonnault, W, Bryan, JM, and Fox, KJ: Joint manipulation curricula in physical therapist professional degree programs. J Orthop Sports Phys Ther 34(4):171–181, 2004.
+@@ 981 [p]
+5. Cyriax, J: Textbook of Orthopaedic Medicine. vol I: The Diagnosis of Soft Tissue Lesions, ed. 8. London: Bailliere & Tindall, 1982.
+@@ 982 [p]
+6. DiFabio, RP: Efficacy of manual therapy. Phys Ther 72:853–864, 1992.
+@@ 983 [p]
+7. Donatelli, R, and Owens-Burkhart, H: Effects of immobilization on the extensibility of periarticular connective tissue. J Orthop Sports Phys Ther 3:67–72, 1981.
+@@ 984 [p]
+8. Enneking, WF, and Horowitz, M: The intra-articular effects of immobilization on the human knee. J Bone Joint Surg Am 54:973–985, 1972.
+@@ 985 [p]
+9. Exelby, L: Mobilizations with movement: a personal view. Physiotherapy 81(12):724–729, 1995.
+@@ 986 [p]
+10. Harryman, DT, et al: Translation of the humeral head on the glenoid with passive glenohumeral motion. J Bone Joint Surg Am 72:1334–1343, 1990.
+@@ 987 [p]
+11. Hengeveld, E, and Banks, K: Maitland’s Peripheral Manipulation, ed. 4. Oxford: Butterworth Heinemann, 2005.
+@@ 988 [p]
+12. Howell, SM, et al: Normal and abnormal mechanics of the glenohumeral joint in the horizontal plane. J Bone Joint Surg Am 70:227–232, 1988.
+@@ 989 [p]
+13. Hsu, AT, et al: Changes in abduction and rotation range of motion in response to simulated dorsal and ventral translational mobilization of the glenohumeral joint. Phys Ther 82(6): 544–556, 2002.
+@@ 990 [p]
+14. Itoi, E, et al: Contribution of axial arm rotation to the humeral head translation. Am J Sports Med 22:499–503, 1994.
+@@ 991 [p]
+15. Kaltenborn, FM: The Kaltenborn Method of Joint Examination and Treatment. vol I: The Extremities, ed. 5. Oslo: Olaf Norlis Bokhandel, 1999.
+@@ 992 [p]
+16. Kavanagh, J: Is there a positional fault at the inferior tibiofibular joint in patients with acute or chronic ankle sprains compared to normals? Manual Ther 4(1):19–24, 1999.
+@@ 993 [p]
+17. Levangie, PK, and Norkin, CC: Joint Structure and Function: A Comprehensive Analysis, ed. 5. Philadelphia: FA Davis, 2011.
+@@ 994 [p]
+18. Magee, DJ: Orthopedic Physical Assessment, ed. 5. St. Louis: Saunders, 2008.
+@@ 995 [p]
+19. McDavitt, S: Practice affairs corner—a revision for the Guide to Physical Therapist Practice: mobilization or manipulation? Yes! That is my final answer! Orthop Phys Ther Pract 12(4):15, 2000.
+@@ 996 [p]
+20. Meadows, J: Orthopedic Differential Diagnosis in Physical Therapy: A Case Study Approach. Toronto: McGraw-Hill, 1999.
+@@ 997 [p]
+21. Miller, J: The Mulligan concept—the next step in the evolution of manual therapy. Orthop Division Rev 2:9–13, 1999.
+@@ 998 [p]
+22. Mintken, PE, et al: A model for standardizing manipulation terminology in physical therapy practice. J Orthop Sports Phys Ther 38:A1, 2008.
+@@ 999 [li]
+22a.Mintken, PE, et al: Moving past sleight of hand. J Orthop Sports Phys Ther 40(8):536–537, 2010.
+@@ 1000 [p]
+23. Mulligan, BR: Manual Therapy: “NAGS,” “SNAGS,” “MWMS”, etc., ed. 4. Wellington: Plane View Press, 1999.
+@@ 1001 [p]
+24. Mulligan, BR: Mobilizations with movement (MWMs). J Manual Manipulative Ther 1(4):154–156, 1993.
+@@ 1002 [p]
+25. O’Brien, T, and Vincenzino, B: A study of the effects of Mulligan’s mobilization with movement of lateral ankle pain using a case study design. Manual Ther 3(2):78–84, 1998.
+@@ 1003 [p]
+26. Paris, SV: Mobilization of the spine. Phys Ther 59(8):988–995, 1979.
+@@ 1004 [p]
+27. Paungmali, A, et al: Hypoalgesic and sympathoexcitatory effects of mobilization with movement for lateral epicondylalgia. Phys Ther 83(4):374–383, 2003.
+@@ 1005 [p]
+28. Vincenzino, B, and Wright, A: Effects of a novel manipulative physiotherapy technique on tennis elbow: a single case study. Manual Ther 1(1):30–35, 1995.
+@@ 1006 [p]
+29. Warwick, R, and Williams, S (eds): Arthrology. In Gray’s Anatomy, 35th British ed. Philadelphia: WB Saunders, 1973.
+@@ 1007 [p]
+30. Wegener, L, Kisner, C, and Nichols, D: Static and dynamic balance responses in persons with bilateral knee osteoarthritis. J Orthop Sports Phys Ther 25(1):13–18, 1997.
+@@ 1008 [p]
+31. Wilson, E. Mobilizations with movement and adverse neutral tension: an exploration of possible links. Manipulative Phys Ther 27(1):40, 1995.
+@@ 1009 [p]
+32. Wyke, B: The neurology of joints. Ann R Coll Surg 41:25–50, 1967.
+@@ 1010 [p]
+33. Wyke, B: Articular neurology: a review. Physiotherapy 58(3): 94–99, 1972.
+@@ 1011 [p]
+34. Wyke, B: Neurological aspects of pain for the physical therapy clinician. Columbus, OH: Physical Therapy Forum, 1982.
