@@ -1,0 +1,128 @@
+@@ 488 [p]
+105. Nashner, LM: Sensory, neuromuscular, and biomechanical contributions to human balance. In Duncan, PW (ed): Balance Proceedings of the APTA Forum. Alexandria, VA: American Physical Therapy Association, 1990.
+@@ 489 [p]
+106. Nashner, LM: The anatomic basis of balance in orthopaedics. In Wallman, HW (ed): Orthopedic Physical Therapy Clinics of North America. Philadelphia: W.B. Saunders, 2002.
+@@ 490 [p]
+107. Nashner, LM, et al: Organization of posture controls: an analysis of sensory and mechanical constraints. Prog Brain Res 80: 411–418, 1989.
+@@ 491 [p]
+108. Nashner, LM, Woollacott, M, and Tuma, G: Organization of rapid responses to postural and locomotor-like perturbations of standing man. Exp Brain Res 36:463–476, 1979.
+@@ 492 [p]
+109. Nevitt, MC: Falls in the elderly: Risk factors and prevention. In Masdeu, JC, Sudarsky, L, and Wolfson, L (eds): Gait Disorders of Aging: Falls and Therapeutic Strategies. Philadelphia: LippincottRaven, 1997, pp 13–36.
+@@ 493 [p]
+110. Newton, RA: Review of tests of standing balance abilities. Brain Inj 3:335–343, 1989.
+@@ 494 [p]
+111. Newton, RA: Validity of the multi-directional reach test: a practical measure for limits of stability in older adults. J Gerontol A Biol Sci Med Sci 56:M248–M252, 2001.
+@@ 495 [p]
+112. Nitz, JC, and Choy, NL: The efficacy of a specific balancestrategy training programme for preventing falls among older people: a pilot randomised controlled trial. Age Ageing 33: 52–58, 2004.
+@@ 496 [p]
+113. Nolte, J: The Human Brain: An Introduction to Its Functional Anatomy, ed. 5. St. Louis: Mosby, Inc., 2002.
+@@ 497 [p]
+114. Olmsted, LC, et al: Efficacy of the Star Excursion Balance Tests in detecting reach deficits in subjects with chronic ankle instability. J Athl Train 37:501–506, 2002.
+@@ 498 [p]
+115. Owen, JL, et al: Is there evidence that proprioception or balance training can prevent anterior cruciate ligament (ACL) injuries in athletes without previous ACL injury? Phys Ther 86: 1436–1440, 2006.
+@@ 499 [p]
+116. Pap, G, et al: Detailed analysis of proprioception in normal and ACL-deficient knees. J Bone Joint Surg Br 81:764–768, 1999.
+@@ 500 [p]
+117. Patla, AE, et al: Identification of age-related changes in the balance-control system. In Duncan, PW (ed): Balance Proceedings of the APTA Forum. Alexandria, VA: American Physical Therapy Association, 1990.
+@@ 501 [p]
+118. Podsiadlo, D, and Richardson, S: The timed “Up & Go”: a test of basic functional mobility for frail elderly persons. J Am Geriatr Soc 39:142–148, 1991.
+@@ 502 [p]
+119. Potvin, JR, McGill, SM, and Norman, RW: Trunk muscle and lumbar ligament contributions to dynamic lifts with varying degrees of trunk flexion. Spine 16:1099–1107, 1991.
+@@ 503 [p]
+120. Powell, LE, and Myers, AM: The Activities-specific Balance Confidence (ABC) Scale. J Gerontol A Biol Sci Med Sci 50A: M28–M34, 1995.
+@@ 504 [p]
+121. Puniello, MS, McGibbon, CA, and Krebs, DE: Lifting characteristics of functionally limited elders. J Rehabil Res Dev 37: 341–352, 2000.
+@@ 505 [p]
+122. Rankin, JK, et al: Cognitive influence on postural stability: a neuromuscular analysis in young and older adults. J Gerontol A Biol Sci Med Sci 55:M112–M119, 2000.
+@@ 506 [p]
+123. Resnick, HE, et al: Independent effects of peripheral nerve dysfunction on lower-extremity physical function in old age: The Women’s Health and Aging Study. Diabetes Care 23:1642–1647, 2000.
+@@ 507 [p]
+124. Richardson, JK: Factors associated with falls in older patients with diffuse polyneuropathy. J Am Geriatr Soc 50:1767–1773, 2002.
+@@ 508 [p]
+125. Robertson, MC, et al: Preventing injuries in older people by preventing falls: a meta-analysis of individual-level data. J Am Geriatr Soc 50:905–911, 2002.
+@@ 509 [p]
+126. Ross, SE, and Guskiewicz, KM: Effect of coordination training with and without stochastic resonance stimulation on dynamic postural stability of subjects with functional ankle instability and subjects with stable ankles. Clin J Sport Med 16:323–328, 2006.
+@@ 510 [p]
+127. Rubenstein, LZ, Josephson, KR, and Robbins, AS: Falls in the nursing home. Ann Intern Med 121:442–451, 1994.
+@@ 511 [p]
+128. Safran, MR, et al: Proprioception in the posterior cruciate ligament deficient knee. Knee Surg Sports Traumatol Arthrosc 7:310–317, 1999.
+@@ 512 [p]
+129. Sattin, RW: Falls among older persons: a public health perspective. Annu Rev Public Health 13:489–508, 1992.
+@@ 513 [p]
+130. Schenkman, ML: Interrelationship of neurological and mechanical factors in balance control. In Duncan, PW (ed): Balance Proceedings of the APTA Forum. Alexandria, VA: American Physical Therapy Association, 1990.
+@@ 514 [p]
+131. Sherrington, C, et al: Effective exercise for the prevention of falls: a systematic review and meta-analysis. J Am Geriatr Soc 56:2234–2243, 2008.
+@@ 515 [p]
+132. Shu, Y, et al: The effect of a repetitive, fatiguing lifting task on horizontal ground reaction forces. J Appl Biomech 21:260–270, 2005.
+@@ 516 [p]
+133. Shumway-Cook, A, et al: Predicting the probability for falls in community-dwelling older adults. Phys Ther 77:812–819, 1997.
+@@ 517 [p]
+134. Shumway-Cook, A, Brauer, S, and Woollacott, M: Predicting the probability for falls in community-dwelling older adults using the Timed Up & Go Test. Phys Ther 80:896–903, 2000.
+@@ 518 [p]
+135. Shumway-Cook, A, and Horak, FB: Assessing the influence of sensory interaction of balance. Suggestion from the field. Phys Ther 66:1548–1550, 1986.
+@@ 519 [p]
+136. Shumway-Cook, A, and Woollacott, M: Attentional demands and postural control: the effect of sensory context. J Gerontol A Biol Sci Med Sci 55:M10–M16, 2000.
+@@ 520 [p]
+137. Shumway-Cook, A, and Woollacott, MH: Motor Control: Theory and Practical Applications, ed. 2. Philadelphia: Lippincott, Williams & Wilkins, 2001.
+@@ 521 [p]
+138. Simoneau, GG, et al: Postural instability in patients with diabetic sensory neuropathy. Diabetes Care 17:1411–1421, 1994.
+@@ 522 [p]
+139. Studenski, S, Duncan, PW, and Chandler, J: Postural responses and effector factors in persons with unexplained falls: results and methodologic issues. J Am Geriatr Soc 39:229–234, 1991.
+@@ 523 [p]
+140. Sturdevant, R: Prescription for workplace safety: bend and lift correctly to avoid back injuries. J Tennessee Med Assoc 86:457, 1993.
+@@ 524 [p]
+141. Taggart, HM: Effects of Tai Chi exercise on balance, functional mobility, and fear of falling among older women. Appl Nurs Res 15:235–242, 2002.
+@@ 525 [p]
+142. Teasdale, N, Stelmach, GE, and Breunig, A: Postural sway characteristics of the elderly under normal and altered visual and support surface conditions. J Gerontol 46:B238–B244, 1991.
+@@ 526 [p]
+143. Thacker, SB, et al: Prevention of knee injuries in sports. A systematic review of the literature. J Sports Med Phys Fitness 43:165–179, 2003.
+@@ 527 [p]
+144. Tinetti, ME: Performance-oriented assessment of mobility problems in elderly patients. J Am Geriatr Soc 34:119–126, 1986.
+@@ 528 [p]
+145. Tinetti, ME, Richman, D, and Powell, L: Falls efficacy as a measure of fear of falling. J Gerontol 45:239–243, 1990.
+@@ 529 [p]
+146. Tinetti, ME, Williams, TF, and Mayewski, R: Fall risk index for elderly patients based on number of chronic disabilities. Am J Med 80:429–434, 1986.
+@@ 530 [p]
+147. Toussaint, H, Commissaris, DM, and Beek, P: Anticipatory postural adjustments in the back and leg lift. Med Sci Sports Exerc 29:1216–1224, 1997.
+@@ 531 [p]
+148. Trojian, TH, and McKeag, DB: Single leg balance test to identify risk of ankle sprains. Br J Sports Med 40:610–613, 2006.
+@@ 532 [p]
+149. Tsao, H, and Hodges, PW: Immediate changes in feedforward postural adjustments following voluntary motor training. Exp Brain Res 181:537–546, 2007.
+@@ 533 [p]
+150. Tsao, H, and Hodges, PW: Persistence of improvements in postural strategies following motor control training in people with recurrent low back pain. J Electromyogr Kinesiol 18:559–567, 2008.
+@@ 534 [p]
+151. Uccioli, L, et al: Body sway in diabetic neuropathy. Diabetes Care 18:339–344, 1995.
+@@ 535 [p]
+152. van Dieen, JH, et al: Estimating net lumbar sagittal plane moments from EMG data. The validity of calibration procedures. J Electromyogr Kinesiol 9:309–315, 1999.
+@@ 536 [p]
+153. van Dieen, JH, Hoozemans, M, and Toussaint, H: Stoop or squat: a review of biomechanical studies on lifting techniques. Clin Biomech 14:685–696, 1999.
+@@ 537 [p]
+154. Vellas, BJ, et al: One-leg balance is an important predictor of injurious falls in older persons. J Am Geriatr Soc 45:735–738, 1997.
+@@ 538 [p]
+155. Verhagen, E, et al: The effect of a proprioceptive balance board training program for the prevention of ankle sprains: a prospective controlled trial. Am J Sports Med 32:1385–1393, 2004.
+@@ 539 [p]
+156. Walker, JE, and Howland, J: Falls and fear of falling among elderly persons living in the community: occupational therapy interventions. Am J Occup Ther 45:119–122, 1991.
+@@ 540 [p]
+157. Wayne, PM, et al: Can Tai Chi improve vestibulopathic postural control? Arch Phys Med Rehabil 85:142–152, 2004.
+@@ 541 [p]
+158. Webster, KA, and Gribble, PA: Functional rehabilitation interventions for chronic ankle instability: a systematic review. J Sport Rehabil 19:98–114, 2010.
+@@ 542 [p]
+159. Wegener, L, Kisner, C, and Nichols, D: Static and dynamic balance responses in persons with bilateral knee osteoarthritis. J Orthop Sports Phys Ther 25:13–18, 1997.
+@@ 543 [p]
+160. Williams, GP, et al: High-Level Mobility Assessment Tool (HiMAT): interrater reliability, retest reliability, and internal consistency. Phys Ther 86:395–400, 2006.
+@@ 544 [p]
+161. Winstein, CJ, and Mitz, AR: The motor system. II: Higher centers. In Cohen, H (ed): Neuroscience for Rehabilitation. Philadelphia: JB Lippincott, 1993.
+@@ 545 [p]
+162. Winter, DA: A.B.C. (Anatomy, Biomechanics, and Control) of Balance During Standing and Walking. Waterloo, Ontario: Waterloo Biomechanics, 1995.
+@@ 546 [p]
+163. Winter, DA, et al: Biomechanical walking pattern changes in the fit and healthy elderly. Phys Ther 70:340–347, 1990.
+@@ 547 [p]
+164. Wolfson, LI, et al: Stressing the postural response. A quantitative method for testing balance. J Am Geriatr Soc 34:845–850, 1986.
+@@ 548 [p]
+165. Woollacott, MH, Shumway-Cook, A, and Nashner, LM: Aging and posture control: changes in sensory organization and muscular coordination. Int J Aging Hum Dev 23:97–114, 1986.
+@@ 549 [p]
+166. Wrisley, DM, and Kumar, NA: Functional gait assessment: concurrent, discriminative, and predictive validity in communitydwelling older adults. Phys Ther 90:761–773, 2010.
+@@ 550 [p]
+167. Wrisley, DM, et al: Reliability, internal consistency, and validity of data obtained with the functional gait assessment. Phys Ther 84:906–918, 2004.
+@@ 551 [p]
+168. Zijlstra, GA, et al: Interventions to reduce fear of falling in community-living older people: a systematic review. J Am Geriatr Soc 55:603–615, 2007.

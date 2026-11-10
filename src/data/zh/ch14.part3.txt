@@ -1,0 +1,110 @@
+@@ 430 [p]
+16. Ebenbichler, GR, et al: Sensory-motor control of the lower back: implications for rehabilitation. Med Sci Sports Exerc 33(11): 1889–1898, 2001.
+@@ 431 [p]
+17. Farfan, HF, et al: The effects of torsion on the lumbar intervertebral joints: the role of torsion in the production of disc degeneration. J Bone Joint Surg Am 52(3):468–497, 1970.
+@@ 432 [p]
+18. Friber, O: Clinical symptoms and biomechanics of lumbar spine and hip joint in leg length inequality. Spine 8:643–651, 1983.
+@@ 433 [p]
+19. Fritz, JM, Erhard, RD, and Hagen, BF: Segmental instability of the lumbar spine. Phys Ther 78(8):889–896, 1998.
+@@ 434 [p]
+20. Gerr, F, et al: A prospective study of computer users. I. Study design and incidence of musculoskeletal symptoms and disorders. Am J Ind Med 41:221–235, 2002.
+@@ 435 [p]
+21. Gossman, M, Sahrmann, S, and Rose, S: Review of lengthassociated changes in muscle. Phys Ther 62:1799–1808, 1982.
+@@ 436 [p]
+22. Gracovetsky, S, Farfan, H, and Helleur, C: The abdominal mechanism. Spine 10:317–324, 1985.
+@@ 437 [p]
+23. Gracovetsky, S, and Farfan, H: The optimum spine. Spine 11: 543–573, 1986.
+@@ 438 [p]
+24. Gracovetsky, S: The Spinal Engine. New York: Springer-Verlag Wein, 1988.
+@@ 439 [p]
+25. Grant, R, Jull, G, and Spencer, T: Active stabilization training for screen based keyboard operators—a single case study. Aust Physiother 43(4):235–232, 1997.
+@@ 440 [p]
+26. Hickey, DS, and Hukins, DW: Aging changes in the macromolecular organization of the intervertebral disc: an x-ray diffraction and electron microscopic study. Spine 7(3):234–242, 1982.
+@@ 441 [p]
+27. Hides, JA, Jull, GA, and Richardson, CA: Long-term effects of specific stabilizing exercises for first-episode low back pain. Spine 26:E243–E248, 2001.
+@@ 442 [p]
+28. Hides, JA, et al: Evidence of lumbar multifidus muscle wasting ipsilateral to symptoms in patients with acute/subacute low back pain. Spine 19(2):165–172, 1994.
+@@ 443 [p]
+29. Hides, JA, Richardson, CA, and Jull, GA: Multifidus muscle recovery is not automatic after resolution of acute, first-episode low back pain. Spine 21:2763–2769, 1996.
+@@ 444 [p]
+30. Hodges, P, and Gandevia, SC: Changes in intra-abdominal pressure during postural and respiratory activation of the human diaphragm. J Appl Physiol 89:967–976, 2000.
+@@ 445 [p]
+31. Hodges, P, and Gandevia, SC: Activation of the human diaphragm during a repetitive postural task. J Physiol 522:165–175, 2000.
+@@ 446 [p]
+32. Hodges, PW, and Richardson, CA: Altered trunk muscle recruitment in people with low back pain with upper limb movement at different speeds. Arch Phys Med Rehabil 80(9):1005–1012, 1999.
+@@ 447 [p]
+33. Hodges, PW, and Richardson, CA: Transversus abdominis and the superficial abdominal muscles are controlled independently in a postural task. Neurosci Lett 265(2):91–94, 1999.
+@@ 448 [p]
+34. Hodges, P, Cresswell, A, and Thorstensson, A: Preparatory trunk motion accompanies rapid upper limb movement. Exp Brain Res 134:69–79, 1999.
+@@ 449 [p]
+35. Hodges, PW, and Richardson, CA: Delayed postural contraction of transversus abdominis in low back pain associated with movement of the lower limb. J Spinal Disord 11(1):46–56, 1998.
+@@ 450 [p]
+36. Hodges, PW, Gandevia, SC, and Richardson, CA: Contractions of specific abdominal muscles in postural tasks are affected by respiratory maneuvers. J Appl Physiol 83(3):753–760, 1997.
+@@ 451 [p]
+37. Hodges, PW, and Richardson, CA: Relationship between limb movement speed and associated contraction of the trunk muscles. Ergonomics 40(11):1220–1230, 1997.
+@@ 452 [p]
+38. Hodges, PW, and Richardson, CA: Feedforward contraction of transversus abdominis is not influenced by direction of arm movement. Exp Brain Res 114(2):362–370, 1997.
+@@ 453 [p]
+39. Hodges, PW, and Richardson, CA: Contraction of the abdominal muscles associated with movement of the lower limb. Phys Ther 77(2):132–142, 1997.
+@@ 454 [p]
+40. Julius, A, et al: Shoulder posture and median nerve sliding. BMC Musculoskel Disord 5:23, 2004.
+@@ 455 [p]
+41. Kendall, FP, et al: Muscles: Testing and Function, with Posture and Pain, ed. 5. Baltimore: Lippincott Williams & Wilkins, 2005.
+@@ 456 [p]
+42. Klein, JA, and Hukins, DW: Collagen fiber orientation in the annulus fibrosus of intervertebral disc during bending and torsion measured by x-ray defraction. Biochim Biophys Acta 719:98–101, 1982.
+@@ 457 [p]
+43. Krag, MH, et al: Internal displacement distribution from in vitro loading of human thoracic and lumbar spinal motion segments: experimental results and theoretical predictions. Spine 12: 1001–1007, 1987.
+@@ 458 [p]
+44. Levangie, P, and Norkin, C: Joint Structure and Function: A Comprehensive Analysis, ed. 5. Philadelphia: FA Davis, 2011.
+@@ 459 [p]
+45. Lundon, K, and Bolton, K: Structure and function of the lumbar intervertebral disc in the health, aging, and pathologic conditions. J Orthop Sports Phys Ther 31(6):291–306, 2001.
+@@ 460 [p]
+46. Marcus, M, et al: A prospective study of computer users. II. Postural risk factors for musculoskeletal symptoms and disorders. Am J Ind Med 41:236–249, 2002.
+@@ 461 [p]
+47. Marras, WS, and Granata, KP: Changes in trunk dynamics and spine loading during repeated trunk exertions. Spine 22(21): 2564–2570, 1997.
+@@ 462 [p]
+48. McGill, SM: Low back exercises: evidence for improving exercise regimens. Phys Ther 78(7):754–765, 1998.
+@@ 463 [p]
+49. McGill, SM, and Norman, RW: Low back biomechanics in industry: the prevention of injury through safer lifting. In Grabiner, M (ed): Current Issues in Biomechanics. Champaign, IL: Human Kinetics, 1993.
+@@ 464 [p]
+50. Moseley, GL, Hodges, PW, and Gandevia, SC: Deep and superficial fibers of the lumbar multifidus muscle are differently active during voluntary arm movements. Spine 27:E29–36, 2002.
+@@ 465 [p]
+51. Neumann, DA: Kinesiology of the Musculoskeletal System: Foundations for Physical Rehabilitation. St. Louis: Mosby, 2002.
+@@ 466 [p]
+52. Neumann, P, and Gill, V: Pelvic floor and abdominal muscle interaction: EMG activity and intra-abdominal pressure. Int Urogynecol J 13:125–132, 2002.
+@@ 467 [p]
+53. Ng, JK-F, et al: Relationship between muscle fiber composition and functional capacity of back muscles in healthy subjects and patients with back pain. J Orthop Sports Phys Ther 27(6): 389–402, 1998.
+@@ 468 [p]
+54. Nourbakhsh, MR, and Arab, AM: Relationship between mechanical factors and incidence of low back pain. J Orthop Sports Phys Ther 32(9):447–460, 2002.
+@@ 469 [p]
+55. Novak, CB: Upper extremity work-related musculoskeletal disorders: a treatment perspective. J Orthop Sprots Phys Ther 34(10):628–637, 2004.
+@@ 470 [p]
+56. O’Sullivan, PB, et al: The effect of different standing and sitting postures on trunk muscle activity in a pain-free population. Spine 27(11):1238–1244, 2002.
+@@ 471 [p]
+57. Penjabi, MM: The stabilizing system of the spine. Part I. Function, dysfunction, adaptation, and enhancement. J Spinal Disord 5:383–389, 1992.
+@@ 472 [p]
+58. Penjabi, MM: The stabilizing system of the spine. Part II. Neutral zone and instability hypothesis. J Spinal Disord 5:390–397, 1992.
+@@ 473 [p]
+59. Porterfield, JA, and DeRosa, C: Mechanical Low Back Pain: Perspectives in Funcitonal Anatomy, ed. 2. Philadelphia: WB Saunders, 1998.
+@@ 474 [p]
+60. Richardson, C, Hodges, P, and Hides, J: Therapeutic Exercise for Lumbopelvic Stabilization: A Motor Control Approach for the Treatment and Prevention of Low Back Pain, ed. 2. Edinburgh: Churchill Livingstone, 2004.
+@@ 475 [p]
+61. Richardson, CA, et al: Techniques for active lumbar stabilisation for spinal protection: a pilot study. Aust J Physiother 38:105–111, 1992.
+@@ 476 [p]
+62. Richardson, CA, Toppenberg, R, and Jull, G: An initial evaluation of eight abdominal exercises for their ability to provide stabilisation for the lumbar spine. Aust J Physiother 36:6–11, 1990.
+@@ 477 [p]
+63. Sapsford, RR, et al: Co-activation of the abdominal and pelvic floor muscles during voluntary exercises. Neurol Urodynam 20:31–42, 2001.
+@@ 478 [p]
+64. Sapsford, RR, and Hodges, PW: Contraction of the pelvic floor muscles during abdominal maneuvers. Arch Phys Med Rehabil 82:1081–1088, 2001.
+@@ 479 [p]
+65. Sparto, PJ, et al: The effect of fatigue on multijoint kinematics, coordination, and postural stability during a repetitive lifting test. J Orthop Sports Phys Ther 25(1):3–11, 1997.
+@@ 480 [p]
+66. Twomey, LT: A rationale for the treatment of back pain and joint pain by manual therapy. Phys Ther 72:885–892, 1992.
+@@ 481 [p]
+67. Twomey, T, and Taylor, JR: Sagittal movements of the human lumbar vertebral column: a quantitative study of the role of the - posterior vertebral elements. Arch Phys Med Rehabil 64: 322–325, 1983.
+@@ 482 [p]
+68. Urquhart, DM, et al: Abdominal muscle recruitment during a range of voluntary exercises. Manual Ther 10(2):144–153, 2005.
+@@ 483 [p]
+69. Waddell, G, and Burton, AK: Occupational health guidelines for the management of low back pain at work: evidence review. Occup Med 51(2):124–135, 2001.
+@@ 484 [p]
+70. White, AA, and Panjabi, MM: Clinical Biomechanics of the Spine, ed. 2. Philadelphia: JB Lippincott, 1990.
