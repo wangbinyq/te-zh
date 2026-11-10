@@ -1,0 +1,541 @@
+@@ 222 [caption]
+图 8.16　双臂举过头顶站在平衡板上时的平衡。
+@@ 223 [caption]
+图 8.17　单腿站立并利用弹性阻力做抗阻肩后伸。
+@@ 224 [h4]
+预期性平衡控制
+@@ 225 [p]
+通过完成以下活动练习预期性平衡控制。
+@@ 226 [li]
+向各个方向伸手去触碰或抓取物品、接球或踢球。
+@@ 227 [li]
+采用不同姿势以增加变化（例如坐位、站立、跪位），并以不同的速度和高度抛球或滚球（图 8.18）。
+@@ 228 [li]
+使用涉及身体多个部位的功能性任务，通过让病人在不同姿势下以不同速度提起不同重量的物品、开关把手与重量不同的门，或穿越障碍路线，来增加对预期性姿势控制的挑战。
+@@ 229 [caption]
+图 8.18　站立并向上伸手接球时的平衡。
+@@ 230 [h4]
+反应性平衡控制
+@@ 231 [p]
+通过以下活动训练反应性平衡控制。
+@@ 232 [li]
+让病人在坚硬稳定的表面上站立，在不同方向上逐步增大摆动的幅度。
+@@ 233 [li]
+为强调踝策略的训练，让病人单腿站立、躯干直立进行练习。
+@@ 234 [li]
+为强调髋策略的训练，让病人在平衡木或地面上画的线上行走；做前后站和单腿站立并伴躯干屈曲；或站在小型蹦床、摇板或滑板上。
+@@ 235 [li]
+为强调跨步策略，让病人练习踏上小凳，或双腿交叉向前、向后迈过另一条腿（例如穿花或编辫样行走）。
+@@ 236 [p]
+　
+@@ 237 [li]
+为在这些活动中增加挑战，加入可预期和不可预期的外力。例如，让病人提起外观相同但重量不同的箱子；抛接不同重量和不同大小的球；或在跑步机上突然停止／启动跑带，或加快／减慢速度。
+@@ 238 [h4]
+步行、移动或平衡过程中的安全
+@@ 239 [p]
+为强调安全，让病人在其实际稳定极限范围内练习姿势摆动活动，并以促进功能为重点进阶动态活动。如果平衡缺陷无法改变，则可能需要环境改造、辅助器具以及增加家庭或外部支持来确保安全。
+@@ 240 [h4]
+感觉组织
+@@ 241 [p]
+前文所述的许多活动均可在改变对特定感觉系统依赖程度的情况下使用。
+@@ 242 [li]
+为减少或干扰视觉输入，让病人闭眼、戴棱镜眼镜，或在平衡活动中同时移动眼和头。
+@@ 243 [li]
+为减少对躯体感觉线索的依赖，可让病人缩小 BOS、站在泡沫垫上或站在斜板上。
+@@ 244 [h4]
+功能性活动中的平衡
+@@ 245 [p]
+重点关注与评估中发现的功能受限相似的活动。例如：
+@@ 246 [li]
+若伸手受限，让病人进行诸如伸手取橱柜中的杯子、向身后伸手（如把手臂伸进袖子）或接偏离中心的球等活动。
+@@ 247 [li]
+同时完成两项或更多任务，以提高任务复杂性水平。
+@@ 248 [li]
+练习病人喜爱的娱乐活动，如高尔夫，在挑战平衡控制的同时提高动机（图 8.19）。
+@@ 249 [caption]
+图 8.19　高尔夫挥杆过程中的功能性平衡。
+@@ 250 [h4]
+临床提示
+@@ 251 [p]
+辅助器具（如助行推车）常被适当地开具作为多种平衡损伤病人的代偿措施。然而，临床工作者应意识到，装配或使用不当的辅助器具会诱发跌倒。因此，临床工作者必须正确调整辅助器具，并就其正确使用方法提供指导，以防止不必要的跌倒。
+@@ 252 [h4]
+健康与环境因素
+@@ 253 [p]
+除运动与平衡训练活动外，临床工作者还应处理其他若干影响平衡的因素，以降低跌倒风险。
+@@ 254 [h4]
+低视力
+@@ 255 [p]
+为处理低视力问题，鼓励定期眼科检查，必要时调整镜片度数并施行白内障手术。在强烈阳光下戴帽子和太阳镜，在天黑时格外小心，夜间在室内走动时确保开灯，也是其他建议。建议病人在步行时避免佩戴双光眼镜，因为单光镜片对改善深度知觉和对比敏感度最安全，尤其是在上下楼梯时。
+@@ 256 [h4]
+感觉丧失
+@@ 257 [p]
+对于下肢感觉丧失的个体，提醒其在柔软地毯或不平地面上行走时格外小心，必要时使用手杖或其他器具。建议其穿鞋跟低的硬底橡胶鞋。应鼓励定期医学检查，以确保病人的血糖水平和其他因素（即胆固醇、血脂）得到控制，从而将对感觉神经的损害降至最低，这种损害可由糖尿病和外周血管疾病等造成。建议病人若出现任何头晕症状应就医。
+@@ 258 [h4]
+药物
+@@ 259 [p]
+应教育病人了解某些药物（如镇静剂和抗抑郁药）对其跌倒风险的影响。例如，若在夜间使用此类药物助眠，个体在起床如厕时应格外小心。
+@@ 260 [h4]
+针对老年人跌倒预防的循证平衡运动方案
+@@ 261 [p]
+来自随机临床试验的日益增多的证据表明，治疗性运动是预防跌倒的有效手段，尤其是与针对造成跌倒的健康、环境和行为风险因素的综合策略结合时。平衡训练的运动与活动选择应基于两个主要因素：个体的跌倒风险，以及训练将进行的场所。经济与交通因素在这些决策中也起作用。由于人们在参加平衡训练和运动方案时也可能跌倒，因此必须做好充分的保护以防跌倒。基于这些问题，提出以下指导原则。
+@@ 262 [li]
+无跌倒史且在标准化平衡测试中评分未处于“有风险”类别的老年人，应参加包含肌肉力量、平衡和协调练习的个体或社区团体运动方案。
+@@ 263 [li]
+根据标准化平衡测试有跌倒风险但尚无跌倒史的个体，应参加个体或团体运动方案，这些方案中应有训练有素的带领者和支持人员，在挑战平衡的活动中适当地监督和保护个体。
+@@ 264 [li]
+有跌倒风险且有跌倒史者，需要由物理治疗师或物理治疗师助理制定个体化、有监督的运动方案，并在适当时由受过训练、能在家庭运动活动中监督和保护该人的照护者参与。该方案可在门诊或家庭环境中进行。
+@@ 265 [h4]
+临床提示
+@@ 266 [p]
+根据当前最佳证据，降低跌倒风险的运动方案应包含至少 50 小时专门用于改善平衡的运动和活动。这可以采取每周 2 次、每次 1 小时的团体运动方案，持续 26 周的形式。更密集的方案可包括每周 3 次、每次 1 小时的平衡训练，并辅以每日 30 分钟的家庭运动方案，持续 8 至 10 周。尽管步行有许多健康益处，但用于步行运动方案的时间应是平衡训练时间之外额外增加的，而不能替代平衡训练。
+@@ 267 [h4]
+针对高危人群降低跌倒风险的家庭运动方案
+@@ 268 [p]
+对于某些跌倒高风险者，家庭环境可能是以运动为基础的跌倒预防方案的最佳选择。家庭可能是此类方案最佳场所的原因包括：1) 个体在该环境中活动最多，因此训练就在跌倒最可能发生的地点进行；2) 个体可以更充分地发挥其体能，而不受可能与交通问题相关的压力和疲劳影响。
+@@ 269 [h4]
+Otego 家庭运动方案
+@@ 270 [p]
+Otego 运动方案是一项成本效益良好的方案，用于减少 80 岁及以上人群的跌倒。该方案包括个体化的 30 分钟下肢力量与平衡训练，在家每周至少进行 3 次，并辅以步行计划。该方案设计为在物理治疗师或由其培训的健康专业人员监督下进行 24 周。
+@@ 271 [li]
+病人获得一本附有插图和每项运动说明的小册子。
+@@ 272 [li]
+在下肢力量练习中使用踝部沙袋提供阻力，练习针对髋伸展与髋外展肌以及膝屈伸肌。
+@@ 273 [li]
+阻力大小应基于个体在疲劳前能完成 8 至 10 次重复所提起的重量。多数人从 1 或 2 kg（2.2 或 4.4 lb）的套筒沙袋开始。
+@@ 274 [li]
+目标是在增加重量之前，个体能完成 2 组、每组 10 次重复。
+@@ 275 [li]
+踝背屈肌和跖屈肌以自身体重作为阻力进行力量训练（图 8.20 和图 8.21）。
+@@ 276 [li]
+专栏 8.4 列出了 Otego 方案中的力量训练。
+@@ 277 [caption]
+图 8.20　踮起足尖以增强跖屈肌。
+@@ 278 [p]
+　
+@@ 279 [caption]
+图 8.21　向后摇至足跟并抬起足尖以增强背屈肌。
+@@ 280 [li]
+Otego 运动方案的平衡训练部分同样因人而异，强调与功能性活动密切相关的动态练习（图 8.22）。根据个体的能力，平衡练习可扶着
+@@ 281 [caption]
+图 8.22　练习坐-站转移是增强下肢力量和改善动态平衡的重要功能性活动。
+@@ 282 [p]
+大型稳固的家具或厨房台面进行，并通过在没有支撑的情况下完成练习来进阶（图 8.23）。平衡训练练习列于专栏 8.4。
+@@ 283 [li]
+步行计划是 Otego 运动方案的一部分。要求个体以平常速度每天至少步行 30 分钟。步行计划可通过全天分多次较短时间（如 10 分钟）步行来完成。
+@@ 284 [p]
+A　B
+@@ 285 [caption]
+图 8.23　前后走（A）以轻触稳固表面作支撑进行；（B）在无外部支撑下进行。注意治疗师为安全起见对病人密切保护。
+@@ 286 [h4]
+专栏 8.4　Otego 家庭运动方案
+@@ 287 [h4]
+下肢力量训练*
+@@ 288 [p]
+让个体坐在硬质直背椅上：
+@@ 289 [li]
+进行 5 分钟主动、轻柔的热身运动，以减轻酸痛。
+@@ 290 [li]
+加上适当的踝部套筒沙袋，让病人做单侧伸膝。
+@@ 291 [li]
+对侧腿重复。
+@@ 292 [p]
+让个体站立，必要时扶着台面或沉重家具作支撑。
+@@ 293 [li]
+加上适当的踝部沙袋，让病人做单侧屈膝。对侧腿重复。
+@@ 294 [li]
+必要时调整套筒沙袋重量，让病人做单侧髋外展。对侧腿重复。
+@@ 295 [li]
+踮起足尖以增强踝跖屈肌。
+@@ 296 [li]
+向后摇至足跟以训练踝背屈肌。
+@@ 297 [p]
+*每项运动均应缓慢完成（例如提起重量用 2–3 秒，放下重量用 4–6 秒），并贯穿完整的功能性关节活动度。目标是每项运动完成 2 组、每组 10 次重复。
+@@ 298 [h4]
+包含力量训练、步行和功能性活动的有监督团体方案
+@@ 299 [p]
+最近的一项系统综述得出结论：包含肌肉力量、步态、平衡、协调和功能性练习的多模式运动方案，对平衡的有益作用大于常规运动方案，至少在短期内如此。长期效果的证据有限。多数运动方案持续 3 个月，每周 3 次、每次 1 小时。
+@@ 300 [p]
+一个有监督团体方案的例子来自 Means 及其同事的研究，该研究调查了一项旨在改善社区居住老年人（有无跌倒史）平衡的方案的效果。该方案包含牵伸、力量、协调练习、身体力学、平衡训练、生存技能动作以及耐力步行等活动。参与者每周 3 次参加 90 分钟的运动课程，每组 6 至 8 人。练习在物理治疗师指导下进行。开始时，鼓励参与者以“相当轻”的强度运动（相当于 6 至 20 分 Borg 自觉用力量表中的 11 分）。第一周后，鼓励参与者以“有些吃力”的强度运动（相当于 Borg 量表中的 13 分）。参加这一 6 周综合运动方案的参与者，完成障碍路线的用时减少
+@@ 301 [h4]
+平衡训练**
+@@ 302 [li]
+屈膝——10 次重复
+@@ 303 [li]
+向后行走——10 步，4 次
+@@ 304 [li]
+行走并转身——走“8”字形，2 次
+@@ 305 [li]
+侧向行走——10 步，4 次
+@@ 306 [li]
+前后站——保持 10 秒
+@@ 307 [li]
+前后走——10 步，2 次
+@@ 308 [li]
+足跟行走——10 步，4 次
+@@ 309 [li]
+足尖行走——10 步，4 次
+@@ 310 [li]
+坐-站——双手扶助站起 5 次，单手扶助站起 5 次或双手扶助站起 10 次，单手扶助站起 10 次，无支撑站起 10 次，无支撑站起重复 10 次
+@@ 311 [p]
+**平衡练习最容易的水平是双手支撑。进阶到更难的水平（单手支撑和无手支撑）取决于能否以平稳、受控的动作完成目标重复次数或时间。要进阶到不扶支撑的练习，教练必须确信该人能安全地运用跨步等下肢策略恢复平衡。
+@@ 312 [p]
+（例如步行、上下楼梯、开门、从椅子上站起、跨过物体），并在参加后长达 6 个月内减少跌倒和跌倒相关损伤的次数。
+@@ 313 [p]
+专栏 8.5 提供了运动重复次数、耐力步行时长以及有监督团体方案进阶的一般指导。
+@@ 314 [h4]
+包含针对平衡损伤与功能的活动循环的多系统团体运动方案
+@@ 315 [p]
+Nitz 与 Choy 研究了一项平衡训练方案的疗效，该方案整合了针对力量、协调、感觉系统（视觉、知觉、前庭）、认知、反应时间以及静态和动态稳定性的个体与团体练习。有近期跌倒史的社区居住老年人被随机分为两组。一组参加针对多系统活动的平衡训练方案。对照组参加较为传统的团体运动方案。两组参与者均获得一本关于如何在家中预防跌倒的教育手册，并每周参加 1 次、每次 1 小时的课程，持续 10 周。练习由一名物理治疗师带领，在进行小组活动（每组 6 名参与者）时由 1 至 2 名学生协助。
+@@ 316 [p]
+干预后，两组报告的跌倒次数均减少。进行循环训练方案的那组跌倒减少更多；他们在日常生活活动能力的功能够测查中也表现出更大改善。尽管 Nitz 与 Choy 设计的循环训练方案显然
+@@ 317 [h4]
+专栏 8.5　包含力量训练、步行和功能性活动的平衡运动方案
+@@ 318 [p]
+安全上下楼梯（个体练习）耐力步行（从基线步行时间的 75%–100% 开始；以舒适的速度增加）
+@@ 319 [h4]
+第 1 周
+@@ 320 [p]
+柔韧性练习（5 次重复，每次保持 15 秒）腘绳肌牵伸 臀大肌与髋屈肌牵伸 腓肠肌与比目鱼肌牵伸 椎旁肌牵伸 力量练习（测定下肢练习首选弹力带强度的基线——1 次最大重复量）下肢肌肉（弹力带：每条腿 1 组 8–10 次重复）股四头肌（坐位伸膝和直腿抬高）腘绳肌 臀大肌 臀中肌 上肢肌肉（5–10 次重复）俯卧撑 腹部肌肉（5 次重复）双手抱头的屈膝仰卧起坐
+@@ 321 [h4]
+第 3 周
+@@ 322 [p]
+柔韧性练习（5 次重复，每次保持 20 秒）力量练习：下肢（2 组 10 次重复），上肢（俯卧撑，10–15 次重复），腹部（屈膝仰卧起坐，10–15 次重复）姿势练习（15 次重复，保持 10 秒）协调练习（重复次数增加）生存技能动作：练习（从地面起身／楼梯）耐力步行（0–6 分钟，舒适速度）
+@@ 323 [h4]
+第 4 周
+@@ 324 [p]
+臀中肌 柔韧性练习（5 次重复，每次保持 25 秒）上肢肌肉（5–10 次重复）力量练习：下肢（2–3 组 10 次重复），俯卧撑 上肢（俯卧撑，15 次重复），腹部（屈膝仰卧起坐，腹部肌肉（5 次重复）15 次重复）双手抱头的屈膝仰卧起坐 姿势练习（20 次重复，保持 10 秒）协调练习（重复次数增加）身体力学的指导，内容包括：交替腿（闭眼）站立 穿花（不扶，睁眼）坐位 梯格（向前、侧向和后向跨步）卧位 生存技能动作：练习（从地面起身／楼梯）抬举 耐力步行（3–8 分钟，舒适速度）伸手 搬运 第 5 周 从地面起身 柔韧性练习（5 次重复，每次保持 30 秒）上下楼梯 力量练习：下肢（3 组 10 次重复），基线步行评估（确定最大舒适上肢（俯卧撑，15–20 次重复），腹部（屈膝仰卧起坐，距离）15–20 次重复）从地面起身 柔韧性练习（5 次重复，每次保持 30 秒）上下楼梯 力量练习：下肢（3 组 10 次重复），基线步行评估（确定最大舒适上肢（俯卧撑，15–20 次重复），腹部（屈膝仰卧起坐，距离）15–20 次重复）姿势练习（25 次重复，保持 10 秒）第 2 周 协调练习：同上并增加重复次数，另加：柔韧性练习（同上）穿花（不扶，闭眼）力量练习：下肢肌肉（弹力带：1 组 交互踝背屈／跖屈（25 次重复）每条腿 10 次重复），上肢肌肉（10 次重复），生存技能动作：练习（从地面起身／楼梯）腹部肌肉（5–10 次重复）耐力步行（6–10 分钟，舒适速度）姿势练习（10 次重复，保持 10 秒）头和颈 第 6 周 躯干 柔韧性练习（5 次重复，每次保持 30 秒）力量练习：下肢（3 组 10 次重复），协调练习 上肢（俯卧撑，20 次重复），腹部（屈膝仰卧起坐，交互腿运动（10 次重复，闭眼）15–20 次重复）桥式（10 次重复）姿势练习（25 次重复，保持 10 秒）坐位／站立（5 次重复）协调练习（同上并增加重复次数）穿花练习（2 次重复）耐力步行（8–12 分钟，舒适速度）交互踝运动（10 次重复）生存技能动作：练习（从地面起身／楼梯）梯格：向前跨步（2 次重复）
+@@ 325 [h4]
+“生存”技能动作
+@@ 326 [p]
+从地面起身练习——“跌倒时如何起身”包含许多重要活动
+@@ 327 [p]
+表 8.4 提供了 Nitz 与 Choy 研究中平衡运动方案的细节，包括循环训练和团体活动。
+@@ 328 [h4]
+用于平衡训练的太极
+@@ 329 [p]
+太极已成为一种流行的平衡训练运动形式。太极是一种传统的中国运动方案，由一系列全身动作组成，以缓慢、放松的方式完成，强调对姿势对线的觉察和同步呼吸。太极的四种流派为杨式、孙式、陈式和吴式，
+@@ 330 [table]
+表 8.4　循环训练 | 针对平衡损伤与 | 功能的方案
+活动 | 针对的反应 | 活动进阶
+坐-站-坐 | 下肢力量 功能性能力 多重任务 | 降低椅面高度。增加／去除上肢辅助。手中持物，在碟子或托盘上平衡一只装水或不装水的杯子。在手工任务中加入认知任务。
+向各方向跨步（向前、侧向和后向） | 选择跨步反应时间 下肢力量与协调 | 增加跨步速度。在柔软表面上跨步。闭眼。
+向稳定极限伸手 | 挑战稳定极限 前庭刺激与整合 上肢和下肢力量 | 将物体粘在墙上，保持双足位置不变，向上下各个方向伸手至稳定极限。向前弓步拾取移到侧方和身后高架上的物体，通过伸得更远、增加物体重量和大小来进阶。
+上下台阶 | 下肢力量与耐力 跨步反应时间 | 向前、向后和侧向跨过不同高度的障碍块；增加高度、重复次数和跨步速度。
+踝、髋和上肢平衡策略练习 | 下肢力量 平衡策略训练 | 面对墙站立，足尖触及距墙 0.5 米的一条线。向墙方向后倾，保持平衡并背屈双足、用上肢运动维持平衡，同时向墙降低。
+侧向伸手任务 | 下肢内外侧肌肉力量 前庭刺激与整合 挑战稳定极限 多重任务与混杂的本体感觉输入 | 站在两侧放置的一张高桌和一张矮桌之间；从一张桌上拾取物品并转移到另一张桌。把两桌移得更远，并增加物品重量和大小以增加挑战。站在地面上的运动垫上完成任务。
+球类游戏 | 多重任务 手眼协调 前庭刺激 上肢和下肢的爆发性活动 | 使用充气沙滩球，并进阶到更小或更硬的球，或同时用两三个球。加入认知任务，例如在抛接或踢球时说出一个以 G 开头的动物名称。
+扑克寻宝／按花色分类 | 应对视觉冲突的策略 前庭刺激与挑战稳定极限 | 课前将扑克牌藏在房间各处，使参与者必须弯腰、查看家具下方、向上伸手，或从视觉混杂的背景中辨认出牌才能收集。可分红队和黑队，5 分钟内将最多牌送回收集点的一队获胜。加入按花色找出或分类排序的认知挑战。
+@@ 331 [p]
+它们的原则、形式和功能各不相同。杨式太极是当今最流行、练习最广泛的流派，由 24 式（姿势和动作）组成。针对老年人的太极方案可采用仅有 6 至 12 式的简化太极。在太极训练中，参与者在站立时学习控制身体 COM 的位移，并在身体动作过程中增强下肢力量和柔韧性。
+@@ 332 [p]
+太极运动的一些特点，以及太极可能影响姿势与平衡的治疗原理，包括以下内容。
+@@ 333 [li]
+动作缓慢、连续、均匀的节律促进感觉运动整合和对环境的觉察（见图 8.2）。
+@@ 334 [li]
+强调保持垂直姿势增强了姿势对线和方位知觉。
+@@ 335 [li]
+体重从一条腿到另一条腿的持续转移促进预期性平衡控制、运动协调和下肢力量。
+@@ 336 [li]
+最后，四肢幅度大而动态、流畅且圆滑的动作促进关节活动度和柔韧性（图 8.24）。在向病人推荐太极课程时应考虑这些特点，以确保教练遵循这些原则，且病人适合这些活动。
+@@ 337 [p]
+太极训练的有效性取决于方案的持续时间（可从 4 周到 1 年）和目标人群。研究显示，太极通过在转移体重的同时做头、躯干和上肢运动，改善站立平衡控制。参加太极团体方案的社区居住老年人与不运动者相比，报告的跌倒恐惧减少，这可能是因为训练提高了对平衡的自我觉察。然而，太极训练不太可能改善步行和转身等功能中的动态平衡。这或许可以解释为何关于太极能否减少 50 岁以上人群跌倒或跌倒风险的证据存在矛盾。因此，太极应仅被视为综合跌倒预防方案的一部分，而不应被提倡作为唯一的运动干预。
+@@ 338 [h4]
+针对特定肌骨疾病的循证平衡运动方案
+@@ 339 [p]
+越来越多的证据表明，特定的平衡运动方案能有效预防和／或治疗
+@@ 340 [caption]
+图 8.24　在这一太极式中，参与者在移动上肢的同时将体重移向一条腿。
+@@ 341 [p]
+与下肢和躯干损伤及病理相关的平衡控制缺陷。
+@@ 342 [h4]
+踝扭伤
+@@ 343 [p]
+若干系统综述得出结论：平衡训练方案能改善有踝扭伤史个体的静态和动态平衡，并降低踝扭伤风险。成功的方案使用了摇板或不稳定平衡平台、单腿站立进阶，以及健侧腿对抗弹力带或弹力管的抗阻踢腿。为预防，方案通常在整个比赛赛季每周至少进行 3 次；伤后则每周 2 至 3 次，持续约 6 至 8 周。
+@@ 344 [p]
+McGuine 与 Keene 设计的平衡方案使高中足球和篮球男运动员（n=112）和女运动员（n=261）的踝扭伤风险降低 38%。参与者做单腿站立（图 8.25），从站在地板上进阶到站在摇板上，并采用睁眼和闭眼两种方式。他们在前 5 周每周 5 天进行平衡活动，此后在整个赛季其余时间每周 3 天。每项练习每条腿持续 30 秒，两腿交替，重复之间休息 30 秒。
+@@ 345 [p]
+A　B　C
+@@ 346 [caption]
+图 8.25　使用摇板降低运动员踝扭伤发生率的平衡方案：(A) 单腿蹲（膝屈 30° 至 45°）；(B) 旋转摇板的单腿站立；(C) 在完成功能性活动（即接球）时单腿站立。
+@@ 347 [h4]
+前交叉韧带损伤
+@@ 348 [p]
+本体感觉和平衡训练方案，无论单独使用还是与神经肌肉训练结合（后者包括下肢增强式练习、躯干稳定、力量训练（参见第 16 章）和专项运动功能训练（参见第 21 章和第 23 章）），已被证明能降低运动员首次非接触性前交叉韧带（ACL）损伤的风险因素和发生率。这些本体感觉和平衡训练方案常包括双腿和单腿平衡练习，从坚硬表面进阶到不稳定表面（如踝盘、倾斜板或泡沫垫），并加入变化，如下蹲或接球。为预防，平衡练习通常在日常赛前训练中进行 10 至 15 分钟，赛季中每周 3 次。
+@@ 349 [p]
+Fitzgerald 及其同事开发的平衡训练方案由治疗师徒手施加的多方向扰动组成，受试者以单腿或双腿站在倾斜板或滚板上；与接受标准方案的病人相比，该方案使急性前交叉韧带损伤或前交叉韧带移植物断裂的病人恢复高水平体力活动的可能性增加近 5 倍。本研究的治疗每周 2 至 3 次，共 10 次。
+@@ 350 [h4]
+下背痛
+@@ 351 [p]
+研究表明，本体感觉或平衡训练可改善下背痛个体的姿势控制。由腹部深层肌肉自主收缩组成的特定脊柱稳定练习，可减轻慢性非特异性下背痛病人的疼痛和失能，并产生前馈姿势调整的即时和长期改善（参见第 15 章和第 16 章）。
+@@ 352 [p]
+Cacciatore 及其同事研究了为期 6 个月、每周 1 次共 20 课的亚历山大技巧（AT）课程对一名 49 岁、有 25 年左侧特发性下背痛病史女性姿势协调和背痛的影响；该技巧通过有意识地控制紧张性肌肉活动来处理预期性姿势调整。在 AT 课程之前，该病人对水平力台移动的自动姿势反应持续不对称，左腿平衡能力差。课程之后，她的姿势反应改善，站立平衡改善，下背痛减轻。
+@@ 353 [h3]
+独立学习活动
+@@ 354 [h4]
+批判性思维与讨论
+@@ 355 [p]
+1. 一个人从椅子上站起时发生跌倒。运用平衡的生物力学原理，此人可以立即做哪些调整来增加稳定性并防止跌倒？
+@@ 356 [p]
+2. 区分并描述若干主要依赖前馈或开环运动控制的平衡运动，以及那些利用闭环控制的平衡运动。
+@@ 357 [p]
+3. 复习踝、髋和跨步策略，并讨论这些策略如何被引发，以及控制平衡时激活了哪些关键肌肉。
+@@ 358 [p]
+4. 回想你过去跌倒的经历。你跌倒时正在做什么活动？哪些肌骨、神经和／或情境因素促成了跌倒的发生？跌倒的后果是什么？你预计自己的跌倒与老年人的跌倒之间有哪些差异？
+@@ 359 [p]
+5. 区分并讨论你将用于训练平衡控制的静态、动态、预期性、反应性和感觉组织方面的治疗活动。举例说明你将如何进阶各项活动。
+@@ 360 [p]
+6. 对于有跌倒史的老年人，家庭环境中的哪些方面可能需要改造，以最大程度提高其安全性和独立性？
+@@ 361 [p]
+7. 平衡训练方案的成功取决于病人的依从性。你会采用哪些策略来提高一个人坚持家庭运动方案的可能性，并确保达到其治疗结局？关于有效运动的教学策略，参见第 1 章。
+@@ 362 [li]
+在坚硬表面上双足并拢站立，双手叉腰，闭眼
+@@ 363 [li]
+在柔软泡沫垫上双足并拢站立，双手叉腰，睁眼
+@@ 364 [li]
+在柔软泡沫垫上双足并拢站立，双手叉腰，闭眼
+@@ 365 [p]
+对每种条件，个体维持平衡可利用哪些感觉输入？每种条件下的摆动幅度如何变化，为什么？
+@@ 366 [p]
+2. 与同伴一起，观察以下活动中的身体运动。
+@@ 367 [p]
+- 双足与肩同宽站立，做自主发起的前后身体摆动，幅度由小到大。
+@@ 368 [p]
+- 双足分开站立，让同伴把手放在你的胸骨上，轻轻向后推你，然后再用更大的力推一次。
+@@ 369 [p]
+- 双足前后相对站立，让同伴轻轻向后推你。
+@@ 370 [p]
+- 穿上限制踝运动的踝足矫形器或滑雪靴，让同伴轻轻向后推你。
+@@ 371 [p]
+每项活动引发的是哪种运动策略，为什么？
+@@ 372 [p]
+3. 练习执行你用来训练表 8.2 所述平衡控制静态、动态、预期性、反应性和感觉组织方面的治疗活动。将各项活动进阶至最大程度挑战你的平衡。
+@@ 373 [h4]
+实验室练习
+@@ 374 [p]
+1. 与同伴一起，将一把码尺安装在墙上与人肩同高的位置。在以下每种条件下，记录 30 秒安静站立期间肩部的最大位移，以测量前后摆动的最大幅度。
+@@ 375 [p]
+- 在坚硬表面上双足并拢站立，双手叉腰，睁眼。
+@@ 376 [h4]
+病例研究
+@@ 377 [p]
+1. 一名 20 岁男性足球运动员在机动车事故中发生右侧胫骨中段骨折，需佩戴长腿硬质石膏 6 周。你在拆除石膏后 1 周接诊该病人进行物理治疗。他希望重返足球运动，但目前无法在右腿上维持平衡来踢球。
+@@ 378 [p]
+哪些潜在损伤可能造成此人的平衡问题？你将如何设计运动方案，使他能够达到目标？
+@@ 379 [p]
+2. 一名 75 岁女性在浴缸中跌倒，发生右侧骨盆骨折，需卧床 2 周。你在她出院后到其家中接诊。她有全身性无力、去适应状态、站立不稳，并害怕跌倒。目前她使用助行器行走。跌倒之前，她在所有日常生活活动中完全独立，并喜欢傍晚在社区散步。为该女性设计一个渐进性平衡方案，使其恢复到先前的功能水平。
+@@ 380 [p]
+3. 一名 70 岁退休者接受了双侧膝关节置换术。他希望恢复自己最喜爱的划船爱好，但对自己在动态条件下保持平衡的能力缺乏信心。设计一个运动与平衡训练方案，帮助他重返娱乐活动。你对他划船时的安全有何建议？如果他的爱好是打高尔夫而不是划船，会怎样？比较并对比你为这两种不同情况开具的活动和练习。
+@@ 381 [p]
+4. 一名 56 岁、患糖尿病的肥胖女性因下背痛接受治疗。她报告行走时不稳，尤其在黑暗环境中。她在 CTSIB 测试的条件 2、3、5 和 6 中难以维持平衡。哪些因素可能造成她的不稳？设计一个针对其平衡损伤的运动方案。
+@@ 382 [p]
+5. 一名活跃、有活力的 70 岁女性就如何最好地维持健康与体能征求你的建议。针对她的综合运动方案有哪些主要组成部分？举例说明她应包含的练习。
+@@ 383 [h4]
+参考文献
+@@ 384 [p]
+1. Adams, MA, and Hutton, WC: Has the lumbar spine a margin of safety in forward bending? Clin Biomech 1:3–6, 1986.
+@@ 385 [p]
+2. Alentorn-Geli, E, et al: Prevention of non-contact anterior cruciate ligament injuries in soccer players. Part 2: A review of prevention programs aimed to modify risk factors and to reduce injury rates. Knee Surg Sports Traumatol Arthrosc 17:859–879, 2009.
+@@ 386 [p]
+3. Alexander, KM, and LaPier, TL: Differences in static balance and weight distribution between normal subjects and subjects with chronic unilateral low back pain. J Orthop Sports Phys Ther 28:378–383, 1998.
+@@ 387 [p]
+4. American Geriatrics Society British Geriatrics Society, American Academy of Orthopaedic Surgeons Panel on Fall Prevention: Guidelines for the prevention of falls in older persons. J Am Geriatr Soc 49:664–672, 2001.
+@@ 388 [p]
+5. American Physical Therapy Association: Guide to Physical Therapist Practice, ed 2. Phys Ther 81:9–746, 2001.
+@@ 389 [p]
+6. Andersson, G: Epidemiologic aspects of low back pain in industry. Spine 6:53–60, 1981.
+@@ 390 [p]
+7. Au-Yeung, SS, Hui-Chan, CW, and Tang, JC: Short-form Tai Chi improves standing balance of people with chronic stroke. Neurorehabil Neural Repair 23:515–522, 2009.
+@@ 391 [p]
+8. Barrack, JA, Skinner, HB, and Buckley, S: Proprioception in the anterior cruciate deficient knee. Am J Sports Med 17:1–7, 1989.
+@@ 392 [p]
+9. Basmajian, JV, and DeLuca, CJ: Muscles Alive: Their Functions Revealed by Electromyography, ed. 5. Baltimore: Williams & Wilkins, 1985.
+@@ 393 [p]
+10. Berg, KO, et al: Measuring balance in the elderly: validation of an instrument. Can J Public Health 83(Suppl 2):S7–S11, 1992.
+@@ 394 [p]
+11. Black, FO, et al: Abnormal postural control associated with peripheral vestibular disorders. Prog Brain Res 76:263–275, 1988.
+@@ 395 [p]
+12. Borg, G: Perceived exertion as an indicator of somatic stress. Scand J Rehabil Med 2:92–98, 1970.
+@@ 396 [p]
+13. Boyle, J, and Negus, V: Joint position sense in the recurrently sprained ankle. Aust J Physiother 44:159–163, 1998.
+@@ 397 [p]
+14. Braune, W, and Fischer, O: On the Centre of Gravity of the Human Body. Berlin: Springer-Verlag, 1984.
+@@ 398 [p]
+15. Brouwer, BJ, et al: Reducing fear of falling in seniors through education and activity programs: a randomized trial. J Am Geriatr Soc 51:829–834, 2003.
+@@ 399 [p]
+16. Brumagne, S, et al: The role of paraspinal muscle spindles in lumbosacral position sense in individuals with and without low back pain. Spine 25:989–994, 2000.
+@@ 400 [p]
+17. Buatois, S, et al: Five times sit to stand test is a predictor of recurrent falls in healthy community-living subjects aged 65 and older. J Am Geriatr Soc 56:1575–1577, 2008.
+@@ 401 [p]
+18. Burtner, PA, Woollacott, MH, and Qualls, C: Stance balance control with orthoses in a group of children with spastic cerebral palsy. Dev Med Child Neurol 41:748–757, 1999.
+@@ 402 [p]
+19. Byl, NN, and Sinnott, PL: Variations in balance and body sway in middle-aged adults. Subjects with healthy backs compared with subjects with low back dysfunction. Spine 16:325–330, 1991.
+@@ 403 [p]
+20. Cacciatore, TW, Horak, FB, and Henry, SM: Improvement in automatic postural coordination following Alexander technique lessons in a person with low back pain. Phys Ther 85: 565–578, 2005.
+@@ 404 [p]
+21. Campbell, AJ, et al: Randomised controlled trial of a general practice programme of home based exercise to prevent falls in elderly women. BMJ 315:1065–1069, 1997.
+@@ 405 [p]
+22. Caraffa, A, et al: Prevention of anterior cruciate ligament injuries in soccer. A prospective controlled study of proprioceptive training. Knee Surg Sports Traumatol Arthrosc 4:19–21, 1996.
+@@ 406 [p]
+23. Chaffin, DB, and Page, GB: Postural effects on biomechanical and psychophysical weight-lifting limits. Ergonomics 37:663–676, 1994.
+@@ 407 [p]
+24. Chamberlin, ME, et al: Does fear of falling influence spatial and temporal gait parameters in elderly persons beyond changes associated with normal aging? J Gerontol A Biol Sci Med Sci 60:1163–1167, 2005.
+@@ 408 [p]
+25. Chandler, JM, and Duncan, PW: Balance and falls in the elderly: issues in evaluation and treatment. In Guccione, AA (ed): Geriatric Physical Therapy. St. Louis, Mosby Inc., 1993, pp 237–251.
+@@ 409 [p]
+26. Chow, DH, et al: Postural perturbation and muscular response following sudden release during symmetric squat and stoop lifting. Ergonomics 48:591–607, 2005.
+@@ 410 [p]
+27. Christou, EA, Yang, Y, and Rosengren, KS: Taiji training improves knee extensor strength and force control in older adults. J Gerontol A Biol Sci Med Sci 58:763–766, 2003.
+@@ 411 [p]
+28. Commissaris, D, and Toussaint, H: Load knowledge affects lowback loading and control of balance in lifting tasks. Ergonomics 40:559–575, 1997.
+@@ 412 [p]
+29. Commissaris, D, Toussaint, HM, and Hirschfeld, H: Anticipatory postural adjustments in a bimanual, whole-body lifting task seem not only aimed at minimising anterior-posterior centre of mass displacements. Gait & Posture 14:44–55, 2001.
+@@ 413 [p]
+30. Cordo, PJ, and Nashner, LM: Properties of postural adjustments associated with rapid arm movement. J Neurophysiol 47: 187–302, 1982.
+@@ 414 [p]
+31. Cornwall, MW, and Murrell, P: Postural sway following inversion sprain of the ankle. J Am Podiatr Med Assoc 81:243–247, 1991.
+@@ 415 [p]
+32. Csuka, M, and McCarty, DJ: Simple method for measurement of lower extremity muscle strength. Am J Med 78:77–81, 1985.
+@@ 416 [p]
+33. Dite, W, and Temple, VA: A clinical test of stepping and change of direction to identify multiple falling older adults. Arch Phys Med Rehabil 83:1566–1571, 2002.
+@@ 417 [p]
+34. Dolan, P, Earley, M, and Adams, MA: Bending and compressive stresses acting on the lumbar spine during lifting activities. J Biomech 27:1237–1248, 1994.
+@@ 418 [p]
+35. Dolan, P, Mannion, AF, and Adams, MA: Passive tissues help the back muscles to generate extensor moments during lifting. J Biomech 27:1077–1085, 1994.
+@@ 419 [p]
+36. Donald, IP, and Bulpitt, CJ: The prognosis of falls in elderly people living at home. Age Ageing 28:121–125, 1999.
+@@ 420 [p]
+37. Duncan, PW, et al: Functional reach: a new clinical measure of balance. J Gerontol 45:M192–M197, 1990.
+@@ 421 [p]
+38. Emery, CA, et al: A prevention strategy to reduce the incidence of injury in high school basketball: a cluster randomized controlled trial. Clin J Sport Med 17:17–24, 2007.
+@@ 422 [p]
+39. Ferreira, PH, et al: Specific stabilisation exercise for spinal and pelvic pain: a systematic review. Aust J Physiother 52:79–88, 2006.
+@@ 423 [p]
+40. Filipa, A, et al: Neuromuscular training improves performance on the star excursion balance test in young female athletes. J Orthop Sports Phys Ther 40:551–558, 2010.
+@@ 424 [p]
+41. Fitzgerald, GK, Axe, MJ, and Snyder-Mackler, L: The efficacy of perturbation training in nonoperative anterior cruciate ligament rehabilitation programs for physical active individuals. Phys Ther 80:128–140, 2000.
+@@ 425 [p]
+42. Frank, JS, Patla, AE, and Brown, JE: Characteristics of postural control accompanying voluntary arm movement in the elderly. Soci Neurosci Abstr 13:335, 1987.
+@@ 426 [p]
+43. Freeman, MA, Dean, MR, and Hanham, IW: The etiology and prevention of functional instability of the foot. J Bone Joint Surg Br 47:678–685, 1965.
+@@ 427 [p]
+44. Gardner, MM, et al: Practical implementation of an exercisebased falls prevention programme. Age Ageing 30:77–83, 2001.
+@@ 428 [p]
+45. Garn, SN, and Newton, RA: Kinesthetic awareness in subjects with multiple ankle sprains. Phys Ther 68:1667–1671, 1988.
+@@ 429 [p]
+46. Gilchrist, J, et al: A randomized controlled trial to prevent noncontact anterior cruciate ligament injury in female collegiate soccer players. Am J Sports Med 36:1476–1483, 2008.
+@@ 430 [p]
+47. Gill, KP, and Callaghan, MJ: The measurement of lumbar proprioception in individuals with and without low back pain. Spine 23:371–377, 1998.
+@@ 431 [p]
+48. Gillespie, LD, et al: Interventions for preventing falls in elderly people. Cochrane Database Syst Rev CD000340, 2003.
+@@ 432 [p]
+49. Glencross, D, and Thornton, E: Position sense following joint injury. J Sports Med Phys Fitness 21:23–27, 1981.
+@@ 433 [p]
+50. Grigg, P: Articular neurophysiology. In Zachazewski, JE, McGee, DJ, and Quillen, WS (eds): Athletic Injury Rehabilitation. Philadelphia: WB Saunders, 1996.
+@@ 434 [p]
+51. Grigg, P, Finerman, GA, and Riley, LH: Joint-position sense after total hip replacement. J Bone Joint Surg Am 55:1016–1025, 1973.
+@@ 435 [p]
+52. Han, K, Ricard, MD, and Fellingham, GW: Effects of a 4-week exercise program on balance using elastic tubing as a perturbation force for individuals with a history of ankle sprains. J Orthop Sports Phys Ther 39:246–255, 2009.
+@@ 436 [p]
+53. Heiss, D, Shields, RK, and Yack, HJ: Anticipatory control of vertical lifting force and momentum during the squat lift with expected and unexpected loads. J Orthop Sports Phys Ther 31:708–729, 2001.
+@@ 437 [p]
+54. Heiss, DG, Shields, RK, and Yack, HJ: Balance loss when lifting a heavier-than-expected load: effects of lifting technique. Arch Phys Med Rehabil 83:48–59, 2002.
+@@ 438 [p]
+55. Hellebrandt, FA, Tepper, RH, and Braun, GL: Location of the cardinal anatomical orientation planes passing through the center of weight in young adult women. Am J Physiol 121:465–470, 1938.
+@@ 439 [p]
+56. Hertel, J, Miller, SJ, and Denegar, CR: Intratester and intertester reliability during the Star Excursion Balance Tests. J Sport Rehabil 9:104–116, 2000.
+@@ 440 [p]
+57. Hertel, J, et al: Simplifying the star excursion balance test: analyses of subjects with and without chronic ankle instability. J Orthop Sports Phys Ther 36:131–137, 2006.
+@@ 441 [p]
+58. Holmes, A, and Delahunt, E: Treatment of common deficits associated with chronic ankle instability. Sports Med 39:207–224, 2009.
+@@ 442 [p]
+59. Horak, F, and Shupert, C: The role of the vestibular system in postural control. In Herdman, S (ed): Vestibular Rehabilitation. New York: FA Davis, 1994, pp 22–46.
+@@ 443 [p]
+60. Horak, FB: Postural orientation and equilibrium: what do we need to know about neural control of balance to prevent falls? Age Ageing 35(Suppl 2):ii7–ii11, 2006.
+@@ 444 [p]
+61. Horak, FB, and Nashner, LM: Central programming of postural movements: adaption to altered support surface configurations. J Neurophysiol 55:1369–1381, 1986.
+@@ 445 [p]
+62. Horak, FB, Nashner, LM, and Diener, HC: Postural strategies associated with somatosensory and vestibular loss. Exp Brain Res 82:167–177, 1990.
+@@ 446 [p]
+63. Horak, FB, Nutt, JG, and Nashner, LM: Postural inflexibility in parkinsonian subjects. J Neurol Sci 111:46–58, 1992.
+@@ 447 [p]
+64. Horak, FB, Shupert, CL, and Mirka, A: Components of postural dyscontrol in the elderly: a review. Neurobiol Aging 10:727–738, 1989.
+@@ 448 [p]
+65. Howe, JA, et al: The Community Balance and Mobility Scale— a balance measure for individuals with traumatic brain injury. Clin Rehabil 20:885–895, 2006.
+@@ 449 [p]
+66. Howe, TE, et al: Exercise for improving balance in older people. Cochrane Database Syst Rev CD004963, 2007.
+@@ 450 [p]
+67. Howland, J, et al: Fear of falling among the community-dwelling elderly. J Aging Health 5:229–243, 1993.
+@@ 451 [p]
+68. Huang, HC, et al: Assessing risk of falling in older adults. Public Health Nurs 20:399–411, 2003.
+@@ 452 [p]
+69. Hubscher, M, et al: Neuromuscular training for sports injury prevention: a systematic review. Med Sci Sports Exerc 42: 413–421, 2010.
+@@ 453 [p]
+70. Inglin, B, and Woollacott, M: Age-related changes in anticipatory postural adjustments associated with arm movements. J Gerontol 43:M105–M113, 1988.
+@@ 454 [p]
+71. Jack, CI, et al: Prevalence of low vision in elderly patients admitted to an acute geriatric unit in Liverpool: elderly people who fall are more likely to have low vision. Gerontology 41: 280–285, 1995.
+@@ 455 [p]
+72. Jacobs, JV, et al: An alternative clinical postural stability test for patients with Parkinson’s disease. J Neurol 253:1404–1413, 2006.
+@@ 456 [p]
+73. Jacobson, GP, and Newman, CW: The development of the Dizziness Handicap Inventory. Arch Otolaryngol Head Neck Surg 116:424–427, 1990.
+@@ 457 [p]
+74. Johnson, BL, and Nelso, JK: Practical Measurements for Evaluation in Physical Education, ed. 4. Minneapolis, MN: Burgess, 1979.
+@@ 458 [p]
+75. Keshner, EA: Reflex, voluntary, and mechanical process in postural stabilization. In Duncan, PW (ed): Balance Proceedings of the APTA Forum. Alexandria, VA: American Physical Therapy Association, 1990.
+@@ 459 [p]
+76. Keshner, EA, Woollacott, M, and Debu, B: Neck and trunk muscle responses during postural perturbations in humans. Exp Brain Res 71:455–466, 1988.
+@@ 460 [p]
+77. Kingma, I, et al: Foot positioning instruction, initial vertical load position and lifting technique: effects on low back loading. Ergonomics 47:1365–1385, 2004.
+@@ 461 [p]
+78. Kinzey, SJ, and Armstrong, CW: The reliability of the starexcursion test in assessing dynamic balance. J Orthop Sports Phys Ther 27:356–360, 1998.
+@@ 462 [p]
+79. Lachman, ME, et al: Fear of falling and activity restriction: the survey of activities and fear of falling in the elderly (SAFE). J Gerontol B Psychol Sci Soc Sci 53:43–50, 1998.
+@@ 463 [p]
+80. Lajoie, Y, and Gallagher, SP: Predicting falls within the elderly community: Comparison of postural sway, reaction time, the Berg balance scale and the Activities-specific Balance Confidence (ABC) scale for comparing fallers and non-fallers. Arch Gerontol Geriatr 38:11–26, 2004.
+@@ 464 [p]
+81. Leinonen, V, et al: Lumbar paraspinal muscle function, perception of lumbar position, and postural control in disc herniationrelated back pain. Spine 28:842–848, 2003.
+@@ 465 [p]
+82. Leskinen, TP, et al: A dynamic analysis of spinal compression with different lifting techniques. Ergonomics 26:595–604, 1983.
+@@ 466 [p]
+83. Light, KE: Information processing for motor performance in aging adults. Phys Ther 70:820–826, 1990.
+@@ 467 [p]
+84. Lin, SI, Woollacott, MH, and Jensen, JL: Postural response in older adults with different levels of functional balance capacity. Aging Clin Exp Res 16:369–374, 2004.
+@@ 468 [p]
+85. Logghe, IH, et al: The effects of Tai Chi on fall prevention, fear of falling, and balance in older people: a meta-analysis. Prev Med 51:222–227, 2010.
+@@ 469 [p]
+86. Lord, SR, Dayhew, J, and Howland, A: Multifocal glasses impair edge-contrast sensitivity and depth perception and increase the risk of falls in older people. J Am Geriatr Soc 50:1760–1766, 2002.
+@@ 470 [p]
+87. Lord, SR, et al: The effect of an individualized fall prevention program on fall risk and falls in older people: a randomized, controlled trial. J Am Geriatr Soc 53:1296–1304, 2005.
+@@ 471 [p]
+88. Low, S, et al: A systematic review of the effectiveness of Tai Chi on fall reduction among the elderly. Arch Gerontol Geriatr 48:325–331, 2009.
+@@ 472 [p]
+89. Lundin-Olsson, L, Nyberg, L, and Gustafson, Y: Attention, frailty, and falls: the effect of a manual task on basic mobility. J Am Geriatr Soc 46:758–761, 1998.
+@@ 473 [p]
+90. Maki, BE: Gait changes in older adults: predictors of falls or indicators of fear. J Am Geriatr Soc 45:313–320, 1997.
+@@ 474 [p]
+91. Maki, BE, and Whitelaw, RS: Influence of expectation and arousal on center-of-pressure responses to transient postural perturbations. J Vestib Res 3:25–39, 1993.
+@@ 475 [p]
+92. Mannion, AF, et al: Spinal segmental stabilisation exercises for chronic low back pain: programme adherence and its influence on clinical outcome. Eur Spine J 18:1881–1891, 2009.
+@@ 476 [p]
+93. McGuine, TA, and Keene, JS: The effect of a balance training program on the risk of ankle sprains in high school athletes. Am J Sports Med 34:1103–1111, 2006.
+@@ 477 [p]
+94. McKeon, PO, and Hertel, J: Systematic review of postural control and lateral ankle instability, Part II: Is balance training clinically effective? J Athl Train 43:305–315, 2008.
+@@ 478 [p]
+95. McLeod, TC, et al: Balance improvements in female high school basketball players after a 6-week neuromuscular-training program. J Sport Rehabil 18:465–481, 2009.
+@@ 479 [p]
+96. Means, KM, Rodell, DE, and O’Sullivan, PS: Balance, mobility, and falls among community-dwelling elderly persons: effects of a rehabilitation exercise program. Am J Phys Med Rehabil 84:238–250, 2005.
+@@ 480 [p]
+97. Miller, RL: When you lift, bend your knees. Occup Health Safety 45:46–47, 1976.
+@@ 481 [p]
+98. Mizuta, H, et al: A stabilometric technique for evaluation of functional instability in the anterior cruciate ligament deficient knee. Clin J Sport Med 2:235–239, 1992.
+@@ 482 [p]
+99. Mohammadi, F: Comparison of three preventive methods to reduce the recurrence of ankle inversion sprains in male soccer players. Am J Sports Med 35:922–926, 2007.
+@@ 483 [p]
+100. Muir, SW, et al: Use of the Berg Balance Scale for predicting multiple falls in community-dwelling elderly people: a prospective study. Phys Ther 88:449–459, 2008.
+@@ 484 [p]
+101. Munhoz, RP, et al: Evaluation of the pull test technique in assessing postural instability in Parkinson’s disease. Neurology 62:125–127, 2004.
+@@ 485 [p]
+102. Nashner, L: Adaptations of human movement to altered environments. Trends in Neurosci 5:358–361, 1982.
+@@ 486 [p]
+103. Nashner, L, and Woollacott, MH: The organization of rapid postural adjustments of standing humans: an experimentalconceptual model. In Talbott, RE, and Humphrey, DR (ed): Posture and Movement. New York: Raven, 1979, pp 243–57.
+@@ 487 [p]
+104. Nashner, LM: Fixed patterns of rapid postural responses among leg muscles during stance. Exp Brain Res 30:13–24, 1977.
