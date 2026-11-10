@@ -1,7 +1,7 @@
 ---
 import Base from "../layouts/Base.astro";
 import { book, parts, chapters } from "../data/chapters.js";
-import { translatedChapters } from "../lib/book.js";
+import { translatedChapters, coverage } from "../lib/book.js";
 
 const base = import.meta.env.BASE_URL;
 const done = new Set(translatedChapters(chapters).map((c) => c.slug));
@@ -41,7 +41,7 @@ const byNum = new Map(chapters.map((c) => [c.num, c]));
                     <span class="pending">
                       <span class="num">{c.num}</span>
                       <span class="label">{c.title}</span>
-                      <span class="state">待译</span>
+                      <span class="state">{coverage(c.slug) > 0 ? `${Math.round(coverage(c.slug) * 100)}%` : "待译"}</span>
                     </span>
                   )}
                 </li>

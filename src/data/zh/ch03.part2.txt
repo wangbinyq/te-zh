@@ -1,0 +1,144 @@
+@@ 393 [li]
+增加滑液对关节的润滑，从而提高关节内软骨愈合与再生的速度。
+@@ 394 [li]
+防止制动所带来的退行性影响。
+@@ 395 [li]
+使关节活动度更快恢复。
+@@ 396 [li]
+减轻术后疼痛。
+@@ 397 [p]
+多项研究采用各种参数，比较了不同类型手术后使用 CPM 的短期和长期结局，也将 CPM 与其他早期运动和体位摆放方法作了比较。有些研究显示，接受 CPM 的病人与接受被动关节活动度或其他形式早期运动的病人之间没有显著差异。许多研究支持手术后使用 CPM 的短期益处：与其他干预形式相比，使用 CPM 时病人更快获得关节活动度，因而可能更早出院；但据报道，其长期功能改善与接受其他形式早期运动的病人并无不同。
+@@ 398 [p]
+一项 Cochrane 综述纳入了 14 项在全膝关节置换术后使用 CPM 的随机对照试验，其作者总结：与仅接受物理治疗的病人相比，接受 CPM 联合物理治疗的病人主动膝屈曲显著增加、住院时间缩短，术后需要手法治疗的比率也降低；而被动膝屈曲以及被动或主动膝伸展则无显著差异。
+@@ 399 [p]
+有些研究报告了不良影响，例如与“CPM 可减轻术后疼痛和术后并发症”的说法相反，使用 CPM 时需要更多的镇痛干预、术后引流量增加。在决定是否使用 CPM 装置时，设备的成本效益、病人的依从性、由受训人员对设备的使用与监督、住院时间、恢复速度，以及适宜使用 CPM 的人群如何确定，都成为需要考虑的问题。
+@@ 400 [h3]
+CPM 的一般指导原则
+@@ 401 [p]
+CPM 的一般指导原则如下：
+@@ 402 [p]
+1. 手术后可立即将装置用于患侧肢体，此时病人仍在麻醉状态下；若厚层敷料妨碍早期运动，则尽快使用。
+@@ 403 [p]
+2. 确定关节的运动弧度。通常开始时采用 20°～30° 的小弧度，之后按耐受情况每天增加 10°～15°。开始时所用弧度的范围取决于可获得的活动范围与病人的耐受程度。一项研究考察了全膝关节置换术后加快膝屈曲范围的方案，发现该组病人获得了更大的活动范围并更早出院，尽管两组在 4 周时并无差异。
+@@ 404 [p]
+3. 确定运动速度；通常 1 个周期／45 秒至 2 分钟即可良好耐受。
+@@ 405 [p]
+4. 使用 CPM 机器的时间长度因方案不同而异——从连续 24 小时到每天 3 次、每次连续 1 小时不等。据报道，每天使用时间较长者住院时间更短、术后并发症更少、出院时关节活动度更大；不过有一项研究比较了每天 5 小时与每天 20 小时的 CPM，未发现显著差异。近期一项研究比较了短时程 CPM（每天 3～5 小时）与长时程 CPM（每天 10～12 小时），发现病人的依从性最好、活动范围增加最多的是每天使用 4～8 小时的 CPM。
+@@ 406 [p]
+5. 物理治疗通常安排在病人未使用 CPM 的时段进行，包括主动辅助运动和肌肉设定练习。重要的是，随着运动改善，病人要学会使用并发展出对该活动范围的运动控制。
+@@ 407 [p]
+6. CPM 的最短使用时间通常少于 1 周，或直至达到满意的关节活动度。由于 CPM 装置便于携带，在治疗师或医师认为延长时间有益的情况下，可在家中使用。此时须指导病人、家属或照护者如何正确使用。
+@@ 408 [p]
+7. CPM 机器的设计目标是可调、易于控制、用途广泛且便于携带。有些以电池驱动（配可充电电池），使个体在进行日常活动时能佩戴该装置长达 8 小时。
+@@ 409 [h2]
+通过功能模式获得的关节活动度
+@@ 410 [p]
+要通过功能模式完成运动，首先确定希望达到的运动模式，然后通过手法辅助、适当的机械辅助或病人的自我辅助，让肢体按该模式运动。功能模式化在开始教授日常生活活动（ADL）与工具性日常生活活动（IADL）时可能有益，在指导有视觉障碍的病人进行功能性活动时也有益。利用功能模式有助于病人认识关节活动度练习的目的与价值，并在力量与耐力改善的过程中形成可用于日常活动的运动模式。专栏 3.3 列出了一些示例及所运用的基本运动。当病人不再需要辅助即可安全、正确地完成该模式时，就把该活动纳入其日常活动，以强化运动学习，使该运动变得功能性。
+@@ 411 [h4]
+专栏 3.3　功能性关节活动度活动
+@@ 412 [p]
+上肢与颈部功能模式的早期关节活动度训练可包括以下活动：
+@@ 413 [li]
+抓握餐具；运用手指伸展与屈曲
+@@ 414 [li]
+进食（手到口）；运用肘屈曲与前臂旋后，以及部分肩屈曲、外展与外旋
+@@ 415 [li]
+够取不同高度的搁架；运用肩屈曲与肘伸展
+@@ 416 [li]
+刷洗或梳理后脑的头发；运用肩外展与外旋、肘屈曲与颈椎旋转
+@@ 417 [li]
+将电话举至耳边；肩外旋、前臂旋后与颈椎侧屈
+@@ 418 [li]
+穿脱衬衫或外套；运用肩伸展、外旋、肘屈曲与伸展
+@@ 419 [li]
+从车窗伸手到 ATM 机；运用肩外展、外旋、肘伸展以及躯干的部分侧屈
+@@ 420 [p]
+下肢与躯干功能模式的早期关节活动度训练可包括以下活动：
+@@ 421 [li]
+从仰卧位坐起至床边；运用髋外展与内收，随后髋、膝屈曲
+@@ 422 [li]
+站起／坐下与行走；运用髋、膝屈曲与伸展，踝背屈与跖屈，以及部分髋旋转
+@@ 423 [li]
+穿袜子和鞋；运用髋外旋与外展、膝屈曲、踝背屈与跖屈，以及躯干屈曲
+@@ 424 [h2]
+自主学习活动
+@@ 425 [h4]
+批判性思维与讨论
+@@ 426 [p]
+1. 分析多种功能性活动，如梳洗、穿衣和洗澡，并确定完成每项任务所需的功能性活动范围。
+@@ 427 [p]
+2. 考察重力或其他力对第 1 题中每项活动的关节活动度的影响。如果你有一位病人因无法控制所需的活动范围而不能完成该活动，请确定你将如何制定运动方案，以开始为个体获得所需功能做好准备。以及髋伸展、髋伸展位下的膝屈曲、髋旋转？
+@@ 428 [li]
+b. 将被动的关节活动度进展为主动辅助关节活动度和主动关节活动度，并确定重力在这些体位下的影响，以及所需用力与仰卧位时相比有何不同。
+@@ 429 [p]
+2. 比较两块关节肌肉各自在其相应关节上被拉长时与各自松弛时，髋、膝、踝关节活动度的差异。
+@@ 430 [h4]
+实验室练习
+@@ 431 [p]
+1. 让同伴分别处于以下体位，对其上肢和下肢实施被动关节活动度：俯卧、侧卧、坐位。
+@@ 432 [li]
+a. 对某些活动范围而言，例如肩关节，各体位有哪些优缺点？
+@@ 433 [h4]
+参考文献
+@@ 434 [p]
+1. Alfredson, H, and Lorentzon, R: Superior results with continuous passive motion compared to active motion after periosteal transplantation: a retrospective study of human patella cartilage defect treatment. Knee Surg Sports Traumatol Arthrosc 7(4): 232–238, 1999.
+@@ 435 [p]
+2. American College of Sports Medicine: Guidelines for Exercise Testing and Prescription , ed. 4. Philadelphia: Lea & Febiger, 1991.
+@@ 436 [p]
+3. Basso, DM, and Knapp, L: Comparison of two continuous passive motion protocols for patients with total knee implants. Phys Ther 67:360–363, 1987.
+@@ 437 [p]
+4. Chiarello, CM, Gunersen, L, and O’Halloran, T: The effect of continuous passive motion duration and increment on range of motion in total knee arthroplasty patients. J Orthop Sports Phys Ther 25(2):119–127, 1997.
+@@ 438 [p]
+5. Denis, M, et al: Effectiveness of continuous passive motion and conventional physical therapy after total knee arthroplasty: a randomized clinical trial. Phys Ther 86(2):174–185, 2006.
+@@ 439 [p]
+6. Dockery, ML, Wright, TW, and LaStayo, P: Electromyography of the shoulder: an analysis of passive modes of exercise. Orthopedics . 11:1181–1184, 1998.
+@@ 440 [p]
+7. Donatelli, R, and Owens-Burckhart, H: Effects of immobilization on the extensibility of periarticular connective tissue. J Orthop Sports Phys Ther 3:67–72, 1981.
+@@ 441 [p]
+8. Fletcher, GF, et al: AHA Scientic Statement: Exercise standards for testing and training. Circulation 104(14):1694–1740, 2001.
+@@ 442 [p]
+9. Frank, C, et al: Physiology and therapeutic value of passive joint motion. Clin Orthop 185:113–125, 1984.
+@@ 443 [p]
+10. Gose, J: Continuous passive motion in the postoperative treatment of patients with total knee replacement. Phys Ther 67: 39–42, 1987.
+@@ 444 [p]
+11. Kumar, PJ, et al: Rehabilitation after total knee arthroplasty: a comparison of 2 rehabilitation techniques. Clin Orthop 331: 93–101, 1996.
+@@ 445 [p]
+12. LaStayo, PC, et al: Continuous passive motion after repair of the rotator cuff: a prospective outcome study. J Bone Joint Surg Am 80(7):1002–1011, 1998.
+@@ 446 [p]
+13. LaStayo, PC: Continuous passive motion for the upper extremity. In Hunter, JM, MacKin, EJ, Callahan, AD (eds): Rehabilitation of the Hand: Surgery and Therapy , ed. 4. St. Louis: Mosby, 1995.
+@@ 447 [p]
+14. McCarthy, MR, et al: The clinical use of continuous passive motion in physical therapy. J Orthop Sports Phys Ther 15:132–140, 1992.
+@@ 448 [p]
+15. Nadler, SF, Malanga, GA, and Jimmerman, JR: Continuous passive motion in the rehabilitation setting: a retrospective study. Am J Phys Med Rehabil 72(3):162–165, 1993.
+@@ 449 [p]
+16. Norkin, CC, and White, DJ: Measurement of Joint Motion: A Guide to Goniometry , ed. 3. Philadelphia: FA Davis, 2003.
+@@ 450 [p]
+17. O’Driscoll, SW, and Giori, NJ: Continuous passive motion (CPM) theory and principles of clinical application. J Rehabil Res Dev 37(2):179–188, 2000.
+@@ 451 [p]
+18. Pope, RO, et al: Continuous passive motion after primary total knee arthroplasty: does it offer any benefits? J Bone Joint Surg Br 79(6):914–917, 1997.
+@@ 452 [p]
+19. Rosen, MA, Jackson, DW, and Atwell, EA: The efficacy of continuous passive motion in the rehabilitation of anterior cruciate ligament reconstructions. Am J Sports Med 20(2):122–127, 1992.
+@@ 453 [p]
+20. Salter, RB: History of rest and motion and the scientific basis for early continuous passive motion. Hand Clin 12(1):1–11, 1996.
+@@ 454 [p]
+21. Salter, RB, Simmens, DF, and Malcolm, BW: The biological effects of continuous passive motion on the healing of full thickness defects in articular cartilage. J Bone Joint Surg Am 62:1232–1251, 1980.
+@@ 455 [p]
+22. Salter, RB: The prevention of arthritis through the preservation of cartilage. J Can Assoc Radiol 31:5–7, 1981.
+@@ 456 [p]
+23. Salter, RB, Bell, RS, and Keely, FW: The protective effect of continuous passive motion on living cartilage in acute septic arthritis. Clin Orthop 159:223–247, 1981.
+@@ 457 [p]
+24. Salter, RB: Textbook of Disorders and Injuries of the Musculoskeletal System , ed. 3. Baltimore: Williams & Wilkins, 1999.
+@@ 458 [p]
+25. Salter, RB, et al: Clinical application of basic research on continuous passive motion for disorders and injuries of synovial joints: a preliminary report of a feasibility study. J Orthop Res 1:325–342, 1984.
+@@ 459 [p]
+26. Smith, LK, Weiss, EL, and Lehmkuhl, LD: Brunnstrom’s Clinical Kinesiology , ed. 5. Philadelphia: FA Davis, 1996.
+@@ 460 [p]
+27. Stap, LJ, and Woodfin, PM: Continuous passive motion in the treatment of knee flexion contractures: a case report. Phys Ther 66:1720–1722, 1986.
+@@ 461 [p]
+28. Wasilewski, SA, et al: Value of continuous passive motion in total knee arthroplasty. Orthopedics 13(3):291–295, 1990.
+@@ 462 [p]
+29. Witherow, GE, Bollen, SR, and Pinczewski, LA: The use of continuous passive motion after arthroscopically assisted anterior cruciate ligament reconstruction: help or hindrance? Knee Surg Sports Traumatol Arthrosc 1(2):68–70, 1993.
+@@ 463 [p]
+30. Yashar, AA, et al: Continuous passive motion with accelerated flexion after total knee arthroplasty. Clin Orthop 345:38–43, 1997.
+@@ 464 [li]
+14a.Milne, S, et al. Continuous passive motion following total knee arthroplasty. Cochrane Database of Systematic Reviews 2: 2003 Art. No: CD004260. (Edited Issue 4, 2008).

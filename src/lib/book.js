@@ -64,6 +64,18 @@ export function loadChapter(slug) {
   return { blocks, translated: Boolean(zh) };
 }
 
+export function coverage(slug) {
+  const zh = readZh(slug);
+  if (!zh) return 0;
+  const source = JSON.parse(fs.readFileSync(path.join(dataDir, "source", `${slug}.json`), "utf8"));
+  const filled = source.filter((b, i) => {
+    const v = zh.get(i);
+    if (b.type === "table") return Array.isArray(v?.rows) && v.rows.length === b.rows.length;
+    return typeof v?.text === "string" && v.text.length > 0;
+  }).length;
+  return filled / source.length;
+}
+
 export function translatedChapters(chapters) {
-  return chapters.filter((c) => zhFiles(c.slug).length > 0);
+  return chapters.filter((c) => coverage(c.slug) >= 1);
 }
