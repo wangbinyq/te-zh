@@ -1,5 +1,6 @@
-const FONT_KEY = "pain-zh:font-size";
-const EN_KEY = "pain-zh:show-en";
+const BOOK = document.body?.dataset.book ?? "book";
+const FONT_KEY = `${BOOK}:font-size`;
+const EN_KEY = `${BOOK}:show-en`;
 const SIZES = ["18px", "20px", "22px"];
 
 function readFont() {

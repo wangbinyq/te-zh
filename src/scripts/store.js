@@ -1,4 +1,5 @@
-const KEY = "pain-zh:progress:v1";
+const BOOK = document.body?.dataset.book ?? "book";
+const KEY = `${BOOK}:progress:v1`;
 
 function readAll() {
   try {
@@ -8,6 +9,10 @@ function readAll() {
   } catch {
     return {};
   }
+}
+
+export function load() {
+  return readAll();
 }
 
 function writeAll(all) {

@@ -1,6 +1,6 @@
 ---
 import Base from "../layouts/Base.astro";
-import { chapters } from "../data/chapters.js";
+import { book, chapters } from "../data/chapters.js";
 import { loadChapter, translatedChapters } from "../lib/book.js";
 
 export function getStaticPaths() {
@@ -19,7 +19,7 @@ const done = new Set(translatedChapters(chapters).map((c) => c.slug));
 
 <Base>
   <header class="bar">
-    <a href={base}>目录</a>
+    <button id="open-toc" type="button">目录</button>
     <span class="bar-title">{chapter.title}</span>
     <button id="open-settings" type="button">设置</button>
   </header>
@@ -137,6 +137,26 @@ const done = new Set(translatedChapters(chapters).map((c) => c.slug));
     </nav>
   </main>
 
+  <dialog id="toc" class="drawer">
+    <div class="drawer-head">
+      <span class="drawer-title">{book.title}</span>
+      <button type="button" class="sheet-close" data-close aria-label="关闭">×</button>
+    </div>
+    <ol class="drawer-list">
+      {
+        chapters.map((c) => (
+          <li data-slug={c.slug} class:list={["toc-item", c.slug === slug && "current"]}>
+            <a href={`${base}${c.slug}/`}>
+              <span class="num">{c.num}</span>
+              <span class="label">{c.title}</span>
+              <span class="pct" />
+            </a>
+          </li>
+        ))
+      }
+    </ol>
+  </dialog>
+
   <dialog id="settings" class="sheet">
     <div class="sheet-head">
       <h2>阅读设置</h2>
@@ -160,7 +180,9 @@ const done = new Set(translatedChapters(chapters).map((c) => c.slug));
   <script>
     import "../scripts/chapter-progress.js";
     import { initSettings } from "../scripts/settings.js";
+    import { initToc } from "../scripts/toc.js";
 
     initSettings();
+    initToc();
   </script>
 </Base>

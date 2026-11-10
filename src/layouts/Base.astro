@@ -17,7 +17,7 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, "");
     <meta name="description" content={`${author}《${title}：${subtitle}》中译本，${titleEn}`} />
     <slot name="head" />
   </head>
-  <body data-base={import.meta.env.BASE_URL}>
+  <body data-base={import.meta.env.BASE_URL} data-book="te">
     <slot />
   </body>
 </html>
