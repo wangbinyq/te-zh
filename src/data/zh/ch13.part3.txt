@@ -1,0 +1,422 @@
+@@ 468 [p]
+阳性临床发现。视严重程度，可出现小鱼际和手内在肌萎缩，以及部分爪形手姿势（见表 13.1）。检查结果包括手内在肌无力、Guyon 管处 Tinel 征阳性（叩击尺神经）。
+@@ 469 [p]
+需排查的相关区域。尺神经症状还可有其他原因，如颈椎椎间孔内神经根、胸廓出口内臂丛，或行经肱二头肌沟的尺神经受到牵张、压迫或活动度受限；也可能是尺侧腕屈肌两个头之间的卡压。因此，必须检查上述每一部位，以排除或确定其是否为症状的原因（见图 13.6）。此外，神经易激惹时可能发生所谓的双重卡压损伤，于是神经不仅在原发部位，在其行程的其他部位也出现症状。
+@@ 470 [h4]
+常见的结构与功能损伤
+@@ 471 [li]
+手掌尺侧及尺神经分布区内手指的疼痛和感觉异常（见图 13.6）
+@@ 472 [li]
+尺神经支配的手内在肌进行性无力或萎缩
+@@ 473 [li]
+指外屈肌和伸肌活动度受限
+@@ 474 [li]
+豌豆骨可能存在粘连和活动度受限
+@@ 475 [h4]
+常见的活动受限与参与限制（功能限制／失能）
+@@ 476 [li]
+握力下降
+@@ 477 [li]
+反复或持续活动时手部疲劳
+@@ 478 [li]
+无法用第 4、第 5 指完成球形或圆柱形力量性抓握
+@@ 479 [li]
+完成激发性活动的能力下降
+@@ 480 [h4]
+非手术治疗
+@@ 481 [li]
+遵循与 CTS 相同的原则。调整激发性活动，避免手掌根部受压，并用腕部上翘夹板制动休息。
+@@ 482 [li]
+尺神经松动：将腕关节置于伸展和桡偏位，然后向伸展方向施加过度压力，对抗环指和小指进行牵伸。加入前臂旋前和屈肘，使神经向近端移动。要检查并松动整条尺神经，见图 13.15。
+@@ 483 [h4]
+手术松解与术后处理
+@@ 484 [p]
+若病人经 6 至 12 周保守治疗症状无改善，或出现进行性瘫痪、长期肌肉萎缩和手指爪形畸形，则行尺神经管手术松解。松解后腕关节制动 3 至 5 天，随后以轻柔的关节活动度开始治疗。遵循与腕管手术相同的原则，但采用尺神经松动技术。
+@@ 485 [p]
+CRPS II 型）（专栏 13.10）。这一修订后的分类系统由 1993 年的一次共识会议制定，用以澄清对先前诊断含义和解释的混淆。基本上，它是将一组复杂的疼痛性疾病归为一类，这些疾病继发于累及肢体的创伤，伴或不伴明显的神经损伤。
+@@ 486 [h4]
+相关诊断与症状
+@@ 487 [p]
+过去常用于 RSD 的同义词包括肩手综合征、Sudeck 萎缩、灼性神经痛、创伤后营养不良、反射性神经血管性营养不良、创伤性血管痉挛或血管痉挛，以及交感神经维持性疼痛（SMP）。SMP 常是 CRPS 的组成部分，但本身并非独立诊断。疼痛是关键特征；其他症状和体征可包括感觉异常（自发性烧灼痛和触诱痛）、自主神经功能障碍、营养性改变、运动功能损伤以及情绪／心理反应。CRPS I 型与 II 型的区别在于是否累及神经损伤（见专栏 13.10）。
+@@ 488 [h4]
+症状的病因
+@@ 489 [p]
+激发这些综合征发生的潜在机制尚不清楚。症状通常与持续存在的疼痛性病变（如疼痛的肩关节）相伴出现；在脑血管意外或心肌梗死后；伴颈椎骨关节炎；在创伤（如骨折或扭伤）后；伴烧伤或制动；或在手术后出现
+@@ 490 [h4]
+专栏 13.10　复杂性区域疼痛综合征的分类与临床特征
+@@ 491 [h4]
+CRPS I 型（反射性交感神经营养不良）
+@@ 492 [li]
+在初始伤害性事件后发生
+@@ 493 [li]
+自发性疼痛或触诱痛／痛觉过敏
+@@ 494 [li]
+水肿、血管异常
+@@ 495 [li]
+泌汗功能异常
+@@ 496 [li]
+非神经源性
+@@ 497 [h4]
+CRPS II 型（灼性神经痛）
+@@ 498 [li]
+在神经损伤后发生
+@@ 499 [li]
+不限于受损神经的分布区
+@@ 500 [h3]
+复杂性区域疼痛综合征：反射性交感神经营养不良与灼性神经痛
+@@ 501 [li]
+水肿；皮肤血流异常
+@@ 502 [li]
+泌汗功能异常
+@@ 503 [h4]
+CRPS 的临床特征（除上述差异外）
+@@ 504 [li]
+症状在肢体远端更明显
+@@ 505 [li]
+症状强度逐渐加重并向近端扩展
+@@ 506 [li]
+症状随时间变化
+@@ 507 [li]
+症状与致病事件不相称
+@@ 508 [p]
+反射性交感神经营养不良（RSD）和灼性神经痛是既往的诊断，现分别归为复杂性区域疼痛综合征 I 型和
+@@ 509 [li]
+已排除特定诊断，如糖尿病或纤维肌痛
+@@ 510 [p]
+或心导管术后。可能存在也可能不存在明显的神经损伤。
+@@ 511 [p]
+CRPS I 型（RSD）通常累及交感神经系统；因其持续活动而被描述为不稳定，并导致进行性缺血、疼痛、泌汗活动异常和营养性改变，这些是自主神经系统功能障碍的典型表现。瓦斯纳（Wasner）及其同事在一名病人和两名正常受试者中证实，自主神经功能障碍起源于中枢神经系统。有些个体可能出现类似的剧烈烧灼痛和敏感症状，提示交感神经维持性疼痛，但对交感神经阻滞无反应。“交感神经无关性疼痛”（SIP）一词用于描述这种感觉异常。CPRS 可能是多种累及神经系统的器质性或精神性疾病的结果。没有任何放射学或实验室检查能可靠地证实或排除该病；医学诊断主要依据体格检查发现。
+@@ 512 [h4]
+临床病程
+@@ 513 [p]
+CRPS 通常经历三个阶段。
+@@ 514 [li]
+第 I 期：急性／可逆期。通常症状在损伤后数天内开始，或经数周隐匿起病。此期以血管扩张为特征，持续 3 周至 6 个月。疼痛是主要特征，通常与损伤的严重程度不成比例。出现多汗、皮温升高、红斑、指甲生长加快以及肢体远端水肿（图 13.22）。
+@@ 515 [h4]
+临床提示
+@@ 516 [p]
+及早识别 CRPS 的早期症状很重要，因为早期干预可能阻止其进展。
+@@ 517 [li]
+第 II 期：营养不良期或血管收缩（缺血）期。此期通常在初始损伤后约 3 个月开始（但存在差异），持续 3 至 6 个月。其特征为交感神经过度活跃、烧灼痛和遇冷加重的感觉过敏。出现皮肤斑驳和发凉、指甲变脆以及骨质疏松。
+@@ 518 [li]
+第 III 期：萎缩期。始于损伤后 6 个月至 1 年，其特征为疼痛减轻或加重，以及严重骨质疏松。可出现肌肉萎缩和挛缩。该病可持续数月至数年，但常在 18 至 24 个月内自发缓解。
+@@ 519 [h4]
+常见的结构与功能损伤
+@@ 520 [li]
+肢体疼痛或感觉过敏，与损伤程度不成比例。
+@@ 521 [li]
+活动受限。在上肢，肩关节通常出现关节囊型限制，其中
+@@ 522 [caption]
+图 13.22　(A) 在反射性交感神经营养不良早期，出现广泛性水肿。该水肿常局限于手背掌骨和近端指间关节区域。(B) 该水肿通常为凹陷性，如压力去除后遗留的凹陷所示。
+@@ 523 [p]
+以外旋和外展受限最明显。在腕和手，最常见的限制是腕关节伸展受限以及掌指关节和近端指间关节屈曲受限。
+@@ 524 [li]
+肢体远端水肿，继发于静脉和淋巴系统的循环障碍，进而引起手或足僵硬。
+@@ 525 [li]
+血管运动不稳定。
+@@ 526 [li]
+皮肤营养性改变。
+@@ 527 [li]
+随着病情进展，疼痛减轻，但活动受限持续存在，纤维化和滑膜增生加重。皮肤变为发绀、发亮，触之可能发凉。在上肢，手内在肌萎缩；手指皮下组织和掌筋膜增厚；指甲改变；并出现骨质疏松。若累及足部，可形成固定的马蹄内翻足。
+@@ 528 [h4]
+处理
+@@ 529 [h4]
+干预：第 I 期（专栏 13.11）
+@@ 530 [p]
+CRPS 是进行性疾病，除非在急性期采取有力的干预。最好的干预是预防，即在认识到可能发生该病时（如肢体遭受创伤或肢体被制动时）进行预防。这要求治疗师激励病人安全地活动整个肢体，通过抬高患肢和活动远端节段（上肢病变时做握拳和张开手，下肢病变时做踝泵和足趾屈曲）来减轻水肿和血管淤滞，并对不良症状的出现保持警觉。
+@@ 531 [h4]
+专栏 13.11　复杂性区域疼痛综合征 I 型（RSD）处理指南汇总
+@@ 532 [p]
+第 I 期（早期干预）　缓解疼痛并控制水肿：物理因子；逆心性按摩；抬高患肢、弹力加压；增加活动度（针对受累组织）
+@@ 533 [li]
+手部肌腱滑动
+@@ 534 [li]
+神经松动
+@@ 535 [h4]
+改善肌肉功能
+@@ 536 [li]
+四点跪位下的应力负荷
+@@ 537 [p]
+关节分离；改善全身循环
+@@ 538 [li]
+低冲击有氧运动
+@@ 539 [h4]
+对该区域进行脱敏
+@@ 540 [li]
+每次短时间的脱敏技术，每日 5 次
+@@ 541 [h4]
+教育病人
+@@ 542 [li]
+教授应对多变的血管运动反应的干预措施；何时使用热、冷和轻柔运动
+@@ 543 [p]
+第 II 期和第 III 期
+@@ 544 [h4]
+管理疼痛
+@@ 545 [li]
+运动前或与运动同时使用物理因子
+@@ 546 [li]
+对该区域进行脱敏
+@@ 547 [li]
+逐步推进脱敏技术，提高对不同质地的耐受
+@@ 548 [h4]
+增加活动度（针对受累组织）
+@@ 549 [li]
+关节和软组织手法治疗（因骨质疏松需谨慎）
+@@ 550 [li]
+神经松动
+@@ 551 [li]
+被动牵伸和自我牵伸技术
+@@ 552 [h4]
+改善功能表现
+@@ 553 [li]
+仔细监测并逐步推进力量、耐力和功能性运动
+@@ 554 [p]
+医学干预是处理该综合征的必要手段。医师可能选用镇痛药、交感神经抑制药、局部麻醉阻滞、星状神经节阻滞、脊髓电刺激或上胸段交感神经切除术，也可能使用口服类固醇或肌内注射药物。由于常存在情绪或心理因素，医学干预还包括针对这一方面的治疗（抗抑郁药）。这些措施与主动运动（包括温水中运动）结合，以处理身体功能损伤和活动受限。
+@@ 555 [li]
+疼痛和水肿控制。使用超声、振动、经皮电神经刺激（TENS）或冰等物理因子。采用逆心性按摩。在不进行气压压缩治疗时，抬高患肢并使用弹力加压。
+@@ 556 [li]
+活动度。早期使用轻柔的主动运动来处理日益加重的僵硬。让病人在无痛范围末端附近保持肢体位置的同时主动收缩肌肉。重要的是避免加重疼痛反应，以免活动度下降。支持并让病人主动活动每个关节，时间要短。病人应每日多次进行这种短时间运动的方案。
+@@ 557 [li]
+手部包括肌腱滑动练习（见第 19 章图 19.17）。
+@@ 558 [li]
+巴特勒（Butler）提出，交感干内可能存在不良张力，影响交感神经活动，因而建议松动神经系统，如本章前面所述。避免剧烈牵伸。
+@@ 559 [li]
+肌肉功能。促进主动肌肉收缩。包括症状近端的关节（肩／髋）；这些关节常因疼痛或缺乏使用而出现限制。将动态运动和等长运动，以及控制性应力负荷（压缩负荷）与关节分离活动交替使用，以改善神经肌肉控制并刺激传入纤维。目标是给予组织应力而关节运动最小。建议的运动包括：
+@@ 560 [li]
+上肢在四点跪位下用刷子擦洗进行应力负荷，从 3 分钟开始，逐渐增加至每次 10 分钟，每日 3 次。下肢则采用渐进性负重活动。
+@@ 561 [li]
+负重 1 至 5 磅进行关节分离，每次最多 10 分钟，每日多次。
+@@ 562 [li]
+全身循环和心输出量。开始低冲击有氧运动方案。
+@@ 563 [li]
+脱敏。每日 5 次短时间使用脱敏技术，如让病人接触不同质地，并在敏感区轻叩或振动。指导病人在日常生活活动中戴防护手套（本章前面已述）。
+@@ 564 [li]
+病人教育。强调坚持增加活动方案的重要性。教病人应对多变的血管运动反应的干预措施
+@@ 565 [p]
+如短时间、每日多次使用温和的热和轻柔运动，以及使用肢体的相关部分。
+@@ 566 [h4]
+临床提示
+@@ 567 [p]
+重要的是不要加重病人的疼痛和潜在病理。若敏感性增高，触摸敏感区时需谨慎。保持持续接触，避免在敏感区上形成“接触-离开”式的刺激，尤其是在用按摩控制水肿时。当病人表现为痛觉过敏时，疼痛性的牵伸或手法治疗会加重症状。应使用轻柔的主动运动和轻按摩，短时间、每日多次进行。
+@@ 568 [h4]
+干预：第 II 期和第 III 期
+@@ 569 [li]
+疼痛管理。物理因子常作为姑息性干预，在运动前或与运动同时使用，以减轻疼痛。
+@@ 570 [li]
+脱敏。逐步推进脱敏技术，提高病人对不同质地的耐受。
+@@ 571 [li]
+活动度。使用关节松动术、神经松动和牵伸技术处理限制活动度的组织。因骨质疏松是常见并发症，需谨慎。
+@@ 572 [p]
+由于疼痛和明显限制，牵伸手法可能进展甚微，因此可能需要手术干预以获得活动度。
+@@ 573 [li]
+肌肉功能。制定运动方案以改善力量、耐力和整体功能表现，满足病人的具体需求。
+@@ 574 [h4]
+临床提示
+@@ 575 [p]
+在第 II 期和第 III 期，疼痛仍是变化因素，因此开始任何治疗性运动或手法治疗技术时，都应在每次就诊时仔细监测并根据病人调整，以尽量减少症状加重。
+@@ 576 [p]
+证据支持在早期（急性期）进行物理治疗有效，但对其在后期阶段的效果，证据相互矛盾。在一项研究中，慢性期病人治疗 6 个月后（在 12 个月时评估），成功和满意的主要预测因素是：该组病人基线功能较高、基线关节活动度和力量较好、基线疼痛较轻。
+@@ 577 [h3]
+自主学习活动
+@@ 578 [h4]
+批判性思维与讨论
+@@ 579 [p]
+1. 你的病人描述示指和中指间歇性感觉改变。可能的原因有哪些？你会用哪些检查来评估该病人？哪些结果会使你判定存在神经活动性受限？
+@@ 580 [p]
+2. 一位新服务对象描述，每当双手在头上方位置工作时，手部出现间歇性麻刺感和沉重感。他是汽车修理工，经常这样工作。请指出这些症状的可能原因。“麻刺”感通常来源于什么？“沉重”感可能来源于什么？为什么头上方位置会引起血管和神经两方面的症状？指出可能引起这些症状的部位。你会用哪些检查来证实或排除你的假设？
+@@ 581 [p]
+3. 一位 19 岁病人，医学诊断为复杂性区域疼痛综合征 I 型（RSD），病史如下。
+@@ 582 [p]
+- 中足疼痛 3 个月，站立超过 5 分钟或跑步时加重。过去 3 周症状加重。
+@@ 583 [p]
+- 放射学检查发现舟骨应力性骨折，故病人被置于膝下非负重石膏固定。
+@@ 584 [li]
+足部不适加重并变得更弥散，放射至前足外侧和足趾，即使已给予止痛药。
+@@ 585 [li]
+症状加重，出现烧灼或刺痛性疼痛、水肿和足趾变色。
+@@ 586 [li]
+上石膏后 3 周检查：足趾发凉、水肿、感觉过敏和多汗。踝和足趾的被动和主动运动中度疼痛。X 线片显示弥漫性骨质疏松。
+@@ 587 [p]
+你对该病人的目标是什么？制定干预方案。
+@@ 588 [p]
+4. 找出并描述与神经张力试验体位相似的日常活动和／或姿势。这些活动／姿势可能是病人的主诉，提示需要进一步做神经张力检查。例如，伸直腿、低头钻进汽车的动作与“弓背坐位”相似。
+@@ 589 [h4]
+实验室练习
+@@ 590 [p]
+1. 与实验室同伴一起练习每一种神经张力体位。演示你会如何松动各条神经的限制。
+@@ 591 [p]
+2. 练习每一项胸廓出口试验，并描述每项试验的力学机制。找出并练习可用于在每个可能发生压迫或张力的部位增加活动度或减轻臂丛压迫的技术。设计一个运动方案及其进阶，用于处理可能引起 TOS 症状的损伤。
+@@ 592 [p]
+3. 通过完成下列各项，练习感觉刺激和感觉再整合技术。
+@@ 593 [p]
+- 收集 10 块不同质地的材料。按从最不刺激到最刺激的顺序排列。练习
+@@ 594 [li]
+通过将每种材料轻轻摩擦手指来进行感觉刺激技术。
+@@ 595 [li]
+使用 5 个塑料盆或桶。在每个容器中分别放入下列物品：干豌豆或豆子、螺旋通心粉、沙子、细砾石、种子。将手（或足）在每种质地中移动，练习感觉刺激。
+@@ 596 [li]
+让实验室同伴在袋中放入几件熟悉的家庭用品（如钥匙、一角硬币、一分硬币、开罐器）。在不看的情况下尝试辨认每一件。
+@@ 597 [h4]
+参考文献
+@@ 598 [p]
+1. Alshami, AM, et al: Strain in the tibial and plantar nerves with foot and ankle movements and the influence of adjacent joint positions. J Applied Biomech 24:368–376, 2008.
+@@ 599 [p]
+2. Aprile, AE: Complex regional pain syndrome. AANA J 65(6): 577–560, 1997.
+@@ 600 [p]
+3. Baker, CL, and Liu, SH: Neurovascular injuries to the shoulder. J Orthop Sports Phys Ther 18:361–364, 1993.
+@@ 601 [p]
+4. Baron, R, and Maier, C: Reflex sympathetic dystrophy: skin blood flow, sympathetic vasoconstrictor reflexes and pain before and after surgical sympathectomy. Pain 67:317–326, 1996.
+@@ 602 [p]
+5. Baxter-Petralia, P, and Penney, V: Cumulative trauma. In Stanley, BG, and Tribuzi, SM (eds): Concepts in Hand Rehabilitation. Philadelphia: FA Davis, p 419.
+@@ 603 [p]
+6. Benjamin, K: Injuries to the brachial plexus: mechanisms of injury and identification of risk factors. Adv Neonatal Care 5(4):181–189, 2005.
+@@ 604 [p]
+7. Bialosky, JE, et al: A randomized sham-controlled trial of a neurodynamic technique in the treatment of carpal tunnel syndrome. J Orthop Sports Phys Ther 39(10):709–723, 2009.
+@@ 605 [p]
+8. Boyd, BS, et al: Mechanosensitivity of the lower extremity nervous system during straight-leg raise neurodynamic testing in healthy individuals. J Orthop Sports Phys Ther 39(11):780–790, 2009.
+@@ 606 [p]
+9. Burnett, MG, and Zager, EL: Pathophysiology of peripheral nerve injury: a brief review. Neurosurg Focus 16(5):1–7, 2004.
+@@ 607 [p]
+10. Butler, DS: Mobilization of the Nervous System. New York: Churchill Livingstone, 1991.
+@@ 608 [p]
+11. Butler, DS: The Sensitive Nervous System. Adelaide, Australia: Noigroup Publications, 2000.
+@@ 609 [p]
+12. Cook, AD, et al: Early mobilization following carpal tunnel release: a prospective randomized study. Br J Hand Surg 20(2): 228–230, 1995.
+@@ 610 [p]
+13. Coppieters, MW, Alshami, AM, and Babri, AS: Strain and excursion of the sciatic, tibial, and plantar nerves during a modified straight leg raising test. J Orthop Res 24:1883–1889, 2006.
+@@ 611 [li]
+13a.Coppieters, MW, Hough, AD, and Dilley, A: Different nervegliding exercises induce different magnitudes of median nerve longitudinal excursion: an in vivo study using dynamic ultrasound imaging. J Orthop Sports Phys Ther 39(3):164–171, 2009.
+@@ 612 [p]
+14. Coppieters, MW, et al: Addition of test components during neurodynamic testing: effect on range of motion and sensory responses. J Orthop Sports Phys Ther 31(5):226–237, 2001.
+@@ 613 [p]
+15. Crotti, FM, et al: TOS pathophysiology and clinical features. Acta Neurochir Suppl 92:7–12, 2005.
+@@ 614 [p]
+16. Crotti, FM, et al: Post-traumatic thoracic outlet syndrome (TOS). Acta Neurochir Suppl 92:13–15, 2005.
+@@ 615 [p]
+17. Cuetter, AC, and Bartoszek, DM: The thoracic outlet syndrome: Controversies, overdiagnosis, overtreatment, and recommendations for management. Muscle Nerve 12:410–419, 1989.
+@@ 616 [p]
+18. Dagum, AB: Peripheral nerve regeneration, repair, and grafting. J Hand Ther 11(2):111–117, 1998.
+@@ 617 [p]
+19. De-La-Llave-Rincán, A, et al: Increased forward head posture and restricted cervical range of motion in patients with carpal tunnel syndrome. J Orthop Sports Phys Ther 39(9):658–664, 2009.
+@@ 618 [p]
+20. DiFabio, RP: Neural mobilization: the impossible [Editorial]. J Orthop Sports Phys Ther 31(5):224–225, 2001.
+@@ 619 [p]
+21. Dilley, A, et al: Quantitative in vivo studies of median nerve sliding in response to wrist, elbow, shoulder, and neck movements. Clin Biomech 18:899–907, 2003.
+@@ 620 [p]
+22. Ehni, BL: Treatment of traumatic peripheral nerve injury. Am Fam Physician 43(3):897–905, 1991.
+@@ 621 [p]
+23. Ellis, RF and Hing, WA: Neural mobilization: a systematic review of randomized controlled trials with an analysis of therapeutic efficacy. J Man Manip Ther 16(1):8–22, 2008.
+@@ 622 [p]
+24. Fernández-de-Las-Peñas, C, et al: Specific mechanical pain hypersensitivity over peripheral nerve trunks in women with either unilateral epicondylalgia or carpal tunnel syndrome. J Orthop Sports Phys Ther 40(11):751–760, 2010.
+@@ 623 [p]
+25. Flores AJ, Lavernia, CJ, and Owens, PW: Anatomy and physiology of peripheral nerve injury and repair. Am J Orthop 29(3): 167–173, 2000.
+@@ 624 [p]
+26. Fuller, DA: Carpal tunnel syndrome. Available at http://emedline. medscape.com/article/1243192.
+@@ 625 [p]
+27. George, SZ: Differential diagnosis and treatment for a patient with lower extremity symptoms. J Orthop Sports Phys Ther 30(8):468–472, 2000.
+@@ 626 [p]
+28. Guisel, A, Gill, JM, and Witherell, P: Complex regional pain syndrome: which treatments show promise? J Fam Pract 54(7): 599–603, 2005.
+@@ 627 [p]
+29. Hogan, CJ, and Hurwitz, S: Treatment of complex regional pain syndrome of the lower extremity. J Am Acad Orthop Surgeons 10(4):281–288, 2002.
+@@ 628 [p]
+30. Hunter, JM, Davlin, LB, and Defus, LM: Major neuropathies of the upper extremity: The median nerve. In Hunter, JM, Mackin, EJ, and Callahan, AD (eds): Rehabilitation of the Hand: Surgery and Therapy, Vol II, ed. 4. St. Louis: CV Mosby, 1995, p 905.
+@@ 629 [p]
+31. Julius, A, et al: Shoulder posture and median nerve sliding. BMC Musculoskel Disord 5:23, 2004.
+@@ 630 [p]
+32. Kemler, MA, Rijks, CP, and de Vet, HC: Which patients with chronic reflex sympathetic dystrophy are most likely to benefit from physical therapy? J Manipulative Phys Ther 24(4):272–278, 2001.
+@@ 631 [p]
+33. Kietrys, DM: Neural mobilization: an appraisal of the evidence regarding validity and efficacy. Orthop Pract 15(4):18–20, 2003.
+@@ 632 [p]
+34. Kleinrensink, GJ, et al: Upper limb tension tests as tools in the diagnosis of nerve and plexus lesions: anatomical and biomechanical aspects. Clin Biomech 15(1):9–14, 2000.
+@@ 633 [p]
+35. Koman, LA, Smith, BP, and Smith, TL: Reflex sympathetic dystrophy (complex regional pain syndromes—types 1 and 2). In Mackin, EJ, et al (eds): Rehabilitation of the Hand and Upper Extremities, ed. 5. St. Louis: Mosby, 2002, p 1695.
+@@ 634 [p]
+36. Kopell, H, and Thompson, W: Peripheral Entrapment Neuropathies, ed. 2. Huntington, NY: Robert Krieger, 1976.
+@@ 635 [p]
+37. Kurvers, HA: Reflex sympathetic dystrophy: facts and hypotheses. Vasc Med 3(3):207–214, 1998.
+@@ 636 [p]
+38. Lankford, LL: Reflex sympathetic dystrophy. In Hunter, JM, Mackin, EJ, and Callahan, AD (eds): Rehabilitation of the Hand: Surgery and Therapy, ed. 4. St. Louis: CV Mosby, 1995, p 779.
+@@ 637 [p]
+39. Lee, MJ, and LaStayo, PC: Pronator syndrome and other nerve compressions that mimic carpal tunnel syndrome. J Orthop Sprots Phys Ther 34(10):601–609, 2004.
+@@ 638 [p]
+40. Lindgren, KA: Conservative treatment of thoracic outlet syndrome: a 2-year follow-up. Arch Phys Med Rehabil 78:373–378, 1007.
+@@ 639 [p]
+41. Lord, J, and Rosati, JM: Thoracic Outlet Syndromes, Vol 23. Summit, NJ: Ciba, 1971.
+@@ 640 [p]
+42. Lundborg, G, and Dahlin, LB: Anatomy, function, and pathophysiology of peripheral nerves and nerve compression. Hand Clin 12(2):185–192, 1996.
+@@ 641 [p]
+43. MacDermid, JC, and Doherty, T: Clinical and electrodiagnostic testing of carpal tunnel syndrome: a narrative review. J Orthop Sports Phys Ther 34(10):565–588, 2004.
+@@ 642 [p]
+44. Mackinnon, SE: Pathophysiology of nerve compression. Hand Clin 18:231–241, 2002.
+@@ 643 [p]
+45. Magee, DJ: Orthopedic Physical Assessment, ed. 4. Philadelphia: WB Saunders, 2002.
+@@ 644 [p]
+46. Matheson, JW: Neural mobilization: the need for more answers [Letter to the Editor]. J Orthop Sports Phys Ther 31(9):518, 2001.
+@@ 645 [p]
+47. Michlovitz, SL: Conservative interventions for carpal tunnel syndrome. J Orthop Sports Phys Ther 34(10):589–600, 2004.
+@@ 646 [p]
+48. Nitz, AJ: Effects of acute pressure on peripheral nerve structure and function. In Currier, D, and Nelson, R (eds): Dynamics of Human Biologic Tissues. Philadelphia: FA Davis, 1992.
+@@ 647 [p]
+49. Novak, CB: Upper extremity work-related musculoskeletal disorders: a treatment perspective. J Orthop Sports Phys Ther 34(10):628–637, 2004.
+@@ 648 [p]
+50. Ochoa, J: Reflex sympathetic dystrophy: fact and fiction [Editorial]. Am Family Phys 56(9):2182, 1997.
+@@ 649 [p]
+51. O’Connor, D, Marshall, S, and Massy-Westropp, N: Non-surgical treatment (other than steroid injection) for carpal tunnel syndrome. Cochrane Database Syst Rev 1:CD003219, 2003.
+@@ 650 [p]
+52. Osher, L, et al: Reflex sympathetic dystrophy syndrome. J Am Podiatric Med Assoc 83(5):276–283, 1993.
+@@ 651 [p]
+53. Pang, D, and Wessel, HB: Thoracic outlet syndrome. Neurosurgery 22:105–121, 1988.
+@@ 652 [p]
+54. Pascarelli, EF, and Hsu, YP: Understanding work-related upper extremity disorders: clinical findings in 485 computer users, musicians, and others. J Occup Rehabil 11(1):1–21, 2001.
+@@ 653 [p]
+55. Price, DD, Bennett, GJ, and Rafii, A: Psychophysical observations on patients with neuropathic pain relieved by a sympathetic block. Pain 36:273–288, 1989.
+@@ 654 [p]
+56. Provinciali, L, et al: Usefulness of hand rehabilitation after carpal tunnel surgery. Muscle Nerve 23:211–216, 2000.
+@@ 655 [p]
+57. Roganovic, Z: Factors influencing the outcome of nerve repair. Voj Pregl 55(2):119–131, 1998.
+@@ 656 [p]
+58. Rozmaryn, LM, et al: Nerve and tendon gliding exercises and the conservative management of carpal tunnel syndrome. J Hand Ther 11:171–179, 1998.
+@@ 657 [p]
+59. Seror, P: Frequency of neurogenic thoracic outlet syndrome in patients with definite carpal tunnel syndrome: an electrophysiological evaluation in 100 women. Clin Neurophysiol 116(2): 259–263, 2005.
+@@ 658 [p]
+60. Seror, P: Symptoms of thoracic outlet syndrome in women with carpal tunnel syndrome. Clin Neurophysiol 116(10):2324–2329, 2005.
+@@ 659 [p]
+61. Skirven, T: Nerve Injuries. In Stanley, BG, and Tribuzi, SM (eds): Concepts in Hand Rehabilitation. Philadelphia: FA Davis, 1992, p 322.
+@@ 660 [p]
+62. Smith, KL: Nerve Response to Injury and Repair. In Mackin, EJ, et al (eds): Rehabilitation of the Hand and Upper Extremities, ed. 5. St. Louis: CV Mosby, 2002, pp 583–598.
+@@ 661 [p]
+63. Smith, MB: The peripheral nervous system. In Goodman, CC, Fuller, KS, and Boissonnault, WG: Pathology: Implications for the Physical Therapist. Philadelphia: Saunders, 2003, pp 1140–1173.
+@@ 662 [p]
+64. Stanton-Hicks, M, et al: Reflex sympathetic dystrophy: changing concepts and taxonomy. Pain 63:127–133, 1995.
+@@ 663 [p]
+65. Stern, M, and Steinmann, S: Ulnar nerve entrapment. Available at http://emedline.medscape.com/article/1244885.
+@@ 664 [p]
+66. Sucher, BM: Thoracic outlet syndrome: a myofascial variant. Part 1. Pathology and diagnosis. J Am Osteopath Assoc 90:686, 1990.
+@@ 665 [p]
+67. Sucher, BM: Thoracic outlet syndrome: a myofascial variant. Part 2. Treatment. J Am Osteopath Assoc 90:810, 1990.
+@@ 666 [p]
+68. Taylor Mullins, PA: Reflex sympathetic dystrophy. In Stanley, BG, and Tribuzi, SM (eds): Concepts in Hand Rehabilitation. Philadelphia: FA Davis, 1992, p 446.
+@@ 667 [p]
+69. Topp, KS, and Boyd, BS: Structure and biomechanics of peripheral nerves: nerve responses to physical stresses and implications for physical therapist practice. Phys Ther 86(1):92–109, 2006.
+@@ 668 [p]
+70. Turl, SE, and George, KP: Adverse neural tension: a factor in repetitive hamstring strain. J Orthop Sports Phys Ther 27:16–21, 1998.
+@@ 669 [p]
+71. Varitimidis, SE, and Sotereanos, DV: Partial nerve injuries in the upper extremity. Hand Clin 16(1):141–149, 2000.
+@@ 670 [p]
+72. Verdugo, RJ, et al: Surgical versus non-surgical treatment for carpal tunnel syndrome. Cochrane Database Syst Rev 3: CD001552, 2002.
+@@ 671 [p]
+73. Walker, SM, and Cousins, MJ: Complex regional pain syndromes: including “reflex sympathetic dystrophy” and “causalgia.” Anaesth Intensive Care 25:113–125, 1997.
+@@ 672 [p]
+74. Walsh, MT: Therapist management of thoracic outlet syndrome. J Hand Ther 7(2):131–144, 1994.
+@@ 673 [p]
+75. Walsh, MT, and Muntzer, E: Therapist’s management of complex regional pain syndrome (reflex sympathetic dystrophy). In Mackin, EF, et al (eds): Rehabilitation of the Hand and Upper Extremities, ed. 5. St. Louis: CV Mosby, 2002, p 1707.
+@@ 674 [p]
+76. Wasner, G, et al: Vascular abnormalities in acute reflex sympathetic dystrophy (CRPS I): complete inhibition of sympathetic nerve activity with recovery. Arch Neurol 56(5):613–620, 1999.
+@@ 675 [p]
+77. Watson, HK, and Carlson, L: Treatment of reflex sympathetic dystrophy of the hand with an active “stress loading” program. J Hand Surg 12(5):779–785, 1987.
+@@ 676 [p]
+78. Wehbe, MA, and Schlegel, JM: Nerve gliding exercises for thoracic outlet syndrome. Hand Clin 20(1):51–55, 2004.
+@@ 677 [p]
+79. Wilson, S, Selvaratnam, P, and Briggs, D: Strain at the subclavian artery during the upper limb tension test. Aust Physiother 40(4):243–248, 1994.
+@@ 678 [p]
+80. Wood, VE, and Biondi, J: Double-crush nerve compression in thoracic-outlet syndrome. J Bone Joint Surg Am 72(1): 85–87, 1990.
