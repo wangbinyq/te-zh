@@ -46,6 +46,7 @@ if (main) {
   }
 
   function schedule() {
+    if (document.visibilityState === "hidden") return;
     last = position();
     window.clearTimeout(timer);
     timer = window.setTimeout(save, 250);
