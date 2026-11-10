@@ -1,0 +1,590 @@
+@@ 1501 [p]
+43. Culhan, E, and Peat, M: Functional anatomy of the shoulder complex. J Orthop Sports Phys Ther 18(1):342–350, 1993.
+
+@@ 1502 [p]
+44. Culp, LB, and Romani, WA: Physical therapist examination, evaluation, and intervention following the surgical reconstruction of a grade III acromioclavicular joint separation. Phys Ther 86(6):857–869, 2006.
+
+@@ 1503 [p]
+45. Cyriax, J: Textbook of Orthopaedic Medicine, ed. 8. vol 1. Diagnosis of Soft Tissue Lesions. London: Bailliere Tindall, 1982.
+
+@@ 1504 [p]
+46. Cyriax, J: Textbook of Orthopaedic Medicine, ed. 10. vol 2. Treatment by Manipulation, Massage and Injection. London: Bailliere Tindall, 1980.
+
+@@ 1505 [p]
+47. Dahm, DL, and Smith, J: Rehabilitation and activities after shoulder arthroplasty. In Morrey, BF (ed): Joint Replacement Arthroplasty, ed. 3. Philadelphia: Churchill Livingstone, 2005, pp 502–511.
+
+@@ 1506 [p]
+48. Davies, GJ, and Dickoff-Hoffman, S: Neuromuscular testing and rehabilitation of the shoulder complex. J Orthop Sports Phys Ther 18(2):449–458, 1993.
+
+@@ 1507 [p]
+49. Davies, GJ, and Durall, C: “Typical” rotator cuff impingement syndrome: it’s not always typical. PT Magazine 8(5):58–71, 2000.
+
+@@ 1508 [p]
+50. Dodson, CC, and Altchek, DW: SLAP lesions: an update on recognition and treatment. J Orthop Sports Phys Ther 39(2): 71–80, 2009.
+
+@@ 1509 [p]
+51. Donatelli, RA, et al: Differential soft tissue diagnosis. In Donatelli, RA (ed): Physical Therapy of the Shoulder, ed. 4. St. Louis: Churchill Livingstone, 2004, p 89.
+
+@@ 1510 [p]
+52. Duralde, XA: Total shoulder replacements. In Donatelli, RA (ed): Physical Therapy of the Shoulder, ed. 4. St. Louis: Churchill Livingstone, 2004, pp 529–545.
+
+@@ 1511 [p]
+53. Edmonds, A: Shoulder arthroplasty. In Clark, GL, et al (eds): Hand Rehabilitation. New York: Churchill Livingstone, 1998, p 267.
+
+@@ 1512 [p]
+54. Ekstrom, RA, Donatelli, RA, and Soderberg, GL: Surface electromyographic analysis of exercises for the trapezius and serratus anterior muscles. J Orthop Sports Phys Ther 33(5): 247–258, 2003.
+
+@@ 1513 [p]
+55. Ellenbecker, TS, and Cools, A: Rehabilitation of shoulder impingement syndrome and rotator cuff injuries: an evidencebased review. Br J Sports Med 44(5):319–327, 2010.
+
+@@ 1514 [p]
+56. Ellenbecker, TS, Elmore, E, and Bailie, DS: Descriptive report of shoulder range of motion and rotational strength 6 and 12 weeks following rotator cuff repair using mini-open deltoid splitting techniques. J Orthop Sports Phys Ther 36(5):326–335, 2006.
+
+@@ 1515 [p]
+57. Ellenbecker, TS, and Mattalino, AJ: Glenohumeral joint range of motion and rotator cuff strength following arthroscopic anterior stabilization with thermal capsulorrhaphy. J Orthop Sports Phys Ther 29(3):160–167, 1999.
+
+@@ 1516 [p]
+58. Ellenbecker, TS: Etiology and evaluation of rotator cuff pathologic conditions and rehabilitation. In Donatelli, RA (ed): Physical Therapy of the Shoulder, ed. 4. St. Louis: Churchill Livingstone, 2004, p 337.
+
+@@ 1517 [p]
+59. Ellman, H: Arthroscopic subacromial decompression. In Welsh, RP, and Shephard, RJ (eds): Current Therapy in Sports Medicine, vol 2. Toronto: BC Decker, 1990.
+
+@@ 1518 [p]
+60. Engle, RP, and Canner, GC: Posterior shoulder instability: approach to rehabilitation. J Orthop Sports Phys Ther 10(12): 70–78, 1989.
+
+@@ 1519 [p]
+61. Fanton, G, and Thabit, G: Orthopedic uses of arthroscopy and lasers. In Griffin (ed): Orthopedic Knowledge. Update Sports Medicine. Rosemont, IL: American Academy of Orthopedic Surgeons, 1994.
+
+@@ 1520 [p]
+62. Fealy, S, Kingham, TP, and Altchek, DW: Mini-open rotator cuff repair using a two-row fixation technique outcomes analysis in patients with small, moderate and large rotator cuff tears. Arthroscopy 18:665–670, 2002.
+
+@@ 1521 [p]
+63. Fenlin, JM, and Friedman, B: Shoulder arthroplasty: massive cuff deficiency. In Iannotti, JP, Williams, GR (eds): Disorders of the Shoulder: Diagnosis and Management. Philadelphia: Lippincott Williams & Wilkins, 1999, p 559.
+
+@@ 1522 [p]
+64. Finley, MA, and Lee, RY: Effect of sitting posture on 3-dimensional scapular kinematics measured by skin-mounted electromagnetic tracking sensors. Arch Phys Med Rehabil 84(4):563–568, 2003.
+
+@@ 1523 [p]
+65. Fu, FH, Harner, CD, and Klein, AH: Shoulder impingement syndrome: a critical review. Clin Orthop Rel Res 269:162–173, 1991.
+
+@@ 1524 [p]
+66. Gartsman, GM, and Hammerman, SM: Full-thickness tears: arthroscopic repair. Orthop Clin North Am 28:83–98, 1997.
+
+@@ 1525 [p]
+67. Gartsman, GM, Khan, M, and Hammerman, SM: Arthroscopic repair of full thickness tears of the rotator cuff. J Bone Joint Surg Am 80:832–840, 1998.
+
+@@ 1526 [p]
+68. Ghodadra, NS, et al: Open, mimi-open, and all-arthroscopic rotator cuff repair surgery: indications and implications for rehabilitation. J Orthop Sports Phys Ther 39(2):81–89, 2009.
+
+@@ 1527 [p]
+69. Gill, T, et al: Bankart repair for anterior instability of the shoulder. J Bone Joint Surg Am 79:850–857, 1997.
+
+@@ 1528 [p]
+70. Godges, JJ, et al: The immediate effects of soft tissue mobilization with proprioceptive neuromuscular facilitation on glenohumeral external rotation and overhead reach. J Orthop Sports Phys Ther 33(12):713–718, 2003.
+
+@@ 1529 [p]
+71. Greis, PE, Dean, M, and Hawkins, RJ: Subscapularis tendon disruption after Bankart reconstruction for anterior instability. J Shoulder Elbow Surg 5:219–222, 1996.
+
+@@ 1530 [p]
+72. Griffin, JW: Hemiplegic shoulder pain. Phys Ther 66(12): 1884–1893, 1986.
+
+@@ 1531 [p]
+73. Gross, RM: Arthroscopic shoulder capsulorrhaphy: does it work? Am J Sports Med 17:495–500, 1989.
+
+@@ 1532 [p]
+74. Grubbs, N: Frozen shoulder syndrome: a review of literature. J Orthop Sports Phys Ther 18(3):479–487, 1993.
+
+@@ 1533 [p]
+75. Guidotti, TL: Occupational repetitive strain injury. Am Fam Physician 45(2):585–592, 1992.
+
+@@ 1534 [p]
+76. Haig, SV: Shoulder Pathophysiology Rehabilitation and Treatment. Gaithersbury, MD: Aspen Publishers, 1996.
+
+@@ 1535 [p]
+77. Harryman, DT, et al: Translation of the humeral head on the glenoid with passive glenohumeral motion. J Bone Joint Surg Am 72(9):1334–1343, 1990.
+
+@@ 1536 [p]
+78. Harryman, DT II, et al: Reports of the rotator cuff: correlation of functional results with integrity of the cuff. J Bone Joint Surg Am 73:982–989, 1991.
+
+@@ 1537 [p]
+79. Hartzog, CW, Savoie, FH, and Field, LD: Arthroscopic acromioplasty and arthroscopic distal clavicle resection, mini-open rotator cuff repair: Indications, techniques, and outcome. In Iannotti, JP (ed): The Rotator Cuff: Current Concepts and Complex Problems. Rosemont, IL: American Academy of Orthopedic Surgeons, 1998, p 25.
+
+@@ 1538 [p]
+80. Hashimoto, T, Nobuhara, K, and Hamada, T: Pathologic evidence of degeneration as a primary cause of rotator cuff tear. Clin Orthop Rel Res 415:111–120, 2003.
+
+@@ 1539 [p]
+81. Hattrup, SJ: Rotator cuff repair: relevance of patient age. J Shoulder Elbow Surg 4:95–100, 1995.
+
+@@ 1540 [p]
+82. Hattrup, SJ: Complications in shoulder arthroplasty. In Morrey, BF (ed): Joint Replacement Arthroplasty, ed. 3. Philadelphia: Churchill Livingstone, 2003, pp 521–542.
+
+@@ 1541 [p]
+83. Hawkins, RJ, and Abrams, JS: Impingement syndrome in the absence of rotator cuff tear (stages 1 and 2). Orthop Clin North Am 18(3):373–382, 1987.
+
+@@ 1542 [p]
+84. Hawkins, RJ, et al: Acromioplasty for impingement with an intact rotator cuff. J Bone Joint Surg Br 70(5):795–797, 1988.
+
+@@ 1543 [p]
+85. Hawkins, RJ, Koppert, G, and Johnston, G: Recurrent posterior instability (subluxation) of the shoulder. J Bone Joint Surg Am 66(2):169–174, 1984.
+
+@@ 1544 [p]
+86. Hawkins, RJ, Krishnan, SG, and Karas, SG: Electrothermal arthroscopic shoulder capsulorrhaphy: a minimum 2-year follow-up. Am J Sports Med 35(9):1484–1488, 2007.
+
+@@ 1545 [p]
+87. Hawkins, RJ, Misamore, GW, and Hobeika, PE: Surgery for full-thickness rotator cuff tears. J Bone Joint Surg Am 67: 1349–1355, 1985.
+
+@@ 1546 [p]
+88. Hayashi, K, et al: The effect of nonablative laser energy on joint capsular properties: an in vitro mechanical study using a rabbit model. Am J Sports Med 23(4):482–487, 1995.
+
+@@ 1547 [p]
+89. Hayes, K, et al: Shoulder instability: management and rehabilitation. J Orthop Sports Phys Ther 32(10):497–509, 2002.
+
+@@ 1548 [p]
+90. Hernandez, A, and Drez, D: Operative treatment of posterior shoulder dislocation by posterior glenoidplasty, capsulorrhaphy, and infraspinatus advancement. Am J Sports Med 14(3):187–191, 1986.
+
+@@ 1549 [p]
+91. Hintermeister, RA, et al: Electromyographic activity and applied load during shoulder rehabilitation exercises using elastic resistance. Am J Sports Med 26(2):210–220, 1998.
+
+@@ 1550 [p]
+92. Ho, CP: Applied MRI anatomy of the shoulder. J Orthop Sports Phys Ther 18(1):351–359, 1993.
+
+@@ 1551 [p]
+93. Horrigan, JM, et al: Magnetic resonance imaging evaluation of muscle usage associated with three exercises for rotator cuff rehabilitation. Med Sci Sports Exerc 31(10):1361–1366, 1999.
+
+@@ 1552 [p]
+94. Howell, SM, et al: Normal and abnormal mechanics of the glenohumeral joint in the horizontal plane. J Bone Joint Surg Am 70(2):227–232, 1988.
+
+@@ 1553 [p]
+95. Itoi, E, et al: Which is more useful, the “full can test” or the “empty can test,” in detecting the torn supraspinatus tendon? Am J Sports Med 27(1):65–68, 1999.
+
+@@ 1554 [p]
+96. Jobe, FW, et al: Anterior capsulolabral reconstruction of the shoulder in athletes in overhead sports. Am J Sports Med 19:428–434, 1991.
+
+@@ 1555 [p]
+97. Jobe, FW, and Moynes, DR: Delineation of diagnostic criteria and a rehabilitation program for rotator cuff injuries. Am J Sports Med 10(6):336–339, 1982.
+
+@@ 1556 [p]
+98. Jobe, FW, and Pink, M: Classification and treatment of shoulder dysfunction in the overhead athlete. J Orthop Sports Phys Ther 18(2):427–432, 1993.
+
+@@ 1557 [p]
+99. Johnson, AJ, et al: The effect of anterior versus posterior glide joint mobilization on external rotation range of motion in patients with shoulder adhesive capsulitis. J Orthop Sports Phys Ther 37(3):88–99, 2007.
+
+@@ 1558 [p]
+100. Kaltenborn, F: Manual Mobilization of the Joints: The Kaltenborn Method of Joint Examination and Treatment, ed. 5, vol 1. The Extremities. Oslo: Olaf Norlis Bokhandel, 1999.
+
+@@ 1559 [p]
+101. Kamkar, A, Irrgang, JJ, and Whitney, SI: Nonoperative management of secondary shoulder impingement syndrome. J Orthop Sports Phys Ther 17(5):212–224, 1993.
+
+@@ 1560 [p]
+102. Kelley, MJ, and Leggin, BG: Shoulder rehabilitation. In Iannotti, JP, and Williams, GR (eds): Disorders of the Shoulder: Diagnosis and Management. Philadelphia: Lippincott Williams & Wilkins, 1999, p 979.
+
+@@ 1561 [p]
+103. Kelley, MJ, and Leggin, BG: Rehabilitation. In Williams, GR, et al (eds): Shoulder and Elbow Arthroplasty. Philadelphia: Lippincott, Williams & Wilkins, 2005, pp 251–268.
+
+@@ 1562 [p]
+104. Kelley, MJ, McClure, PW, and Leggin, BG: Frozen shoulder: evidence and a proposed model guiding rehabilitation. J Orthop Sports Phys Ther 39(2):135–148, 2009.
+
+@@ 1563 [p]
+105. Kennedy, K: Rehabilitation of the Unstable Shoulder. Sportsmedicine Performance and Research Center. Philadelphia: WB Saunders, 1993.
+
+@@ 1564 [p]
+106. Kibler, WB, et al: Scapular summit 2009: introduction. J Orthop Sports Phys Ther 39(11): A1–A8, 2009.
+
+@@ 1565 [p]
+107. Kirkley, A, et al: Prospective randomized clinical trial comparing effectiveness of immediate arthroscopic stabilization versus immobilization and rehabilitation in first traumatic anterior dislocations of the shoulder. Arthroscopy 15:507–514, 1999.
+
+@@ 1566 [p]
+108. Kosmahl, EM: The shoulder. In Kauffman, TL (ed): Geriatric Rehabilitation Manual. New York: Churchill Livingstone, 1999, p 99.
+
+@@ 1567 [p]
+109. Kumar, VP, Satku, K, and Balasubramaniam, P: The role of the long head of the biceps brachii in the stabilization in the head of the humerus. Clin Orthop 244:172–175, 1989.
+
+@@ 1568 [p]
+110. Kunkel, SS, and Hawkins, RJ: Open repair of the rotator cuff. In Andrews, JR, and Wilk, KE (eds): The Athlete’s Shoulder. New York: Churchill Livingstone, 1994.
+
+@@ 1569 [p]
+111. Laudner, KG, et al: Scapular dysfunction in throwers with pathologic internal impingement. J Orthop Sports Phys Ther 36(7):485–494, 2006.
+
+@@ 1570 [p]
+112. Lewis, JS, Wright, C, and Green, A: Subacromial impingement syndrome: the effect of changing posture on shoulder range of movement. J Orthop Sports Phys Ther 35(2):72–87, 2005.
+
+@@ 1571 [p]
+113. Lister, JL, et al: Scapular stabilizer activity during bodyblade, cuff weights, and thera-band use. J Sport Rehabil 16:50–67, 2007.
+
+@@ 1572 [p]
+114. Litchfield, R, et al: Rehabilitation for the overhead athlete. J Orthop Sports Phys Ther 18(2):433–441, 1993.
+
+@@ 1573 [p]
+115. Lo, IK, et al: Quality-of-life outcome following hemiarthroplasty or total shoulder arthroplasty in patients with osteoarthritis: a prospective randomized trial. J Bone Joint Surg Am 87(10):2178–2185, 2005.
+
+@@ 1574 [p]
+116. Long, JL, et al: Activation of the shoulder musculature during pendulum exercises and light activities. J Orthop Sports Phys Ther 40(4):230–237, 2010.
+
+@@ 1575 [p]
+117. Lord, J, and Rosati, JM: Thoracic Outlet Syndromes, vol 23. Summit, NJ: Ciba, 1971.
+
+@@ 1576 [p]
+118. Ludewig, PM, and Cook, TC: Alterations in shoulder kinematics and associated muscle activity in people with symptoms of shoulder impingement. Phys Ther 80(3):276–291, 2000.
+
+@@ 1577 [p]
+119. Ludewig, PM, et al: Three-dimensional clavicular motion during arm elevation: reliability and descriptive data. J Orthop Sport Phys Ther 34(3):140–149, 2004.
+
+@@ 1578 [p]
+120. Ludewig, PM, and Borstad, JD: The shoulder complex. In Levangie, PM, and Norkin, CC (eds): Joint Structure and Function: A Comprehensive Analysis, ed. 5. Philadelphia: FA Davis, 2011.
+
+@@ 1579 [p]
+121. Lukasiewics, AC, et al: Comparison of 3-dimensional scapular position and orientation between subjects with and without shoulder impingement. J Orthop Sports Phys Ther 29(10): 574–583, 1999.
+
+@@ 1580 [p]
+122. Maenhout, A, et al: Electromyographic analysis of knee push up plus variations: what’s the influence of the kinetic chain on scapular muscle activity? Br J Sports Med 44(14):1010–1015, 2009.
+
+@@ 1581 [p]
+123. Magee, DJ: Orthopedic Physical Assessment, ed. 5. St. Louis: Saunders Elsevier, 2008.
+
+@@ 1582 [p]
+124. Malanga, GA, et al: EMG analysis of shoulder positioning in testing and strengthening the supraspinatus. Med Sci Sports Exerc 28(6):661–664, 1996.
+
+@@ 1583 [p]
+125. Matsen, FA: Early effectiveness of shoulder arthroplasty for patients who have primary degenerative disease. J Bone Joint Surg Am 78(2):260–264, 1996.
+
+@@ 1584 [p]
+126. Matsen, FA, et al: Glenohumeral arthritis and its management. In Rockwood, CA, et al (eds): The Shoulder, vol 2, ed. 3. Philadelphia: Saunders, 2004, pp 879–1007.
+
+@@ 1585 [p]
+127. Matsen, FA, et al: Glenohumeral instability. In Rockwood, CA, et al (eds): The Shoulder, vol 2, ed. 3. Philadelphia: Saunders, 2004, pp 655–794.
+
+@@ 1586 [p]
+128. Matsen, FA, et al: Rotator cuff. In Rockwood, CA, et al (eds): The Shoulder, vol 2, ed. 3. Philadelphia: Saunders, 2004, pp 795–878.
+
+@@ 1587 [p]
+129. Matsen III, FA, et al: The reverse total shoulder arthroplasty. J Bone Jt Surg Am 89(3):659–667, 2007.
+
+@@ 1588 [p]
+130. Matthews, LS, and Pavlovich, LJ: Anterior and anteroinferior instability: diagnosis and management. In Iannotti, JP, and Williams, GR (eds): Disorders of the Shoulder. Philadelphia: Lippincott Williams & Wilkins, 1999, p 251.
+
+@@ 1589 [p]
+131. McClure, P, et al: A randomized controlled comparison of stretching procedures for posterior shoulder tightness. J Orthop Sports Phys Ther 37(3):108–114, 2007.
+
+@@ 1590 [p]
+132. McClure, PW, et al: Shoulder function and 3-dimensional kinematics in people with shoulder impingement syndrome before and after a 6-week exercise program. Phys Ther 84(9):832–848, 2004.
+
+@@ 1591 [p]
+133. McClure, PW, et al: Direct 3-dimensional measurement of scapular kinematics during dynamic movements in vivo. J Shoulder Elbow Surg 10(3):269–277, 2001.
+
+@@ 1592 [p]
+134. Meister, K, and Andrews, JR: Classification and treatment of rotator cuff injuries in the overhand athlete. J Orthop Sports Phys Ther 18(2):413–421, 1993.
+
+@@ 1593 [p]
+135. Miller, MD, Flatlow, EL, and Bigliani, LU: Biomechanics of the coricoacromial arch and rotator cuff: kinematics and contact of the subacromial space. In Iannotti, JP (ed): The Rotator Cuff: Current Concepts and Complex Problems. Rosemont, IL: American Academy of Orthopedic Surgeons, 1998, p 1.
+
+@@ 1594 [p]
+136. Morrison, DS, Greenbaum, BS, and Einhorn, A: Shoulder impingement. Orthop Clin North Am 31(2):285–293, 2000.
+
+@@ 1595 [p]
+137. Mulligan, BR: Manual Therapy “NAGS,” “SNAGS,” “MWM’s” etc., ed. 4. Wellington, New Zealand: Plane View Press, 1999.
+
+@@ 1596 [p]
+138. Myers, JB, et al: Scapular position and orientation in throwing athletes. Am J Sports Med 33(2):263–271, 2005.
+
+@@ 1597 [p]
+139. Neer, CS: Surgery in the shoulder. In Kelly, WH, et al (eds): Surgery in Arthritis. Philadelphia: WB Saunders, 1994, p 754.
+
+@@ 1598 [p]
+140. Neer, CS: Impingement lesions. Clin Orthop 173:70–77, 1983.
+
+@@ 1599 [p]
+141. Neer, CS, Watson, KC, and Stanton, FJ: Recent experiences in total shoulder replacement. J Bone Joint Surg Am 64:319–337, 1982.
+
+@@ 1600 [p]
+142. Neer, CS: Anterior acromioplasty for the chronic impingement syndrome in the shoulder: a preliminary report. J Bone Joint Surg Am 54(1):41–50, 1972.
+
+@@ 1601 [p]
+143. Neer, CS: Replacement arthroplasty for glenohumeral osteoarthritis. J Bone Joint Surg Am 56(1):1–13, 1974.
+
+@@ 1602 [p]
+144. Neviaser, AS, and Hannafin, JA: Adhesive capsulitis: a review of current treatment. Am J Sports Med 38(11):2346–2356, 2010.
+
+@@ 1603 [p]
+145. Neviaser, RJ, and Neviaser, TJ: The frozen shoulder: diagnosis and management. Clin Orthop 223:59–64, 1987.
+
+@@ 1604 [p]
+146. Neviaser, RJ: Ruptures of the rotator cuff. Orthop Clin North Am 18(3):387–394, 1987.
+
+@@ 1605 [p]
+147. Neviaser, RJ: Injuries to the clavicle and acromioclavicular joint. Orthop Clin North Am 18(3):433–488, 1987.
+
+@@ 1606 [p]
+148. Neviaser, TJ: Adhesive capsulitis. Orthrop Clin North Am 18(3):439–443, 1987.
+
+@@ 1607 [p]
+149. Neviaser, TJ: The role of the biceps tendon in the impingement syndrome. Orthop Clin North Am 18(3):383–386, 1987.
+
+@@ 1608 [p]
+150. Nicholson, GG: The effects of passive joint mobilization on pain and hypomobility associated with adhesive capsulitis of the shoulder. J Orthop Sports Phys Ther 6(4):238–246, 1985.
+
+@@ 1609 [p]
+151. Nixon, RT, and Lindenfeld, TN: Early rehabilitation after a modified inferior capsular shift procedure for multidirectional instability of the shoulder. Orthopedics 21(4):441–445, 1998.
+
+@@ 1610 [p]
+152. Noonan, TJ, and Garrett, WE: Injuries at the myotendinous junction. Clin Sports Med 11(4):783–806, 1992.
+
+@@ 1611 [p]
+153. Norris, TR, and Iannotti, JR: Functional outcome after shoulder arthroplasty for primary osteoarthritis: a multicenter study. J Shoulder Elbow Surg 11(2):130–135, 2002.
+
+@@ 1612 [p]
+154. Nuber, GW, and Bowen, MK: Disorders of the acromioclavicular joint: Pathophysiology, diagnosis, and management. In Iannotti, JP, and Williams, GR (eds): Disorders of the Shoulder. Philadelphia: Lippincott Williams & Wilkins, 1999, p 739.
+
+@@ 1613 [p]
+155. O’Brien, M: Functional anatomy and physiology of tendons. Clin Sports Med 11(3):505–520, 1992.
+
+@@ 1614 [p]
+156. O’Brien, SJ, Warren, RF, and Schwartz, E: Anterior shoulder instability. Orthop Clin North Am 18(3):395–408, 1987.
+
+@@ 1615 [p]
+157. Orfaly, RM, et al: A prospective functional outcome study of shoulder arthroplasty for osteoarthritis with an intact rotator cuff. J Shoulder Elbow Surg 12:214–221, 2003.
+
+@@ 1616 [p]
+158. Paine, RM, and Voight, M: The role of the scapula. J Orthop Sports Phys Ther 18:386–391, 1993.
+
+@@ 1617 [p]
+159. Payne, LZ, et al: The combined dynamic and static contributions to subacromial impingement: a biomechanical analysis. Am J Sports Med 25(6):801–808, 1997.
+
+@@ 1618 [p]
+160. Pollock, RG, and Flatow, LL: The Rotator Cuff. Full-thickness tears. Mini-open repair. Orthop Clin North Am 28(2):169–177, 1997.
+
+@@ 1619 [p]
+161. Post, M, and Grinblat, E: Preoperative clinical evaluation. In Friedman, RJ (ed): Arthroplasty of the Shoulder. New York: Theime Medical, 1994, p 41.
+
+@@ 1620 [p]
+162. Post, M, Morrey, BE, and Hawkins, RJ (eds): Surgery of the Shoulder. St. Louis: Mosby Year-Book, 1990.
+
+@@ 1621 [p]
+163. Provencher, MT, et al: Arthroscopic treatment of posterior shoulder instability: results in 33 patients. Am J Sports Med 33(10):1463–1471, 2005.
+
+@@ 1622 [p]
+164. Ramsey, ML, and Klimkiewicz, JJ: Posterior instability: diagnosis and management. In Iannotti, JP, and Williams, GR (eds): Disorders of the Shoulder: Diagnosis and Management. Philadelphia: Lippincott Williams & Wilkins, 1999, p 295.
+
+@@ 1623 [p]
+165. Reinold, MM, Escamilla, T, and Wilk, KE: Current concepts in the scientific and clinical rationale behind exercises for glenohumeral and scapulothoracic musculature. J Orthop Sports Phys Ther 39(2):105–117, 2009.
+
+@@ 1624 [p]
+166. Reinold, MM, et al: Electromyographic analysis of the rotator cuff and deltoid musculature during common shoulder external rotation exercises. J Orthop Sports Phys Ther 34(7):385–394, 2004.
+
+@@ 1625 [p]
+167. Reinold, MM, et al: Thermal-assisted capsular shrinkage of the glenohumeral joint in overhead athletes: a 15- to 47-month follow-up. J Orthop Sports Phys Ther 33(8): 455–467, 2003.
+
+@@ 1626 [p]
+168. Rockwood, CA, and Wirth, MA: Disorders of the sternoclavicular joint. In Rockwood, CA, and Matsen, FA (eds): The Shoulder, vol 1, ed. 3. Philadelphia: Saunders, 2004, p 597.
+
+@@ 1627 [p]
+169. Rockwood, CA, Williams, GR, and Young, DC: Disorders of the acromioclavicular joint. In Rockwood, CA, and Matsen, FA (eds): The Shoulder, vol 1, ed. 3. Philadelphia: Saunders, 2004, p 521.
+
+@@ 1628 [p]
+170. Rockwood, CA, and Lyons, FR: Shoulder impingement syndrome: diagnosis, radiographic evaluation, and treatment with a modified Neer acromioplasty. J Bone Joint Surg Am 75(3):409–424, 1993.
+
+@@ 1629 [p]
+171. Roddey, TS, et al: A randomized controlled trial comparing 2 instructional approaches to home exercise instruction following arthroscopic full-thickness rotator cuff repair surgery. J Orthop Sports Phys Ther 32(11):548–559, 2002.
+
+@@ 1630 [p]
+172. Rodosky, MW, and Harner, CD: The role of the long head of the biceps muscle and superior glenoid labrum in anterior stability of the shoulder. Am J Sports Med 22:121–130, 1994.
+
+@@ 1631 [p]
+173. Rokito, AS, et al: Strength after surgical repair of the rotator cuff. J Shoulder Elbow Surg 5:12–17, 1996.
+
+@@ 1632 [p]
+174. Rose, BS: Frozen shoulder. N Z Med J 98(792):1039–1040, 1985.
+
+@@ 1633 [p]
+175. Rowe, CR: Anterior glenohumeral subluxation/dislocation: the Bankart procedure. In Welsh, RP, and Shephard, RJ (eds): Current Therapy in Sports Medicine, vol 2. Toronto, BC Decker, 1990.
+
+@@ 1634 [p]
+176. Roye, RP, Grana, WA, and Yates, CK: Arthroscopic subacromial decompression: two- to seven-year follow-up. Arthroscopy 11(3):301–306, 1995.
+
+@@ 1635 [p]
+177. Rundquist, PJ, and Ludewig, PM: Correlation of 3-dimensional shoulder kinematics to function in subjects with idiopathic loss of shoulder range of motion. Phys Ther 85(7):636–647, 2005.
+
+@@ 1636 [p]
+178. Ruotolo, C, and Nottage, WM: Surgical and nonsurgical management of rotator cuff tears. Arthroscopy 18:527–531, 2002.
+
+@@ 1637 [p]
+179. Sachs, RA, et al: Open Bankart repair: correlation of results with postoperative subscapular function. Am J Sports Med 33(10):1458–1462, 2005.
+
+@@ 1638 [p]
+180. Safron, O, Seebauer, L, and Iannotti, J: Surgical management of the rotator cuff tendon-deficient arthritic shoulder. In Williams, GR, et al (eds): Shoulder and Elbow Arthroplasty. Philadelphia: Lippincott Williams & Wilkins, 2005, pp 105–114.
+
+@@ 1639 [p]
+181. Schenk, T, and Brems, JJ: Multidirectional instability of the shoulder: pathophysiology, diagnosis, and management. J Am Acad Orthop Surg 6:65–72, 1998.
+
+@@ 1640 [p]
+182. Schenk, T, and Iannotti, IP: Prosthetic arthroplasty for glenohumeral arthritis with an intact or repairable rotator cuff: indications, techniques, and results. In Iannotti, JP, and Williams, GR (eds): Disorders of the Shoulder: Diagnosis and Management. Philadelphia: Lippincott Williams & Wilkins, 1999, p 521.
+
+@@ 1641 [p]
+183. Schieb, JS: Diagnosis and rehabilitation of the shoulder impingement syndrome in the overhand and throwing athlete. Rheum Dis Clin North Am 16(4):971–988, 1990.
+
+@@ 1642 [p]
+184. Schmitt, L, and Snyder-Mackler, L: Role of scapular stabilizers in etiology and treatment of impingement syndrome. J Orthop Sports Phys Ther 29(1):31–38, 1999.
+
+@@ 1643 [p]
+185. Schwartz, E, et al: Posterior shoulder instability. Orthop Clin North Am 18(3):409–419, 1987.
+
+@@ 1644 [p]
+186. Selecky, MT, et al: The effects of laser-induced collagen shortening on the biomechanical properties of the inferior glenohumeral ligament complex. Am J Sports Med 27(2):168–172, 1999.
+
+@@ 1645 [p]
+187. Sharkey, NA, and Marder, RA: The rotator cuff opposes superior translation of the humeral head. Am J Sports Med 23(3):270–275, 1995.
+
+@@ 1646 [p]
+188. Simon, ER, and Hill, JA: Rotator cuff injuries: an update. J Orthop Sports Phys Ther 10(10):394–398, 1989.
+
+@@ 1647 [p]
+189. Smith, CA, and Williams, GR: Replacement arthroplasty in glenohumeral arthritis: intact or repairable rotator cuff. In Williams, GR, et al (eds): Shoulder and Elbow Arthroplasty. Philadelphia: Lippincott Williams & Wilkins, 2005, pp 75–103.
+
+@@ 1648 [p]
+190. Smith, KL, and Matsen, FA: Total shoulder arthroplasty versus hemiarthroplasty—current trends. Orthop Clin North Am 29(3):491–506, 1998.
+
+@@ 1649 [p]
+191. Smith, LK, Weiss, EL, and Lehmkuhl, LD: Brunnstrom’s Clinical Kinesiology, ed. 5. Philadelphia: FA Davis, 1996.
+
+@@ 1650 [p]
+192. Sperling, JW, and Cofield, RH: Results of shoulder arthroplasty. In Morrey, BF (ed): Joint Replacement Arthroplasty, ed. 3. Philadelphia: Churchill Livingstone, 2003, p 511–520.
+
+@@ 1651 [p]
+193. Stokdijk, M, et al: External rotation in the glenohumeral joint during elevation of the arm. Clin Biomech 18(4):296–302, 2003.
+
+@@ 1652 [p]
+194. Tate, AR, et al: Comprehensive impairment-based exercise and manual therapy intervention for patients with subacromial impingement syndrome: a case series. J Orthop Sports Phys Ther 40(8):474–493, 2010.
+
+@@ 1653 [p]
+195. Tauro, JC: Arthroscopic rotator cuff repair: analysis of technique and results in 2- and 3-year follow-up. Arthroscopy 14:45–51, 1998.
+
+@@ 1654 [p]
+196. Thigpen, CA, et al: Scapular kinematics during supraspinatus rehabilitation exercise: a comparison of full-can versus emptycan techniques. Am J Sports Med 34(4):644–652, 2006.
+
+@@ 1655 [p]
+197. Thomas, BJ, and Amstuts, HC: Shoulder arthroplasty for rheumatoid arthritis. Clin Orthop 269:125–128, 1991.
+
+@@ 1656 [p]
+198. Thornhill, TS, et al: Shoulder surgery and rehabilitation. In Melvin, I, and Gall, V (eds): Rheumatologic Rehabilitation Series. vol 5. Surgical Rehabilitation. Bethesda, MD: American Occupational Therapy Association, 1999, p 37.
+
+@@ 1657 [p]
+199. Tibone, JE, and McMahon, PJ: Biomechanics and pathologic lesions in the overhead athlete. In Iannotti, JP, and Williams, GR (eds): Disorders of the Shoulder: Diagnosis and Management. Philadelphia: Lippincott Williams & Wilkins, 1999, p 233.
+
+@@ 1658 [p]
+200. Tibone, JE, and Bradley, JP: The treatment of posterior subluxation in athletes. Clin Orthop 291:124–137, 1993.
+
+@@ 1659 [p]
+201. Tibone, JE, et al: Glenohumeral joint translation after arthroscopic, nonablative thermal capsuloplasty with a laser. Am J Sports Med 26(4):495–498, 1998.
+
+@@ 1660 [p]
+202. Tibone, JE, et al: Surgical treatment of tears of the rotator cuff in athletes. J Bone Joint Surg Am 68(6):887–891, 1986.
+
+@@ 1661 [p]
+203. Ticker, JB, and Warner, JP: Rotator cuff tears: principles of tendon repair. In Iannotti, JP (ed): The Rotator Cuff: Current Concepts and Complex Problems. Rosemont, IL: American Academy of Orthopedic Surgeons, 1998, p 17.
+
+@@ 1662 [p]
+204. Timmerman, LA, Andrews, JR, and Wilk, KE: Mini-open repair of the rotator cuff. In Wilk, KE, and Andrews, JR (eds): The Athlete’s Shoulder. New York: Churchill-Livingstone, 1994.
+
+@@ 1663 [p]
+205. Townsend, H, et al: Electromyographic analysis of the glenohumeral muscles during a baseball rehabilitation program. Am J Sports Med 19:264–272, 1991.
+
+@@ 1664 [p]
+206. Trail, IA: Replacement arthroplasty in synovial-based arthritis. In Williams, GR, et al (eds): Shoulder and Elbow Arthroplasty. Philadelphia: Lippincott Williams & Wilkins, 2005, pp 113–129.
+
+@@ 1665 [p]
+207. Trenerry, K, Walton, J, and Murrrell, G: Prevention of shoulder stiffness after rotator cuff repair. Clin Orthop 430:94–99, 2005.
+
+@@ 1666 [p]
+208. Turkel, SJ, et al: Stabilizing mechanisms preventing anterior dislocation of the glenohumeral joint. J Bone Joint Surg Am 63(8):1208–1217, 1981.
+
+@@ 1667 [p]
+209. Tyler, TF, et al: Electrothermally-assisted capsulorrhaphy (E.T.A.C.): a new surgical method for glenohumeral instability and its rehabilitation considerations. J Orthop Sports Phys Ther 30(7):390–400, 2000.
+
+@@ 1668 [p]
+210. Uhl, TL, et al: Shoulder musculature activation during upper extremity weight-bearing exercises. J Orthop Sports Phys Ther 33:109–117, 2003.
+
+@@ 1669 [p]
+211. Vermeulen, HM, et al: End-range mobilization techniques in adhesive capsulitis of the shoulder joint: a multiple-subject case report. Phys Ther 80(12):1204–1213, 2000.
+
+@@ 1670 [p]
+212. Vermeulen, HM, et al: Comparison of high-grade and lowgrade mobilization techniques in the management of adhesive capsulitis of the shoulder: randomized controlled trial. Phys Ther 86(3):355–368, 2006.
+
+@@ 1671 [p]
+213. Volpe, S, and Craig, JA: Postoperative physical therapy management of a reverse total shoulder arthroplasty. Orthopedic Physical Therapy Practice 21(2):11–17, 2009.
+
+@@ 1672 [p]
+214. Wadsworth, CT: Frozen shoulder. Phys Ther 66:1878–1883, 1986.
+
+@@ 1673 [p]
+215. Wahl, CJ, Warren, RF, and Altchek, DW: Shoulder arthroscopy. In Rockwood, CA Jr, et al (eds): The Shoulder, vol 1, ed. 3. Philadelphia: Saunders, 2004, pp 283–353.
+
+@@ 1674 [p]
+216. Wall, B, et al: Reverse total shoulder arthroplasty: a review of results according to etiology. J Bone Jt Surg Am 89(7): 1476–1485, 2007.
+
+@@ 1675 [p]
+217. Warner, JJP, and Gerber, C: Treatment of massive rotator cuff tears: posterior-superior and anterior-superior. In Iannotti, JP (ed): The Rotator Cuff: Current Concepts and Complex Problems. Rosemont, IL: American Academy of Orthopedic Surgeons, 1998, p 59.
+
+@@ 1676 [p]
+218. Warner, JP, et al: Scapulothoracic motion in normal shoulders and shoulders with glenohumeral instability and impingement syndrome: a study using Moire’s topographic analysis. Clin Orthop 285:191–199, 1992.
+
+@@ 1677 [p]
+219. Warner, JP: Treatment options for anterior instability: open vs. arthroscopic. Operative Tech Orthop 5:233–237, 1995.
+
+@@ 1678 [p]
+220. Weiss, KS, Savoie, FH: Recent advances in arthroscopic repair of traumatic anterior glenohumeral instability. Clin Orthop 400:117–122, 2002.
+
+@@ 1679 [p]
+221. Wilcox, KB, Arslanian, LE, and Millett, PJ: Rehabilitation following total shoulder arthroplasty. J Orthop Sports Phys Ther 35(12):821–835, 2005.
+
+@@ 1680 [p]
+222. Wilk, KE, et al: Stretch-shortening drills for the upper extremities: theory and clinical application. J Orthop Sports Phys Ther 17(5):225–239, 1993.
+
+@@ 1681 [p]
+223. Wilk, KE, and Arrigo, C: An integrated approach to upper extremity exercises. Orthop Phys Ther Clin North Am 1: 337–360, 1992.
+
+@@ 1682 [p]
+224. Wilk, KE, and Arrigo, C: Current concepts in the rehabilitation of the athletic shoulder. J Orthop Sports Phys Ther 18(1): 365–378, 1993.
+
+@@ 1683 [p]
+225. Wilk, KE, and Andrews, JR: Rehabilitation following arthroscopic subacromial decompression. Orthopedics 16(3):349–358, 1993.
+
+@@ 1684 [p]
+226. Wilk, KE, Andrews, JR, and Arrigo, CA: The physical examination of the glenohumeral joint: emphasis on the stabilizing structures. J Orthop Sports Phys Ther 25:380, 1997.
+
+@@ 1685 [p]
+227. Wilk, KE, Arrigo, CA, and Andrews, JR: Current concepts: the stabilizing structures of the glenohumeral joint. J Orthop Sports Phys Ther 24:364–379, 1997.
+
+@@ 1686 [p]
+228. Wilk, KE, Meister, K, and Andrews, JR: Current concepts in the rehabilitation of the overhead throwing athlete. Am J Sports Med 30(1):136–151, 2002.
+
+@@ 1687 [p]
+229. Wilk, KE, et al: Shoulder injuries in the overhead athlete. J Orthop Sports Phys Ther 39(2):38–54, 2009.
+
+@@ 1688 [p]
+230. Wilk, KE, et al: Rehabilitation following thermal-assisted capsular shrinkage of the glenohumeral joint: current concepts. J Orthop Sports Phys Ther 32(60):268–287, 2002.
+
+@@ 1689 [p]
+231. Wilk, KE, et al: Current concepts in the recognition and treatment of superior labral (SLAP) lesions. J Orthop Sports Phys Ther 35(5):273–291, 2005.
+
+@@ 1690 [p]
+232. Williams, GR, and Iannotti, JP: Biomechanics of the glenohumeral joint: influence on shoulder arthroplasty. In Iannotti, JP, and Williams, GR (eds): Disorders of the Shoulder: Diagnosis and Management. Philadelphia: Lippincott Williams & Wilkins, 1999, p 471.
+
+@@ 1691 [p]
+233. Wirth, MA, Blatter, G, and Rockwood, CA: The capsular imbrication procedure for recurrent anterior instability of the shoulder. J Bone Joint Surg Am 78(2):246–259, 1996.
+
+@@ 1692 [p]
+234. Wirth, MA, and Rockwood, CA: Disorders of the sternoclavicular joint: pathophysiology, diagnosis, and management. In Iannotti, JP, and Williams, GR (eds): Disorders of the Shoulder: Diagnosis and Management. Philadelphia: Lippincott Williams & Wilkins, 1999, p 763.
+
+@@ 1693 [p]
+235. Worrell, TW, et al: An analysis of supraspinatus EMG activity and shoulder isometric force development. Med Sci Sports Exerc 24(7):744–748, 1992.
+
+@@ 1694 [p]
+236. Yamaguchi, K, et al: Transitioning to arthroscopic rotator cuff repair: the pros and cons. J Bone Joint Surg Am 85:144–155, 2003.
+
+@@ 1695 [p]
+237. Zazzali, MS, et al: Shoulder instability. In Donatelli, RA (ed): Physical Therapy of the Shoulder, ed. 4. St. Louis: Churchill Livingstone, 2004, pp 483–504.
+
+@@ 1696 [p]
+238. Zuckerman, JD, et al: The influence of coracoacromial arch anatomy on rotator cuff tears. J Shoulder Elbow Surg 1:4–14, 1992.
+
+@@ 1697 [p]
+239. Zuckerman, JD, Scott, AJ, and Gallagher, MA: Hemiarthroplasty for cuff tear arthropathy. J Shoulder Elbow Surg 9(3): 169–172, 2000.
