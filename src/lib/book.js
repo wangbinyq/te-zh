@@ -85,3 +85,20 @@ export function coverage(slug) {
 export function translatedChapters(chapters) {
   return chapters.filter((c) => coverage(c.slug) >= 1);
 }
+
+export function chapterShares(chapters) {
+  const counts = chapters.map((c) => {
+    const source = JSON.parse(
+      fs.readFileSync(path.join(dataDir, "source", `${c.slug}.json`), "utf8"),
+    );
+    return source.filter((b) => !b.drop && b.type !== "figure").length;
+  });
+  const total = counts.reduce((a, b) => a + b, 0);
+  const shares = new Map();
+  let running = 0;
+  chapters.forEach((c, i) => {
+    shares.set(c.slug, { start: running / total, share: counts[i] / total });
+    running += counts[i];
+  });
+  return shares;
+}

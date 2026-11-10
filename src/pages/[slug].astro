@@ -1,7 +1,7 @@
 ---
 import Base from "../layouts/Base.astro";
 import { book, chapters } from "../data/chapters.js";
-import { loadChapter, translatedChapters } from "../lib/book.js";
+import { loadChapter, translatedChapters, chapterShares } from "../lib/book.js";
 
 export function getStaticPaths() {
   return translatedChapters(chapters).map((c) => ({ params: { slug: c.slug } }));
@@ -15,6 +15,8 @@ const i = chapters.findIndex((c) => c.slug === slug);
 const prev = chapters[i - 1];
 const next = chapters[i + 1];
 const done = new Set(translatedChapters(chapters).map((c) => c.slug));
+const shares = chapterShares(chapters);
+const share = shares.get(slug);
 ---
 
 <Base>
@@ -25,7 +27,7 @@ const done = new Set(translatedChapters(chapters).map((c) => c.slug));
     <button id="open-settings" type="button">设置</button>
   </header>
 
-  <main data-slug={chapter.slug} data-title={chapter.title} data-num={chapter.num} data-index={i} data-total={chapters.length}>
+  <main data-slug={chapter.slug} data-title={chapter.title} data-num={chapter.num} data-index={i} data-total={chapters.length} data-start={share.start} data-share={share.share}>
     <div id="resume" class="resume" hidden></div>
     <p class="kicker">第 {chapter.num} 章</p>
     <h1>{chapter.title}</h1>

@@ -7,6 +7,8 @@ if (main) {
   const num = main.dataset.num;
   const chapterIndex = Number(main.dataset.index ?? 0);
   const chapterTotal = Number(main.dataset.total ?? 1);
+  const startShare = Number(main.dataset.start ?? 0);
+  const chapterShare = Number(main.dataset.share ?? 0);
   const bar = document.getElementById("resume");
   const anchors = [...main.querySelectorAll("[data-anchor]")];
 
@@ -31,7 +33,15 @@ if (main) {
     if (window.scrollY < 40) return;
     if (document.documentElement.scrollHeight - window.innerHeight < 200) return;
     const { anchor, ratio } = position();
-    put(slug, { anchor, ratio, num, title, chapterIndex, chapterTotal });
+    put(slug, {
+      anchor,
+      ratio,
+      num,
+      title,
+      chapterIndex,
+      chapterTotal,
+      bookProgress: startShare + ratio * chapterShare,
+    });
   }
 
   function schedule() {
