@@ -1,0 +1,482 @@
+@@ 627 [p]
+抗阻训练方案应同时着眼于改善肌肉耐力与力量。与对侧肢体相比，手术侧小腿肌肉的肌肉耐力存在明显不足（以站立位单侧提踵的次数确定），这种情况男性多于女性，并且已证明在跟腱断裂手术修复后至少持续 1 年。有研究提出，术后 3 个月时跟腱存在静息痛，可能是 1 年后肌肉耐力恢复延迟的早期指标。
+@@ 628 [li]
+改善平衡反应。在穿戴功能性矫形器的情况下，在坚实表面上的双侧站立位开始或继续本体感觉／平衡训练。进阶至软表面，并缩小支撑面。
+@@ 629 [li]
+继续穿戴矫形器，当手术侧能耐受完全负重时，进阶至单侧站立位的平衡训练。
+@@ 630 [li]
+停用功能性支具后，过渡到穿支撑性鞋（通常内置足跟垫）进行的一系列更进阶的平衡练习。
+@@ 631 [li]
+重建对称的步态模式。当完全负重已感舒适、且病人正逐渐脱离矫形器时，开始步态训练，强调对称对线与重心转移以及相等的步长与时相，尤其注意手术侧的蹬离。
+@@ 632 [li]
+改善心肺耐力。开始并逐渐进阶平地跑步机行走或固定自行车（卧式或立式）练习，练习时穿戴功能性的
+@@ 633 [p]
+铰链式矫形器（如需要），或穿内置足跟垫的普通鞋。升高立式自行车的座高，以适应背屈受限。进阶至斜面跑步机行走。
+@@ 634 [p]
+运动：最小保护／恢复功能期　康复的最后一个阶段自术后约 12～16 周开始，目标是使病人恢复至伤前水平，以满足预期的工作相关需求和期望的娱乐／运动活动。牵伸练习持续进行直至达到完全关节活动度，随后病人转入维持性方案。
+@@ 635 [p]
+力量与肌肉耐力训练继续进行，重点是腓肠肌-比目鱼肌群的离心负荷，可采用单侧站立位的落踵练习（见图 22.17）或使用抗阻设备。逐级下楼梯也会造成离心负荷。视病人伤前的活动水平而定，可在本阶段开始时在池中进行超等长训练（如条件允许）（见第二十三章）。此时也可采用平地各种活动进行心肺功能训练。
+@@ 636 [p]
+术后 16 周后，开始陆上超等长训练与斜面跑步机行走。进阶至慢跑、跑步、敏捷性练习（变向、转身）以及运动专项训练。病人教育是重点，内容集中在降低修复肌腱再断裂风险的方法，如剧烈活动前热身与每日牵伸。若手术侧肢体的力量与对侧相对相当，多数病人可在 5～6 个月内逐渐恢复运动活动。
+@@ 637 [h4]
+结局
+@@ 638 [p]
+理想的结局是病人恢复至伤前的身体活动水平，无疼痛，修复的跟腱也不再断裂。急性断裂行一期修复的病人，其结果始终优于慢性断裂行延迟修复者。损伤与修复之间间隔越长，结果越差。急性断裂一期修复后再断裂风险最高的人群，是 30 岁及以下的活动性个体。
+@@ 639 [p]
+已有大量研究比较了急性肌腱断裂各种处理方法的疗效。所比较的方法包括手术与非手术治疗、开放与经皮手术，以及术后处理的传统（经典）方式与“加速康复”（早期活动／早期负重）方式。常报告的结局包括再断裂率、关节活动度、力量、功能或运动相关活动水平以及病人满意度。从文献的系统评价与单项研究可以得出一些概括性结论。
+@@ 640 [p]
+非手术治疗与手术治疗　在比较急性断裂非手术治疗（石膏制动）与手术治疗的结局时，三项系统评价与文献荟萃分析显示，非手术治疗的再断裂率显著高于手术修复。其中一项随机试验综述的作者得出结论：非手术治疗后再断裂的风险是手术后的 3 倍。然而，除再断裂之外，手术治疗的相关并发症发生率明显高于非手术治疗，包括感染、粘连与神经损伤。另一项综述的作者指出，若在分析非手术与手术治疗的结局时排除发生再断裂的病人，两组的长期结果（包括活动水平、关节活动度与力量）相似。
+@@ 641 [p]
+近期两项随机对照试验直接比较了手术治疗与非手术方法治疗急性跟腱断裂的结局，所有组术后均参加加速功能康复方案。这两项研究的结果显示，两项研究中各治疗组之间的结局（再断裂率、踝关节活动度、小腿肌肉力量或总体功能评定）均无显著差异。此外，两项研究中非手术组的并发症均显著更少。
+@@ 642 [p]
+开放修复与经皮修复　一项文献系统评价显示，总体而言，经皮修复的并发症少于开放修复。更具体地说，经皮修复后 10% 的病人出现并发症，而开放修复后约三分之一的病人出现并发症。然而，两种技术的再断裂率无显著差异。开放修复的伤口并发症发生率较高。不出意外，经皮入路的美观结果更好，但与开放入路相比，腓肠神经损伤的发生率较高。两种入路的术后踝关节活动度与小腿肌肉力量相当，但采用经皮入路时恢复工作通常更快。
+@@ 643 [p]
+传统康复与加速康复　包含“加速康复”（早期但受保护的活动和／或负重）的伤后处理，看来与长时间石膏或固定铰链支具制动并延迟负重的处理同样安全。随访研究已证明，加速康复不增加肌腱再断裂的发生率。此外，长时间制动相关的并发症，如深静脉血栓以及踝关节活动度与小腿肌肉力量下降，在加速康复中较少发生。然而，早期活动与负重能否使病人比常规术后处理更早恢复至伤前完整的功能活动水平，仍不清楚。
+@@ 644 [p]
+总之，对于急性跟腱断裂，手术治疗还是非手术治疗是更好的选择，目前仍有争议。无论选择哪种治疗，文献都清楚表明，早期但受保护的踝活动和负重正逐渐成为康复的治疗标准。
+@@ 645 [h4]
+踝与足的运动干预
+@@ 646 [h3]
+增加柔韧性与关节活动度的运动技术
+@@ 647 [p]
+踝与足柔韧性的丧失可由多种原因引起。恢复活动可能是矫正对线或恢复步行和跑步时正常生物力学所必需的。关节松动术用于增加关节面的附属运动，这些技术在第五章详述。手法被动牵伸与 PNF 牵伸技术在第四章描述。本节重点介绍改善柔韧性与关节活动度的自我牵伸技术。
+@@ 648 [h4]
+踝区的柔韧性练习
+@@ 649 [h4]
+增加踝的背屈
+@@ 650 [p]
+限制踝背屈的肌肉是单关节的比目鱼肌与双关节的腓肠肌。要有效牵伸腓肠肌，必须在背屈踝的同时保持膝关节伸展。要单独牵伸比目鱼肌，必须在背屈时屈膝，以消除腓肠肌的张力。以下大多数牵伸练习都可在屈膝或伸膝下进行，因此两块跖屈肌都能得到牵伸。
+@@ 651 [p]
+注意事项：当病人用负重练习牵伸跖屈肌群时，应穿带足弓支撑的鞋，或在足内侧缘下方垫一块折叠的毛巾，以尽量减少足弓承受的应力。
+@@ 652 [p]
+一项研究纳入 30 名受试者，15 名扁平足、15 名足对线正常，测量了负重背屈牵伸对腓肠肌内侧肌肌腱结合部位移、后足角度与舟骨高度的影响。结果显示，足弓有支撑时两组的肌腱结合部位移（延长）都显著增大，扁平足受试者的位移更大。扁平足受试者在无足弓支撑下牵伸时，后足角度显著增大、舟骨高度下降。
+@@ 653 [li]
+病人体位与操作：长坐位（膝伸展）或膝部分屈曲。让病人用力背屈双足，尽量保持足趾放松。
+@@ 654 [li]
+病人体位与操作：长坐位或膝部分屈曲位，将毛巾或布带绕于前足下方。让病人用同样的力拉毛巾两端，使足进入背屈。
+@@ 655 [li]
+病人体位与操作：坐位，足平放于地面。让病人将足向后滑动，保持足跟不离地。
+@@ 656 [li]
+病人体位与操作：站立位。让病人一足向前跨步，后足的足跟保持平贴地面（后足为被牵伸的一侧）。必要时让病人双手扶墙。为使足稳定，病人将后腿轻度内旋，使足呈旋后位并锁住关节。然后病人将体重前移至前足。要牵伸腓肠肌，保持后腿膝伸展；要牵伸比目鱼肌，屈曲后腿膝。
+@@ 657 [li]
+病人体位与操作：站在倾斜板上，足尖朝上、足跟朝下（图 22.9）。病人身体前倾时牵伸更大。由于体重落在足跟上，足纵弓受到的牵伸很小。维持此姿势较长时间也几乎不需用力。
+@@ 658 [li]
+病人体位与操作：站立位，前足置于台阶或凳子的边缘，足跟悬于边缘外。让病人将足跟缓慢向边缘下方下落（足跟下落）。
+@@ 659 [caption]
+图 22.9　自我牵伸踝以增加背屈（牵伸腓肠肌）。
+@@ 660 [p]
+注意事项：此牵伸可能引起肌肉酸痛，因为它要求病人控制跖屈肌的离心收缩。
+@@ 661 [h4]
+增加外翻与踝背屈
+@@ 662 [p]
+病人体位与操作：长坐位，将毛巾或布带绕于足下。让病人拉毛巾外侧端，使足跟与足向外转动。
+@@ 663 [h4]
+增加内翻
+@@ 664 [li]
+病人体位与操作：坐位，将被牵伸的足置于对侧膝上。让病人用对侧手握住中足与后足，将足抬起进入内翻。强调将足跟向内转，而不只是扭转前足。
+@@ 665 [li]
+病人体位与操作：长坐位，将毛巾或布带绕于足下。让病人拉毛巾内侧端，使足跟与足向内转（图 22.10）。此技术也可通过拉毛巾外侧端使足向外转。重要的是运动要包括足跟，而不只是前足。
+@@ 666 [caption]
+图 22.10　通过拉足内侧的毛巾将足自我牵伸进入内翻。
+@@ 667 [li]
+病人体位与操作：坐位或站立位，双足朝前。让病人将重心移至每只足的外侧缘，使足底向内转。
+@@ 668 [li]
+病人体位与操作：站立或行走，患足置于斜板上，将被牵伸足的外侧放在斜板较低的一侧。若将铰链木板摆成倒 V 形并让病人在其上站立或行走，可进行双侧牵伸。
+@@ 669 [h4]
+增加踝跖屈与外翻
+@@ 670 [p]
+跖屈与外翻受限并不常见，因为仰卧位时重力使足跖屈，站立位时体重使足外翻。外翻是旋前的一个成分，是足的松弛位，并因负重而持续存在。距小腿关节跖屈受限的例外情况是关节炎导致该关节出现关节囊型限制。若受限源于关节活动不足，则用关节松动术治疗。
+@@ 671 [h4]
+足趾活动受限的柔韧性练习
+@@ 672 [p]
+爪形趾与锤状趾时足趾的外在肌紧张，使跖趾关节伸展、趾间关节屈曲。内在肌常无力。要牵伸内在肌，应强调跖趾关节屈曲与趾间关节伸展。
+@@ 673 [h4]
+被动的跖趾关节屈曲
+@@ 674 [p]
+病人体位与操作：坐位，将足交叉置于对侧膝上。向病人示范如何用拇指在跖骨头（跖趾关节）下方稳定足，并通过对近节趾骨施加压力被动屈曲跖趾关节。或者让病人尝试主动屈曲跖趾关节，必要时协助该运动。
+@@ 675 [h4]
+被动的趾间关节伸展
+@@ 676 [p]
+病人体位与操作：坐位，将足交叉置于对侧膝上。教病人稳定患趾的近节趾骨，并通过将中节和／或远节趾骨移向伸展，被动牵伸跨过各关节的长屈肌。
+@@ 677 [h4]
+主动的跖趾关节屈曲
+@@ 678 [p]
+病人体位与操作：站立位，足趾置于凳子或书本的边缘外，跖趾关节位于边缘处。让病人尝试在凳子边缘上方屈曲跖趾关节。理想情况下病人应尽量保持足趾的趾间关节伸展，但许多人做不到。
+@@ 679 [h4]
+大趾伸展
+@@ 680 [p]
+步行蹬离期，大趾在跖趾关节的伸展至关重要。除关节松动术外，还应使用被动牵伸与自我牵伸技术。
+@@ 681 [li]
+病人体位与操作：坐位，足置于对侧膝上。向病人示范如何用一只手在第一跖骨头周围稳定足，并通过对近节趾骨施加压力被动伸展跖趾关节。
+@@ 682 [li]
+病人体位与操作：坐位，双足置于地面。让病人屈膝将欲牵伸的足向后滑动，同时足趾保持在地面、足跟抬离地面。
+@@ 683 [li]
+病人体位与操作：站立位，患足置于向后的跨步位。病人可双手扶墙支撑。让病人保持足趾着地，向前摇动并抬起足跟，直至大趾下方感到牵伸。可采用持续牵伸或轻柔的摇动式牵伸。
+@@ 684 [h4]
+足跖筋膜的牵伸
+@@ 685 [li]
+病人体位与操作：坐位，足置于对侧膝上。教病人用拇指沿足底面做横向与纵向的深部按摩。
+@@ 686 [li]
+病人体位与操作：坐位，足下放一个球、小滚轴或塑料瓶。让病人沿曲面将足向前向后滚动，压力以舒适为度。用一只手或双手向下压膝可施加更大的力。
+@@ 687 [h3]
+发展与改善肌肉功能及功能控制的运动
+@@ 688 [p]
+踝与足力量及柔韧性失衡的原因包括失用、制动、神经损伤与进行性关节退变。此外，负重应力施加于足也会造成失衡。失衡既可能是下肢力学异常的原因，也可能是其结果。由于下肢承重，仅靠力量练习矫正对线的作用有限。力量练习与有意识的矫形、适当的牵伸、平衡训练及其他必要措施（如使用矫形鞋垫或对鞋进行改装、支具、夹板或手术）结合进行，可改善对线，从而使承重结构上安全可行。此外，了解步行或运动时所用鞋的类型或所遇表面，可能有助于找到力学异常的原因，从而加以调整。（鞋的矫形改装、支具与夹板技术超出本书范围。）踝与足的大多数功能需求发生在负重姿势下。皮肤、关节与肌肉感受器的运动觉输入以及由此产生的关节与肌肉反应，在开链与闭链活动中不同。因此，只要可能，就应使用循序渐进的负重练习，以模拟功能活动。除本节所述的练习外，关于在站立位进行、影响髋、膝与踝肌肉控制的整个下肢功能练习，参见第二十三章。
+@@ 689 [h4]
+发展动态神经肌肉控制的运动
+@@ 690 [li]
+病人体位与操作：长坐位或膝部分屈曲位。让病人在集中注意自身动作的同时练习收缩各主要肌肉，例如背屈伴内翻（胫骨前肌）、跖屈伴内翻（胫骨后肌）以及外翻（腓骨肌）。
+@@ 691 [li]
+病人体位与操作：长坐位或膝部分屈曲位。指导病人用足趾引导、但在踝处运动，在空中“画”出字母。为增加变化，让病人先用大写字母“书写”，再用小写字母，或“写”出姓名、地址等词。
+@@ 692 [li]
+病人体位与操作：坐在椅上或低矮的治疗床上，双足着地。在患足一侧放置若干小物件，如弹珠或骰子。让病人一次一个地用足趾将其卷起夹住，然后放入足另一侧的容器中。此练习强调足底肌以及内翻与外翻。
+@@ 693 [li]
+病人体位与操作：坐位双足着地或站立位。让病人用足趾对抗地面的阻力屈曲。在足下放一条毛巾或纸巾，让病人保持足跟着地、屈曲足趾，尝试将其皱起。
+@@ 694 [li]
+病人体位与操作：坐位，双足着地。让病人尝试在保持前足与后足着地的同时抬起内侧纵弓。应出现胫骨外旋，而不是髋外展。重复该活动，直至病人能稳定控制；随后作为进阶在站立位进行。
+@@ 695 [li]
+病人体位与操作：坐位，双足底之间夹一个网球。指导病人将网球由足跟到前足来回滚动。
+@@ 696 [li]
+病人体位与操作：坐位，双足或仅患足置于摇板或平衡板上。让病人进行受控的踝与足运动（可借助或不借助健足协助），包括背屈与跖屈、内翻与外翻（图 22.11）。如设备允许，病人还可
+@@ 697 [caption]
+图 22.11　病人坐位使用摇板发展踝运动的控制。双足都在板上时，健足可协助患侧。只有患足在板上时，活动更难。
+@@ 698 [p]
+在各方向进行环转运动。将此活动进阶至站立位，以进一步发展控制与平衡。
+@@ 699 [li]
+病人体位与操作：站立位。让病人练习行走，集中注意足的位置与每一步的重心转移。病人先以足跟承受体重，然后沿足外侧缘将体重移至第五跖骨头，再横移至第一跖骨头与大趾以蹬离。
+@@ 700 [h4]
+开链（非负重）力量练习
+@@ 701 [h4]
+跖屈
+@@ 702 [p]
+病人体位与操作：长坐位，腿置于卷起的毛巾上，使足跟略抬离治疗床。让病人握住已绕过前足下方的弹性带两端，然后对抗阻力跖屈足（图 22.12）。
+@@ 703 [caption]
+图 22.12　用弹性材料对踝跖屈肌施加阻力。
+@@ 704 [h4]
+等长外翻与内翻
+@@ 705 [p]
+病人体位与操作：长坐位或坐在椅上屈膝。
+@@ 706 [li]
+抗阻外翻时，双踝交叉；指导病人将双足外侧缘相互对压。
+@@ 707 [li]
+抗阻内翻时，将双足内侧缘并排靠在一起；指导病人将双足内侧缘相互对压。
+@@ 708 [caption]
+图 22.13　用弹性材料对足的外翻肌施加阻力。
+@@ 709 [li]
+抗阻内翻时，将弹性带或弹力管系在足外侧的固定结构上。同样让病人保持双腿不动，仅将足向内转，不允许髋内收与内旋。
+@@ 710 [h4]
+用重物进行的内收伴内翻与外展伴外翻
+@@ 711 [p]
+病人体位与操作：坐位，足着地。在前足下放一条毛巾，毛巾末端系一重物（图 22.14）。让病人足跟固定在原地，将足向内或向外摆动，用前足将负重毛巾沿地面拉动。
+@@ 712 [caption]
+图 22.14　在毛巾末端加一重物以对内收伴内翻施加阻力。足跟保持不动，用足做类似雨刷的动作沿地面拉动毛巾。将重物置于足内侧的毛巾上，可对外展伴外翻施加阻力。
+@@ 713 [h4]
+用弹性阻力进行的外翻与内翻
+@@ 714 [p]
+病人体位与操作：长坐位、仰卧位或坐位双足着地。
+@@ 715 [li]
+抗阻外翻时，将一段环状弹力管套在双足上，让病人用一只或双足对抗阻力外翻（图 22.13）。指导病人保持膝关节不动，将足向外转，不允许大腿与小腿外展或外旋。
+@@ 716 [h4]
+背屈
+@@ 717 [p]
+病人体位与操作：长坐位或仰卧位，小腿远端下垫卷起的毛巾使足跟略抬高。将弹性带或弹力管两端系在床尾板（或其他物体）上，把弹性材料绕于足背。让病人对抗阻力背屈踝（图 22.15）。
+@@ 718 [p]
+　
+@@ 719 [caption]
+图 22.15　用弹性材料对踝背屈肌施加阻力。
+@@ 720 [caption]
+图 22.16　病人站立位、对抗治疗师交替施加的阻力以维持平衡的稳定练习。治疗师通过木棍沿向后／向前、两侧及旋转方向施力。
+@@ 721 [h4]
+各种踝运动
+@@ 722 [p]
+病人体位与操作：坐在椅上或站立位，将一只或双足放入装有沙子、泡沫、干豌豆、干豆或其他类似材料的箱中，以对各种足部运动提供阻力。让病人跖屈、背屈、内翻与外翻踝与足，并将足置于材料之上或插入材料之中屈曲足趾。
+@@ 723 [h4]
+闭链（负重）练习
+@@ 724 [p]
+这些练习中病人取站立位。若病人最初不能耐受完全负重而不出现症状，则先让病人在双杠内用双手支撑站立、扶住稳固的物体、系于体重支撑系统中，或在池中运动以减轻负重应力。从双侧站立进阶至单侧站立。闭链练习进阶的一般原则见表 6.9。
+@@ 725 [h4]
+稳定练习
+@@ 726 [p]
+踝与足的稳定练习从双侧站立开始，进阶至单侧站立，并先在平坦稳定的表面、后在较不稳定的表面进行。
+@@ 727 [li]
+向病人的骨盆施加各个方向的阻力，同时让其努力维持控制。开始时用口头提示，随后在无预警的情况下施加阻力。还要增加干扰力的速度与强度。
+@@ 728 [li]
+让病人双手握住木棒或手杖。通过木棒从各方向以不同强度和速度施力，同时让病人努力保持稳定（图 22.16）。
+@@ 729 [li]
+让病人用患腿站立并保持踝与足的稳定位置，同时将对侧腿向前、向后和向侧方运动，以对抗已固定在活动腿踝部与桌腿之间的弹力带或弹力管的阻力（类似图 20.22）。
+@@ 730 [h4]
+动态力量训练
+@@ 731 [li]
+让病人做双侧提踵与提足跟、并向外侧摇至足外侧缘的练习。进阶为单侧进行这些练习。当能耐受时，用负重背包、负重腰带或手持重物增加阻力。增强跖屈肌的提踵与落踵练习进阶顺序见专栏 22.9。
+@@ 732 [h4]
+专栏 22.9　增强小腿肌肉的提踵／落踵练习进阶
+@@ 733 [p]
+- 从坐位、双足着地或置于摇板上开始。
+@@ 734 [p]
+- 将一腿大腿交叉置于另一大腿上方以增加阻力。
+@@ 735 [p]
+- 先在平地上的双侧站立位完成提踵／落踵，再进阶至单侧站立位。
+@@ 736 [p]
+- 从足跟悬于台阶边缘外开始做提踵／落踵练习。
+@@ 737 [p]
+- 为进一步增加难度，在站立位提踵／落踵时使用手持重物、负重背包或负重腰带。
+@@ 738 [p]
+- 进阶至跳跃，先在平面上跳，然后在平台上跳上跳下，以进行爆发性的向心与离心负荷。
+@@ 739 [li]
+进阶至仅用患足站立。
+@@ 740 [p]
+　
+@@ 741 [li]
+为在不使患踝承受向心负荷的情况下对腓肠肌-比目鱼肌群施加离心负荷，让病人按以下顺序进行。站在墙、台面等稳固表面旁用一只手保持平衡，病人用健侧下肢站在低平台上；将体重转移至患侧足的前掌；然后用腓肠肌-比目鱼肌群的延长性收缩将足缓慢放低至地面（图 22.17）。用健侧下肢重新踏上平台以重复该顺序。
+@@ 742 [caption]
+图 22.17　通过患踝落踵对腓肠肌-比目鱼肌群施加离心负荷。
+@@ 743 [h4]
+临床提示
+@@ 744 [p]
+已证明以离心负荷为重点的抗阻训练方案可减轻中段跟腱肌腱病病人的疼痛并改善其身体功能。以落踵练习为重点的离心负荷也已用于止点性跟腱肌腱病的处理，结果令人期待。
+@@ 745 [h4]
+抗阻行走
+@@ 746 [li]
+让病人用足跟和足尖对抗阻力行走。
+@@ 747 [li]
+向病人的骨盆施加手法阻力，或让病人对抗固定于骨盆的重量滑轮系统或弹性阻力行走。
+@@ 748 [li]
+将弹力带套在健侧下肢的踝部，并将弹力带固定于稳固的物体上。在患侧下肢负重的情况下：
+@@ 749 [li]
+让健腿对抗弹力带的阻力向前迈一步，以增强负重侧肢体的踝背屈肌（图 22.18 A 和 B）。
+@@ 750 [p]
+　
+@@ 751 [caption]
+图 22.18　(A) 让对侧肢体对抗弹力带的阻力向前迈步，以激活负重侧肢体踝背屈肌的起始位；(B) 结束位。
+@@ 752 [li]
+让健腿对抗弹力带的阻力向后迈一步，以增强负重侧肢体的踝跖屈肌（图 22.19 A 和 B）。
+@@ 753 [h4]
+踝与足的功能进阶
+@@ 754 [p]
+与髋和膝的功能训练一样，应实施循序渐进的练习，使因踝的结构或功能损伤而处于康复中的病人能够安全地恢复尽可能多的必要且期望的职业与
+@@ 755 [caption]
+图 22.19　(A) 让对侧肢体对抗弹力带的阻力向后迈步，以激活负重侧肢体踝跖屈肌的起始位；(B) 结束位。
+@@ 756 [p]
+休闲活动。为应对这些挑战，病人必须发展足够的力量、耐力与柔韧性，以及爆发力、平衡、协调、敏捷性、有氧适能与任务特异性技能。有氧训练与平衡训练的原则分别见第七、八章。
+@@ 757 [p]
+踝与足的功能练习进阶必须涉及全身，即下肢、躯干与上肢。第二十三章描述并图示了多种可用于踝和／或足功能障碍病人的进阶稳定、平衡、力量、超等长与敏捷性练习。第二十、二十一章描述的部分闭链力量练习与功能进阶同样适用（见专栏 20.11）。
+@@ 758 [p]
+选用的设备对改善踝与足的功能也很有价值。在固定自行车、跑步机、越野滑雪机或小蹦床上训练，有助于发展踝部肌肉的耐力。滑板可用于发展协调、控制与动态踝稳定。使用摇板、晃动板或 BOSU 球等平衡设备，会对踝的动态稳定肌造成显著挑战，在不平表面上步行或跑步亦然。
+@@ 759 [h3]
+自主学习活动
+@@ 760 [h4]
+批判性思维与讨论
+@@ 761 [p]
+1. 观察足与踝在若干活动中作为一个整体的功能，例如上台阶、在不平表面行走，以及穿高跟鞋与穿低跟鞋行走。
+@@ 762 [p]
+- 距小腿关节、距下关节、横跗关节与跖趾关节发生哪些运动？描述其力学。
+@@ 763 [p]
+- 哪些肌肉在发挥作用？移动或控制各关节需要何种水平的力量？
+@@ 764 [p]
+2. 描述步行周期中踝与足的作用。
+@@ 765 [p]
+- 踝需要多大的关节活动度？哪些肌肉在活动以产生或控制该运动？还有哪些力在产生或控制踝的运动？
+@@ 766 [p]
+- 若踝部肌肉短缩或无力，会出现哪些步态偏差？
+@@ 767 [p]
+- 单侧距小腿关节关节融合术（踝融合于中立位）后，步行周期中会出现哪些偏差？
+@@ 768 [p]
+- 描述步行周期中足旋前与旋后的力学与功能。解释若病人有柔性扁平足与僵硬旋后足，步行周期将受到怎样的影响。
+@@ 769 [p]
+3. 比较踝外侧韧带撕裂修复或重建病人的练习方案与跟腱断裂修复病人的练习方案，指出其异同。这两类手术修复后，注意事项与练习选择将有何不同？
+@@ 770 [p]
+4. 讨论全踝关节置换术与踝关节融合术的优点与局限。
+@@ 771 [h4]
+实验室实习
+@@ 772 [p]
+1. 复习小腿、踝与足的所有关节松动术；包括基本滑动、附属运动与运动伴松动术技术。
+@@ 773 [p]
+- 找出并练习可用于增加踝跖屈的技术；从踝处于中立位（0°）开始，以 15° 递增，直至达到完全跖屈。
+@@ 774 [p]
+- 对踝背屈、距下内翻与距下外翻、跖趾关节伸展做同样的练习。
+@@ 775 [p]
+2. 为足与踝肌肉设计循环训练课程，以增强力量、肌肉耐力、稳定性、平衡与神经肌肉反应。将活动由基础到进阶排序，并观察每项练习的正确性与安全性。找出练习中同时受到影响的下肢、躯干或上肢其他肌肉。
+@@ 776 [h4]
+病例研究
+@@ 777 [p]
+1. C 先生有 10 年类风湿关节炎病史。目前药物控制了他的急性症状，因此他能用手杖行走。他的主诉是步行 15 分钟后疼痛加重，并有明显的僵硬与全身无力。观察其步态：他步幅短，没有蹬离。踝关节活动度：背屈 10°，跖屈 15°，内翻 0°，外翻 8°。他站立时为旋前足，第一趾骨向背侧移位，并有中度锤状趾。在受限范围内，他能耐受各肌群的中等阻力，但不能完成足尖行走，双侧提踵一次也做不到。
+@@ 778 [p]
+- 列出他的损伤与活动受限，并说明其目标。
+@@ 779 [p]
+- 制定达到目标的干预方案。你将如何开始干预？使用哪些技术？如何进阶？
+@@ 780 [p]
+- 说明你将使用的每项手法技术与教给病人的每项练习的理由。
+@@ 781 [p]
+- 指出你将采用的注意事项，以及你将教给病人的注意事项。
+@@ 782 [p]
+2. 大学生 S 小姐滑雪时跌倒，造成胫骨与腓骨靴口型骨折。她以长腿石膏制动 6 周，随后以短腿石膏制动 4 周。穿短腿石膏期间允许部分负重。今晨拆除石膏。她描述尝试活动足时明显僵硬与不适。观察发现小腿萎缩，但无水肿或关节肿胀。踝与足的关节活动度极小，腓骨在胫腓近端与远端关节处无滑动。力量无法测试，但病人能激活所有肌肉。
+@@ 783 [p]
+- 回答病例 1 中提出的同样问题。
+@@ 784 [p]
+- 尽管两名病人都有关节活动受限并表现出无力，你的干预策略与注意事项有何不同？
+@@ 785 [p]
+- 你将如何确定负重活动的进阶？
+@@ 786 [p]
+3. W 先生 35 岁，是计算机程序员，在当地娱乐中心打篮球。他跳起抢篮板后落在对手脚上，造成右踝严重的内翻扭伤。他将踝包扎并冰敷 2 天。第 3 天他去拍了 X 线片。未发现骨折，但距腓前韧带（ATF）有 II 度不稳。观察发现踝前部与外侧区域肿胀、变色。内翻与跖屈试验、距骨前向滑动试验以及触诊患侧韧带时，他的疼痛明显加重。因肌肉保护，未测试力量。
+@@ 787 [p]
+- 指出结构与功能损伤、活动受限与参与限制；然后确定目标和干预策略。
+@@ 788 [p]
+- 描述其方案将如何进阶。
+@@ 789 [p]
+- W 先生想知道他多久能恢复他最喜爱的运动。你将用哪些标准做出判断？当他重返运动时，你将如何保护他的踝？
+@@ 790 [p]
+4. A 医生 43 岁，是牙医，生活方式较活跃，在一次周末网球比赛中跟腱（左）断裂。受伤时他感到足跟上方急性疼痛，持续了很短时间。疼痛消退后他能行走并回到家中，当天余下时间休息并对小腿后侧冰敷。第二天 A 医生决定去急诊诊所，因为他行走及上下楼梯都有些困难。体格检查提示跟腱断裂，MRI 证实了这一诊断。2 天后在门诊行跟腱开放一期修复术。术后患踝以短腿石膏固定于跖屈位 2 周。病人自术后一直用双拐非负重行走。术后 2 周复诊时拆除石膏，改为踝足矫形器，置于轻度跖屈位。现在允许病人在穿戴矫形器的情况下在疼痛耐受范围内患足部分负重。病人被转介至物理治疗，以早期再活动和负重的方式开始康复。允许病人脱下矫形器进行踝关节活动度练习。
+@@ 791 [p]
+- 指出你初次检查的组成部分。
+@@ 792 [p]
+- 描述与这种加速功能处理方式一致的练习顺序与进阶标准，并教给 A 医生。
+@@ 793 [p]
+- 你的治疗计划中将包括哪些注意事项？
+@@ 794 [h4]
+参考文献
+@@ 795 [p]
+1. Alexander, IJ: Hallux metatarsophalangeal arthrodesis. In Kitaoka, HB (ed): Master Techniques in Orthopedic Surgery: The Foot and Ankle, ed. 2. Philadelphia: Lippincott Williams & Wilkins, 2002, pp 45–60.
+@@ 796 [p]
+2. American Physical Therapy Association: Guide to Physical Therapist Practice, ed. 2. Phys Ther 81:9–744, 2001.
+@@ 797 [p]
+3. Bai, LB, et al: Total ankle arthroplasty outcome comparison for post-traumatic and primary osteoarthritis. Foot Ankle Int 31(12):1048–1056, 2010.
+@@ 798 [p]
+4. Bhandari, M, et al: Treatment of acute Achilles tendon rupture: a systematic overview and meta-analysis. Clin Orthop 400: 190–200, 2002.
+@@ 799 [p]
+5. Bijlsma, TS, and van der Werken, C: Operative treatment of Achilles tendon rupture: a minimally invasive technique allowing functional after-treatment. Orthop Traumatol 8:285–290, 2000.
+@@ 800 [p]
+6. Bostick, GP, et al: Factors associated with calf muscle endurance recovery 1 year after Achilles tendon rupture repair. J Orthop Sports Phys Ther 40(6):345–351, 2010.
+@@ 801 [p]
+7. Buechel, FF, Sr, Buechel, FF, Jr, and Pappas, MJ: Ten-year evaluation of cementless Buechel-Papas meniscal bearing total ankle replacement. Foot Ankle Int 24:462–472, 2003.
+@@ 802 [p]
+8. Calhoun, JH: Acute repair of the Achilles tendon. In Kitaoka, HB (ed): Master Techniques in Orthopedic Surgery: The Foot and Ankle, ed. 2. Philadelphia: Lippincott Williams & Wilkins, 2002, pp 311–332.
+@@ 803 [p]
+9. Campbell, DC II, and Papagelopoulos, PJ: Reconstruction of the great toe: implant and nonimplant options. In Morrey, BF (ed): Reconstructive Surgery of the Joints, vol 2, ed. 2. New York: Churchill Livingstone, 1996, p 1811.
+@@ 804 [p]
+10. Cannon, LB, Brown, J, and Couke, PH: Early weight bearing is safe following arthroscopic ankle arthrodesis. Foot Ankle Surg 10:135–139, 2004.
+@@ 805 [p]
+11. Cannon, LB, and Slater, HK: The role of ankle arthroscopy and surgical approach in lateral ankle ligament repair. Foot Ankle Surg 11:1–4, 2005.
+@@ 806 [p]
+12. Carcia, CR, et al: Achilles pain, stiffness, and muscle power deficits: achilles tendinitis. J Orthop Sports Phys Ther 40(9):A1–A26, 2010.
+@@ 807 [p]
+13. Carter, TR, Fowler, PJ, and Blokker, C: Functional postoperative treatment of Achilles tendon repair. Am J Sports Med 20: 459–462, 1992.
+@@ 808 [p]
+14. Cetti, R, Henricksson, LO, and Jacobsen, KS: A new treatment of ruptured Achilles tendons. Clin Orthop 308:155–165, 1994.
+@@ 809 [p]
+15. Cetti, R, et al: Operative versus nonoperative treatment of Achilles tendon rupture: a prospective randomized study and review of the literature. Am J Sports Med 21(6):791–799, 1993.
+@@ 810 [p]
+16. Cleland, JA, et al: Manual physical therapy and exercise versus electrophysical agents and exercise in the management of plantar heel pain: a multicenter randomized clinical trial. J Orthop Sports Phys Ther 39(8):573–585, 2009.
+@@ 811 [p]
+17. Coester, LM, et al: Long-term results following ankle arthrodesis for post-traumatic arthritis. J Bone Joint Surg 83A(2):219–228, 2001.
+@@ 812 [p]
+18. Colville, MK, and Grundol, RJ: Anatomic reconstruction of the lateral ankle ligaments using a split peroneus brevis tendon graft. Am J Sports Med 23(2):210–213, 1995.
+@@ 813 [p]
+19. Coughlin, MJ, et al: Comprehensive reconstruction of the lateral ankle for chronic instability using a free gracilis graft. Foot Ankle Int 25(4):231–241, 2004.
+@@ 814 [p]
+20. Cracchiolo, A, Janisse, D, and Gall, V: Rheumatoid arthritis in the foot and ankle: surgery and rehabilitation. In Melvin, JL, and Gall, V (eds): Rheumatologic Rehabilitation Series, vol 5: Surgical Rehabilitation. Bethesda, MD: American Occupational Therapy Association, 1999, p 165.
+@@ 815 [p]
+21. Cretnik, A, Kosanovic, M, and Smrkolj, V: Percutaneous suturing of the ruptured Achilles tendon under local anesthesia. J Foot Ankle Surg 43(2):72–81, 2004.
+@@ 816 [p]
+22. Cyriax, J: Textbook of Orthopaedic Medicine, Vol 1. Diagnosis of Soft Tissue Lesions, ed. 8. London: Bailliére Tindall, 1982.
+@@ 817 [p]
+23. Dayton, P, and McCall, A: Early weight bearing after first metatarsophalangeal joint arthrodesis: a retrospective observational case analysis. J Foot Ankle Surg 43(3):156–159, 2004.
+@@ 818 [p]
+24. Donatelli, RA: Normal anatomy and biomechanics. In Donatelli, RA (ed): The Biomechanics of the Foot and Ankle, ed. 2. Philadelphia: FA Davis, 1996, p 3.
+@@ 819 [p]
+25. Donatelli, RA: Abnormal biomechanics. In Donatelli, RA (ed): The Biomechanics of the Foot and Ankle, ed. 2. Philadelphia: FA Davis, 1996, p 34.
+@@ 820 [p]
+26. Drake, M, Bittenbender, C, and Royles, RE: The short-term effects of treating plantar fasciitis with a temporary custom foot orthosis and stretching. J Orthop Sports Phys Ther 41(4): 221–231, 2011.
+@@ 821 [p]
+27. Easley, ME, Sides, SD, and Toth, AP: Osteochondral lesions of the talus. In Mirzayan, R (ed): Cartilage Injury in the Athlete. New York: Thieme Medical Publications, 2006, pp 171–186.
+@@ 822 [p]
+28. Eils, E, and Rosenbaum, D: A multi-station proprioceptive program in patients with ankle instability. Med Sci Sports Exerc 33:1991–1998, 2001.
+@@ 823 [p]
+29. Ferkel, RD, and Chains, RN: Chronic lateral instability: arthroscopic findings and long-term results. Foot Ankle Int 28(1): 24–31, 2007.
+@@ 824 [p]
+30. Fishco, WD, and Cornwall, MW: Gait analysis after talonavicular joint fusion: 2 case reports. J Foot Ankle Surg 43(4):241–247, 2004.
+@@ 825 [p]
+31. Gabrielsen, TA, and Kitaoka, HB: Ankle injuries. In Morrey, BF (ed): Reconstructive Surgery of the Joints, vol 2, ed. 2. New York: Churchill Livingstone, 1996, p 1743.
+@@ 826 [p]
+32. Garn, SN, and Newton, RA: Kinesthetic awareness in subjects with multiple ankle sprains. Phys Ther 68(11):1667–1671, 1988.
+@@ 827 [p]
+33. Gauffin, H, Trupp, H, and Odenieck, P: Effect of ankle disk training on postural control in patients with functional instability of the ankle joint. Int J Sports Med 9(2):141–144, 1988.
+@@ 828 [p]
+34. Glasoe, WM, et al: Weight-bearing immobilization and early exercise treatment following a grade II lateral ankle sprain. J Orthop Sports Phys Ther 29(7):394–399, 1999.
+@@ 829 [p]
+35. Green, T, et al: A randomized controlled trial of a passive accessory joint mobilization on acute ankle inversion sprains. Phys Ther 81(4):984–994, 2001.
+@@ 830 [p]
+36. Greenfield, B, and Johnson, M: Evaluation of overuse syndromes. In Donatelli, R (ed): The Biomechanics of the Foot and Ankle, ed. 2. Philadelphia: FA Davis, 1996, p 189.
+@@ 831 [p]
+37. Guyer, AJ, and Richardson, EG, Current concepts review: total ankle arthroplasty. Foot Ankle Int 29(2):256–264, 2008.
+@@ 832 [p]
+38. Haddad, SL, et al: Intermediate and long-term outcomes of total ankle arthroplasty and ankle arthrodesis: a systematic review of the literature. J Bone Joint Surg Am 89(9):1899–1905, 2007.
+@@ 833 [p]
+39. Haji, A, et al: Percutaneous versus open tendo Achilles repair. Foot Ankle Int 25:215–218, 2004.
+@@ 834 [p]
+40. Hals, TV, Sitler, MR, and Mattacola, CG: Effect of a semi-rigid ankle stabilizer on performance in persons with functional ankle instability. J Orthop Sports Phys Ther 30(9):552–556, 2000.
+@@ 835 [p]
+41. Hamilton, WG: Ankle instability repair: The Broström-Gould procedure. In Kitaoka, HB (ed): Master Techniques in Orthopedic Surgery: The Foot and Ankle, ed. 2. Philadelphia: Lippincott Williams & Wilkins, 2002, pp 487–496.
+@@ 836 [p]
+42. Hamilton, WG, Thompson, FM, and Snow, SW: The modified Brostrom procedure for lateral ankle instability. Foot Ankle 14(1):1–7, 1993.
+@@ 837 [p]
+43. Han, K, Ricard, JD, and Fellingham, GW: Effects of a 4-week exercise program on balance using elastic tubing as a perturbation force for individuals with a history of ankle sprains. J Orthop Sports Phys Ther 39(4):246–255, 2009.
+@@ 838 [p]
+44. Hasselman, CT, Wong, YS, and Conti, SF: Total ankle replacement. In Kitaoka, HB (ed): Master Techniques in Orthopedic Surgery: The Foot and Ankle, ed. 2. Philadelphia: Lippincott Williams & Wilkins, 2002, pp 581–595.
+@@ 839 [p]
+45. Heinrichs, K, and Haney, C: Rehabilitation of the surgically repaired Achilles tendon using a dorsal functional orthosis. A preliminary report. J Sport Rehabil 3(4):292–303, 1994.
+@@ 840 [p]
+46. Hennrikus, WL, et al: Outcomes of the Chrisman-Snook and modified Broström procedures for chronic lateral ankle instability: a prospective, randomized comparison. Am J Sports Med 24(4):400–404, 1996.
+@@ 841 [p]
+47. Hintermann, B, et al: Conversion of painful ankle arthrodesis to total ankle arthroplasty. J Bone Joint Surg 91(4):850–858, 2009.
+@@ 842 [p]
+48. Hintermann, B, et al: The HINTERGRA ankle: rationale and short-term results of 122 consecutive ankles. Clin Orthop 424:57–68.
+@@ 843 [p]
+49. Hirai, D, Docherty, CL, and Schrader, J: Severity of functional and mechanical ankle instability in an active population. Foot Ankle Int 30(11):1071–1077, 2009.
+@@ 844 [p]
+50. Horak, F, and Nashner, L: Central programming of postural movements: adaptations to altered support surface configuration. J Neurophysiol 55(6):1369–1381, 1986.
+@@ 845 [p]
+51. Howell, DW: Therapeutic exercise and mobilization. In Hunt, GC (ed): Physical Therapy of the Foot and Ankle. New York: Churchill Livingstone, 1988.
+@@ 846 [p]
+52. Hyer, CF, and VanCourt, R: Arthroscopic repair of lateral ankle instability by using the thermal-assisted capsular shift procedure: a review of 4 cases. J Foot Ankle Surg 43(2):104–109, 2004.
+@@ 847 [p]
+53. Hyland, MR, et al: Randomized controlled trial of calcaneal taping, sham taping, and plantar fascia stretching for the short-term management of plantar heel pain. J Orthop Sports Phys Ther 36(6):364–371, 2006.
+@@ 848 [p]
+54. Jaakkola, JI, and Mann, RA: A review of rheumatoid arthritis affecting the foot and ankle. Foot Ankle Int 25:866–874, 2004.
+@@ 849 [p]
+55. Johnson, P, et al: New regimen for eccentric calf-muscle training in patients with chronic insertional Achilles tendinopathy: results of a pilot study. Br J Sports Med 42:746–749, 2008.
+@@ 850 [p]
+56. Jung, DY, et al: Effect of medial arch support on displacement of the myotendinous junction of the gastrocnemius during standing wall stretching. J Orthop Sports Phys Ther 39(12): 867–878, 2009.
+@@ 851 [p]
+57. Kaikkonen, A, Natri, A, and Pasanen, M: Isokinetic muscle performance after surgery of the lateral ligaments of the ankle. Int J Sports Med 20:173–178, 1999.
+@@ 852 [p]
+58. Kangas, J, et al: Early functional treatment versus early immobilization in tension of the musculotendinous unit after Achilles rupture repair: a prospective, randomized clinical study. J Trauma 54(6):1171–1181, 2003.
+@@ 853 [p]
+59. Kauranen, KJ, and Leppilahti, JI: Motor performance of the foot after Achilles rupture repair. Int J Sports Med 22(2):154–158, 2001.
+@@ 854 [p]
+60. Kavlak, Y, et al: Outcome of orthoses intervention in the rheumatoid foot. Foot Ankle Int 24:494–499, 2003.
+@@ 855 [p]
+61. Khan, RJK, et al: Treatment of acute Achilles tendon rupture: a meta-analysis of randomized controlled trials. J Bone Joint Surg 87A(10):2202–2210, 2005.
+@@ 856 [p]
+62. Kile, TA: Ankle arthrodesis. In Morrey, BF (ed): Reconstructive Surgery of the Joints, vol 2, ed. 2. New York: Churchill Livingstone, 1996, p 1771.
+@@ 857 [p]
+63. Kimura, IF, et al: Effect of the air stirrup in controlling ankle inversion stress. J Orthop Sports Phys Ther 9(5):190–193, 1987.
+@@ 858 [p]
+64. Kitaoka, HB: Talocalcaneal (subtalar) arthrodesis. In Kitaoka, HB (ed): Master Techniques in Orthopedic Surgery: The Foot and Ankle, ed. 2. Philadelphia: Lippincott Williams & Wilkins, 2002, pp 387–399.
+@@ 859 [p]
+65. Kitaoka, HB: Complications of replacement arthroplasty of the ankle. In Morrey, BF (ed): Joint Replacement Arthroplasty, ed. 3. Philadelphia: Churchill Livingstone, 2003, pp 1133–1150.
+@@ 860 [p]
+66. Kitaoka, HB, Johnson, KA: Ankle replacement arthroplasty. In Morrey, BF (ed): Reconstructive Surgery of the Joints, vol 2, ed. 2. New York: Churchill Livingstone 1996, p 1757.
+@@ 861 [p]
+67. Knecht, SI, Estin, M, and Callaghan, JJ: The Agility total ankle arthroplasty: seven to sixteen-year follow-up. J Bone Joint Surg 86A(6):1161–1171, 2004.
+@@ 862 [p]
+68. Kofoed, H, and Lundberg-Jensen, A: Ankle arthroplasty in patients younger and older than 50 years: a prospective study with long-term follow-up. Foot Ankle Int 20:501–506, 1999.
+@@ 863 [p]
+69. Kofoed, H, and Sorensen, TS: Ankle arthroplasty for rheumatoid arthritis and osteoarthritis: prospective long-term study of cemented replacements. J Bone Joint Surg Br 80:328–332, 1998.
+@@ 864 [p]
+70. Komenda, G, and Ferkel, RD: Arthroscopic findings associated with the unstable ankle. Foot Ankle Int 20(11):708–713, 1999.
+@@ 865 [p]
+71. Kramer, P: Restoration of dorsiflexion after injuries to the distal leg and ankle. J Orthop Sports Phys Ther 1(3):159–164, 1980.
+@@ 866 [p]
+72. Krips, R, et al: Sports activity after surgical treatment for chronic anterolateral ankle instability: a multicenter study. Am J Sports Med 30:13–19, 2002.
+@@ 867 [p]
+73. Kulig, K, et al: Nonsurgical management of posterior tibial tendon dysfunction with orthoses and resistive exercise: a randomized controlled trial. Phys Ther 89(1):26–37, 2009.

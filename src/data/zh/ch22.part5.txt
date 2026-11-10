@@ -1,0 +1,158 @@
+@@ 868 [p]
+74. Lattanza, L, Gray, GW, and Kantner, R: Closed vs open kinematic chain measurements of subtalar joint eversion: implications for clinical practice. J Orthop Sports Phys Ther 9(9):310–314, 1988.
+@@ 869 [p]
+75. Leach, RE, James, S, and Wasliewski, S: Achilles tendinitis. Am J Sports Med 9:93–98, 1981.
+@@ 870 [p]
+76. Lim, J, Dalal, R, and Waseen, M: Percutaneous vs. open repair of the ruptured Achilles tendon—a prospective randomized controlled study. Foot Ankle Int 22:559–568, 2001.
+@@ 871 [p]
+77. Lockard, MA: Foot orthoses. Phys Ther 68(12):1866–1873, 1988.
+@@ 872 [p]
+78. Maffulli, N, et al: Achilles tendon ruptures in elite athletes. Foot Ankle Int 32(1):9–15, 2011.
+@@ 873 [p]
+79. Maffulli, N, et al: Early weight bearing and ankle mobilization after open repair of acute midsubstance tears of the Achilles tendon. Am J Sports Med 31:692–700, 2003.
+@@ 874 [p]
+80. Magee, DJ: Lower Leg, Ankle, and Foot. In Orthopedic Physical Assessment, ed. 4. Philadelphia: Elsevier, 2002, p 765–822.
+@@ 875 [p]
+81. Mandelbaum, BR, Myerson, MS, and Forster, R: Achilles tendon ruptures: a new method of repair, early range of motion, and functional rehabilitation. Am J Sports Med 23:392–395, 1995.
+@@ 876 [p]
+82. Martin, RL, and Kivlan, B: The ankle and foot complex. In Levangie, PK, and Norkin, CC (eds): Joint Structure and Function, ed. 5. Philadelphia: FA Davis, 2011, pp 444–485.
+@@ 877 [p]
+83. Martin, Rl, Stewart, GW, and Conti, SF: Posttraumatic ankle arthritis: an update on conservative and surgical management. J Orthop Sports Phys Ther 37(5):253–259, 2007.
+@@ 878 [p]
+84. McKeon, PO, and Hertel, J: Systematic review of postural control and lateral ankle instability, Part I: Can deficits be detected with instrumented testing? J Athl Train 43(3):293–304, 2008.
+@@ 879 [p]
+85. McKeon, PO, and Hertel, J: Systematic review of postural control and lateral ankle instability, Part II: Is balance training clinically effective? J Athl Train 43(3):305–315, 2008.
+@@ 880 [p]
+86. McPoil, TG: Footwear. Phys Ther 68(12):1857, 1988.
+@@ 881 [p]
+87. McPoil, TG, et al: Heel pain—Plantar fasciitis. J Orthop Sports Phys Ther 38(4):A1–A18, 2008.
+@@ 882 [p]
+88. Metz, R, et al: Effect of complications after minimally invasive surgical repair of acute Achilles tendon ruptures: report on 211 cases. Am J Sports Med 39(4):820–824, 2011.
+@@ 883 [p]
+89. Metz, R, et al: Acute Achilles tendon rupture: minimally invasive surgery versus nonoperative management with immediate full weight bearing—a randomized controlled trial. Am J Sports Med 36:1688–1694, 2008.
+@@ 884 [p]
+90. Metzl, JA, and Ahmad, CS: The ruptured Achilles tendon: operative and nonoperative treatment options. Curr Rev Musculoskel Med 1:161–164, 2008.
+@@ 885 [p]
+91. Michelson, J, and Amis, JA: Talus-calcaneus-cuboid (triple) arthrodesis. In Kitaoka, HB (ed): Master Techniques in Orthopedic Surgery: The Foot and Ankle, ed. 2. Philadelphia: Lippincott Williams & Wilkins, 2002, pp 401–424.
+@@ 886 [p]
+92. Möller, M, Movin, T, and Granhed, H: Acute rupture of the tendo Achillis: a prospective randomized study comparison between surgical and non-surgical treatment. J Bone Joint Surg 83B:843–848, 2001.
+@@ 887 [p]
+93. Molloy, A, and Wood, EV: Complications of the treatment of Achilles tendon rupture. Foot Ankle Clin 14(4):745–759, 2009.
+@@ 888 [p]
+94. Mortensen, NH, Skov, O, and Jensen, PE: Early motion of the ankle after operative treatment of a rupture of the Achilles tendon. A prospective, randomized clinical and radiographic study. J Bone Joint Surg Am 81:983–990, 1999.
+@@ 889 [p]
+95. Motta, P, Errichiello, C, and Pontini, I: Achilles tendon rupture. A new technique for surgical repair and immediate movement of the ankle and foot. Am J Sports Med 25:172–176, 1997.
+@@ 890 [p]
+96. Mulier, T, et al: The management of chronic Achilles tendon ruptures: gastrocnemius turndown flap with or without flexor hallucis longus transfer. Foot Ankle Surg 9:151–156, 2003.
+@@ 891 [p]
+97. Mulligan, BR: Manual Therapy “NAGS”, “SNAGS”, “MWM’s”: etc, ed. 4. Wellington: Plane View Press, 1999.
+@@ 892 [p]
+98. Mulligan, EP: Lower leg, ankle, and foot rehabilitation. In Andrews, JR, Harrelson, GL, and Wilk, KE (eds): Physical Rehabilitation of the Injured Athlete, ed. 2. Philadelphia: WB Saunders, 1998, p 261.
+@@ 893 [p]
+99. Myerson, MS, and Mroczek, K: Perioperative complications of total ankle arthroplasty. Foot Ankle Int 24(1):17–21, 2003.
+@@ 894 [p]
+100. Naal, FD, et al: Habitual physical activity and sports participation after total ankle arthroplasty. Am J Sports Med 37(1): 95–102, 2009.
+@@ 895 [p]
+101. Neville, C, and Houck, J: Choosing among 3 ankle-foot orthoses for a patient with stage II posterior tibial tendon dysfunction. J Orthop Sports Phys Ther 39(11):816–824, 2009.
+@@ 896 [p]
+102. Novick, A: Anatomy and biomechanics. In Hunt, GC, and McPoil TG (eds): Physical Therapy of the Foot and Ankle. New York: Churchill Livingstone, 1995, p 11.
+@@ 897 [p]
+103. Oatis, CA: Biomechanics of the foot and ankle under static conditions. Phys Ther 68(12):1815–1821, 1988.
+@@ 898 [p]
+104. O’Brien, TS, et al: Open versus arthroscopic ankle arthrodesis: a comparative study. Foot Ankle Int 20:368–374, 1999.
+@@ 899 [p]
+105. Olney, SJ, and Eng, J: Gait. In Levangie, PK, and Norkin, CC (eds): Joint Structure and Function, ed. 5. Philadelphia: FA Davis, 2011, pp 528–571.
+@@ 900 [p]
+106. Panikkar, KV, et al: A comparison of open and arthroscopic ankle fusion. Foot Ankle Surg 9:169–172, 2003.
+@@ 901 [p]
+107. Perry, J: Gait Analysis: Normal and Pathological Function. Thorofare, NJ: Slack , 1992.
+@@ 902 [p]
+108. Peters, WJ, Trevino, SG, and Renstrom, PA: Chronic lateral ankle instability. Foot Ankle 12(3):182–191, 1991.
+@@ 903 [p]
+109. Rahnama, L, et al: Attentional demands and postural control in athletes with and without functional ankle instability. J Orthop Sports Phys Ther 40(3):180–187, 2010.
+@@ 904 [p]
+110. Rao, S, et al: Shoe inserts alter plantar loading and function in patients with midfoot arthritis. J Orthop Sports Phys Ther 39(7):522–531, 2009.
+@@ 905 [p]
+111. Rettig, AC, et al: Potential risk of rerupture in primary Achilles tendon repair in athletes younger than 30 years of age. Am J Sports Med 33:119–123, 2005.
+@@ 906 [p]
+112. Reynolds, NL, and Worrell, TN: Chronic Achilles peritendinitis: etiology, pathophysiology, and treatment. J Orthop Sports Phys Ther 13(4):171–176, 1991.
+@@ 907 [p]
+113. Rozzi, SM, et al: Balance training for patients with functionally unstable ankles. J Orthop Sports Phys Ther 29(8):478–486, 1999.
+@@ 908 [p]
+114. Salter, RB: Textbook of Disorders and Injuries of the Musculoskeletal System, ed. 3. Baltimore: Williams & Wilkins, 1999.
+@@ 909 [p]
+115. Saltzman, CL, et al: Prospective controlled trial of STAR total ankle replacement versus ankle fusion: initial results. Foot Ankle Int 30(7):579–596, 2009.
+@@ 910 [p]
+116. Saltzman, CL, et al: Total ankle replacement revisited. J Orthop Sports Phys Ther 30(2):56–67, 2000.
+@@ 911 [p]
+117. Sammarco, GJ, Chang, L: Talonavicular arthrodesis. In Kitaoka, HB (ed): Master Techniques in Orthopedic Surgery: The Foot and Ankle, ed. 2. Philadelphia: Lippincott Williams & Wilkins, 2002, pp 253–263.
+@@ 912 [p]
+118. Sammarco, GJ, and Hockenbury, RT: Biomechanics of the foot and ankle. In Nordin, M, and Frankel, VH (eds): Basic Biomechanics of the Musculoskeletal System, ed. 3. Philadelphia: Lippincott Williams & Wilkins, 2001, p 222.
+@@ 913 [p]
+119. Santos, MJ, and Liu, W: Possible factors related to functional ankle instability. J Orthop Sports Phys Ther 38(3):150–157, 2008.
+@@ 914 [p]
+120. Schmidt, R, et al: Reconstruction of the lateral ligaments: do the anatomical procedures restore physiologic ankle kinematics? Foot Ankle Int 25(1):31–36, 2004.
+@@ 915 [p]
+121. Scholz, KC: Total ankle arthroplasty using biological fixation components compared to ankle arthrodesis. Orthopedics 10(1): 125–131, 1987.
+@@ 916 [p]
+122. Sekiya, H, et al: Arthroscopic-assisted tibiotalocalcaneal arthrodesis using an intramedullary nail with fins: a case report. J Foot Ankle Surg 45(4):266–270, 2006.
+@@ 917 [p]
+123. Shi, K, et al: Hydroxyapatite augmentation for bone atrophy in total ankle replacement in rheumatoid arthritis. J Foot Ankle Surg 45(5):316–321, 2006.
+@@ 918 [p]
+124. Shrader, JA: Nonsurgical management of the foot and ankle affected by rheumatoid arthritis. J Orthop Sports Phys Ther 29(12):703–717, 1999.
+@@ 919 [p]
+125. Smith, RW: Ankle arthrodesis. In Kitaoka, HB (ed): Master Techniques in Orthopedic Surgery: The Foot and Ankle, ed. 2. Philadelphia: Lippincott Williams & Wilkins, 2002, pp 533–549.
+@@ 920 [p]
+126. Solveborn, S, and Moberg, A: Immediate free ankle motion after surgical repair of acute Achilles tendon ruptures. Am J Sports Med 22:607–610, 1994.
+@@ 921 [p]
+127. Southerland, CC: Arthroscopic reconstruction of the unstable ankle. In Nyska, M, and Mann, G (eds): The Unstable Ankle. Champaign, IL: Human Kinetics, 2002, pp 238–249.
+@@ 922 [p]
+128. Spigel, PV, and Seale, KS: Surgical interventions. In Donatelli, RA (ed): The Biomechanics of the Foot and Ankle, ed. 2. Philadelphia: FA Davis, 1996, p 352.
+@@ 923 [p]
+129. Steele, G, Harter, R, and Ting, A: Comparison of functional ability following percutaneous and open surgical repairs of acutely ruptured tendons. J Sport Rehabil 2(2):115–127, 1993.
+@@ 924 [p]
+130. Stephenson, K, Saltzman, CL, and Brotzman, SB: Foot and ankle injuries. In Brotzman, SB, and Wilk, KE: Clinical Orthopedic Rehabilitation, ed. 2. Philadelphia: CV Mosby, 2003, pp 371–441.
+@@ 925 [p]
+131. Stone, JW: Arthroscopic ankle arthrodesis. In Kitaoka, HB (ed): Master Techniques in Orthopedic Surgery: The Foot and Ankle, ed. 2. Philadelphia: Lippincott Williams & Wilkins, 2002, pp 569–580.
+@@ 926 [p]
+132. Subotnick, SI: Return to sport after delayed surgical reconstruction for ankle instability. In Nyska, M, and Mann, G (eds): The Unstable Ankle. Champaign, IL: Human Kinetics, 2002, pp 201–205.
+@@ 927 [p]
+133. Suchak, A, et al: The influence of early weight bearing compared with nonweight-bearing after surgical repair of the Achilles tendon. J Bone Joint Surg Am 90:1876–1883, 2008.
+@@ 928 [p]
+134. Sugimoto, K, et al: Reconstruction of the lateral ankle ligaments with bone-patellar tendon graft in patients with chronic ankle instability: a preliminary report. Am J Sports Med 30:340–346, 2002.
+@@ 929 [p]
+135. Sugimoto, K, et al: Chondral injuries of the ankle with recurrent lateral instability: an arthroscopic study. J Bone Joint Surg Am 91:99–106, 2009.
+@@ 930 [p]
+136. Takao, M, et al: Anatomical reconstruction of the lateral ligaments of the ankle with a gracilis autograft: a new technique using an interference fit anchoring system. Am J Sports Med 33(6):814–823, 2005.
+@@ 931 [p]
+137. Thomas, JL, et al: The diagnosis and treatment of heel pain: a clinical practice guideline—Revision 2010. J Foot Ankle Surg 49(3):S1–S19, 2010.
+@@ 932 [p]
+138. Thomas, R, Daniels, TR, and Parker, K: Gait analysis and functional outcomes following ankle arthrodesis for isolated ankle arthritis. J Bone Joint Surg 88A:526–535, 2006.
+@@ 933 [p]
+139. Thomas, RH, and Daniels, TR: Ankle arthrodesis. J Bone Joint Surg 85A 923–936, 2003.
+@@ 934 [p]
+140. Thompson, TC, and Doherty, JH: Spontaneous rupture of tendon of Achilles: a new clinical diagnostic test. J Trauma 2:126–129, 1962.
+@@ 935 [p]
+141. Turner, NS, III, and Campbell, DC, II: Prosthetic intervention of the great toe. In Morrey, BF (ed): Joint Replacement Arthroplasty, ed. 3. Philadelphia: Churchill Livingstone 2003, pp 1121–1132.
+@@ 936 [p]
+142. Valderrabano, V, et al: Kinematic changes after fusion and total replacement of the ankle: Part 1: Range of motion. Foot Ankle Int 24:881–887, 2003.
+@@ 937 [p]
+143. Valderrabano, V, et al: Sports and recreation activity of ankle arthritis patients before and after total ankle replacement. Am J Sports Med 34(6):993–999, 2006.
+@@ 938 [p]
+144. Verhagen, E, et al: The effect of a proprioceptive balance board training program for the prevention of ankle sprains: a prospective, controlled trial. Am J Sports Med 32:1385–1393, 2004.
+@@ 939 [p]
+145. Verhagen, RA, et al: Systematic review of treatment strategies for osteochondral defects of the talar dome. Foot Ankle Clin 8:233–242, 2003.
+@@ 940 [p]
+146. Vertullo, CJ, and Nunley, JA: Participation in sports after arthrodesis of the foot or ankle. Foot Ankle Int 23:625–628, 2002.
+@@ 941 [p]
+147. Vicenzino, B, et al: Initial changes in posterior talar glide and dorsiflexion of the ankle after mobilization with movement in individuals with recurrent ankle sprain. J Orthop Sports Phys Ther 36(6):464–471, 2006.
+@@ 942 [p]
+148. Wapner, KL: Delayed repair of the Achilles tendon. In Kitaoka, HB (ed): Master Techniques in Orthopedic Surgery: The Foot and Ankle, ed. 2. Philadelphia: Lippincott Williams & Wilkins, 2002, pp 323–335.
+@@ 943 [p]
+149. Willis, K, et al: Operative versus nonoperative treatment of acute Achilles tendon ruptures: a multicenter randomized trial using accelerated functional rehabilitation. J Bone Joint Surg Am 92:2767–2775, 2010.
+@@ 944 [p]
+150. Wester, JU, et al: Wobble board training after partial sprains of the lateral ligaments of the ankle: a prospective, randomized study. J Orthop Sports Phys Ther 23(5):332–336, 1996.
+@@ 945 [p]
+151. Wong, J, Barrass, V, and Maffulli, N: Quantitative review of operative and nonoperative management of Achilles tendon ruptures. Am J Sports Med 30:565–575, 2002.
+@@ 946 [p]
+152. Young, B, et al: A combined treatment approach emphasizing impairment-based manual physical therapy for plantar heel pain: a case series. J Orthop Sports Phys Ther 34(11):725–733, 2004.
