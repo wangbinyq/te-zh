@@ -1,0 +1,696 @@
+@@ 1429 [p]
+每转一圈所需的手臂运动，对肩关节撞击综合征的病人尤其有帮助。
+@@ 1430 [h4]
+等速测试与训练设备
+@@ 1431 [p]
+等速测力计（控制运动速度的限速装置）在四肢或躯干的动态运动中提供顺应性阻力（见图 6.9）。设备提供的阻力与使用机器的人所产生的力成比例。无论病人多么用力推动阻力臂，都不能超过预设的运动速度（度／秒）。因此，肌肉在关节活动度内的每一点都以最大能力收缩。
+@@ 1432 [h4]
+等速测力计的特点
+@@ 1433 [p]
+其特点包括：计算机化的测试能力；被动和主动模式，可进行开链的向心和离心测试与训练；速度设定范围从 0˚/秒的等长运动，到向心模式下最高 500˚/秒，以及离心模式下最高 120˚ 至 250˚/秒。计算机编程可使肢体在指定范围内运动。最常见的是单关节、单平面、开链运动，但也有改装设备可进行有限数量的多平面运动模式和多关节闭链运动。可对主动肌与拮抗肌进行交互训练，也可对同一肌群进行向心／离心训练。
+@@ 1434 [p]
+　
+@@ 1435 [h4]
+等速设备的优点与缺点
+@@ 1436 [p]
+等速运动和等速设备的特征已在本章前面的一节中介绍。等速测力计的优缺点如下。
+@@ 1437 [h4]
+优点
+@@ 1438 [li]
+如果病人尽最大努力，等速设备可在肌肉收缩时于关节活动度内的每一点提供最大阻力。
+@@ 1439 [li]
+高速和低速训练都能安全有效地进行。
+@@ 1440 [li]
+设备可顺应疼痛的关节活动弧。
+@@ 1441 [li]
+病人疲劳时仍可继续运动。
+@@ 1442 [li]
+可对肌群进行单独强化，以纠正特定肌群的力量不足。
+@@ 1443 [li]
+外部固定使病人和运动节段保持良好对线。
+@@ 1444 [li]
+可反复进行同一肌群的向心和离心收缩，或对相反肌群进行交互运动，使一个肌群在其拮抗肌收缩时得以休息；后一种方法可最大限度减少肌肉缺血。
+@@ 1445 [li]
+基于计算机的视觉或听觉提示为病人提供反馈，使次极量至极量运动能更一致地完成。
+@@ 1446 [h4]
+缺点
+@@ 1447 [li]
+设备体积大，购置和维护费用高。
+@@ 1448 [li]
+若要病人训练多个肌群，需要准备时间并有人协助。
+@@ 1449 [li]
+多数设备只允许开链（非负重）运动模式，不能模拟大多数下肢功能和部分上肢功能。
+@@ 1450 [li]
+尽管功能性运动通常以组合模式并在不同速度下发生，多数运动却在单一平面内以恒定速度进行。
+@@ 1451 [li]
+尽管向心训练的速度范围（最高 500˚/秒）与功能活动中某些下肢肢体速度相当，但即使该速度范围的上限，也远不能接近许多运动相关动作（如投掷）所需的快速肢体速度。此外，可用的离心速度充其量只能开始接近中等速度，远慢于快速改变方向和减速时的运动速度。训练速度范围上的这两方面局限，都会影响向功能目标的迁移。
+@@ 1452 [h3]
+自主学习活动
+@@ 1453 [h4]
+批判性思维与讨论
+@@ 1454 [p]
+1. 对病人进行检查和评估后，哪些身体检查结果会使你判断抗阻运动是合适的干预？
+@@ 1455 [p]
+2. 等长运动、动态运动（恒定或可变阻力）和等速运动各自的益处与局限是什么？
+@@ 1456 [p]
+3. 在整个生命周期中，肌肉力量和耐力发生的关键变化有哪些？
+@@ 1457 [p]
+4. 你被要求为一组 7 至 9 岁的足球运动员（男孩和女孩）设计抗阻运动计划，作为整体健身计划的一部分。
+@@ 1458 [p]
+- a. 说明你会纳入的运动、所需的设备，以及强度、总量、频率和休息的指南。
+@@ 1459 [p]
+- b. 对儿童进行抗阻训练时应采取哪些特殊注意事项？为什么？
+@@ 1460 [p]
+5. 分析 5 项你目前能够、或希望能够有效且高效完成的日常生活任务或娱乐活动。指出每项任务涉及肌肉功能的哪些方面（力量、爆发力、耐力），以及哪些其他功能参数，如活动度（柔韧性）、稳定性、平衡和协调运动。
+@@ 1461 [p]
+6. 制作一份在职教学演示，讲述如何适当且有效地使用弹力抗阻产品。
+@@ 1462 [p]
+7. 你被要求帮助在你工作的门诊治疗中心即将开放的健身设施中设计一套循环负重训练方案。选择能满足初学者和进阶者需求的设备。制定强度、重复次数与组数、运动顺序、休息间隔和频率的一般指南。
+@@ 1463 [p]
+8. 为一组在社区老年中心参加活动的老年人设计抗阻训练计划，作为整体健身计划的一部分。所有参与者都能行走，年龄在 65 至 85 岁之间，每人都已获得医生许可参加该计划。你会推荐哪些类型的抗阻设备和阻力水平？指出你想采取的特殊注意事项。
+@@ 1464 [h4]
+实验室实践
+@@ 1465 [li]
+1. 在下列体位对上下肢所有肌群实施徒手抗阻运动：仰卧、俯卧、侧卧和坐位。
+@@ 1466 [p]
+在每种体位下，有效进行全范围力量训练的主要限制是什么？
+@@ 1467 [li]
+2. 对腕、手指和拇指的每一块肌肉实施徒手抗阻运动。
+@@ 1468 [li]
+3. 在实验室同伴的左右肢体上练习上肢和下肢 D1 与 D2 PNF 运动模式。
+@@ 1469 [p]
+4. 测定下列肌群的 1-RM 和 10-RM：肩屈肌、肩外展肌、肩外旋肌、肘屈肌和伸肌、髋外展肌、髋屈肌、膝屈肌和伸肌。选择一组上肢和一组下肢肌群。用自由重量在两种体位下测定 1-RM 或 10-RM。确定在关节活动度的何处遇到最大阻力。然后用滑轮系统测定 1-RM 或 10-RM。比较你的结果。
+@@ 1470 [li]
+5. 用弹力带或弹力管设置并安全实施运动，以强化上肢和下肢的主要肌群。为每个肌群包括一项动态开链运动、一项动态闭链运动和一项等长运动。
+@@ 1471 [li]
+6. 演示一系列模拟功能活动，可用于康复的最后阶段，以继续改善肌肉功能，作为向独立功能活动过渡的练习，对象包括：一名邮递员、一名在专业护理机构工作的护士助理、一名滑雪教练、一名棒球运动员，以及一名照看一群活泼幼儿（每名幼儿约重 25 磅）的日托工作人员。
+@@ 1472 [h4]
+参考文献
+@@ 1473 [p]
+1. Abe, T, et al: Time course for strength and muscle thickness changes following upper and lower body resistance training in men and women. Eur J Appl Physiol 81:174–180, 2000.
+@@ 1474 [p]
+2. Abraham, WM: Factors in delayed muscle soreness. Med Sci Sports Exerc 9:11–20, 1977.
+@@ 1475 [p]
+3. Ades, PA, et al: Weight training improves walking endurance in healthy elderly persons. Am J Internal Med 124:568–572, 1996.
+@@ 1476 [p]
+4. Aitkens, S, et al: Moderate resistance exercise program: its effects in slowly progressive neuromuscular disease. Arch Phys Med Rehabil 74:711–715, 1993.
+@@ 1477 [p]
+5. Albert, MS, and Wooden, MJ: Isokinetic evaluation and treatment. In Donatelli, RA (ed): Physical Therapy of the Shoulder, ed. 3. New York: Churchill Livingstone, 1997, p 401.
+@@ 1478 [p]
+6. American Academy of Pediatrics: Strength training by children and adolescents: Policy statement. Pediatr 107(6):1470–1472, 2001.
+@@ 1479 [p]
+7. American Association of Cardiovascular and Pulmonary Rehabilitation: Guidelines for Cardiac Rehabilitation Programs, ed. 3. Champaign, IL: Human Kinetics, 1999.
+@@ 1480 [p]
+8. American College of Sports Medicine: ACSM’s Guidelines for Exercise Testing and Prescription, ed. 8. Philadelphia: Lippincott Williams & Wilkins, 2010.
+@@ 1481 [p]
+9. American College of Sports Medicine: ACSM’s Resource Manual for Guidelines for Exercise Testing and Prescription, ed. 6. Philadelphia: Lippincott Williams & Wilkins, 2010.
+@@ 1482 [p]
+10. American College of Sports Medicine: Position stand: progression models in resistance training for healthy adults. Med Sci Sports Exerc 41:687–708, 2009.
+@@ 1483 [p]
+11. American Physical Therapy Association: Guide to Physical Therapist Practice, ed. 2. Phys Ther 81:9–744, 2001.
+@@ 1484 [p]
+12. Amiridis, IG, et al: Concentric and/or eccentric training-induced alterations in shoulder flexor and extensor strength. J Orthop Sports Phys Ther 25:26–33, 1997.
+@@ 1485 [p]
+13. Andersen, LL, et al: Muscle activation and perceived loading during rehabilitation exercises: comparison of dumbbells and elastic resistance. Phys Ther 90:538–549, 2010.
+@@ 1486 [p]
+14. Andersen, LL, et al: Neuromuscular activation in conventional therapeutic exercises and heavy resistance exercises: implications for rehabilitation. Phys Ther 86:683–697, 2006.
+@@ 1487 [p]
+15. Antonio, J, and Gonyea, WJ: Skeletal muscle fiber hyperplasia. Med Sci Sports Exerc 25:1333–1345, 1993.
+@@ 1488 [p]
+16. Armstrong, RB: Mechanisms of exercise-induced delayed onset muscular soreness: a brief review. Med Sci Sports Exerc 15: 529–538, 1984.
+@@ 1489 [p]
+17. Augustsson, J, et al: Weight training of the thigh muscles using closed vs. open kinetic chain exercises: a comparison of performance enhancement. J Orthop Sports Phys Ther 27:3–8, 1998.
+@@ 1490 [p]
+18. Baechle, TR, Earle, RW, and Wathen, D: Resistance training. In Baechle, TR, and Earle, RW (eds): Essentials of Strength Training and Conditioning, ed. 2. Champaign, IL: Human Kinetics, 2000, p 395.
+@@ 1491 [p]
+19. Barrett, DS: Proprioception and function after anterior cruciate ligament reconstruction. J Bone Joint Surg 73:833–837, 1991.
+@@ 1492 [p]
+20. Beckham, SG, and Earnest, CP: Metabolic cost of free weight circuit training. J Sports Med Physical Fitness 40(2):118–125, 2000.
+@@ 1493 [p]
+21. Bennett, R, and Knowlton, G: Overwork weakness in partially denervated skeletal muscle. Clin Orthop 12:22–29, 1958.
+@@ 1494 [p]
+22. Bernhardt, DT, et al: Strength training by children and adolescents. Pediatr 107:1470–1472, 2001.
+@@ 1495 [p]
+23. Bigland-Richie, B, and Woods, J: Changes in muscle contractile properties and neural control during human muscle fatigue. Muscle Nerve 7:691–699, 1984.
+@@ 1496 [p]
+24. Bishop, KN, et al: The effect of eccentric strength training at various speeds on concentric strength of the quadriceps and hamstring muscles. J Orthop Sports Phys Ther 13:226–229, 1991.
+@@ 1497 [p]
+25. Blackard, DO, Jensen, RL, and Ebben, WP: Use of EMG analysis in challenging kinetic chain terminology. Med Sci Sports Exerc 31:443–448, 1999.
+@@ 1498 [p]
+26. Blackburn, JR, and Morrissey, MC: The relationship between open and closed kinetic chain strength of the lower limb and jumping performance. J Orthop Sports Phys Ther 27:430–435, 1998.
+@@ 1499 [p]
+27. Blimkie, C: Benefits and risks of resistance training in youth. In Cahill, B, and Pearl, A (eds): Intensive Participation in Children’s Sports. Champaign, IL: Human Kinetics, 1993, p 133.
+@@ 1500 [p]
+28. Bonen, A, and Belcastro, AN: Comparison of self-directed recovery methods on lactic acid removal rates. Med Sci Sports Exerc 8:176–178, 1976.
+@@ 1501 [p]
+29. Bottomley, JM: Age-related bone health and pathophysiology of osteoporosis. Orthop Phys Ther Clin North Am 7:117–132, 1998.
+@@ 1502 [p]
+30. Brask, B, Lueke, R, and Sodeberg, G: Electromyographic analysis of selected muscles during the lateral step-up exercise. Phys Ther 64:324–329, 1984.
+@@ 1503 [p]
+31. Brosky, JA, and Wright, GA: Training for muscular strength, power and endurance and hypertrophy. In Nyland, J (ed): Clinical Decisions in Therapeutic Exercise: Planning and Implementation. Upper Saddle River, NJ: Pearson Education, 2006, pp 171–230.
+@@ 1504 [p]
+32. Brunnstrom, S: Clinical Kinesiology. Philadelphia: FA Davis, 1962.
+@@ 1505 [p]
+33. Buteau, JL, Eriksrud, O, and Hasson, SM: Rehabilitation of a glenohumeral instability utilizing the body blade. Physiother Theory Pract 23(6):333–349, 2007.
+@@ 1506 [p]
+34. Carron, AV, and Bailey, DA: Strength development in boys from 10–16 years. Monogr Soc Res Child Dev 39:1–37, 1974.
+@@ 1507 [p]
+35. Centers for Disease Control and Prevention. How much physical activity do adults need? Available at http://www.cdc.gov/ physicalactivity/everyone/guidelines/adults.html. Accessed 7/14/2010.
+@@ 1508 [p]
+36. Centers for Disease Control and Prevention. How much physical activity do children need? Available at http://www.cdc.gov/ physicalactivity/everyone/guidelines/children.html. Accessed 7/14/2010.
+@@ 1509 [p]
+37. Centers for Disease Control and Prevention. How much physical activity do older adults need? Available at http://www.cdc.gov/ physicalactivity/everyone/guidelines/olderadults.html. Accessed 7/14/2010.
+@@ 1510 [p]
+38. Chandler, JM, and Duncan, PW: Eccentric versus concentric force-velocity relationships of the quadriceps femoris muscle. Phys Ther 68:800, 1988.
+@@ 1511 [p]
+39. Chandler, JM: Understanding the relationship between strength and mobility in frail older persons: a review of the literature. Top Geriatr Rehabil 11:20, 1996.
+@@ 1512 [p]
+40. Chandler, JM, et al: Is lower extremity strength gain associated with improvement in physical performance and disability in frail, community-dwelling elders? Arch Phys Med Rehabil 79: 24–30, 1998.
+@@ 1513 [p]
+41. Chung, F, Dean, E, and Ross, J: Cardiopulmonary responses of middle-aged men without cardiopulmonary disease to steadyrate positive and negative work performed on a cycle ergometer. Phys Ther 79:476–487, 1999.
+@@ 1514 [p]
+42. Clark, MA, Foster, D, and Reuteman, P: Core (trunk) stabilization and its importance for closed kinetic chain performance. Orthop Phys Ther Clin North Am 9:119–135, 2000.
+@@ 1515 [p]
+43. Clarkson, PM, and Hubal, MJ: Exercise-induced muscle damage in humans. Am J Phys Med Rehabil 81(11 Suppl): S52–S69, 2002.
+@@ 1516 [p]
+44. Clarkson, PM, and Tremblay, I: Exercise induced muscle damage, repair, and adaptation in humans. J Appl Physiol 65:1–6, 1988.
+@@ 1517 [p]
+45. Colado, JC, and Triplett, NT: Effects of a short-term resistance program using elastic bands and weight machines for sedentary middle-aged women. J Strength Cond Res 22:1441–1448, 2008.
+@@ 1518 [p]
+46. Connelly, DM, and Vandervoort, AA: Effects of detraining on knee extensor strength and functional mobility in a group of elderly women. J Orthop Sports Phys Ther 26:340–346, 1997.
+@@ 1519 [p]
+47. Connelly, DM, and Vandervoort, AA: Improvement in knee extensor strength of institutionalized elderly women after exercise with ankle weights. Physiother Can 47:15–23, 1995.
+@@ 1520 [p]
+48. Connolly, DA, Sayers, SP, and McHugh, MP: Treatment and prevention of delayed onset muscle soreness. J Strength Cond Res 17:197–208, 2003.
+@@ 1521 [p]
+49. Conroy, BP, and Earle, RW: Bone, muscle, and connective tissue adaptations to physical activity. In Beachle, TR (ed): Essentials of Strength Training and Conditioning. Champaign, IL: Human Kinetics, 1994, p 51.
+@@ 1522 [p]
+50. Cook, TM, et al: EMG comparison of lateral step-up and stepping machine exercise. J Orthop Sports Phys Ther 16:108–113, 1992.
+@@ 1523 [p]
+51. Corder, KP, et al: Effects of active and passive recovery conditions on blood lactate, rating of perceived exertion, and performance during resistance exercise. J Strength Conditioning Res 14:151–156, 2000.
+@@ 1524 [p]
+52. Cress, ME, et al: Functional training: Muscle structure, function, and performance in older women. J Orthop Sports Phys Ther 24: 4–10, 1996.
+@@ 1525 [p]
+53. Cress, NM, Peters, KS, and Chandler, JM: Eccentric and concentric force-velocity relationships of the quadriceps femoris muscle. J Orthop Sports Phys Ther 16:82–86, 1992.
+@@ 1526 [p]
+54. Croarkin, E: Osteopenia in the patient with cancer. Phys Ther 79: 196–201, 1999.
+@@ 1527 [p]
+55. Cullan, E, and Peat, M: Functional anatomy of the shoulder complex. J Orthop Sports Phys Ther 18:342–350, 1993.
+@@ 1528 [p]
+56. Curtis, C, and Weir, J: Overview of exercise responses in healthy and impaired states. Neurol Rep 20:13, 1996.
+@@ 1529 [p]
+57. Davies, GJ: A Compendium of Isokinetics in Clinical Usage and Rehabilitation Techniques, ed. 4. Onalaska, WI: S & S Publishing, 1992.
+@@ 1530 [p]
+58. Davies, GJ: The need for critical thinking in rehabilitation. J Sports Rehabil 4:1–22, 1995.
+@@ 1531 [p]
+59. Davies, GJ, and Ellenbecker, TS: Application of isokinetics in testing and rehabilitation. In Andrews, JR, Harrelson, GL, and Wilk, KE (eds): Physical Rehabilitation of the Injured Athlete, ed. 2. Philadelphia: WB Saunders, 1998, p 219.
+@@ 1532 [p]
+60. Davies, GJ, et al: The scientific and clinical rationale for the integrated approach to open and closed kinetic chain rehabilitation. Orthop Phys Ther Clin North Am 9:247–267, 2000.
+@@ 1533 [p]
+61. Davies, GJ, Heiderscheit, BC, and Clark, M: Open and closed kinetic chain rehabilitation. In Ellenbecker, TS (ed): Knee Ligament Rehabilitation. New York: Churchill Livingstone, 2000, p 219.
+@@ 1534 [p]
+62. Davies, GJ, and Zillmer, DA: Functional progression of a patient through a rehabilitation program. Orthop Phys Ther Clin North Am 9:103–118, 2000.
+@@ 1535 [p]
+63. Dean, E: Physiology and therapeutic implications of negative work: a review. Phys Ther 68:233–237, 1988.
+@@ 1536 [p]
+64. DeLorme, TL: Heavy resistance exercise. Arch Phys Med Rehabil 27:607–630, 1946.
+@@ 1537 [p]
+65. DeLorme, T, and Watkins, A: Techniques of progressive resistance exercise. Arch Phys Med Rehabil 29:263–273, 1948.
+@@ 1538 [p]
+66. Denegar, CR, et al: Influence of transcutaneous electrical nerve stimulation on pain, range of motion, and serum cortisol concentration in females experiencing delayed onset muscle soreness. J Orthop Sports Phys Ther 11:100–103, 1989.
+@@ 1539 [p]
+67. DeVine, K: EMG activity recorded from an unexercised muscle during maximum isometric exercise of contralateral agonists and antagonists. Phys Ther 61:898–903, 1981.
+@@ 1540 [p]
+68. DeVries, HA: Electromyographic observations on the effects static stretching has on muscular distress. Res Q 32:468–479, 1961.
+@@ 1541 [p]
+69. DeVries, HA: Quantitative electromyographic investigation of the spasm theory of muscle pain. Am J Phys Med Rehabil 45: 119–134, 1966.
+@@ 1542 [p]
+70. Dierking, JK, et al: Validity of diagnostic ultrasound as a measure of delayed onset muscle soreness. J Orthop Sports Phys Ther 30:116–122, 2000.
+@@ 1543 [p]
+71. DiFabio, RP: Editorial: Making jargon from kinetic and kinematic chains. J Orthop Sports Phys Ther 29:142–143, 1999.
+@@ 1544 [p]
+72. Dillman CJ, Murray, TA, and Hintermeister, RA: Biomechanical differences of open- and closed-chain exercises with respect to the shoulder. J Sport Rehabil 3:228–238, 1994.
+@@ 1545 [p]
+73. Donatelli, RA: Functional anatomy and mechanics. In Donatelli, RA (ed): Physical Therapy of the Shoulder, ed 4. St. Louis, Churchill Livingstone, 2004, p 11.
+@@ 1546 [p]
+74. Donnelly, AE, Clarkson, PM, and Maughan, RJ: Exercise-induced damage: effects of light exercise on damaged muscle. Eur J Appl Physiol 64:350–353, 1992.
+@@ 1547 [p]
+75. Doucette, SA, and Child, DD: The effect of open and closed chain exercise and knee joint position on patellar tracking in lateral patellar compression syndrome. J Orthop Sports Phys Ther 23:104–110, 1996.
+@@ 1548 [p]
+76. Douris, PC: Cardiovascular response to velocity-specific isokinetic exercises. J Orthop Sports Phys Ther 13:28–32, 1991.
+@@ 1549 [p]
+77. Draganich, LF, Jaeger, RJ, and Kraji, AR: Coactivation of the hamstrings and quadriceps during extension of the knee. J Bone Joint Surg Am 71:1075–1081, 1989.
+@@ 1550 [p]
+78. Drury, DG: The role of eccentric exercise in strengthening muscle. Orthop Phys Ther Clin North Am 9:515–527, 2000.
+@@ 1551 [p]
+79. Duarte, JA, et al: Exercise-induced signs of muscle overuse in children. Int J Sports Med 20:103–108, 1999.
+@@ 1552 [p]
+80. Duncan, PW, et al: Mode and speed specificity of eccentric and concentric exercise training. J Orthop Sports Phys Ther 11:70–75, 1989.
+@@ 1553 [p]
+81. Dvir, Z: Isokinetics: Muscle Testing, Interpretations, and Clinical Application. Edinburgh: Churchill Livingstone, 2004.
+@@ 1554 [p]
+82. Edwards, BJ, and Perry, HM: Age-related osteoporosis. Clin Geriatr Med 10:575–588, 1994.
+@@ 1555 [p]
+83. Ellenbecker, TS: Isokinetics in rehabilitation. In Ellenbecker, TS (ed): Knee Ligament Rehabilitation. New York: Churchill Livingstone, 2000, p 277.
+@@ 1556 [p]
+84. Ellenbecker, TS, and Cappel, K: Clinical application of closed kinetic chain exercises in the upper extremities. Orthop Phys Ther Clin North Am 9:231–245, 2000.
+@@ 1557 [p]
+85. Ellenbecker, TS, Davies, GJ, and Rowinski, MJ: Concentric versus eccentric isokinetic strengthening of the rotator cuff. Am J Sports Med 16:64–69, 1988.
+@@ 1558 [p]
+86. Ellenbecker, TS, and Davies, GJ: Closed Kinetic Chain Exercise: A Comprehensive Guide to Multiple-Joint Exercises. Champaign, IL: Human Kinetics, 2001.
+@@ 1559 [p]
+87. Escamilla, RF, et al: Biomechanics of the knee during closed kinetic chain and open kinetic chain exercises. Med Sci Sports Exerc 30:556–569, 1998.
+@@ 1560 [p]
+88. Eston, R, and Peters, D: Effects of cold water immersion symptoms of exercise-induced muscle damage. J Sports Sci 17:231–238, 1999.
+@@ 1561 [p]
+89. Faigenbaum, A, et al: The effects of strength training and detraining on children. J Strength Conditioning Res 10:109–114, 1996.
+@@ 1562 [p]
+90. Faigenbaum, AD, and Bradley, DF: Strength training for the young athlete. Orthop Phys Ther Clin North Am 7:67–90, 1998.
+@@ 1563 [p]
+91. Faigenbaum, AD, et al: Effects of different resistance training protocols on upper body strength and endurance development in children. J Strength Cond Res 15:459–465, 2001.
+@@ 1564 [p]
+92. Faigenbaum, AD, et al: The effects of different resistance training protocols on muscular strength and endurance development in children. Pediatr 104(1):e5, 1999.
+@@ 1565 [p]
+93. Falk, B, and Tenenbaum, G: The effectiveness of resistance training in children: a meta-analysis. Sports Med 22:176–186, 1996.
+@@ 1566 [p]
+94. Fardy, P: Isometric exercise and the cardiovascular system. Phys Sportsmed 9:43–53, 1981.
+@@ 1567 [p]
+95. Faust, MS: Somatic development of adolescent girls. Soc Res Child Dev 42:1–90, 1977.
+@@ 1568 [p]
+96. Fees, M, et al: Upper extremity weight training modifications for the injured athlete: a clinical perspective. Am J Sports Med 26:732–742, 1998.
+@@ 1569 [p]
+97. Fiatarone, MA, et al: High-intensity strength training in nonagenarians. JAMA 263:3029–3034, 1990.
+@@ 1570 [p]
+98. Fillyaw, M, et al: The effects of long-term nonfatiguing resistance exercise in subjects with post-polio syndrome. Orthopedics 14: 1252–1256, 1991.
+@@ 1571 [p]
+99. Fish, DE, et al: Optimal resistance training: comparison of DeLorme with Oxford techniques. Am J Phys Med and Rehabil 92:903–909, 2003.
+@@ 1572 [p]
+100. Fitzgerald, GK, et al: Exercise-induced muscle soreness after concentric and eccentric isokinetic contractions. Phys Ther 7: 505–513, 1991.
+@@ 1573 [p]
+101. Fitzgerald, GK: Open versus closed kinetic chain exercise: issues in rehabilitation after anterior cruciate ligament surgery. Phys Ther 77:1747–1754, 1997.
+@@ 1574 [p]
+102. Fleck, SJ: Periodized strength training: a critical review. J Strength Condition Res 13:82–89, 1999.
+@@ 1575 [p]
+103. Fleck, SJ, and Kraemer, WJ: Designing Resistance Training Programs, ed. 3. Champaign, IL: Human Kinetics, 2003.
+@@ 1576 [p]
+104. Francis, KT: Delayed muscle soreness: a review. J Orthop Sports Phys Ther 5:10, 1983.
+@@ 1577 [p]
+105. Franklin, ME, et al: Effect of isokinetic soreness-inducing exercise on blood levels of creatine protein and creatine kinase. J Orthop Sports Phys Ther 16:208–214, 1992.
+@@ 1578 [p]
+106. Friden, J, Sjostrom, M, and Ekblom, B: Myofibrillar damage following intense eccentric exercise in man. Int J Sports Med 4: 170, 1983.
+@@ 1579 [p]
+107. Frontera, WR, and Larsson, L: Skeletal muscle function in older people. In Kauffman, TL (ed): Geriatric Rehabilitation Manual. New York: Churchill Livingstone, 1999, p 8.
+@@ 1580 [p]
+108. Fry, AC: The role of training intensity in resistance exercise, overtraining, and overreaching. In Kreider, R, Fry, A, and O’Toole, M (eds): Overtraining in Sport. Champaign, IL: Human Kinetics, 1998, p 107.
+@@ 1581 [p]
+109. Gabriel, DA, Kamen, G, and Frost, G: Neural adaptations to resistive exercise: mechanisms and recommendations for training practices. Sports Med 36:133–149, 2006.
+@@ 1582 [p]
+110. Gajdosik, RL, Vander Linden, DW, and Williams, AK: Concentric isokinetic torque characteristics of the calf muscles of active women aged 20 to 84 years. J Orthop Sports Phys Ther 29: 181–190, 1999.
+@@ 1583 [p]
+111. Gerber, JP, et al: Safety, feasibility, and efficacy of negative work exercise via eccentric muscle activity following anterior cruciate ligament reconstruction. J Orthop Sports Phys Ther 37(1): 10–25, 2007.
+@@ 1584 [p]
+112. Gerber, JP, et al: Effects of early progressive eccentric exercise on muscle size and function after anterior cruciate ligament reconstruction: a 1-year follow-up study of a randomized clinical trial. Phys Ther 89(1):51–59, 2009.
+@@ 1585 [p]
+113. Gisolti, C, Robinson, S, and Turrell, ES: Effects of aerobic work performed during recovery from exhausting work. J Appl Physiol 21:1767–1772, 1966.
+@@ 1586 [p]
+114. Gollnick, P, et al: Glycogen depletion patterns in human skeletal muscle fibers during prolonged work. J Appl Physiol 34:45–57, 1973.
+@@ 1587 [p]
+115. Gollnick, PD, et al: Muscular enlargement and number of fibers in skeletal muscle of rats. J Appl Physiol 50:936–943, 1981.
+@@ 1588 [p]
+116. Gonyea, WJ: Role of exercise in inducing increases in skeletal muscle fiber number. J Appl Physiol 48:421–426, 1980.
+@@ 1589 [p]
+117. Gonyea, WJ, Ericson, GC, and Bonde-Petersen, F: Skeletal muscle fiber splitting induced by weightlifting in cats. Acta Physiol Scand 99:105–109, 1977.
+@@ 1590 [p]
+118. Greig, CA, Botella, J, and Young, A: The quadriceps strength of healthy elderly people remeasured after 8 years. Muscle Nerve 16:6–10, 1993.
+@@ 1591 [p]
+119. Griesemer, B, and Ided, B: Strength training by children and adolescents. Pediatrics 107(6):1470–1472, 2001.
+@@ 1592 [p]
+120. Grimby, G, et al: Training can improve muscle strength and endurance in 78–84 year old men. J Appl Physiol 73:2517–2523, 1992.
+@@ 1593 [p]
+121. Hageman, PA, Gillaspie, D, and Hall, LD: Effects of speed and limb dominance on eccentric and concentric isokinetic testing of the knee. J Orthop Sports Phys Ther 10:59–65, 1988.
+@@ 1594 [p]
+122. Hageman, PA, and Sorensen, TA: Eccentric isokinetics. In Albert, M (ed): Eccentric Muscle Training in Sports and Orthopedics, ed. 2. New York: Churchill Livingstone, 1995, p 115.
+@@ 1595 [p]
+123. Hagood, S, et al: The effect of joint velocity on the contribution of the antagonist musculature to knee stiffness and laxity. Am J Sports Med 18:182–187, 1990.
+@@ 1596 [p]
+124. Harbst, KB, and Wilder, PA: Neurophysiologic, motor control, and motor learning basis of closed kinetic chain exercises. Orthop Phys Ther Clin North Am 9:137–149, 2000.
+@@ 1597 [p]
+125. Hasson, S, et al: Therapeutic effect of high speed voluntary muscle contractions on muscle soreness and muscle performance. J Orthop Sports Phys Ther 10:499–507, 1989.
+@@ 1598 [p]
+126. Heiderscheit, BC, McLean, KP, and Davies, GJ: The effects of isokinetic vs. plyometric training on the shoulder internal rotators. J Orthop Sports Phys Ther 23:125–133, 1996.
+@@ 1599 [p]
+127. Heiderscheit, BC, and Rucinski, TJ: Biomechanical and physiologic basis of closed kinetic chain exercises in the upper extremities. Orthop Phys Ther Clin North Am 9:209–218, 2000.
+@@ 1600 [p]
+128. Hellebrandt, FA, and Houtz, SJ: Mechanisms of muscle training in man: experimental demonstration of the overload principle. Phys Ther Rev 36:371–383, 1956.
+@@ 1601 [p]
+129. Herbison, GJ, et al: Effect of overwork during reinnervation of rat muscle. Exp Neurol 41:1–14, 1973.
+@@ 1602 [p]
+130. Hernandez, ME, Goldberg, A, and Alexander, NB: Decreased muscle strength relates to self-reported stooping, crouching, or kneeling difficulty in older adults. Phys Ther 90(1):67–74, 2010.
+@@ 1603 [p]
+131. Herrington, L, and Al-Sherhi, A: A controlled trial of weightbearing versus nonweight-bearing exercises for patellofemoral pain. J Orthop Sports Phys Ther 37(4):155–159, 2007.
+@@ 1604 [p]
+132. Hertling, D, and Kessler, RM: Management of Common Musculoskeletal Disorders: Physical Therapy Principles and Methods, ed. 4. Philadelphia: Lippincott Williams & Wilkins, 2006.
+@@ 1605 [p]
+133. Hettinger, T, and Muller, EA: Muscle strength and muscle training. Arbeitsphysiol 15:111–126, 1953.
+@@ 1606 [p]
+134. Hewett, TE: The effect of neuromuscular training on the incidence of knee injury in female athletes: a prospective study. Am J Sports Med 27(6):699–706, 1999.
+@@ 1607 [p]
+135. Hintermeister, RA, et al: Electromyographic activity and applied load during shoulder rehabilitation exercises using elastic resistance. Am J Sports Med 26:210–220, 1998.
+@@ 1608 [p]
+136. Hintermeister, RA, et al: Quantification of elastic resistance knee rehabilitation exercises. J Orthop Sports Phys Ther 28: 40–50, 1998.
+@@ 1609 [p]
+137. Hislop, HJ, and Montgomery, J: Daniels and Worthingham’s Muscle Testing: Techniques of Manual Examination, ed. 7. Philadelphia: WB Saunders, 2002.
+@@ 1610 [p]
+138. Hislop, HJ, and Perrine, J: The isokinetic concept of exercise. Phys Ther 41:114–117, 1967.
+@@ 1611 [p]
+139. Ho, K, et al: Muscle fiber splitting with weight lifting exercise. Med Sci Sports Exerc 9:65, 1977.
+@@ 1612 [p]
+140. Hoffman, J: Resistance training. In Hoffman, J (ed): Physiological Aspects of Sport Training and Performance. Champaign, IL: Human Kinetics, 2002.
+@@ 1613 [p]
+141. Hopp, JF: Effects of age and resistance training on skeletal muscle: a review. Phys Ther 73:361–373, 1993.
+@@ 1614 [p]
+142. Hought, T: Ergographic studies in muscular soreness. Am J Physiol 7:76–92, 1902.
+@@ 1615 [p]
+143. Housh, D, and Housh T: The effects of unilateral velocityspecific concentric strength training. J Orthop Sports Phys Ther 17:252–256, 1993.
+@@ 1616 [p]
+144. Howell, JN, Chleboun, G, and Conaster, R: Muscle stiffness, strength loss, swelling, and soreness following exercise-induced injury in humans. J Physiol 464:183–196, 1993.
+@@ 1617 [p]
+145. Hruda, KV, Hicks, AL, and McCartney, N: Training for muscle power in older adults: effects on functional abilities. Can J Applied Phyiol 28(2):178–189, 2003.
+@@ 1618 [p]
+146. Hughes, C, and Maurice, D: Elastic exercise training. Orthop Phys Ther Clin North Am 9:581–595, 2000.
+@@ 1619 [p]
+147. Hughes, CJ, et al: Resistance properties of Thera-Band tubing during shoulder abduction exercise. J Orthop Sports Phys Ther 29:413–420, 1999.
+@@ 1620 [p]
+148. Issacs, L, Pohlman, R, and Craig, B: Effects of resistance training on strength development in prepubescent females. Med Sci Sports Exerc 265(Suppl):S210, 1994.
+@@ 1621 [p]
+149. Jenkins, WL, Thackaberry, M, and Killan, C: Speed-specific isokinetic training. J Orthop Sports Phys Ther 6:181–183, 1984.
+@@ 1622 [p]
+150. Jenkins, WL, et al: A measurement of anterior tibial displacement in the closed and open kinetic chain. J Orthop Sports Phys Ther 25:49–56, 1997.
+@@ 1623 [p]
+151. Jones, H: The Valsalva procedure: its clinical importance to the physical therapist. Phys Ther 45:570–572, 1965.
+@@ 1624 [p]
+152. Jones, KW, et al: Predicting forces applied by Thera-Band Tubing during resistive exercises [abstract]. J Orthop Sports Phys Ther 27:65, 1998.
+@@ 1625 [p]
+153. Jonhagen, S, et al: Sports massage after eccentric exercise. Am J Sports Med 32(6):1499–1503, 2004.
+@@ 1626 [p]
+154. Kadi, F, et al: Cellular adaptation of the trapezius muscle in strength-trained athletes. Histochem Cell Biol 111:189–195, 1999.
+@@ 1627 [p]
+155. Kauffman, TL, Nashner, LM, and Allison, LK: Balance is a critical parameter in orthopedic rehabilitation. Orthop Phys Ther Clin North Am 6:43–79, 1997.
+@@ 1628 [p]
+156. Kelley, GA, Kelley, KS, and Tran, ZV: Resistance training and bone mineral density in women: a meta-analysis of controlled trials. Am J Phys Med Rehabil 80:65–77, 2001.
+@@ 1629 [p]
+157. Kelsey, DD, and Tyson, E: A new method of training for the lower extremity using unloading. J Orthop Sports Phys Ther 19:218–223, 1994.
+@@ 1630 [p]
+158. Kendall, FP, et al: Muscles: Testing and Function with Posture and Pain, ed. 5. Philadelphia: Lippincott Williams & Wilkins, 2005.
+@@ 1631 [p]
+159. Kernozck, TW, McLean, KP, and McLean, DP: Biomechanical and physiologic factors of kinetic chain exercise in the lower extremity. Orthop Phys Ther Clin North Am 9:151, 2000.
+@@ 1632 [p]
+160. Kerr, D, et al: Resistance training over 2 years increases bone mass in calcium-replete postmenopausal women. J Bone Miner Res 16(1):175–181, 2001.
+@@ 1633 [p]
+161. Kitai, TA, and Sale, DG: Specificity of joint angle in isometric training. Eur J Appl Physiol 58:744–748, 1989.
+@@ 1634 [p]
+162. Knapik, JJ, Mawadsley, RH, and Ramos, MU: Angular specificity and test mode specificity of isometric and isokinetic strength training. J Orthop Sports Phys Ther 5: 58–65, 1983.
+@@ 1635 [p]
+163. Knight, KL: Knee rehabilitation by the daily adjustable progressive resistive exercise technique. Am J Sports Med 7:336–337, 1979.
+@@ 1636 [p]
+164. Knight, KL: Quadriceps strengthening with DAPRE technique: case studies with neurological implications. Med Sci Sports Exerc 17:646–650, 1985.
+@@ 1637 [p]
+165. Knott, M, and Voss, DE: Proprioceptive Neuromuscular Facilitation, Patterns, and Techniques, ed. 2. Philadelphia: Harper & Row, 1968.
+@@ 1638 [p]
+166. Kraemer, WJ, et al: Continuous compression as an effective therapeutic intervention in treating eccentric-exercise-induced muscle soreness. J Sport Rehabilitation 10:11–23, 2001.
+@@ 1639 [p]
+167. Kraemer, WJ, and Ratamess, NA: Physiology of resistance training: current issues. Orthop Phys Ther Clin North Am 9: 467–513, 2000.
+@@ 1640 [p]
+168. Kraemer, WJ, and Ratamess, NA: Fundamentals of resistance training: progression and exercise prescription. Med Sci Sports Exerc 36:674–688, 2004.
+@@ 1641 [p]
+169. Kraemer, WJ, Duncan, ND, and Volek, JS: Resistance training and elite athletes: adaptations and program considerations. J Orthop Sports Phys Ther 28:110–119, 1998.
+@@ 1642 [p]
+170. Kraemer, WJ, et al: Influence of resistance training volume and periodization on physiological and performance adaptations in collegiate women tennis players. Am J Sports Med 28: 626–633, 2000.
+@@ 1643 [p]
+171. Kraemer, W, et al: Influence of compression therapy on symptoms following soft tissue injury from maximal eccentric exercise. J Orthop Sports Phys Ther 31:282–290, 2001.
+@@ 1644 [p]
+172. Kuipers, H: Training and overtraining: an introduction. Med Sci Sports Exerc 30:1137–1139, 1998.
+@@ 1645 [p]
+173. Kvist, J, et al: Anterior tibial translation during different isokinetic quadriceps torque in anterior cruciate ligament deficient and nonimpaired individuals. J Orthop Sports Phys Ther 31: 4–15, 2001.
+@@ 1646 [p]
+174. Lane, JN, Riley, EH, and Wirganowicz, PZ: Osteoporosis: diagnosis and treatment. J Bone Joint Surg Am 78(4):618–632, 1996.
+@@ 1647 [p]
+175. LaStayo, PC, et al: Eccentric muscle contractions: their contributions to injury, prevention, rehabilitation, and sport. J Orthop Sports Phys Ther 33(10):557–571, 2003.
+@@ 1648 [p]
+176. Lear, LJ, and Gross, MT: An electromyographical analysis of the scapular stabilizing synergists during a push-up progression. J Orthop Sports Phys Ther 28:146–157, 1998.
+@@ 1649 [p]
+177. Lemmer, JT, et al: Age and gender responses to strength training and detraining. Med Sci Sports Exerc 32:1505–1512, 2000.
+@@ 1650 [p]
+178. Lephart, SM, et al: Proprioception following ACL reconstruction. J Sports Rehabil 1:188–196, 1992.
+@@ 1651 [p]
+179. Lephart, SM, et al: The effects of neuromuscular control exercises on functional stability in the unstable shoulder. J Athletic Training 33S:15, 1998.
+@@ 1652 [p]
+180. Lephart SM, et al: The role of proprioception in rehabilitation of athletic injuries. Am J Sports Med 25:130–137, 1997.
+@@ 1653 [p]
+181. Lephart, SM, and Henry, TJ: The physiological basis for open and closed kinetic chain rehabilitation for the upper extremity. J Sport Rehabil 5:71–87, 1996.
+@@ 1654 [p]
+182. Levangie, PK, and Norkin, CC: Joint Structure and Function: A Comprehensive Analysis, ed. 4. Philadelphia: FA Davis, 2005.
+@@ 1655 [p]
+183. Lieber, RL: Skeletal Muscle Structure, Function, and Plasticity: The physiological Basis of Rehabilitation Techniques, ed. 3. Philadelphia: Lippincott Williams & Wilkins, 2010.
+@@ 1656 [p]
+184. Lister, JL, et al: Scapular stabilizer activity during bodyblade, cuff weights, and thera-band use. J Sport Rehabil 16:50–67, 2007.
+@@ 1657 [p]
+185. Lindle, RS, et al: Age and gender comparisons of muscle strength of 654 women and men aged 20–93 yr. J Appl Physiol 83:1581–1587, 1997.
+@@ 1658 [p]
+186. MacDougal, JD, et al: Arterial pressure responses to heavy resistance exercise. J Appl Physiol 58(3):785–790, 1985.
+@@ 1659 [p]
+187. MacDougall, JD et al: Effect of training and immobilization on human muscle fibers. Eur J Appl Physiol 43:25–34, 1980.
+@@ 1660 [p]
+188. MacDougall, JD: Hypertrophy or hyperplasia. In Komi, PV (ed): Strength and Power in Sport, ed. 2. Oxford: Blackwell Science, 2003, pp 252–264.
+@@ 1661 [p]
+189. MacKinnon, J: Osteoporosis: a review. Phys Ther 68:1533–1540, 1988.
+@@ 1662 [p]
+190. Mair, SD, et al: The role of fatigue in susceptibility to acute muscle strain injury. Am J Sports Med 24:137–143, 1996.
+@@ 1663 [p]
+191. Malina, R, and Bouchard, C: Growth, Maturation, and Physical Activity. Champaign, IL: Human Kinetics, 1991.
+@@ 1664 [p]
+192. McArdle, WD, Katch, FL, and Katch, VL: Exercise Physiology: Nutrition, Energy, and Human Performance, ed. 7. Philadelphia: Wolters Kluwer/Lippincott Williams & Wilkins, 2009.
+@@ 1665 [p]
+193. McCarrick, MS, and Kemp, JG: The effect of strength training and reduced training on rotator cuff musculature. Clin Biomech 15(1 Suppl):S42–S45, 2000.
+@@ 1666 [p]
+194. McGee, C: Standard rehabilitation vs. standard plus closed kinetic chain rehabilitation for patients with shoulder pathologies: a rehabilitation outcomes study [abstract]. Phys Ther 79:S65, 1999.
+@@ 1667 [p]
+195. McGill, SM, and Cholewicki, J: Biomechanical basis of stability: an explanation to enhance clinical utility. J Orthop Sports Phys Ther 31:96–99, 2001.
+@@ 1668 [p]
+196. McHugh, MP: Recent advances in the understanding of the repeated bout effect: the protective effect against muscle damage from a single bout of eccentric exercise. Scand J Med Sci Sports 13(2):88–97, 2003.
+@@ 1669 [p]
+197. Mellor, R Hodges, PW: Motor unit synchronization of the vasti muscles in closed and open chain tasks. Arch Phys Med Rehabil 86:716–721, 2005.
+@@ 1670 [p]
+198. Menkes, A, et al: Strength training increases regional bone mineral density and bone remodeling in middle-aged and older men. J Appl Physiol 74:2478–2484, 1993.
+@@ 1671 [p]
+199. Mikesky, AE, et al: Changes in muscle fiber size and composition in response to heavy resistance exercise. Med Sci Sports Exerc 23:1042–1049, 1991.
+@@ 1672 [p]
+200. Moffroid, M, et al: A study of isokinetic exercise. Phys Ther 49:735–747, 1969.
+@@ 1673 [p]
+201. Mont, MA, et al: Isokinetic concentric versus eccentric training of shoulder rotators with functional evaluation of performance enhancement in elite tennis players. Am J Sports Med 22: 513–517, 1994.
+@@ 1674 [p]
+202. Morganti, CM, et al: Strength improvements with 1 yr of progressive resistance training in older women. Med Sci Sport Exerc 27:906–912, 1995.
+@@ 1675 [p]
+203. Moritani, T, and deVries, HA: Neural factors vs. hypertrophy in the time course of muscle strength gain. Am J Phys Med Rehabil 58:115–130, 1979.
+@@ 1676 [p]
+204. Morrissey, MC, et al: Effects of distally fixated leg extensor resistance training on knee pain in the early period after anterior cruciate ligament reconstruction. Phys Ther 82:35–42, 2002.
+@@ 1677 [p]
+205. Morrissey, MC, Harman, EA, and Johnson, MJ: Resistance training modes: Specificity and effectiveness. Med Sci Sport Exerc 27:648–660, 1995.
+@@ 1678 [p]
+206. Mueller, MJ, and Maluf, KS: Tissue adaptation to physical stress: a proposed “physical stress theory” to guide physical therapist practice, education, and research. Phys Ther 82(4): 383–403, 2002.
+@@ 1679 [p]
+207. Mujika, I, and Padilla, S: Muscular characteristics of detraining in humans. Med Sci Sports Exerc 33:1297–1303, 2001.
+@@ 1680 [p]
+208. Müller, EA: Influence of training and inactivity on muscle strength. Arch Phys Med Rehabil 51(8):449–462, 1970.
+@@ 1681 [p]
+209. Nelson, ME, et al: Effects of high-intensity strength training on multiple risk factors for osteoporotic fractures. JAMA 272(24):1909–1914, 1994.
+@@ 1682 [p]
+210. Neumann, DA: Kinesiology of the Musculoskeletal Systerm— Foundations for Rehabilitation, ed 2. St. Louis: Mosby/Elsevier, 2010.
+@@ 1683 [p]
+211. Newman, D: The consequences of eccentric contractions and their relationship to delayed onset muscle pain. Eur J Appl Physiol 57:353–359, 1988.
+@@ 1684 [p]
+212. Newman, D, Jones, D, and Clarkson, P: Repeated high force eccentric exercise effects on muscle pain and damage. J Appl Physiol 63:1381–1386, 1987.
+@@ 1685 [p]
+213. Niederbracht, Y, et al: Effects of a shoulder injury prevention strength training program on eccentric external rotation muscle strength and glenohumeral joint imbalance in female overhead activity athletes. J Strength Cond Res 22:140–145, 2008.
+@@ 1686 [p]
+214. Nosaka, K, and Clarkson, PM: Influence of previous concentric exercise on eccentric exercise-induced damage. J Sports Sci 15:477–483, 1997.
+@@ 1687 [p]
+215. Nosaka, K, and Clarkson, PM: Muscle damage following repeated bouts of high force eccentric exercise. Med Sci Sports Exerc 27(9):1263–1269, 1995.
+@@ 1688 [p]
+216. Oakley, CR, and Gollnick, PD: Conversion of rat muscle fiber type: a time course study. Histochemistry 83(6):555–560, 1985.
+@@ 1689 [p]
+217. Osternig, LR, et al: Influence of torque and limb speed on power production in isokinetic exercise. Am J Phys Med Rehabil 62:163–171, 1983.
+@@ 1690 [p]
+218. O’Sullivan, SB: Strategies to improve motor control and motor learning. In O’Sullivan, SB, and Schmitz, TJ (eds): Physical Rehabilitation: Assessment and Treatment, ed. 4. Philadelphia: FA Davis, 2001, p 363.
+@@ 1691 [p]
+219. O’Sullivan, SB: Assessment of motor function. In O’Sullivan, SB, and Schmitz, TJ (eds): Physical Rehabilitation: Assessment and Treatment, ed. 4. Philadelphia: FA Davis, 2001, p 177.
+@@ 1692 [p]
+220. O’Sullivan, SB, and Schmitz, TJ: Improving Functional Outcomes in Physical Rehabilitation. Philadelphia: FA Davis, 2010.
+@@ 1693 [p]
+221. Palmitier, RA, et al: Kinetic chain exercise in knee rehabilitation. Sports Med 11:402–413, 1991.
+@@ 1694 [p]
+222. Page, P, and Ellenbecker, TS (eds): The Science and Clinical Application of Elastic Resistance. Champaign, IL: Human Kinetics, 2003.
+@@ 1695 [p]
+223. Page, P, McNeil, M, and Labbe, A: Torque characteristics of two types of resistive exercise [abstract]. Phys Ther 80:S69, 2000.
+@@ 1696 [p]
+224. Patterson, RM, et al: Material properties of Thera-Band Tubing. Phys Ther 81(8):1437–1445, 2001.
+@@ 1697 [p]
+225. Petersen, SR, et al: The effects of concentric resistance training and eccentric peak torque and muscle cross-sectional area. J Orthop Sports Phys Ther 13:132–137, 1991.
+@@ 1698 [p]
+226. Pomerantz, EM: Osteoporosis and the female patient. Orthop Phys Ther Clin North Am 3:71–84, 1996.
+@@ 1699 [p]
+227. Porter, MM, and Vandervoort, AA: High-intensity strength training for the older adult—a review. Top Geriatric Rehabil 10:61–74, 1995.
+@@ 1700 [p]
+228. Pruitt, LA, et al: Weight-training effects on bone mineral density in early postmenopausal women. J Bone Miner Res 7(2): 179–185, 1992.
+@@ 1701 [p]
+229. Puthoff, ML, and Nielsen, DH: Relationships among impairments in lower extremity strength and power, functional limitations, and disability in older adults. Phys Ther 87:1334–1347, 2007.
+@@ 1702 [p]
+230. Rivera, JE: Open versus closed kinetic rehabilitation of the lower extremity: a functional and biomechanical analysis. J Sports Rehabil 3:154–167, 1994.
+@@ 1703 [p]
+231. Rockwell, JC, et al: Weight training decreases vertebral bone density in premenopausal women: a prospective study. J Clin Endocrinol Metab 71(4):988–983, 1990.
+@@ 1704 [p]
+232. Roig, M, et al: The effects of eccentric versus concentric resistance training on muscle strength and mass: a systematic review with meta-analysis. Br J Sports Med 43:556–568, 2009.
+@@ 1705 [p]
+233. Roth, SM, et al: High volume, heavy-resistance strength training and muscle damage in young and older women. J Appl Physiol 88(3):1112–1118, 2000.
+@@ 1706 [p]
+234. Rothstein, JM: Muscle biology. Clinical considerations. Phys Ther 62(12):1823–1830, 1982.
+@@ 1707 [p]
+235. Sale, DG: Neural adaptation to resistance training. Med Sci Sports Exerc 20(5 Suppl):S135–S145, 1988.
+@@ 1708 [p]
+236. Sanders, MT: Weight training and conditioning. In Sanders, B (ed): Sports Physical Therapy. Norwalk, CT, Appleton & Lange, 1990.
+@@ 1709 [p]
+237. Sapega, AA, and Kelley, MJ: Strength testing about the shoulder. J Shoulder Elbow Surg 3:327–345, 1994.
+@@ 1710 [p]
+238. Schueman, SE: The physical therapist’s role in the management of osteoporosis. Orthop Phys Ther Clin North Am 7:199, 1998.
+@@ 1711 [p]
+239. Scott, W, Stevens, J, and Binder-Macleod, SA: Human skeletal muscle fiber type classifications. Phys Ther 81(11):1810–1816, 2001.
+@@ 1712 [p]
+240. Seger, JY, and Thorstensson, A: Effects of eccentric versus concentric training on thigh muscle strength and EMG. Int J Sports Med 26:45–52, 2005.
+@@ 1713 [p]
+241. Servedio, FJ: Normal growth and development: physiologic factors associated with exercise and training in children. Orthop Phys Ther Clin North Am 6:417, 1997.
+@@ 1714 [p]
+242. Silvers, HJ, and Mandelbaum, BR: Preseason conditioning to prevent soccer injuries in young women. Clin J Sports Med 11(3):206, 2001.
+@@ 1715 [p]
+243. Simoneau, GG, et al: Biomechanics of elastic resistance in therapeutic exercise programs. J Orthop Sports Phys Ther 31: 16–24, 2001.
+@@ 1716 [p]
+244. Sinacore, DR, Bander, BL, and Delitto, A: Recovery from a 1-minute bout of fatiguing exercise: characteristics, reliability and responsiveness. Phys Ther 74:234–241, 1994.
+@@ 1717 [p]
+245. Sinaki, M, et al: Can strong back extensors prevent vertebral fractures in women with osteoporosis? Mayo Clin Proc 71(10): 951–956, 1996.
+@@ 1718 [p]
+246. Skelton, DA, et al: Effects of resistance training on strength, power and selected functional abilities of women aged 75 and older. J Am Geriatric Soc 43(10):1081–1087, 1995.
+@@ 1719 [p]
+247. Smith, CA: The warm-up procedure: To stretch or not to stretch. A brief review. J Orthop Sports Phys Ther 19(1):12–17, 1994.
+@@ 1720 [p]
+248. Smith, LK, Weiss, EL, and Lehmkuhl, LD: Brunnstrom’s Clinical Kinesiology, ed 5. Philadelphia: FA Davis, 1996.
+@@ 1721 [p]
+249. Smith, MJ, and Melton, P: Isokinetic vs. isotonic variableresistance training. Am J Sports Med 9:275–279, 1981.
+@@ 1722 [p]
+250. Snyder-Mackler, L, et al: Strength of the quadriceps femoris muscle and functional recovery after reconstruction of the anterior cruciate ligament. J Bone Joint Surg Am 77(8): 1166–1173, 1995.
+@@ 1723 [p]
+251. Snyder-Mackler, L: Scientific rationale and physiological basis for the use of closed kinetic chain exercise in the lower extremity. J Sport Rehabil 5:2, 1996.
+@@ 1724 [p]
+252. Soderberg, GJ, and Blaschak, MJ: Shoulder internal and external rotation peak torque through a velocity spectrum in differing positions. J Orthop Sports Phys Ther 8(11):518–524, 1987.
+@@ 1725 [p]
+253. Stackhouse, SK, Reisman, DS, and Binder-Macleod, SA: Challenging the role of pH skeletal muscle fatigue. Phys Ther 81(12):1897–1903, 2001.
+@@ 1726 [p]
+254. Stanton, P, and Purdam, C: Hamstring injuries in sprinting: the role of eccentric exercise. J Orthop Sports Phys Ther 10(9):343–349, 1989.
+@@ 1727 [p]
+255. Staron, RS, et al: Skeletal muscle adaptations during the early phase of heavy-resistance training in men and women. J Appl Physiol 76:1247–1255, 1994.
+@@ 1728 [p]
+256. Steindler, A: Kinesiology of the Human Body under Normal and Pathological Conditions. Springfield, IL: Charles C Thomas, 1955.
+@@ 1729 [p]
+257. Stiene, HA, et al: A comparison of closed kinetic chain and isokinetic joint isolation exercise in patients with patellofemoral dysfunction. J Orthop Sports Phys Ther 24(3):136–141, 1996.
+@@ 1730 [p]
+258. Stone, MH, Karatzaferi, C: Connective tissue and bone responses to strength training. In Komi, PV (ed): Strength and Power in Sport, ed. 2. Oxford: Blackwell Science, 2003, pp 343–360.
+@@ 1731 [p]
+259. Stone, MH: Implications for connective tissue and bone alterations resulting from resistance exercise training. Med Sci Sports Exerc 20(5 Suppl):S162–S168, 1988.
+@@ 1732 [p]
+260. Stone, WJ, and Coulter, SP: Strength/endurance effects from three resistance training protocols with women. J Strength Conditioning Res 8(4):231–234, 1994.
+@@ 1733 [p]
+261. Stout, JL: Physical fitness during childhood and adolescence. In Campbell, SK, Vander Linden, DW, and Palisano, RJ (eds): Physical Therapy for Children, ed. 2. Philadelphia: WB Saunders, 2000, p 141–169.
+@@ 1734 [p]
+262. Straker, JS, and Stuhr, PJ: Clinical application of closed kinetic chain exercises in the lower extremity. Orthop Phys Ther Clin North Am 9:185–207, 2000.
+@@ 1735 [p]
+263. Sullivan, DH, et al: Progressive resistance muscle strength training of hospitalized frail elderly. Am J Phys Med Rehabil 80: 503–509, 2001.
+@@ 1736 [p]
+264. Sullivan, PE, and Markos, PD: Clinical Decision Making in Therapeutic Exercise. Norwalk, CT: Appleton & Lange, 1995.
+@@ 1737 [p]
+265. Taaffe, DR, et al: Once-weekly resistance exercise improves muscle strength and neuromuscular performance in older adults. J Am Geriatr Soc 47(10):1208–1214, 1999.
+@@ 1738 [p]
+266. Tanner, SM: Weighing the risks: strength training for children and adolescents. Phys Sports Med 21:104–116, 1993.
+@@ 1739 [p]
+267. Taylor, NF, Dodd, KJ, and Damiano, DL: Progressive resistance exercise in physical therapy: a summary of systemic reviews. Phys Ther 85:1208–1223, 2005.
+@@ 1740 [p]
+268. Taylor, RA, et al: Knee position error detection in closed and open kinetic chain tasks during concurrent cognitive distraction. J Orthop Sports Phys Ther 28(2):81–87, 1998.
+@@ 1741 [p]
+269. Tesch, PA, Thurstensson, A, and Kaiser, P: Muscle capillary supply and fiber type characteristics in weight and power lifters. J Appl Physiol 56(1):35–38, 1984.
+@@ 1742 [p]
+270. Thomas, M, Müller, T, and Busse, MW: Comparison of tension in Thera-Band and Cando tubing. J Orthop Sports Phys Ther 32(11):576–578, 2002.
+@@ 1743 [p]
+271. Thompson, LV: Skeletal muscle adaptations with age, inactivity, and therapeutic exercise. J Orthop Sports Phys Ther 32(2): 44–57, 2002.
+@@ 1744 [p]
+272. Tiidus, PM: Manual massage and recovery of muscle function following exercise: a literature review. J Orthop Sports Phys Ther 25(2):107–112, 1997.
+@@ 1745 [p]
+273. Timm, KE: Investigation of the physiological overflow effect from speed-specific isokinetic activity. J Orthop Sports Phys Ther 9(3):106–110, 1987.
+@@ 1746 [p]
+274. Tippett, SR: Closed-chain exercise. Orthop Phys Ther Clin North Am 1:253–267, 1992.
+@@ 1747 [p]
+275. Tomberlin, JP, et al: Comparative study of isokinetic eccentric and concentric quadriceps training. J Orthop Sports Phys Ther 14:31–36, 1991.
+@@ 1748 [p]
+276. Tracy, BL, et al: Muscle quality. II. Effects of strength training in 65- to 75-year old men and women. J Appl Physiol 86(1):195–201, 1999.
+@@ 1749 [p]
+277. Tyler, TF, and Mullaney, M: Training for joint stability. In Nyland, J (ed): Clinical Decisions in Therapeutic Exercise: Planning and Implementation. Upper Saddle River, NJ: Pearson Education, 2006, pp 248–254.
+@@ 1750 [p]
+278. Vandervoort, AA: Resistance exercise throughout life. Orthop Phys Ther Clin North Am 10(2):227–240, 2001.
+@@ 1751 [p]
+279. Voss, DE, Ionta, MK, and Myers, BJ: Proprioceptive Neuromuscular Facilitation, ed. 3. New York: Harper & Row, 1985.
+@@ 1752 [p]
+280. Waltrous, B, Armstrong, R, and Schwane, J: The role of lactic acid in delayed onset muscular soreness. Med Sci Sports Exerc 13:80, 1981.
+@@ 1753 [p]
+281. Warner, JJ, et al: Effect of joint compression on the inferior stability of the glenohumeral joint. J Shoulder Elbow Surg 8(1): 31–36, 1999.
+@@ 1754 [p]
+282. Weber, MD, Servedio, F, and Woodall, WR: The effect of three modalities on delayed onset muscle soreness. J Orthop Sports Phys Ther 20:236–242, 1994.
+@@ 1755 [p]
+283. Weir, JP, et al: The effect of unilateral concentric weight training and detraining on joint angle specificity, cross-training and the bilateral deficit. J Orthop Sports Phys Ther 25(4): 264–270, 1995.
+@@ 1756 [p]
+284. Weir, JP, et al: The effect of unilateral eccentric weight training and detraining on joint angle specificity, cross-training and the bilateral deficit. J Orthop Sports Phys Ther 22(5):207–215, 1995.
+@@ 1757 [p]
+285. Weir, JP, Housh, TJ, and Wagner, LI: Electromyographic evaluation of joint angle specificity and cross-training following isometric training. J Appl Physiol 77:197, 1994.
+@@ 1758 [p]
+286. Weiss, A, et al: High-intensity strength training improves strength and functional performance after stroke. Am J Phys Med Rehabil 79(4):369–376, 2000.
+@@ 1759 [p]
+287. Weiss, LW, Coney, HD, and Clark, FC: Gross measures of exercise-induced muscular hypertrophy. J Orthop Sports Phys Ther 30(3):143–148, 2000.
+@@ 1760 [p]
+288. Wescott, WL: Strength Training Past 50. Champaign, IL: Human Kinetics, 1998.
+@@ 1761 [p]
+289. Whitcomb, LJ, Kelley, MJ, and Leiper, CI: A comparison of torque production during dynamic strength testing of shoulder abduction in the coronal plane and the plane of the scapula. J Orthop Sports Phys Ther 21(4):227–232, 1995.
+@@ 1762 [p]
+290. Wilder, PA: Muscle development and function. In Cech, D, and Martin, S: Functional Movement Development Across the Life Span. Philadelphia: WB Saunders, 1995, p 13.
+@@ 1763 [p]
+291. Wilk, K, Arrigo, C, and Andrews, J: Closed and open kinetic chain exercise for the upper extremity. J Sports Rehabil 5: 88–102, 1995.
+@@ 1764 [p]
+292. Wilk, KE, et al: A comparison of tibiofemoral joint forces and electromyography during open and closed kinetic chain exercises. Am J Sports Med 24(4):518–527, 1996.
+@@ 1765 [p]
+293. Wilk, KE, et al: Stretch-shortening drills for the upper extremities: theory and clinical application. J Orthop Sports Phys Ther 17:225–239, 1993.
+@@ 1766 [p]
+294. Wilke, DV: The relationship between force and velocity in human muscle. J Physiol 110:249–280, 1950.
+@@ 1767 [p]
+295. Williams, GN, Higgins, MJ, and Lewek, MD: Aging skeletal muscle: physiologic changes and effects of training. Phys Ther 82(1):62–68, 2002.
+@@ 1768 [p]
+296. Witvrouw, E, et al: Open versus closed kinetic chain exercises in patellofemoral pain: a 5-year prospective, randomized study. Am J Sports Med 32(5):1122–1130, 2004.
+@@ 1769 [p]
+297. Woodall, WR, and Weber, MD: Exercise response and thermoregulation. Orthop Phys Ther Clin North Am 7:1, 1998.
+@@ 1770 [p]
+298. Wu, Y, et al: Relationship between isokinetic concentric and eccentric contraction modes in the knee flexor and extensor muscle groups. J Orthop Sports Phys Ther 26(3):143–149, 1997.
+@@ 1771 [p]
+299. Wyatt, MP, and Edwards, AM: Comparison of quadriceps and hamstrings torque values during isokinetic exercise. J Orthop Sports Phys Ther 3(2):48–56, 1981.
+@@ 1772 [p]
+300. Yack, HJ, Colins, CE, and Whieldon, T: Comparison of closed and open kinetic chain exercise in the anterior cruciate ligament deficient knee. Am J Sports Med 21(1):49–54, 1993.
+@@ 1773 [p]
+301. Yack, HJ, Riley, LM, and Whieldon, T: Anterior tibial translation during progressive loading the ACL-deficient knee during weight-bearing and nonweight-bearing isometric exercise. J Orthop Sports Phys Ther 20(5):247–253, 1994.
+@@ 1774 [p]
+302. Yarasheski, KE, Lemon, PW, and Gilloteaux, J: Effect of heavy resistance exercise training on muscle fiber composition in young rats. J Appl Physiol 69(2):434–437, 1990.
+@@ 1775 [p]
+303. Zernicke, RF, Loitz-Ramage, B: Exercise-related adaptations in connective tissue. In Komi, PV (ed): Strength and Power in Sport, ed. 2. Oxford: Blackwell Science, 2003, pp 96–113.
+@@ 1776 [p]
+304. Zinowieff, AN: Heavy resistance exercise: the Oxford technique. Br J Phys Med 14(6):129–132, 1951.

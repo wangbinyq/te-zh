@@ -58,7 +58,7 @@ export function loadChapter(slug) {
       (/^\d{1,4}$/.test(zhText.trim()) || /^[\s\u3000]*$/.test(zhText));
     return {
       i,
-      skip: pageOnly,
+      skip: pageOnly || Boolean(block.drop),
       type: block.type,
       en: block.text ?? null,
       enRows: block.rows ?? null,
@@ -74,6 +74,7 @@ export function coverage(slug) {
   if (!zh) return 0;
   const source = JSON.parse(fs.readFileSync(path.join(dataDir, "source", `${slug}.json`), "utf8"));
   const filled = source.filter((b, i) => {
+    if (b.drop) return true;
     const v = zh.get(i);
     if (b.type === "table") return Array.isArray(v?.rows) && v.rows.length === b.rows.length;
     return typeof v?.text === "string" && v.text.length > 0;
