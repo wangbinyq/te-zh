@@ -10,55 +10,52 @@ if (main) {
   const startShare = Number(main.dataset.start ?? 0);
   const chapterShare = Number(main.dataset.share ?? 0);
   const bar = document.getElementById("resume");
+  const header = document.querySelector(".bar");
   const anchors = [...main.querySelectorAll("[data-anchor]")];
 
-  const header = document.querySelector(".bar");
-  const top = () => {
-    const bottom = header ? header.getBoundingClientRect().bottom : 56;
-    return Math.max(0, bottom) + 8;
-  };
-
   function position() {
-    const limit = top();
+    const limit = Math.max(0, header ? header.getBoundingClientRect().bottom : 56) + 8;
     let current = anchors[0];
     for (const el of anchors) {
       if (el.getBoundingClientRect().top <= limit) current = el;
       else break;
     }
     const max = document.documentElement.scrollHeight - window.innerHeight;
+    const y = window.scrollY;
     return {
+      y,
       anchor: current ? Number(current.dataset.anchor) : 0,
-      ratio: max > 0 ? Math.min(1, Math.max(0, window.scrollY / max)) : 0,
+      ratio: max > 0 ? Math.min(1, Math.max(0, y / max)) : 0,
     };
   }
 
+  let last = null;
   let timer = 0;
-  function commit() {
-    if (window.scrollY < 40) return;
-    if (document.documentElement.scrollHeight - window.innerHeight < 200) return;
-    const { anchor, ratio } = position();
+
+  function save() {
+    if (!last || last.y < 40) return;
     put(slug, {
-      anchor,
-      ratio,
+      anchor: last.anchor,
+      ratio: last.ratio,
       num,
       title,
       chapterIndex,
       chapterTotal,
-      bookProgress: startShare + ratio * chapterShare,
+      bookProgress: startShare + last.ratio * chapterShare,
     });
   }
 
   function schedule() {
+    last = position();
     window.clearTimeout(timer);
-    timer = window.setTimeout(commit, 250);
+    timer = window.setTimeout(save, 250);
   }
 
   window.addEventListener("scroll", schedule, { passive: true });
   document.addEventListener("visibilitychange", () => {
-    if (document.visibilityState === "hidden") {
-      window.clearTimeout(timer);
-      commit();
-    }
+    if (document.visibilityState !== "hidden") return;
+    window.clearTimeout(timer);
+    save();
   });
 
   const saved = get(slug);
