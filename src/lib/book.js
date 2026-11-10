@@ -52,12 +52,15 @@ export function loadChapter(slug) {
   const zh = readZh(slug);
   const blocks = source.map((block, i) => {
     const tr = zh?.get(i) ?? null;
+    const zhText = tr?.text ?? null;
+    const pageOnly = typeof zhText === "string" && /^\d{1,4}$/.test(zhText.trim());
     return {
       i,
+      skip: pageOnly,
       type: block.type,
       en: block.text ?? null,
       enRows: block.rows ?? null,
-      zh: tr?.text ?? null,
+      zh: pageOnly ? null : zhText,
       zhRows: tr?.rows ?? null,
     };
   });

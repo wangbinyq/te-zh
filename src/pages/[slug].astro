@@ -32,7 +32,7 @@ const done = new Set(translatedChapters(chapters).map((c) => c.slug));
 
     <article>
       {
-        blocks.map((b) => {
+        blocks.filter((b) => !b.skip).map((b) => {
           if (b.type === "table") {
             return (
               <div class="block table-block" id={`b-${b.i}`} data-anchor={b.i}>
