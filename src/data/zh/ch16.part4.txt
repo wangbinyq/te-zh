@@ -1,0 +1,408 @@
+@@ 704 [p]
+功率计可提供上肢阻力，也可用于有氧训练。向前的运动强调脊柱屈曲和肩带前伸；向后的运动强调脊柱伸展和肩带回缩。指导病人在使用功率计之前和过程中采取中立脊柱姿势并启用稳定肌，以增强姿势反应。如果该器械可以站立使用，进展到站立位可激发全身反应。
+@@ 705 [h4]
+踏板有氧操与有氧舞蹈
+@@ 706 [p]
+踏板运动与使用楼梯或爬楼机相似，只是较高级的踏板有氧操课程通常加入跳跃和弹跳动作。
+@@ 707 [p]
+舞蹈动作有多种形式，也有针对不同体能水平和年龄组的课程。如有可能，应复习安全的活动模式，并帮助病人认识其脊柱活动范围和自身能力的安全限度。
+@@ 708 [h4]
+“最新流行热潮”
+@@ 709 [p]
+人们喜欢多样性，可能被富有魅力和活力、演示“新”训练技术和套路或新式健身器械的人所吸引。病人可能会就这些活动和技术的价值征求意见。应运用分析该活动的生物力学以及施加于脊柱的应力的知识和技能，就运动安全提供建议。关节活动度末端姿势和高速应力（如剧烈踢腿和冲击性动作）可能损伤脊柱中脆弱的组织，脊柱问题正在恢复的病人不应尝试。
+@@ 710 [h3]
+功能活动
+@@ 711 [p]
+目标。安全地进展至独立。
+@@ 712 [p]
+注意：达到最大程度的独立是所有治疗性运动目标的基础。病人建立节段性和整体性脊柱稳定；发展柔韧性、肌肉耐力和力量；了解运动和姿势矫正如何减轻应力；并发展心肺耐力——所有这些都是为了能在日常生活活动（包括工作、娱乐和体育运动）中安全地发挥功能。
+@@ 713 [h2]
+早期功能训练：基本技术
+@@ 714 [p]
+早期功能训练包括教授日常生活活动所需的基本动作，如安全地翻身、从卧位到坐位（及相反过程）、从坐位到站立（及相反过程）。这些技术继早期运动觉训练指导之后进行，在运动觉训练中病人学会找到中立脊柱，并体验简单的上肢和下肢运动对脊柱的影响；也继早期肌肉功能训练之后进行，在该训练中病人学会如何激活核心肌群以实现节段稳定。如果检查发现基本日常生活活动存在问题，则在早期训练计划中纳入以下内容。
+@@ 715 [p]
+翻身。在中立脊柱下翻身，要求病人先找到中立脊柱，执行收腹（drawing-in）动作，然后将躯干作为一个整体翻转。
+@@ 716 [li]
+可以建议病人“想象有一根坚固的杆连接肩部和骨盆，使身体不会扭转”，或建议其“像圆木一样翻滚”，这可能会有帮助。
+@@ 717 [li]
+鼓励病人用上肢和上方腿协助翻身。
+@@ 718 [p]
+仰卧到坐起／坐位到卧位。让病人用圆木翻滚动作（如上所述）从仰卧翻至侧卧，同时屈髋屈膝并用上肢撑起。
+@@ 719 [li]
+帮助病人专注于稳定躯干，可使用这样的口令：“把躯干撑起来，就像一块木板；不要让它扭转或弯曲。”
+@@ 720 [li]
+以相反顺序练习：指导病人作为一个整体先降到肘部、再降到肩部，进入侧卧位。躺下后，病人可用圆木翻滚技术翻至仰卧或俯卧。
+@@ 721 [p]
+坐位到站立／站立到坐位。病人的功能水平决定完成“坐位到站立”或“站立到坐位”需要上肢提供多少帮助。如果髋、膝伸肌力量不足以抬起身体，病人需要带扶手的椅子，以便有杠杆可撑；或者可能需要硬座面或加高的座面。
+@@ 722 [li]
+使用稳定脊柱技术时，指导病人通过骨盆前后倾找到中立脊柱，启动收腹动作，然后保持中立脊柱位置在髋部前屈。
+@@ 723 [li]
+帮助病人在保持脊柱“像木板一样坚实”的同时专注于髋部运动。反向动作也同样练习。
+@@ 724 [p]
+上下汽车。对下背痛或骶髂关节痛的病人，上下汽车常会诱发症状。一旦能安全完成坐位到站立，就让病人练习以下内容。
+@@ 725 [li]
+背向座椅靠近打开的车门和座位；用收腹动作将脊柱稳定在中立位；然后在髋部前屈并坐下。
+@@ 726 [li]
+坐下后，屈曲双髋和双膝，将整个身体作为一个整体转动，同时保持脊柱稳定。
+@@ 727 [li]
+下车时，双膝并拢，将下肢和躯干作为一个整体向外转动。双足着地后，在髋部前屈，将躯干作为一个整体抬起。
+@@ 728 [p]
+步行。对某些病人，步行可能诱发症状。
+@@ 729 [li]
+提醒病人在步行时使用中立脊柱和收腹动作来稳定脊柱。
+@@ 730 [li]
+不可能长时间保持有意识的控制，因此提醒病人在症状再次出现时随时检查脊柱姿势并重新启动收腹动作。
+@@ 731 [h2]
+功能活动准备：基本运动技术
+@@ 732 [p]
+一旦病人学会管理自己的症状，且炎症症状减轻，就开始进行为四肢和躯干参与功能活动（如安全地提举、搬运、推、拉以及向各方向够取）做准备的练习。在康复的亚急性期或控制运动期，重点是在保持脊柱稳定的同时以功能性模式增强四肢力量。此阶段病人应能完成工具性日常生活活动（IADL）和有限的工作活动。评估病人的表现，并修改其正在做的事情，以纳入安全的脊柱姿势和正确的稳定方式。用本节的各项活动为病人的功能做准备或促进其功能。
+@@ 733 [p]
+四肢各章所述的许多增强力量练习都适合用于功能训练的准备。对于存在姿势问题以及正在从背部或颈部损伤中恢复的病人，在全身运动之前和过程中强调中立（功能）脊柱姿势至关重要。本章前面所述的许多稳定和运动模式也可以在强度、重复次数、速度和协调性上进阶，为重返功能活动做准备。
+@@ 734 [h4]
+负重练习
+@@ 735 [h4]
+改良桥式练习
+@@ 736 [p]
+改良桥式练习要求用躯干屈肌和伸肌稳定，同时增强臀大肌和股四头肌，为提举活动做准备。腹部肌群与臀大肌协同控制骨盆倾斜，腰部伸肌则对抗臀大肌的牵拉以稳定脊柱。
+@@ 737 [p]
+病人体位和操作：从仰卧屈膝位开始。让病人在抬起和放下骨盆（在髋部屈曲和伸展）时专注于保持中立脊柱位置（见图 20.28）。保持桥式以进行等长控制。
+@@ 738 [li]
+两上肢交替运动；进阶时在手中加负重。
+@@ 739 [li]
+交替抬起一只脚，像原地踏步（图 16.72 A）；进阶时在每次抬腿时伸膝。当病人能耐受更大阻力时，加踝部负重并与上肢运动协调（图 16.72 B）。
+@@ 740 [li]
+髋外展和内收，同时不让骨盆下沉。进阶时将双足放在凳子上、椅子上或大健身球上重复桥式活动，或将大健身球置于肩／颈区下方、双足放在地板上。
+@@ 741 [h4]
+配合躯干稳定的俯卧撑
+@@ 742 [p]
+俯卧撑利用体重增强肱三头肌和肩带肌群，为推的活动做准备。躯干肌群必须对抗肩带肌群的牵拉以保持稳定，并在身体抬起和放下时控制中立脊柱位置。病人体位和操作：面墙站立，或俯卧、双手抵住墙壁或地板。
+@@ 743 [caption]
+图 16.72　保持桥式以发展躯干控制和臀大肌力量，同时叠加四肢运动：（A）原地踏步；（B）伸展四肢。在上肢或下肢加负重需要更大的力量和控制。
+@@ 744 [p]
+双手置于肩部前方。提醒病人在练习过程中找到并保持中立脊柱位置。
+@@ 745 [li]
+如果病人力量不足以从地面撑起，这些练习可先做靠墙俯卧撑。
+@@ 746 [li]
+俯卧于地板时，病人可以膝为支点撑起，也可以足为支点做全身俯卧撑。
+@@ 747 [li]
+若要在不稳定表面上挑战病人，可让其俯卧于大健身球上开始。让病人双手撑地向前爬行，直至仅大腿由球支撑，保持稳定的脊柱姿势，并用上肢做俯卧撑。进阶时用双手继续向前爬行，直至仅小腿由球支撑（图 16.73）。
+@@ 748 [caption]
+图 16.73　下肢平衡于健身球上的俯卧撑活动，用于增强上肢力量和发展躯干控制。
+@@ 749 [p]
+　
+@@ 750 [h4]
+靠墙下滑
+@@ 751 [p]
+靠墙下滑可增强髋、膝伸肌力量，为下肢进行下蹲活动和训练安全身体力学做准备。
+@@ 752 [p]
+病人体位和操作：背靠墙站立，脊柱保持中立位。在背后放一条毛巾，使其沿墙滑动更容易。若在背与墙之间放置大健身球，练习难度更高（图 16.74）。让病人背沿墙下滑至部分下蹲位，并保持该位置以等长增强髋、膝伸肌，或上下移动以进行向心／离心增强。
+@@ 753 [li]
+叠加上肢运动，如交替或双侧肩屈曲／伸展。
+@@ 754 [li]
+通过加入单腿踏步或交替伸膝等单腿动作，进阶增强力量。
+@@ 755 [li]
+使用手持负重为上下肢增强力量增加阻力。
+@@ 756 [p]
+在不扶持的情况下完成多次重复后，为双上肢增加负重以提供阻力。
+@@ 757 [li]
+加入与下肢运动同步的上肢运动，如向前下方够取，以发展协调和控制。
+@@ 758 [li]
+进阶至在不稳定表面上做弓步并回复直立。
+@@ 759 [li]
+加入上／下台阶活动，先从低台阶开始，逐渐增加高度。
+@@ 760 [h4]
+抗阻步行
+@@ 761 [p]
+将滑轮负重或弹性阻力用腰带固定在病人骨盆周围，病人也可握住把手。让病人对抗阻力向前、向后或对角步行。重点在于脊柱控制（见图 23.34）。
+@@ 762 [p]
+进阶时让病人推拉负重物体，如推车或桌上的箱子。强调在四肢负荷时保持稳定的脊柱位置（见图 17.58、18.21 A、23.18 和 23.36）。
+@@ 763 [h4]
+部分弓步、部分下蹲与台阶
+@@ 764 [p]
+部分弓步和部分下蹲在第 20 章和第 21 章中描述。它们有助于以全身运动增强力量，为学习身体力学做准备。如有必要，先让病人扶住治疗床边缘或其他稳定物体保持平衡，然后进阶至用拐杖保持平衡（见图 20.32）。一旦病人能够完成
+@@ 765 [h4]
+过渡性稳定练习
+@@ 766 [p]
+使脊柱先屈曲再伸展（以及相反顺序）的练习，要求病人控制中立脊柱位置。病人学会在躯干和四肢交替运动时稳定脊柱。
+@@ 767 [p]
+　
+@@ 768 [caption]
+图 16.74　靠墙下滑／部分下蹲，用于发展下肢力量并与躯干稳定协调，为身体力学训练做准备。（A）背沿墙下滑，同时双侧上肢运动以增加阻力。（B）沿墙向下滚动健身球，同时做拮抗性上肢运动以发展协调。
+@@ 769 [h4]
+四点跪位前后移动
+@@ 770 [p]
+病人体位和操作：四点跪位。让病人向后摇摆，使臀部坐于足跟；然后身体向前移至双手，进入撑起位。病人应专注于将骨盆控制在中立位，而不是在向足跟方向移动时让脊柱完全屈曲，或在向前移至撑起位时让脊柱完全伸展。
+@@ 771 [h4]
+下蹲与够取
+@@ 772 [p]
+病人体位和操作：从站立位开始。让病人部分下蹲的同时向下够取。此时脊柱倾向于屈曲，因此让病人专注于用脊柱伸肌保持中立脊柱位置。随后病人站起并向上过头够取。这会使脊柱伸展，因此让病人专注于用躯干屈肌稳定于中立位。进阶时在控制脊柱中立姿势的同时持重物提举和够取。
+@@ 773 [h4]
+转移体重与转身
+@@ 774 [p]
+让病人练习在保持中立脊柱位置、用髋和膝部肌肉吸收力量的同时，向前／向后和左右转移体重。练习用小步转身，并在髋部而非背部旋转。指导病人想象有两根僵硬的杆分别连接每侧肩部与同侧髋部，不允许脊柱扭转。尽管脊柱内仍会有一些运动，该活动有助于病人专注于稳定的脊柱，而不是全范围旋转。进阶时使用重物，让病人提起、转身，然后将重物放到新的位置。
+@@ 775 [h2]
+身体力学与环境适应：身体力学原则的指导与训练
+@@ 776 [p]
+教授安全身体力学时，不宜用过多的指令使病人不知所措。多数人“知道”应当用腿而不是用背提举，但仍采用错误的技术。开始训练时，可建议病人找到自己的中立脊柱，执行收腹动作，然后提举。观察其使用的技术，必要时提出修改建议。下蹲常被教为首选方法，但并非所有病人在存在膝痛或无力等损伤时都能下蹲。在某些情况下，个体采用弓步技术提举可能比下蹲技术更稳定。
+@@ 777 [h4]
+腰椎位置
+@@ 778 [p]
+腰椎的位置无论是屈曲、伸展还是处于中间范围，都会带来若干问题。在这三种姿势中，以中立脊柱姿势提举能提供更大的脊柱稳定性，并同时利用韧带和肌肉系统进行稳定和控制。背部损伤后，首选的提举姿势可能需要调整，取决于损伤类型以及组织受力时的反应。
+@@ 779 [p]
+脊柱屈曲。以屈曲的腰椎（骨盆后倾）提举时，对脊柱的支持主要来自非收缩结构（韧带、腰背筋膜、纤维环后部和关节突）；肌肉活动很少。
+@@ 780 [li]
+弯腰向地面时会出现屈曲。有作者提出，对于背部肌肉受伤的病人，这也可能是首选姿势，因为脊柱屈曲时肌肉处于“安静”状态。
+@@ 781 [li]
+以屈曲的腰椎提举可能带来一些问题。脊柱屈曲时缓慢提举，负荷持续作用于韧带，非收缩组织发生蠕变；如果组织已经变弱，这会增加损伤的机会。此外，肌肉被拉长并放松，可能处于不利的长度－张力关系，无法迅速以适当的力对负荷的突然变化作出反应。以屈曲的脊柱提举时，韧带拉伤的机会更大。
+@@ 782 [p]
+脊柱伸展。以伸展（前凸）的腰椎提举时，支持脊柱的肌肉比屈曲时更活跃，这增加了椎间盘上的压缩力。同时关节突相互靠近（紧密位置）。这种姿势可减轻韧带上的应力，但对于背部肌肉状况差、容易疲劳的个体，反复提举时这种姿势可能使脊柱面临风险，因为韧带没有提供支持。
+@@ 783 [h4]
+负荷位置
+@@ 784 [p]
+强化“提举和搬运物体时应尽可能靠近重心”的概念。
+@@ 785 [li]
+让病人练习将物体搬近其重心，并让其注意与在应力较大的位置搬运物体相比，平衡和控制的感觉更好，颈部和背部的应力更小。指出提举时物体越靠近重心，对支持结构的应力越小。
+@@ 786 [li]
+让病人练习在左右转移负荷并转身。让病人练习以髋部旋转、躯干旋转最小的方式转身。动作应由下肢带动，同时保持脊柱稳定。
+@@ 787 [p]
+　
+@@ 788 [li]
+复制病人工作环境中的力学方式，并练习安全的力学方式。
+@@ 789 [li]
+教授“高尔夫球手式提举”（golfer’s lift），用于拾起钥匙、铅笔和小玩具等轻物。做法是躯干在一侧髋部上方前屈，同时对侧髋伸展。这样病人能保持中立脊柱，并将大部分工作交给下肢。
+@@ 790 [h4]
+环境适应
+@@ 791 [p]
+有必要对家庭和工作环境进行人体工效学评估和改造，以纠正应力并预防症状将来复发。
+@@ 792 [h4]
+家庭、工作与驾驶注意事项
+@@ 793 [li]
+椅子和汽车座椅应有腰部支撑，以维持轻度前凸。必要时使用毛巾卷或腰垫。
+@@ 794 [li]
+椅子的高度应使膝关节能够屈曲以减轻腘绳肌的张力、支撑大腿，并使双足舒适地放在地板上。
+@@ 795 [li]
+如果需要长时间坐着，应使用扶手，以减轻肩部和颈椎的应力。
+@@ 796 [li]
+书桌或桌子的高度应适当，使人不必俯身工作。
+@@ 797 [li]
+工作和驾驶习惯应允许经常变换姿势。如果平时久坐，病人应每小时起身行走。
+@@ 798 [h4]
+睡眠环境
+@@ 799 [li]
+床垫须提供坚实的支撑，以防任何极端应力。如果太软，病人会下陷并牵拉韧带；如果太硬，有些病人无法放松。
+@@ 800 [li]
+枕头的高度和密度应舒适，以促进放松，但不应使关节处于极端位置。泡沫橡胶枕因持续提供阻力，往往使肌肉紧张增加。
+@@ 801 [li]
+一个人应俯卧、侧卧还是仰卧睡眠，须对每位病人分别分析。理想情况下，舒适的姿势是处于中间范围、不对任何支持结构施加应力的姿势。早晨醒来时的疼痛常与睡眠姿势有关；若如此，应仔细听取病人对睡眠姿势的描述，看其是否与疼痛相关，然后相应地尝试调整睡眠姿势。提醒病人改变习惯需要数周时间。
+@@ 802 [h2]
+功能训练的中级至高级运动技术
+@@ 803 [p]
+随着病人在做练习时学会脊柱控制，可增加重复次数以发展肌肉耐力，并增加阻力以发展力量。如果需要协调性、灵敏性和平衡，则加以强调。到这一阶段，可以认为个体已经掌握基本的脊柱稳定技术，并已习惯性地采取中立脊柱位置和启动收腹动作。在做以下练习时，要强调这一点的重要性。同时也应认为病人已能在不出现症状的情况下控制更大的脊柱活动度。调整练习以复制重返工作或运动相关活动的情形。举例如下。
+@@ 804 [h4]
+重复提举
+@@ 805 [p]
+许多工作要求在整个工作日中反复提举的能力，而这可能导致症状复发。为重返工作做准备，应逐步增加病人必须完成的提举动作的重复次数，以改善肌肉耐力。马拉斯（Marras）和格拉纳塔（Granata）证明，重复提举（超过 5 小时）后，受试者的提举模式和肌肉募集模式发生显著改变，脊柱稳定性下降（压缩减少），腰椎前后剪切力增加。为降低下背疾患复发的风险，病人需要学会监测这些变化，并有意识地纠正错误的模式。帮助病人修改和调整在基本技术阶段建立的稳定脊柱身体力学，以复制其在家中或工作中将要进行的提举类型。在提举任务中加入变化，为意外情况做准备。
+@@ 806 [h4]
+重复够取
+@@ 807 [p]
+重复够取要求病人学会采取舒适的跨步姿势，然后练习将体重在下肢上前后转移，而不是用脊柱前后弯曲。准备性练习应包括向前、向侧和向后的部分弓步。练习时，让病人使用与真实情境相当的重物，反复进行该动作，专注于脊柱控制，仅在无法继续保持控制时才休息。
+@@ 808 [p]
+　
+@@ 809 [h4]
+重复推与拉
+@@ 810 [p]
+重复推和拉需要强壮的上肢和稳定的脊柱。准备性活动应包括对抗弹性阻力或滑轮阻力推拉，阻力高度设定为复制工作环境。进阶至推拉负重推车或桌上的负重箱子。强调启动脊柱稳定肌的重要性。
+@@ 811 [h4]
+旋转或转身
+@@ 812 [p]
+负重转身是多数工作活动的组成部分。人可能旋转脊柱去够取，以将负荷放到身侧或身后。旋转可能造成不稳定，也可能损伤脊柱结构。因此，重要的是在转身中去掉旋转。让病人练习“稳定脊柱转身”，这要求在髋部产生运动和控制，或朝转身方向迈步，而不是扭转和旋转背部。
+@@ 813 [h4]
+过渡动作
+@@ 814 [p]
+多数功能活动需要过渡动作，如向下够取物品（脊柱屈曲），再向上过头将其放到高架上（脊柱伸展）。在体育活动中，该活动可能需要从向前弯腰的位置快速移动到双臂过头、身体伸展的位置（如运篮球后投篮）。设置复制目标结局速度和动作的练习；让病人在练习时通过这些模式移动，同时尝试控制其功能性脊柱位置和范围。
+@@ 815 [h4]
+训练的迁移
+@@ 816 [p]
+理想情况下，每位病人都通过康复进展到能够将所学技能迁移到密切相关但全新的情境的水平。提供从简单到复杂的多种学习机会，然后帮助病人分析对每种新体验的成功适应。（如何将任务由简单变为复杂，示例见图 1.8 及第 1 章的相关正文。）
+@@ 817 [h2]
+病人教育：预防
+@@ 818 [p]
+教育是持续进行的。出院前，与病人一起复习以下姿势与疼痛的关系。
+@@ 819 [li]
+出现疼痛或症状复发时，检查姿势。避免长时间保持任何一种姿势。
+@@ 820 [li]
+如果必须维持某些姿势，要经常休息，并至少每半小时进行适当的关节活动度练习。所有练习结束时都应采取均衡良好的姿势。
+@@ 821 [li]
+避免颈部过伸、头前伸姿势或长时间保持前屈位置。寻找修改任务的方法，使其能在视线水平或在适当的腰部支撑下完成。
+@@ 822 [li]
+如果处于产生紧张的情境中，进行有意识的放松练习。
+@@ 823 [li]
+运用常识，遵循良好的安全习惯。
+@@ 824 [li]
+复习家庭练习计划，并说明如何安全进阶和变换练习以保持兴趣。
+@@ 825 [li]
+教授适合病人的柔韧性、肌肉耐力和增强力量练习，以维持关节活动度、肌肉耐力和力量。
+@@ 826 [li]
+处理病人对运动和脊柱管理可能存在的任何误解。
+@@ 827 [li]
+指导病人安全地进阶有氧运动计划。强调维持心肺耐力的重要性及其对管理症状的作用。
+@@ 828 [h2]
+自主学习活动
+@@ 829 [h4]
+批判性思维与讨论
+@@ 830 [p]
+1. 观察一位家务劳动者或工人进行需要推、拉、够取、提举或其他重复模式的活动。分析整体模式中包含哪些组成动作，并判断上肢、下肢和躯干需要力量、活动范围、耐力、平衡还是协调（或多种组合）。判断在做此活动时使脊柱安全需要什么，并设计一个涵盖所有组成部分的练习计划。
+@@ 831 [p]
+2. 去健身俱乐部或运动课程，观察个体如何做练习。注意那些对脊柱或骨盆造成应力的活动。你会如何修改每一项练习？考虑器械的安全使用、安全的生物力学以及对受众的适当指导。你能说出每项练习的目的（力量、牵伸、耐力、平衡）吗？指导语是否与参与者的水平相适应？
+@@ 832 [p]
+3. 在你所在的州，关于物理治疗师实施手法治疗和高速度技术（HVT），法律是如何规定的？在哪些情况下你会选择手法治疗而不是 HVT 技术？在哪些情况下你会选择 HVT 技术而不是手法治疗技术？
+@@ 833 [h4]
+实验室练习
+@@ 834 [p]
+1. 与实验室搭档一起练习颈椎和腰椎的运动觉训练技术和深层节段肌肉激活技术，直至你能熟练完成并识别其是否正确。然后练习将这些技术教给家人或朋友，看他们对要做的事理解得如何。
+@@ 835 [p]
+2. 练习肌肉功能部分所述的脊柱稳定练习进阶。从最容易的水平开始，进阶下肢和上肢运动，直至你感到已达到用于稳定的最大阻力。休息后，从最难的动作水平开始，计时 1 分钟。目标是整分钟内保持脊柱稳定。如果你开始感到失去控制，就减少四肢阻力（例如从双下肢交替模式改为只移动一侧肢体而另一侧放在地板上）。这也可以做 3 分钟。你是否既能应对挑战又能保持脊柱稳定？你是否感到稳定肌在“工作”？
+@@ 836 [p]
+3. 练习在脊柱稳定下做靠墙下滑、部分下蹲和部分弓步。当你能在脊柱稳定下舒适地下蹲时，练习将箱子从地板提举
+@@ 837 [li]
+至桌面高度，再从地板提举至肩高，然后分别在每个高度将其放到架子上。感受脊柱发生了什么变化。然后用稳定的脊柱重复这些动作，看看能否通过收腹动作控制脊柱位置。当你能舒适地完成弓步时，练习用弓步技术和稳定的脊柱从地板上提举小物体。最后，练习从地板上提举物体并转身（用腿和髋改变方向，而不是旋转脊柱），将物体放到桌子或架子上。感受脊柱发生了什么变化，并以稳定的脊柱姿势重复这些活动。
+@@ 838 [li]
+4. 复习脊柱手法治疗的适应证和禁忌证。与实验室搭档分别在仰卧位和俯卧位练习颈椎手法治疗。在哪种体位下你的控制更好（病人仰卧还是俯卧）？
+@@ 839 [p]
+5. 本章讨论了几种 HVT 技术。脊柱 HVT 的禁忌证有哪些？练习三种改善胸椎屈曲的 HVT。如果你的目标是改善向左侧的旋转，你会如何改变该技术？
+@@ 840 [h4]
+病例研究
+@@ 841 [p]
+复习第 14 章和第 15 章中描述的病例，并根据本章提供的信息修改你的答案。
+@@ 842 [h4]
+参考文献
+@@ 843 [p]
+1. Abdulwahab, SS: Treatment based on H-reflexes testing improves disability status in patients with cervical radiculopathy. Int J Rehabil Res 22(3):207–214, 1999.
+@@ 844 [p]
+2. Alexander, KM, and LaPier, TL: Differences in static balance and weight distribution between normal subjects and subjects with chronic unilateral low back pain. J Orthop Sports Phys Ther 28(6):378–383, 1998.
+@@ 845 [p]
+3. American Physical Therapy Association. Procedural Interventions Exclusively Performed by Physical Therapists (HOD P06–00–30– 36). American Physical Therapy Association; 2000. Available at http//www.apta.org/AM/Template.cfm?Section=Home& TEMPLATE=/CM/HTMLDisplay.cfm&CONTENTID=25681.
+@@ 846 [p]
+4. Andersson, EA, et al: Abdominal and hip flexor muscle activation during various training exercises. Eur J App Plysiol 75:115–123, 1997.
+@@ 847 [p]
+5. Arokoski, JP, et al: Back and abdominal muscle function during stabilization exercises. Arch Phys Med Rehabil 82(8):1089–1098, 2001.
+@@ 848 [p]
+6. Bondi, BA, and Drinkwater-Kolk, M: Functional stabilization training. Workshop notes, Northeast Seminars, October 1992.
+@@ 849 [p]
+7. Bronfort, G, et al: Efficacy of spinal manipulation and mobilization for low back pain and neck pain: a systemic review and best evidence synthesis. Spine J 4:335–356, 2004.
+@@ 850 [p]
+8. Cassella, MC, and Hall, JE: Current treatment approaches in the nonoperative and operative management of adolescent idiopathic scoliosis. Phys Ther 71:897–909, 1991.
+@@ 851 [p]
+9. Childs, JD, et al: A clinical prediction rule to identify patients with low back pain most likely to benefit from spinal manipulation: a validation study. Ann Intern Med 141(12):920–928, 2004.
+@@ 852 [p]
+10. Chok, B, et al: Endurance training of the trunk extensor muscles in people with subacute low back pain. Phys Ther 79(11):1032– 1042, 1999.
+@@ 853 [p]
+11. Cleland, JA, et al: The use of lumbar spine manipulation technique by physical therapists in patients who satisfy a clinical prediction rule: a case series. J Orthop Sports Phys Ther 36:209–214, 2006.
+@@ 854 [p]
+12. Cleland, JA, et al: Development of a clinical prediction rule for guiding treatment of a subgroup of patients with neck pain: use of thoracic spine manipulation, exercise, and patient education. Phys Ther 87(1):9–23, 2007.
+@@ 855 [p]
+13. Danneels, LA, et al: The effects of three different training modalities on the cross-sectional area of the paravertebral muscles. Scand J Med Sci Sports 11:335–341, 2001.
+@@ 856 [p]
+14. Ekstrom, RA, Osborn, RW, and Haver, PL: Surface electromyographic analysis of the low back muscles during rehabilitation exercises. J Orthop Sports Phys Ther 38(12)736–745, 2008.
+@@ 857 [p]
+15. Flynn, TM, Fritz, JM, and Wainner, RS: Spinal manipulation in physical therapist professional degree education: a model for teaching and integration into clinical practice. J Orthop Sports Phys Ther 36(8):577–587, 2006.
+@@ 858 [p]
+16. Gilleard, WL, and Brown, JM: An electromyographic validation of an abdominal muscle test. Arch Phys Med Rehabil 75:1002– 1007, 1994.
+@@ 859 [p]
+17. Hagins, M, et al: Effects of practice on the ability to perform lumbar stabilization exercises. J Orthop Sports Phys Ther 29(9):546– 555, 1999.
+@@ 860 [p]
+18. Hart, DL, Stobbe, TJ, and Jaraiedi, M: Effect of lumbar posture on lifting. Spine 12(2):138–145, 1987.
+@@ 861 [p]
+19. Henry, SM, and Westervelt, KC: The use of real-time ultrasound feedback in teaching abdominal hollowing exercises to healthy subjects. J Orthop Sports Phys Ther 35(6):338–345, 2005.
+@@ 862 [p]
+20. Hides, JA, Jull, GA, and Richardson, CA: Long-term effects of specific stabilizing exercises for first-episode low back pain. Spine 26(11):E243–E248, 2001.
+@@ 863 [p]
+21. Hides, JA, Richardson, CA, and Gwendolen, AJ: Multifidus muscle recovery is not automatic after resolution of acute, firstepisode low back pain. Spine 21(23):2763–2769, 1996.
+@@ 864 [p]
+22. Hides, JA, et al: Ultrasound imaging in rehabilitation. Aust J Physiother 41:187–193, 1995.
+@@ 865 [p]
+23. Hides, JA, Richardson, CA, and Jull, GA: Use of real-time ultrasound imaging for feedback in rehabilitation. Manual Ther 3:125–131, 1993.
+@@ 866 [p]
+24. Hodges, PW, and Richardson, CA: Transversus abdominis and the superficial abdominal muscles are controlled independently in a postural task. Neurosci Lett 265:91–94, 1999.
+@@ 867 [p]
+25. Hodges, PW, and Richardson, CA: Delayed postural contraction of transversus abdominis in low back pain associated with movement of the lower limb. J Spinal Disord 11(1): 46–56, 1998.
+@@ 868 [p]
+26. Hodges, PW, and Richardson, CA: Contraction of the abdominal muscles associated with movement of the lower limb. Phys Ther 77(2):132–142, 1997.
+@@ 869 [p]
+27. Hodges, PW, and Richardson, CA: Feedforward contraction of transversus abdominis is not influenced by the direction of arm movement. Exp Brain Res 114:362–370, 1997.
+@@ 870 [p]
+28. Hodges, PW, Richardson, CA, and Jull, G: Evaluation of the relationship between laboratory and clinical tests of transversus abdominis function. Physiother Res Int 1(1):30–40, 1996.
+@@ 871 [p]
+29. Hubley-Kozey, CL, and Vezina, MJ: Muscle activation during exercises to improve trunk stability in men with low back pain. Arch Phys Med Rehabil 83:1100–1108, 2002.
+@@ 872 [p]
+30. Jull, G, et al: A randomized controlled trial of exercise and manipulative therapy for cervicogenic headache. Spine 27(17):1835– 1843, 2002.
+@@ 873 [p]
+31. Jull, G, et al: Further clinical clarification of the muscle dysfunction in cervical headache. Cephalalgia 19:179–185, 1999.
+@@ 874 [p]
+32. Kendall, FP, et al: Muscles: Testing and Function, with Posture and Pain, ed. 5. Baltimore, MD: Lippincott Williams & Wilkins, 2005.
+@@ 875 [p]
+33. Lee, FH, et al: Trunk muscle weakness as a risk factor for low back pain. Spine 24(1):54–57, 1999.
+@@ 876 [p]
+34. Lehman, GJ, and McGill, SM: Quantification of the differences in electromyographic activity magnitude between the upper and lower portions of the rectus abdominis muscle during selected trunk exercises. Phys Ther 81(5):1096–1101, 2001.
+@@ 877 [p]
+35. Lubell, A: Potentially dangerous exercises: are they harmful to all? Phys Sports Med 17:187–192, 1989.
+@@ 878 [p]
+36. Marras, WS, and Granata, KP: Changes in trunk dynamics and spine loading during repeated trunk exertions. Spine 22(21):2564–2570, 1997.
+@@ 879 [p]
+37. McDonnell, KM, Sahrmann, SA, and Van Dillen, L: A specific exercise program and modification of postural alignment for treatment of cervicogenic headache: a case report. J Orthop Sports Phys Ther 35(1):3–15, 2005.
+@@ 880 [p]
+38. McGalliard, MK, et al: Changes in transversus abdominal thickness with use of the abdominal drawing in maneuver during a functional task. Phys Med and Rehab 2(3):187–194, 2010.
+@@ 881 [p]
+39. McGill, SM: Low back exercises: evidence for improving exercise regimens. Phys Ther 78(7):754–765, 1998.
+@@ 882 [p]
+40. Mew, R: Comparison of changes in abdominal muscle thickness between standing and crook lying during active abdominal hollowing using ultrasound imaging. Man Ther 14(6):690–695, 2009.
+@@ 883 [p]
+41. Morgan, D: Concepts in functional training and postural stabilization for the low-back injured. Top Acute Care Trauma Rehabil 2:8–17, 1988.
+@@ 884 [p]
+42. Ng, JK, and Richardson, CA: EMG study of erector spinae and multifidus in two isometric back extension exercises. Aust J Physiother 40:115–121, 1994.
+@@ 885 [p]
+43. O’Sullivan, PT, Twomey, L, and Allison, GT: Altered abdominal muscle recruitment in patients with chronic back pain following a specific exercise intervention. J Orthop Sports Phys Ther 27(2):114–124, 1998.
+@@ 886 [p]
+44. O’Sullivan, PT, et al: Altered patterns of abdominal muscle activation in patients with chronic low back pain. Aust Physiother 43(2):91–98, 1997.
+@@ 887 [p]
+45. Paris, SV: A history of manipulative therapy. JMMT 8(2):66–67, 2000.
+@@ 888 [p]
+46. Reeve, A, and Dilley, A: Effects of posture on the thickness of transversus abdominis in pain-free subjects. Man Ther 14(6): 679–684, 2009.
+@@ 889 [p]
+47. Richardson, C, Hodges, P, and Hides, J: Therapeutic Exercise for Lumbopelvic Stabilization: A Motor Control Approach for the Treatment and Prevention of Low Back Pain, ed. 2. Philadelphia: Churchill Livingstone, 2004.
+@@ 890 [p]
+48. Richardson, C, and Jull, G: A historical perspective on the development of clinical techniques to evaluate and treat the active stabilising system of the lumbar spine. Aust J Physiother Monogr 1:5–13, 1995.
+@@ 891 [p]
+49. Richardson, C, et al: Techniques for active lumbar stabilisation for spinal protection: a pilot study. Aust J Physiother 38:105, 1992.
+@@ 892 [p]
+50. Richardson, C, Toppenberg, R, and Jull, G: An initial evaluation of eight abdominal exercises for their ability to provide stabilisation for the lumbar spine. Aust J Physiother 36:6, 1990.
+@@ 893 [p]
+51. Robinson, R: The new back school prescription: stabilization training. Part I. Occup Med 7:17–31, 1992.
+@@ 894 [p]
+52. Saal, JA: The new back school prescription: stabilization training. Part II. Occup Med 7:33–42, 1992.
+@@ 895 [p]
+53. Saal, JA: Dynamic muscular stabilization in the nonoperative treatment of lumbar pain syndromes. Orthop Rev 19:691–700, 1990.
+@@ 896 [p]
+54. Saunders, HD, and Ryan, RS: Spinal traction. In Saunders, HD, and Ryan, RS (eds): Evaluation, Treatment and Prevention of Musculoskeletal Disorders, ed. 4. Vol. 1. Spine. Chaska, MN: Saunders Group, 2004.
+@@ 897 [p]
+55. Stevans, J, and Hall, KG: Motor skill acquisition strategies for rehabilitation of low back pain. J Orthop Sports Phys Ther 28(3):165– 167, 1998.
+@@ 898 [p]
+56. Storheim, K, et al: Intra-tester reproducibility of pressure biofeedback in measurement of transversus abdominis function. Physiother Res Int 7(4):239–249, 2002.
+@@ 899 [p]
+57. Sullivan, MS: Back support mechanisms during manual lifting. Phys Ther 69:38–45, 1989.
+@@ 900 [p]
+58. Takemasa, R, Yamamoto, H, and Tani, T: Trunk muscle strength in and effect of trunk muscle exercises for patients with chronic low back pain. Spine 20(23):2522–2530, 1995.
+@@ 901 [p]
+59. Teyhen, DS, et al: Changes in lateral abdominal muscle thickness during the abdominal drawing-in maneuver in those with lumbopelvic pain. J Orthop Sports Phys Ther 39(11):791–798, 2009.
+@@ 902 [p]
+60. Teyhen, DS, et al: The use of ultrasound imaging of the abdominal drawing-in maneuver in subjects with low back pain. J Orthop Sports Phys Ther 35(6):346–355, 2005.
+@@ 903 [p]
+61. Teyhen, DS, et al: Changes in deep abdominal muscle thickness during common trunk-strengthening exercises using ultrasound imaging. J Ortho Sports Phys Ther 38(10):596–605, 2008.
+@@ 904 [p]
+62. Tsao, H, and Hodges, PW: Immediate changes in feedforward postural adjustments following voluntary motor training. Exp Brain Res 181(4):537–546, 2007.
+@@ 905 [p]
+63. Tseng, YL, et al: Predictors for the immediate responders to cervical manipulation in patients with neck pain. Manual Ther 11:306–315, 2006.
+@@ 906 [p]
+64. Vera-Garcia, FJ, Grenier, SG, and McGill, SM: Abdominal muscle response during curl-ups on both stable and labile surfaces. Phys Ther 80(6):564–569, 2000.
+@@ 907 [p]
+65. Wohlfahrt, D, Jull, G, and Richardson, C: The relationship between the dynamic and static function of abdominal muscles. Aust J Physiother 39:9–13, 1993.
