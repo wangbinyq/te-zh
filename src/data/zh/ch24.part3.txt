@@ -1,0 +1,416 @@
+@@ 534 [p]
+高危妊娠是指因疾病或问题而复杂化、使母亲或胎儿在分娩前、分娩中或分娩后面临患病或死亡风险的妊娠。这些情况可能是原有的、由妊娠诱发的，或由妊娠期异常生理反应所致。医疗干预的目标是预防早产，通常通过卧床休息、限制活动和适当用药来实现。长期卧床不仅影响肌肉骨骼系统，还影响肺、心血管和代谢功能。尽管这些女性最初可能在家中接受访视，但已存在的去适应状态会持续在力量与耐力方面给产后病人造成功能受限，因此这一情形非常适合物理治疗干预。与盆底功能障碍一样，要取得良好结局，需要治疗师接受高级教育并提供专门化照护。
+@@ 535 [h4]
+高危情况
+@@ 536 [p]
+早产临产。若在妊娠 37 周前出现宫颈扩张、宫颈消失和（或）子宫收缩，即视为早产临产。显然，若出现这些征象，婴儿的健康是首要关注点。该情况的机制仍不清楚。
+@@ 537 [p]
+胎膜早破。羊膜囊破裂，羊水在临产开始前流失。若发生于胎儿发育完成之前，可危及胎儿。胎膜破裂后可能自然开始临产。失去羊膜囊的保护后，胎儿感染的机会也增加。羊水渗漏是立即就医的指征。
+@@ 538 [p]
+宫颈机能不全。宫颈机能不全是指在孕中期（妊娠 16 周后）或孕晚期早期出现的无痛性宫颈扩张。这可导致胎膜早破，并娩出过小而不能存活的胎儿。
+@@ 539 [p]
+前置胎盘。胎盘附着于子宫的位置过低，靠近宫颈。随着宫颈扩张，胎盘开始与子宫分离，并可能先于胎儿出现，从而危及胎儿生命。主要症状是间歇性、反复性或无痛性出血，且强度逐渐加重。
+@@ 540 [p]
+妊娠相关高血压或子痫前期。子痫前期以高血压、蛋白尿和严重水潴留为特征，若发展为重度，可进展为母亲抽搐、昏迷和死亡（子痫）。它通常发生于孕晚期，并在分娩后消失。病因尚不清楚。
+@@ 541 [p]
+多胎妊娠。发育的胎儿多于一个。多胎妊娠的并发症包括早产临产与早产、围产期死亡率升高、低出生体重儿增多，以及母亲并发症（如高血压）发生率升高。
+@@ 542 [p]
+糖尿病。糖尿病可在妊娠前即存在，也可由妊娠的生理应激引起。妊娠期糖尿病在妊娠期出现或首次被发现，影响 7% 的孕妇，通常在妊娠后消失；然而，其中多达 50% 的女性可能在 10 年内发展为 2 型糖尿病。
+@@ 543 [p]
+与前述许多高危情况不同，妊娠期糖尿病女性可能是更适合接受较传统物理治疗干预的人选。在监督下进行的个体化运动方案是很好的选择。美国糖尿病协会于 2006 年发表了妊娠期糖尿病女性妊娠期运动的参数。他们支持时长有限、以 50% 最大有氧能力进行的有氧运动；也可使用 Borg 量表，以 11 至 13 的主观疲劳程度（RPE）作为最大活动水平（见专栏 24.4）。在适当监测胎儿／子宫活动、母亲心率与血糖水平的情况下，15 至 30 分钟的运动时间似乎是安全的。指导病人监测运动后的任何子宫活动；宫缩次数须少于每 15 分钟 1 次。
+@@ 544 [p]
+运动实际上可能预防肥胖孕妇的妊娠期糖尿病。特别是，已有研究显示半卧位骑车或上肢测功计运动能稳定并降低血糖水平。
+@@ 545 [p]
+在一项针对超重妊娠期糖尿病女性（n=32）的随机研究中，对照组仅接受饮食治疗，其余女性还参加循环式抗阻训练。饮食加运动组能将胰岛素治疗推迟至妊娠较晚期（p <0.05），并且总体胰岛素处方量也少于仅饮食组（p<0.05）。
+@@ 546 [h4]
+高危妊娠的处理指南与注意事项
+@@ 547 [p]
+所有针对高危人群的运动方案都应根据诊断、限制、物理治疗检查与评估以及与医生的会诊来个别制定。活动必须满足病人需要，但不应使病情进一步复杂化。因高危状态而卧床的女性处理指南总结于专栏 24.7。
+@@ 548 [p]
+与病人建立良好关系并赢得信任。在所有活动中密切监测病人；每次治疗后重新评估，并注意任何变化。教会病人自我监测技术也很重要，使她能够警觉不良反应并作出适当反应。
+@@ 549 [li]
+长时间静态体位是首要关注点。高危病人的首选体位是左侧卧位，该体位最适合减轻对下腔静脉的压迫并使心输出量最大化，从而改善母体与胎儿循环。
+@@ 550 [li]
+某些运动，尤其是腹部运动，可能刺激子宫收缩。若发生这种情况，应修改或停止这些运动。
+@@ 551 [li]
+监测并报告任何子宫收缩、出血或羊水流失。
+@@ 552 [li]
+不要让病人使用 Valsalva 动作。避免任何增加腹内压的活动。身体力学与姿势指导可能刺激腹部收缩，因此要确保病人不用力屏气，并密切监测不良症状。
+@@ 553 [li]
+保持运动简单。让病人缓慢、平稳地进行，且用力最小。
+@@ 554 [h4]
+专栏 24.7　管理指南——高危妊娠
+@@ 555 [h4]
+潜在的结构与功能损伤、活动受限（功能受限）
+@@ 556 [p]
+主要的活动受限是不能离床和移动、长时间静态体位，从而导致以下损伤：
+@@ 557 [li]
+关节僵硬与肌肉酸痛
+@@ 558 [li]
+肌肉无力与废用性萎缩
+@@ 559 [li]
+血管并发症，包括血栓形成风险与子宫血流减少
+@@ 560 [li]
+远端身体部位本体感觉减退
+@@ 561 [li]
+缺乏运动所致的便秘
+@@ 562 [li]
+姿势改变
+@@ 563 [li]
+无聊
+@@ 564 [p]
+情绪应激；病人可能面临失去婴儿的风险；因认为某种活动导致了问题、或认为自己照顾自己不够好而产生的内疚；对家庭状况、较大的孩子、经济或即将到来的分娩的焦虑
+@@ 565 [table]
+照护计划 | 干预
+1. 减轻僵硬 | 1. 体位指导；评估所需支撑；在可用活动范围内促进关节运动
+2. 维持肌肉长度与体积 | 2. 在医生限定的范围内进行牵伸与强化运动
+3. 使循环最大化；预防深静脉血栓 | 3. 踝泵；关节活动度
+4. 改善本体感觉 | 4. 尽可能多的身体部位的运动活动
+5. 在可用范围内改善姿势 | 5. 姿势指导，根据允许的活动水平按需修改；如有可能，进行床上移动与转移技术训练（避免 Valsalva 动作）
+@@ 566 [p]
+　
+@@ 567 [table]
+专栏 24.7　管理指南——高危妊娠（续）
+照护计划 | 干预
+6. 缓解无聊 | 6. 变换运动的活动与体位；鼓励与同样卧床的人交流（http://www.sidelines.org）
+7. 增强放松 | 7. 放松技术／压力管理
+8. 为分娩作准备 | 8. 分娩教育、呼吸训练，以及协助并为分娩作准备的运动
+9. 促进产后恢复 | 9. 产后期的运动指导与家庭方案；身体力学指导，尤其是与照护婴儿相关的部分
+@@ 568 [li]
+许多高危妊娠以剖宫产结束，因此应对该女性进行剖宫产术后康复的教育。
+@@ 569 [li]
+在每一个动作中融入最大的肌肉效率。
+@@ 570 [li]
+教病人自我监测技术。
+@@ 571 [h4]
+高危妊娠的运动建议
+@@ 572 [p]
+运动建议是对已描述过的干预所作的调整，应考虑用于因高危妊娠而卧床的病人。应包含的运动总结于专栏 24.8。
+@@ 573 [h4]
+体位
+@@ 574 [li]
+左侧卧位，以防止下腔静脉受压、改善心输出量并减轻下肢水肿
+@@ 575 [li]
+侧卧时在双膝之间及腹部下方垫枕
+@@ 576 [li]
+短时间仰卧，在右髋下放置楔形垫以减轻下腔静脉受压（见图 24.7）
+@@ 577 [li]
+改良俯卧位（侧卧，部分转向俯卧，腹部下垫枕），以减轻下背部不适与压力
+@@ 578 [h4]
+关节活动度
+@@ 579 [li]
+所有关节的主动关节活动度。
+@@ 580 [h4]
+专栏 24.8　高危妊娠的床上运动
+@@ 581 [li]
+病人仰卧（右髋下垫楔形垫）、半卧位或侧卧
+@@ 582 [li]
+■ 颈部主动关节活动度与收下颌　■ 向后肩部画圈（肩胛后缩）；伸向天花板（前伸）
+@@ 583 [li]
+■ 单侧上肢对角模式　■ 肩、肘屈／伸；侧卧位手臂画圈
+@@ 584 [li]
+■ 前臂旋前／旋后；腕屈／伸，手张开／握紧
+@@ 585 [li]
+■ 骨盆倾斜　■ 腹部运动（经与医生会诊）　■ 盆底肌运动（经与医生会诊）　■ 股四头肌与臀肌等长收缩　■ 单侧髋外展与内收、内／外旋
+@@ 586 [li]
+侧卧位单侧髋与膝屈／伸
+@@ 587 [li]
+踝泵、踝画圈、踝“字母表”
+@@ 588 [li]
+趾屈／伸
+@@ 589 [li]
+动作应缓慢、无应力，如有可能则贯穿全范围。
+@@ 590 [li]
+若抗重力关节活动度用力过大，则在重力中立位进行教学。
+@@ 591 [li]
+重复次数与频率应根据该女性的状况个体化。
+@@ 592 [h4]
+步行／站立
+@@ 593 [p]
+离床几乎总是禁忌的；如允许，通常也仅限于上厕所或淋浴
+@@ 594 [li]
+步行时鼓励良好姿势
+@@ 595 [li]
+足尖或足跟行走以强调小腿肌肉
+@@ 596 [li]
+轻柔的部分范围下蹲以强调髋与大腿肌肉
+@@ 597 [h4]
+放松技术、床上移动与转移活动
+@@ 598 [li]
+按无并发症妊娠所述进行放松
+@@ 599 [li]
+在床上向上、向下及侧向移动
+@@ 600 [li]
+原木样翻身：配合颈部和上下肢以协助移动
+@@ 601 [li]
+仰卧至坐起：使用原木样翻身技术，用上肢协助
+@@ 602 [h4]
+分娩准备
+@@ 603 [li]
+放松技术
+@@ 604 [li]
+下蹲的替代方式：仰卧、坐位或侧卧，将屈曲的膝部移向胸部（髋部须外展）
+@@ 605 [p]
+■ 盆底放松　■ 呼吸运动：尽量减少用力的腹部呼气
+@@ 606 [h4]
+产后运动指导
+@@ 607 [p]
+指导内容与前面无并发症妊娠部分所述相同。
+@@ 608 [h2]
+自主学习活动
+@@ 609 [h4]
+批判性思维与讨论
+@@ 610 [p]
+1. 描述妊娠期三种会影响运动耐受性的正常变化。
+@@ 611 [p]
+2. 解释腹直肌分离的临床意义、检查方法和矫正运动。
+@@ 612 [p]
+3. 区分妊娠病人的姿势性与骶髂性背痛。
+@@ 613 [p]
+4. 说出盆底功能障碍的五项危险因素。
+@@ 614 [p]
+5. 对妊娠前从未运动过的女性，哪些运动指南最有帮助？
+@@ 615 [p]
+6. 从生物力学、重力和能量节省的角度，讨论无并发症分娩与接产的最佳体位。
+@@ 616 [p]
+7. 阴道分娩对哪些神经造成巨大的牵伸与压迫？
+@@ 617 [h4]
+实验室练习
+@@ 618 [p]
+1. 练习向实验室同伴讲解如何完成下列运动。观察他们动作是否正确。交换角色并给予反馈。
+@@ 619 [p]
+■ 腹直肌分离运动　■ 骨盆钟运动　■ 分娩与接产不同阶段的呼吸与放松　2. 练习给予指导，并就盆底觉察训练与强化运动的指导效果获取口头反馈。
+@@ 620 [p]
+3. 观察一次孕妇运动课程。评价其指导的有效性与包容性。
+@@ 621 [h4]
+病例研究
+@@ 622 [p]
+1. V 女士是一位 32 岁的孕妇，因“下背痛”的诊断转诊，该疼痛在妊娠 24 周时变得严重。她诉（左）腰／胸段、（右）前肋／胸部以及颈部症状，且随妊娠进展而加重。妊娠前她穿定制文胸（32-MM），现已太小，支撑不足。穿此件文胸会明显加重她的颈部与上斜方肌症状。穿运动文胸或站立超过 10 至 15 分钟会加重下背部症状。疼痛严重限制了她在家中与社区中的日常活动。
+@@ 623 [p]
+她上下楼梯、购物、洗衣及其他家务均有困难。夜间常因疼痛而醒，并诉夜间下肢麻木。她是一位单身母亲，有一个 6 岁的儿子。相关病史包括：上一次妊娠期间体重增加 100 lb、剖宫产分娩、三次纤维囊性乳腺组织切除。除产前维生素外，无全身性疾病或用药。目前体重 238 lb，身高 5´4˝。
+@@ 624 [h4]
+临床发现
+@@ 625 [p]
+姿势评估显示明显的头／肩前伸伴双肩关节内旋，显著的脊柱前凸（颈段与腰段），双侧膝反张，纵弓降低，支撑面增宽伴双髋过度外旋（ER）。所有动态运动均因疼痛受抑：频繁的体重转移与不对称转换，抗痛步态模式伴髋部外旋增加。腰椎后伸与（左）颈椎旋转受疼痛与痉挛限制最明显。
+@@ 626 [p]
+脐上腹直肌分离 9 cm；腹部力量 3–/5。因脂肪组织，骨盆标志难以评估；双下肢长度看来相等。触诊耻骨联合处有轻度压痛。
+@@ 627 [li]
+确定损伤与功能受限。
+@@ 628 [li]
+确定针对损伤与功能受限的目标。
+@@ 629 [li]
+制定实现目标的治疗计划；确定具体的干预与参数、就诊次数，以及你认为必要的任何随访或转诊。
+@@ 630 [p]
+2. W 夫人是一位 71 岁女性，有 11 年尿失禁与尿急病史。她频繁发生大量漏尿意外，每天使用 8 至 10 片大号失禁垫和 8 片内裤衬垫以保护衣物。每 24 小时排尿 13 至 16 次。她还诉便秘与排便时用力，增加纤维摄入后改善。咖啡因摄入为每天 2 份。W 夫人不吸烟。由于这一问题，她参加社交与社区活动明显减少。尿动力学检查显示膀胱容量减少至 150 cc，并证实逼尿肌不稳定的诊断。
+@@ 631 [p]
+■ 相关病史包括九次妊娠和七次活产（G9、P7），其中一次臀位。长期存在的下背痛（LBP）与“坐骨神经问题”，腰椎融合术分别在其 44 岁和 48 岁时施行。其他手术史包括 36 岁时行直肠膨出／膀胱膨出修补术，37 岁时行部分子宫切除术。高血压与哮喘均经药物控制良好。
+@@ 632 [h4]
+临床发现
+@@ 633 [p]
+盆底肌评估显示感觉觉察差、静息张力降低，徒手肌力测试（MMT）为 2/5。病人能保持收缩 4 秒，并在 10 秒内完成 10 次“快速收缩”。可见腹部肌的辅助募集。会阴压力测定证实肌无力，所产生的压力为 6.35 cm 水柱。对盆底施加牵伸促进后，肛提肌收缩增强（右 > 左）。
+@@ 634 [p]
+腹部力量为 3/5。脐上腹直肌分离 4.5 cm。存在膈式呼吸模式；用力时无 Valsalva 动作。由于腰椎融合，躯干的所有动态运动均轻度受限。
+@@ 635 [p]
+该病人约 18 个月前接受过物理治疗，其下背（LB）方案已能独立完成。（由于保险限制为 10 次就诊，病人要求主要关注盆底功能障碍与失禁。）
+@@ 636 [li]
+确定损伤与功能受限。
+@@ 637 [li]
+确定针对损伤与功能受限的目标。
+@@ 638 [li]
+设计实现目标的治疗计划；确定具体的干预与参数、就诊次数，以及你认为必要的任何随访或转诊。
+@@ 639 [h4]
+网络资源
+@@ 640 [p]
+http://www.womenshealthapta.org（美国物理治疗协会妇女健康分会）
+@@ 641 [li]
+http://sis.nlm.nih.gov/outreach/whrhome.html（妇女健康资源）
+@@ 642 [p]
+http://www.healthywomen.org　http://www.pfdn.org（盆底功能障碍网络）　http://www.nafc.org（美国失禁协会）　http://www.pelvicpain.org（国际盆腔疼痛学会）
+@@ 643 [h4]
+参考文献
+@@ 644 [p]
+1. Allen, RE, and Hanson, RW: Episiotomy in low-risk vaginal deliveries. J Am Board Fam Pract (18):8–12, 2005.
+@@ 645 [p]
+2. Al-Zirqi, I, et al: Uterine rupture after previous caesarean section. BJOG 117(7):809–820, 2010.
+@@ 646 [p]
+3. American College of Obstetricians and Gynecologists: Exercise during pregnancy and the postpartum Period. ACOG Committee Opinion No. 267. Obstet Gynecol 99:171–173, 2002.
+@@ 647 [p]
+4. American Diabetes Association: Standards of medical care in diabetes, 2006 Position statement. Diabetes Care 29:S4–S42, 2006.
+@@ 648 [p]
+5. Artal, R, and Wiswell, R: Exercise in Pregnancy. Baltimore: Williams & Wilkins, 1986.
+@@ 649 [p]
+6. Ashton-Miller, J, and DeLancey, J: On the biomechanics of vaginal birth and common sequelae. Annu Rev Biomed Eng 11:163–176, 2009.
+@@ 650 [p]
+7. Baker, PK: Musculoskeletal problems. In Steege, J, et al: Chronic Pelvic Pain: An Integrated Approach. Philadelphia: WB Saunders, 1998.
+@@ 651 [p]
+8. Barber, MD, et al: Innervation of the female levator ani muscles. Am J Obstet Gynecol 187(1):64–71, 2002.
+@@ 652 [p]
+9. Benson, JT (ed): Female Pelvic Floor Disorders: Investigation and Management. New York: WW Norton, 1992.
+@@ 653 [p]
+10. Bo, K: Pelvic floor muscle training is effective in treatment of stress urinary incontinence, but how does it work? Int Urogynecol J Pelvic Floor Dysfunct 15:76–84, 2004.
+@@ 654 [p]
+11. Bo, K, et al: Transabdominal ultrasound measurement of pelvic floor muscle activity when activated directly or via a transversus abdominis muscle contraction. Neurourol Urodynam 22: 582–588, 2003.
+@@ 655 [p]
+12. Boardman, R, and Jackson, B: Below the belt: approach to chronic pelvic pain. Can Fam Physician 52(12):1556–1562, 2006.
+@@ 656 [p]
+13. Boissonnault, J, and Blaschak, M: Incidence of diastasis recti abdominis during the childbearing years. Phys Ther 68:1082–1086, 1988.
+@@ 657 [p]
+14. Borello-France, D, et al: Fecal and urinary incontinence in primiparous women: the Childbirth and Pelvic Symptoms (CAPS) Study. Obstet Gynecol 108:863–872, 2006.
+@@ 658 [p]
+15. Borg, G: Psychophysical bases of perceived exertion. Med Sci Sports Exerc 14:377–381, 1982.
+@@ 659 [p]
+16. Boston Women’s Health Book Collective: The New Our Bodies, Ourselves. New York: Simon & Schuster, 1992.
+@@ 660 [p]
+17. Bradley, CS, et al: Bowel symptoms in women planning surgery for pelvic organ prolapse. Am J Obstet Gynecol 195(6):1814–1819, 2006.
+@@ 661 [p]
+18. Brankston, GN, et al: Resistance exercise decreases the need for insulin in overweight women with gestational diabetes mellitus. Am J Obstet Gynecol 190(1):188–193, 2004.
+@@ 662 [p]
+19. Bump, R, et al: Assessment of Kegel pelvic muscle exercise performance after brief verbal instruction. Am J Obstet Gynecol 165:322–329, 1991.
+@@ 663 [p]
+20. Burgio, KL, et al: Behavioral versus drug treatment for urge urinary incontinence in older women. JAMA 280(23):1995–2000, 1998.
+@@ 664 [p]
+21. Bursch, S: Interrater reliability of diastasis recti abdominis measurement. Phys Ther 67(7):1077–1079, 1987.
+@@ 665 [p]
+22. Chiarelli, P, and O’Keefe, D: Physiotherapy for the pelvic floor. Austral J Physiother 27(4):103–108, 1981.
+@@ 666 [p]
+23. Clapp, JF: A clinical approach to exercise during pregnancy. Clin Sports Med 13(2):443–458, 1994.
+@@ 667 [p]
+24. Clapp, JF: Exercise and fetal health. J Dev Physiol 15(1):9–14, 1991.
+@@ 668 [p]
+25. Clapp, JF: Exercise during pregnancy: a clinical update. Clin Sports Med 19(2):273–286, 2000.
+@@ 669 [p]
+26. Clapp, JF, et al: Continuing regular exercise during pregnancy: effect of exercise volume on fetoplacental growth. Am J Obstet Gynecol 186:142–147, 2002.
+@@ 670 [p]
+27. DeLancey, JOL, and Richardson, AC: Anatomy of genital support. In Benson, JT (ed.): Female Pelvic Floor Disorders: Investigation and Management. New York: WW Norton, 1992.
+@@ 671 [p]
+28. Depledge, J, et al: Management of symphysis pubis dysfunction during pregnancy using exercise and pelvic support belts. Phys Ther 85:1290–1300, 2005.
+@@ 672 [p]
+29. Dolan, L, et al: Stress incontinence and pelvic floor neurophysiology 15 years after the first delivery. BJOG 110(12):1107–1114, 2003.
+@@ 673 [p]
+30. Fantl, JA, et al: Urinary incontinence in adults: Acute and chronic management. Clinical Practice Guideline No. 2, 1996 Update, US Dept of HHS, Public Health Service, AHCPR Publication No. 96–0682, Rockville, MD: March, 1996.
+@@ 674 [p]
+31. Feigel, D: Evaluating Prenatal and Postpartum Exercise Classes. Bulletin of Section on Obstetrics and Gynecology. American Physical Therapy Association 7:12, 1983.
+@@ 675 [p]
+32. Feldenkrais, M: Awareness Through Movement: Health Exercises for Personal Growth, ed. 1. New York: Harper & Row, 1972.
+@@ 676 [p]
+33. Fisher, K, and Riolo, L: What is the evidence regarding specific methods of pelvic floor exercise for a patient with urinary stress incontinence and mild anterior wall prolapse? Phys Ther 84(8):744–753, 2004.
+@@ 677 [p]
+34. FitzGerald, MP, et al: Risk factors for anal sphincter tear during vaginal delivery. Obstet Gynecol 109:29–34, 2007.
+@@ 678 [p]
+35. Flanagan, G: The First Nine Months of Life, ed. 2. New York: Simon & Schuster, 1962.
+@@ 679 [p]
+36. Frahm, J: Strengthening the pelvic floor. Clin Man Phys Ther 5(3):30–33, 1985.
+@@ 680 [p]
+37. Freyder, SC: Exercising while pregnant. J Orthop Sports Phys Ther 10:358–365, 1989.
+@@ 681 [p]
+38. Garshasbi, A, and Faghih Zadeh, S: The effect of exercise on the intensity of low back pain in pregnant women. Int J Gynaecol Obstet 88(3):271–275, 2005.
+@@ 682 [p]
+39. Gent, D, and Gottlieb, K: Cesarean rehabilitation. Clin Man Phys Ther 5:14, 1985.
+@@ 683 [p]
+40. Gilbert, E, and Harman, J: High-Risk Pregnancy and Delivery, ed. 1. St. Louis: CV Mosby, 1986.
+@@ 684 [p]
+41. Grigorescu, BA, et al: Innervation of the levator ani muscles: description of the nerve branches to the pubococcygeus, iliococcygeus, and puborectalis muscles. Int Urogynecol J Pelvic Floor Dysfunct 19(1):107–116, 2008.
+@@ 685 [p]
+42. Guise, JM, et al: Vaginal Birth After Cesarean: New Insights. Evidence Report/Technology Assessment No. 191. AHRQ Publication No.10-E001. Rockville, MD: Agency for Healthcare Research and Quality. March 2010. www.ahrq.gov.
+@@ 686 [p]
+43. Harrington, K, and Haskvitz, E: Managing a patient’s constipation with physical therapy. Phys Ther Nov 86:1511–1519; 2006.
+@@ 687 [p]
+44. Hartmann, K, et al: Outcomes of routine episiotomy. JAMA 293:2141–2148, 2005.
+@@ 688 [p]
+45. Hay-Smith, EJC, et al: Pelvic floor muscle training for urinary incontinence in women ( Cochrane Review ). The Cochrane Library, Issue 3. Chichester, UK: John Wiley & Sons, 2004.
+@@ 689 [p]
+46. Holroyd-Leduc, J, and Straus, S: Management of urinary incontinence in women. JAMA 291:986–995, 2004.
+@@ 690 [p]
+47. http://www.acog.org/publications/patient_education/bp001. cfm#pregnancy. Accessed July 29, 2010.
+@@ 691 [p]
+48. http://www.cdc.gov/Features/DiabetesPregnancy. Accessed July 24, 2010.
+@@ 692 [p]
+49. http://www.cdc.gov/nchs/data/nvsr/nvsr58/nvsr58_24.pdf. Accessed Sept 20, 2010.
+@@ 693 [p]
+50. http://www.healthypeople.gov/Data/2010prog/focus16/2007 Focus16.pdf. Accessed Sept 20, 2010.
+@@ 694 [p]
+51. http://www.webmd.com/baby/guide/healthy-weight-gain. Accessed July 29, 2010.
+@@ 695 [p]
+52. Ingalls, A, and Salerno, M: Maternal and Child Health Nursing, ed. 5. St. Louis: CV Mosby, 1983.
+@@ 696 [p]
+53. Irion, J, and Irion, G (eds): Women’s Health in Physical Therapy. Baltimore: Lippincott Williams & Wilkins, 2010.
+@@ 697 [p]
+54. Jamieson, D, and Steege, J: The prevalence of dysmenorrhea, dyspareunia, pelvic pain, and irritable bowel syndrome in primary care practices. Obstet Gynecol 87(1):55–58, 1996.
+@@ 698 [p]
+55. Jarrell, J, et al: Consensus guidelines for the management of chronic pelvic pain. J Obstet Gynaecol Can 27(8):781–826, 2005.
+@@ 699 [p]
+56. Jarski, RW, and Trippett, DL: The risks and benefits of exercise during pregnancy. J Fam Pract 30(2):185–189, 1990.
+@@ 700 [p]
+57. Klein, M, et al: Determinants of vaginal-perineal integrity and pelvic floor functioning in childbirth. Am J Obstet Gynecol 176(2):403–410, 1997.
+@@ 701 [p]
+58. Legato, M: Eve’s Rib: The Groundbreaking Guide to Women’s Health. New York: Three Rivers Press, 2002.
+@@ 702 [p]
+59. Mandelstam, D: The pelvic floor. Physiotherapy 64:236–239, 1978.
+@@ 703 [p]
+60. Mant J, et al: Epidemiology of genital prolapse: observations from the Oxford Family Planning Association Study. BJOG 104:579–585, 1997.
+@@ 704 [p]
+61. Markel Feldt, C: Applying the Guide to Physical Therapist Practice to Women’s Health Physical Therapy: Part II. J Section Women’s Health, APTA 24:1, 2000.
+@@ 705 [p]
+62. Morkved, S, and Bo, K: Effect of postpartum pelvic floor muscle training in prevention and treatment of urinary incontinence: a one-year follow up. BJOG 107(8):1022–1028, 2002.
+@@ 706 [p]
+63. Morkved, S, et al: Pelvic floor muscle training during pregnancy to prevent urinary incontinence: a single-blind randomized controlled trial. Obstet Gynecol 101(2):313–319, 2003.
+@@ 707 [p]
+64. Nilsson-Wikmar, L, et al: Effect of three different physical therapy treatments on pain and activity in pregnant women with pelvic girdle pain: a randomized clinical trial with 3, 6, and 12 months follow-up postpartum. Spine 30(8):850–856, 2005.
+@@ 708 [p]
+65. Noble, E: Essential Exercises for the Childbearing Year, ed. 3. Boston: Houghton Mifflin, 1988.
+@@ 709 [p]
+66. Noble, E: Having Twins, ed. 3. Boston: Houghton Mifflin, 2003.
+@@ 710 [p]
+67. Norwood, C: Cesarean variations: Patients, facilities, or policies. Int J Childbirth Educ 1:4, 1986.
+@@ 711 [p]
+68. Nygaard, I, et al: Pelvic organ prolapse in older women: prevalence and risk factors. Obstet Gynecol 104(3):489–497, 2004.
+@@ 712 [p]
+69. Nygaard, I, et al: Physical activity in women planning sacrocolpopexy. Int Urogyn J 18:33–37, 2007.
+@@ 713 [p]
+70. Olsson, C, and Nilsson-Wikmar, L: Health-related quality of life and physical ability among pregnant women with and without back pain in late pregnancy. Acta Obstet Gynecol Scand 83(4):351–357, 2004.
+@@ 714 [p]
+71. Ostgaard, HC, et al: Reduction of back and posterior pelvic pain in pregnancy. Spine 19(8):894–900, 1994.
+@@ 715 [p]
+72. Paras, ML, et al: Sexual abuse and lifetime diagnosis of somatic disorders: a systematic review and meta-analysis. JAMA 302(5):550–561, 2009.
+@@ 716 [p]
+73. Pauls, J: Therapeutic Approaches to Women’s Health: A Program of Exercise and Education. Gaithersburg, MD: Aspen, 1995.
+@@ 717 [p]
+74. Perinatal Exercise Guidelines: Section on Obstetrics and Gynecology. Alexandria, VA: American Physical Therapy Association, 1986.
+@@ 718 [p]
+75. Pennick, VE, and Young, G: Interventions for preventing and treating pelvic and back pain in pregnancy. Cochrane Database Syst Rev 18(2):CD001139, 2007.
+@@ 719 [p]
+76. Peters, AA, et al: A randomized clinical trial to compare two different approaches in women with chronic pelvic pain. Obstet Gynecol 77(5):740–744, 1999.
+@@ 720 [p]
+77. Position Paper. Section on Obstetrics and Gynecology: bulletin of section on obstetrics and gynecology. American Physical Therapy Association 8:6, 1984.
+@@ 721 [p]
+78. Pritchard, J, and MacDonald, P (eds): Williams’ Obstetrics, ed. 16. Norwalk, CT: Appleton-Century-Crofts, 1980.
+@@ 722 [p]
+79. Sampselle, C, et al: Effect of pelvic muscle exercise on transient incontinence during pregnancy and after birth. Obstet Gynecol 91(3):406–412, 1998.
+@@ 723 [p]
+80. Sandberg, E: Synopsis of Obstetrics, ed. 10. St. Louis: CV Mosby, 1978.
+@@ 724 [p]
+81. Santiesteban, A: Electromyographic and dynamometric characteristics of female pelvic floor musculature. Phys Ther 68(3): 344–351, 1988.
+@@ 725 [p]
+82. Shrock, P, Simkin, P, and Shearer, M: Teaching prenatal exercise: Part II—Exercises to think twice about. Birth Fam J 8(3): 167–175, 1981.
+@@ 726 [p]
+83. Snooks, SJ, et al: Risk Factors in childbirth causing damage to the pelvic floor innervation. Int J Colorect Dis 1(1):20–24, 1986.
+@@ 727 [p]
+84. Society of Obstetricians and Gynaecologists of Canada and the Canadian Society for Exercise Physiology: exercise in pregnancy and the postpartum period. Joint guidelines. J Obstet Gynaecol Can 25(6):516–522, 2003.
+@@ 728 [p]
+85. Spitznagle, T, et al: Prevalence of Diastasis Recti abdominis in an urogynecological population. Int Urogyn J Pelvic Floor Dysfunct 18(3):321–328, 2007.
+@@ 729 [p]
+86. Stephenson, R, and O’Connor, L: Obstetric and Gynecologic Care in Physical Therapy, ed. 2. Thorofare, NJ: Charles B. Slack, 2000.
+@@ 730 [p]
+87. Stuge, B, et al: The efficacy of a treatment program focusing on specific stabilizing exercises for pelvic girdle pain after pregnancy—a two-year follow-up of a randomized, clinical trial. Spine (29)10:E197–E203, 2004.
+@@ 731 [p]
+88. Tchow, D, et al: Pelvic-floor musculature exercises in treatment of anatomical urinary stress incontinence. Phys Ther 68(5): 652–655, 1988.
+@@ 732 [p]
+89. Thom, D, et al: Evaluation of parturition and other reproductive variables as risk factors for urinary incontinence in later life. Obstet Gynecol 90:983–989, 1997.
+@@ 733 [p]
+90. Wallner, C, et al: Innervation of the pelvic floor muscles: a reappraisal for the levator ani nerve. Obstet Gynecol 108(3 pt, 1): 529–534, 2006.
+@@ 734 [p]
+91. Wilder, E (ed): Obstetric and Gynecologic Physical Therapy: Clinics in Physical Therapy, vol. 20, ed. 1. New York: Churchill Livingstone, 1988.
+@@ 735 [p]
+92. Wilder, E (ed): The Gynecological Manual, ed. 2. Alexandria, VA: APTA, Section on Women’s Health, 2000.
+@@ 736 [p]
+93. Zacharin, RF: Pelvic Floor Anatomy and the Surgery of Pulsion Enterocele. New York: Springer-Verlag, 1985.

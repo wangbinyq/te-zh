@@ -1,0 +1,744 @@
+@@ 249 [p]
+淋巴引流方案中所采用的练习涵盖范围广泛的治疗性运动干预，具体包括深呼吸、放松、柔韧性、力量、心血管调理练习，以及一套淋巴引流练习。已有大量文献对这些运动方案作了描述。
+@@ 250 [p]
+尚未证明某一种练习组合或顺序优于其他组合或顺序。尽管十年前的严谨文献综述指出，淋巴引流运动方案的有效性主要基于临床观察、有经验从业者的意见或病例报告，但如今已有越来越多的证据记录了这类方案中特定组成部分的疗效。
+@@ 251 [p]
+> *4,10-12,14,15,33,38,50,63,67,70,71,91,100,101,106,107
+@@ 252 [li]
+†7,8,15,19–22,48,50,60,62,63,70,71,80,84,91,106,107
+@@ 253 [p]
+　
+@@ 254 [h4]
+专栏 25.8　淋巴引流练习：原则与依据
+@@ 255 [li]
+肌肉收缩通过直接压迫集合淋巴管而泵送液体。
+@@ 256 [li]
+运动可减轻软组织与关节的活动度不足，这种活动度不足可促成静止姿势并导致淋巴淤滞。
+@@ 257 [li]
+■ 运动可增强四肢肌肉的力量并防止其萎缩，从而提高淋巴泵的效率。
+@@ 258 [li]
+■ 运动可提高心率与动脉搏动，进而促进淋巴流动。
+@@ 259 [li]
+应先清理中央淋巴储备区，再清理外周区域，据此安排练习顺序。
+@@ 260 [li]
+运动时穿戴压力袖套或压力绷带，比不缠绷带运动更能有效地促进淋巴流动与蛋白质重吸收。
+@@ 261 [h4]
+淋巴水肿管理的运动方案组成
+@@ 262 [h4]
+深呼吸与放松练习
+@@ 263 [li]
+深呼吸贯穿于淋巴水肿管理的整个运动方案。有观点认为，腹式膈肌呼吸有助于淋巴液的移动：深呼吸时膈肌下降，控制性最大呼气时腹肌收缩。腹内压与胸内压的变化产生轻柔而持续的泵送作用，推动液体进入中央淋巴管，这些淋巴管在胸腔内向上走行，并在颈部汇入静脉系统（见图 25.1）。
+@@ 264 [li]
+每次练习开始时先进行渐进性全身放松练习（见第 4 章），以减轻肌肉紧张，肌肉紧张可促成活动受限与淋巴淤滞。深呼吸是放松练习序列中不可缺少的组成部分。
+@@ 265 [h4]
+柔韧性练习
+@@ 266 [p]
+采用轻柔的自我牵伸练习，以尽量减轻软组织与关节的活动度不足，尤其是身体近端区域，这些区域的活动度不足可促成静止姿势与淋巴淤滞。
+@@ 267 [h4]
+力量与肌肉耐力练习
+@@ 268 [p]
+使用自我阻力、弹性阻力、重物或重量训练器的等长与动态练习均适用，但须以轻阻力进行（初期 1 至 2 lb），并逐渐增加阻力与重复次数。无论是否已发生淋巴水肿，都必须密切监测患肢的周径与皮肤质地，以判断所确定的运动强度是否恰当。重点在于改善中央与周围肌群的耐力与力量，这些肌群有助于保持直立姿势，并可减轻那些有助淋巴泵机制效率的肌肉的疲劳。
+@@ 269 [h4]
+心血管调理练习
+@@ 270 [p]
+上肢功率车、游泳、骑车与步行等活动可增加循环并刺激淋巴流动。30 分钟的有氧耐力运动可补充淋巴引流练习。存在淋巴水肿时，调理练习以低强度进行（目标心率的 40%～50%）；当淋巴水肿已减轻且运动在其他方面安全时，可以较高强度进行（高达 80% 水平）。
+@@ 271 [p]
+在施密茨（Schmitz）及其同事的一项随机对照研究中，对 141 名上肢淋巴水肿稳定的乳腺癌生存者进行了为期 1 年的举重研究。运动干预包括每周 2 次的渐进性举重，以及运动时使用压力袖套。研究者假设，受控的抗阻训练可提高患臂承受日常生活负荷的功能能力。研究中的女性距确诊时间为 1 至 15 年。
+@@ 272 [p]
+干预方案在受控与监督的环境中包括心血管运动与抗阻运动。练习逐渐进阶。研究结果显示，举重方案未对研究参与者的淋巴水肿产生不良影响。此外，与对照组相比，干预（举重）组女性对患臂与患手的抱怨更少，总体肌肉力量增加，研究结束时淋巴水肿加重次数更少。
+@@ 273 [h4]
+淋巴引流练习
+@@ 274 [p]
+淋巴引流练习常被称为泵送练习，可推动液体通过淋巴通道。每次练习全程进行主动、重复的关节活动度运动。练习遵循特定顺序，使淋巴离开淤滞区域，其顺序与手法淋巴引流时施加的按摩顺序相似。一般而言，练习先集中于身体近端区域，以清理中央集合淋巴管，然后涉及远端肌群，开始将外周水肿以向心方向推向中央淋巴管。许多练习中，患侧上肢或下肢保持抬高姿势。避免静止的下垂姿势。练习顺序中还穿插自我按摩，以进一步促进引流。这些练习也可维持患肢的活动度。
+@@ 275 [p]
+　
+@@ 276 [h4]
+淋巴引流练习的指导原则
+@@ 277 [p]
+病人进行一系列淋巴引流练习时应遵循以下指导原则。这些原则适用于上肢或下肢淋巴水肿的管理，反映了多位作者与该领域专家的综合意见。
+@@ 278 [h4]
+淋巴引流练习的准备
+@@ 279 [li]
+每次练习留出约 20 至 30 分钟。
+@@ 280 [li]
+每天练习 2 次。
+@@ 281 [li]
+备好所需器材，如泡沫轴、楔形垫或体操棒。
+@@ 282 [h4]
+淋巴引流练习过程中
+@@ 283 [li]
+如病人有淋巴水肿，应穿戴压力绷带或定制的压力衣。
+@@ 284 [li]
+在淋巴引流练习前先进行全身放松活动。
+@@ 285 [li]
+按规定顺序进行练习。
+@@ 286 [li]
+缓慢进行主动、重复的动作，每次重复约 1 至 2 秒。
+@@ 287 [li]
+进行远端泵送练习时，将患肢抬高至心脏水平以上。
+@@ 288 [li]
+将深呼吸练习与头、颈、躯干及肢体的主动运动结合。
+@@ 289 [li]
+初期重复次数宜少。逐渐增加重复次数以避免过度疲劳。
+@@ 290 [li]
+不要运动到水肿肢体出现酸痛的程度。
+@@ 291 [li]
+在练习顺序中加入自我按摩，以进一步促进淋巴引流。
+@@ 292 [li]
+练习过程中保持良好姿势。
+@@ 293 [li]
+当力量练习加入淋巴引流顺序时，使用轻阻力并避免肌肉过度疲劳。
+@@ 294 [h4]
+淋巴引流练习后
+@@ 295 [li]
+如有可能，休息时抬高患肢 30 分钟。
+@@ 296 [li]
+每周安排数次低强度有氧运动，如步行或骑自行车 30 分钟。
+@@ 297 [li]
+仔细检查水肿肢体有无发红或肿胀加重迹象，或有无酸痛、搏动性疼痛的主诉，其中任何一项都可能提示运动量过大。
+@@ 298 [h4]
+淋巴引流的精选练习：上肢与下肢练习顺序
+@@ 299 [p]
+本节所述并在专栏 25.9 中总结的练习选择与顺序，旨在协助上肢或下肢淋巴水肿的引流。淋巴水肿方案中建议的许多单项练习，如颈椎关节活动度以及部分肩带或上肢练习，并非专用于淋巴引流，它们也用于改善活动度与力量。本节重点介绍的若干练习已在本书前面各章中介绍。
+@@ 300 [h4]
+专栏 25.9　上肢或下肢淋巴水肿管理的精选练习顺序
+@@ 301 [h4]
+上肢与下肢方案共有的练习
+@@ 302 [p]
+注意：以这些练习开始上肢或下肢方案。■ 深呼吸与全身放松练习；■ 骨盆后倾与部分卷腹
+@@ 303 [li]
+颈椎关节活动度
+@@ 304 [li]
+双侧肩胛运动
+@@ 305 [h4]
+上肢练习
+@@ 306 [li]
+仰卧位下患臂抬高做主动环转
+@@ 307 [li]
+仰卧或卧于泡沫轴上做双臂主动运动
+@@ 308 [li]
+仰卧或坐位做双手对压
+@@ 309 [li]
+站立位肩部牵伸（用体操棒、门框或毛巾）
+@@ 310 [li]
+患臂的肘、前臂、腕与手指主动练习
+@@ 311 [li]
+双侧肩水平外展与内收
+@@ 312 [h4]
+下肢练习
+@@ 313 [li]
+交替膝触胸练习
+@@ 314 [li]
+双膝触胸
+@@ 315 [li]
+臀肌收缩与骨盆后倾
+@@ 316 [li]
+患侧下肢单膝触胸
+@@ 317 [li]
+仰卧、双腿抬高置于楔形垫或墙上做髋外旋
+@@ 318 [li]
+仰卧位做患侧下肢主动屈膝
+@@ 319 [li]
+仰卧、下肢抬高做踝主动跖屈、背屈与环转
+@@ 320 [p]
+　
+@@ 321 [h4]
+专栏 25.9　上肢或下肢淋巴水肿管理的精选练习顺序（续）
+@@ 322 [li]
+站立位过头推墙
+@@ 323 [p]
+■ 手指练习；■ 部分卷腹；■ 休息，患侧上肢抬高
+@@ 324 [li]
+双腿外旋抵墙抬高做髋与膝主动屈曲
+@@ 325 [li]
+双腿抬高做主动骑车与剪式动作
+@@ 326 [li]
+双膝触胸练习，随后做部分卷腹
+@@ 327 [li]
+■ 休息，下肢抬高
+@@ 328 [p]
+本节只描述或图示那些较为独特、此前未涉及的练习或其变式。
+@@ 329 [h4]
+练习顺序
+@@ 330 [li]
+淋巴引流练习前先进行全身放松练习。
+@@ 331 [li]
+淋巴引流练习应遵循特定顺序以助淋巴流动。先用躯干、骨盆、髋与颈部练习清理中央与近端淋巴管，如腹部、腹股沟与颈部淋巴结（见图 25.1）。然后，练习大多从肩到指或从髋到趾依次向远端推进。如淋巴结已被手术切除（例如乳腺癌的单侧腋窝淋巴结清扫，或腹部或盆腔器官癌的双侧腹股沟淋巴结清扫），则必须将淋巴导向体内剩余的淋巴结。
+@@ 332 [p]
+注意：由于尚无一种练习顺序被证明优于其他顺序，本节所列的上肢与下肢练习顺序并不反映任何单一特定方案中的练习。相反，这些练习顺序基于多位作者的建议。上肢或下肢淋巴水肿的练习顺序在本章其余部分予以总结。鼓励治疗师根据病人的个体需要，自行修改或增加本章顺序中的其他练习。
+@@ 333 [li]
+全身放松至少 1 分钟。
+@@ 334 [li]
+整个顺序中保持膈肌呼吸。避免屏气与瓦尔萨尔瓦（Valsalva）动作。
+@@ 335 [li]
+骨盆后倾与部分卷腹
+@@ 336 [li]
+在仰卧位、髋膝屈曲下进行这些练习。
+@@ 337 [li]
+单侧膝触胸动作。这些练习针对腹股沟淋巴结。即使对上肢淋巴水肿，这一点也很重要
+@@ 338 [li]
+仰卧位，屈一侧髋与膝并握住小腿。将膝拉向胸部。轻压或弹动大腿抵住腹部与胸部约 15 次。
+@@ 339 [li]
+换对侧下肢重复该过程。
+@@ 340 [li]
+如淋巴水肿仅见于一侧下肢，先用健侧下肢开始膝触胸练习。
+@@ 341 [li]
+颈椎关节活动度。每个动作数 5 下，共 5 次。
+@@ 342 [li]
+旋转
+@@ 343 [li]
+侧屈
+@@ 344 [li]
+肩胛练习。每个动作数 5 下，共 5 次。
+@@ 345 [li]
+主动上提与下压（耸肩）
+@@ 346 [li]
+主动肩部绕环
+@@ 347 [li]
+主动肩胛后缩与前伸。双臂垂于体侧、屈肘，双侧肩胛骨后缩，使肘尖指向后内侧。然后肩胛骨前伸。
+@@ 348 [h4]
+上肢与下肢练习顺序共有的练习
+@@ 349 [p]
+这些起始练习应纳入单侧或双侧上肢或下肢淋巴水肿的方案。它们旨在帮助病人放松，然后清理中央通道与淋巴结。
+@@ 350 [h4]
+临床提示
+@@ 351 [p]
+务必将肩尽量耸高，然后主动将肩尽量向下拉（肩胛骨下压）。
+@@ 352 [li]
+全身放松
+@@ 353 [li]
+让病人取舒适的仰卧位并开始深呼吸。然后等长收缩并放松下躯干肌肉（腹肌与竖脊肌），接着是髋、小腿、足与足趾。
+@@ 354 [li]
+然后收缩并放松上背、肩、上臂、前臂、腕与手指的肌肉。
+@@ 355 [li]
+■ 最后，收缩并放松颈部与面部肌肉。
+@@ 356 [h4]
+上肢淋巴水肿清除的专项练习
+@@ 357 [p]
+以下练习顺序在刚描述的全身性一般练习之后进行。这些练习按近端至远端的顺序进行，专用于上肢淋巴清除。
+@@ 358 [h4]
+临床提示
+@@ 359 [p]
+在练习过程中定期让病人对健侧的腋窝淋巴结区域进行自我按摩，由腋窝向胸部推进。
+@@ 360 [li]
+手臂主动环转（图 25.6）。仰卧位，将患臂屈至 90°（向天花板方向伸），做直径约 6 至 12 in. 的手臂主动环形运动。顺时针与逆时针各做 5 次。
+@@ 361 [caption]
+图 25.6　水肿肢体的主动环转运动。
+@@ 362 [p]
+注意：避免在上肢下垂位对水肿上肢做摆动运动或环转运动。
+@@ 363 [li]
+泡沫轴上的练习（图 25.7）。仰卧于坚硬的泡沫轴（直径约 6 in.）上，做肩的水平外展与内收，以及肩的屈伸。这些动作针对
+@@ 364 [caption]
+图 25.7　卧于坚硬泡沫轴上做肩主动练习。
+@@ 365 [p]
+淤滞的腋窝淋巴结，且为单侧进行。作为家庭练习，如无 Ethyfoam 滚筒等专用器材，可让病人在泳池泡沫“面条”上进行这些练习。虽然直径较小，但可用毛巾或折叠床单缠绕泡沫“面条”以增大滚筒的直径。
+@@ 366 [li]
+双手对压。双臂抬至肩高或更高并屈肘，双掌在胸前或头前相合。吸气时双掌对压（胸大肌等长收缩），数 5 下。放松，然后重复至多 5 次。
+@@ 367 [li]
+体操棒练习、门框或墙角牵伸及毛巾牵伸。纳入若干练习以增加肩部活动度、减轻淤滞并助上肢淋巴流动。每次重复时保持牵伸位数秒。这些练习已在第 17 章描述并图示。
+@@ 368 [li]
+抬臂的单侧手臂练习。以下练习在病人坐位、手臂支撑于桌面或台面至肩高时进行，或在仰卧位、手臂支撑于楔形垫或上举过头时进行。
+@@ 369 [li]
+伸肘位肩旋转。转动肩部使掌心向上、再向下，而不是单纯前臂旋前与旋后。
+@@ 370 [li]
+肘屈伸
+@@ 371 [li]
+腕环转
+@@ 372 [li]
+手张开与握拳
+@@ 373 [li]
+双侧水平外展与水平内收。站立或坐位，双手置于头后。将双肘靠拢然后指向外侧，使肩水平内收与外展。
+@@ 374 [li]
+过头推墙。面向墙壁，一掌或双掌置于墙面、高于肩水平。身体不动，双掌轻推墙壁数秒。放松，重复约 5 次。
+@@ 375 [li]
+腕与手指练习。如腕与手存在肿胀，应在抬臂位进行重复的主动手指运动。
+@@ 376 [li]
+按上述方法完成过头推墙后，保持掌根贴墙，交替将所有手指抬离墙面再回到墙面（图 25.8）。
+@@ 377 [li]
+在与上述相同的位置，保持掌根接触墙面，像弹钢琴一样交替用各手指推墙。
+@@ 378 [li]
+双掌相合，双手置于头上或至少高于肩水平。一次一对，将相对应的手指相压，然后相互拉开。
+@@ 379 [li]
+部分卷腹。为完成练习顺序，再做部分卷腹（约 5 次），双手在大腿上滑动。
+@@ 380 [p]
+　
+@@ 381 [caption]
+图 25.8　过头推墙。
+@@ 382 [li]
+休息。完成练习顺序后，仰卧休息，患臂垫枕抬高约 30 分钟。
+@@ 383 [h4]
+下肢淋巴水肿清除的专项练习
+@@ 384 [p]
+注意：完成前述下肢、颈部与肩部一般练习后，先让病人对患侧腋窝淋巴结进行自我按摩。然后按摩下腹部区域，向上至腰部，再向外上至患侧腋窝区域。在下肢练习顺序中定期重复此顺序。
+@@ 385 [li]
+单侧膝触胸动作。仰卧位，再重复此练习 15 次。如淋巴水肿仅见于一侧下肢，先做健侧腿的重复膝触胸动作，再做患侧腿。
+@@ 386 [li]
+双膝触胸。仰卧位，屈双髋双膝，握住双大腿，轻拉至腹部与胸部。重复 10 至 15 次。
+@@ 387 [li]
+臀肌收缩与骨盆后倾。重复 5 次，每次收缩保持数秒后缓慢放松。
+@@ 388 [li]
+髋外旋（图 25.9）。仰卧，双腿抬起抵墙或置于楔形垫上。外旋髋部，将臀部相夹并保持外旋位。重复数次。
+@@ 389 [li]
+屈膝以清理腘窝区。仰卧位，保持健侧下肢伸直，屈患侧髋与膝至足以使足离开治疗床。主动屈膝，尽可能
+@@ 390 [caption]
+图 25.9　双腿抬起抵墙反复做髋外旋。
+@@ 391 [li]
+将足跟快速移向臀部以达最大屈曲。重复约 15 次。
+@@ 392 [li]
+踝主动运动。双腿抬起抵墙，或仅患腿抵门框、健腿置于地面，主动跖屈踝并屈趾；然后背屈踝并尽量伸趾，重复多次。最后，主动顺时针与逆时针环转足部数次。
+@@ 393 [li]
+外旋位墙面滑行（图 25.10）。双足抵墙、双腿外旋、足跟相触，双足沿墙尽量下滑，然后再向上滑，重复数次。
+@@ 394 [caption]
+图 25.10　髋外旋下双足沿墙上下滑动。
+@@ 395 [li]
+空中腿部运动（图 25.11）。双髋屈曲、背部平贴地面、双足指向天花板，交替移动双腿，模仿骑车、行走与剪式动作。
+@@ 396 [caption]
+图 25.11　重复的行走动作。
+@@ 397 [caption]
+图 25.12　髋跨中线内收以清理腹股沟淋巴结。
+@@ 398 [p]
+注意：如为双侧淋巴水肿，用另一侧下肢重复此练习。
+@@ 399 [p]
+- 双膝触胸。重复前述双腿轻柔弹动动作。
+@@ 400 [li]
+髋跨中线内收（图 25.12）。仰卧位，健腿伸直。屈患腿的髋与膝。用对侧手握住膝外侧，以摇摆动作反复将患膝拉过中线。
+@@ 401 [li]
+部分卷腹。为完成练习顺序，再做部分卷腹约 5 次。
+@@ 402 [li]
+休息。双足抬起、双腿抵墙，完成练习后在此姿势休息数分钟。然后将双腿部分抬高置于楔形垫上休息，再保持该姿势 30 分钟。
+@@ 403 [h4]
+自主学习活动
+@@ 404 [h4]
+批判性思维与讨论
+@@ 405 [p]
+1. 有人请你参加所在社区癌症协会为接受过乳腺癌治疗的病人举办的教育项目。你在这个项目中的职责是帮助这些乳腺癌生存者降低与其手术及任何相关辅助治疗有关的身体损伤与功能受限风险。请列出该项目的组成部分，并解释你选择纳入的各项活动的依据。
+@@ 406 [p]
+2. 一位病人因 5 年前接受改良根治性乳房切除术而发生淋巴水肿。她因手指与手部肿胀并向近端延伸至上臂而来接受物理治疗。抬高无效。手部组织呈凹陷性，前臂组织触诊较硬。请对该淋巴水肿进行分期，并列出建议的治疗计划，包括家庭管理方案的各项要素。
+@@ 407 [p]
+3. 描述淋巴系统的解剖。解释运输能力与淋巴负荷这两个术语。
+@@ 408 [p]
+4. 列出综合减充血治疗（CDT）的组成部分，以及各组成部分之间的关系。
+@@ 409 [h4]
+实验练习
+@@ 410 [p]
+为你为病例 1 与病例 2 设计的运动计划，执行其练习顺序与建议的重复次数。
+@@ 411 [h4]
+病例研究
+@@ 412 [h4]
+病例 1
+@@ 413 [p]
+L 女士 3 个月前因转移性盆腔癌接受手术与淋巴结清扫术（淋巴结切除）。作为综合肿瘤治疗的一部分，她还接受了一系列放射治疗。约 2 周前，她开始注意到双下肢肿胀，以足与踝最明显。
+@@ 414 [p]
+她的肿瘤科医生将她转诊至你工作的门诊机构，以“评估与治疗”她的淋巴水肿。请描述你在评估中会采用的检查程序，然后制定照护计划，包括运动方案，以帮助她管理与减轻淋巴水肿，并预防与淋巴水肿相关的潜在并发症。
+@@ 415 [h4]
+病例 2
+@@ 416 [p]
+B 女士，50 岁女性，最近接受肿块切除术与腋窝淋巴结清扫。手术引流管拔除后，她被转介接受物理治疗。她即将开始化疗，随后进行一疗程放射治疗。她报告在确诊与手术前是一个活跃的人，喜欢多种休闲活动，包括游泳、双打网球和露营，希望尽快恢复这些活动。请设计术后运动方案，并考虑即将进行的化疗与放疗。
+@@ 417 [h4]
+参考文献
+@@ 418 [p]
+1. Abeloff, MD, et al: Breast. In Abeloff, MD, et al (eds.): Clinical Oncology, ed. 2. New York: Churchill Livingstone, 2000, p 2051.
+@@ 419 [p]
+2. Armer, J: The problem of post-breast cancer lymphedema: impact and measurement issues. Cancer Investigation 1:76–83, 2005.
+@@ 420 [p]
+3. Bergan, JJ: Effect of cancer therapy on lower extremity lymphedema. Natl Lymphedema Network Newsletter 11(1):1999.
+@@ 421 [p]
+4. Bertelli, G, et al: Conservative treatment of postmastectomy lymphedema: a controlled randomized trial. Am Oncol 2(8): 575–578, 1991.
+@@ 422 [p]
+5. Bicego, D, et al: Exercise for women with or at risk for breast cancer-related lymphedema. Phys Ther 86(10):1398–1405, 2006.
+@@ 423 [p]
+6. Boissonnault, WG, and Goodman, CC: The female genital/ reproductive system. In Goodman, CC, Fuller, KS, and Boissonnault, WG (eds.): Pathology: Implications for Physical Therapists, ed. 2. Philadelphia: Elsevier, 2003, pp 744–771.
+@@ 424 [p]
+7. Boris, M, et al: Lymphedema reduction by noninvasive complex lymphedema therapy. Oncology 8(9):95–106, 1994.
+@@ 425 [p]
+8. Boris, M, Weindorf, S, and Lasinski, B: Persistence of lymphedema reduction after noninvasive complex lymphedema therapy. Oncology 11(1):99–109, 1997.
+@@ 426 [p]
+9. Boris, M, Weindorf, S, and Lasinski, BB: The risk of genital edema after external pump compression for lower limb lymphedema. Lymphology 31(1):15–20, 1998.
+@@ 427 [p]
+10. Brennan, MJ: Lymphedema following the surgical treatment of breast cancer: a review of pathophysiology and treatment. J Pain Symptom Manage 7(2):110–116, 1992.
+@@ 428 [p]
+11. Brennan, MJ, DePompodo, RW, and Garden, FH: Focused review: postmastectomy lymphedema. Arch Phys Med Rehabil 77(3 Suppl.):S74–S80, 1996.
+@@ 429 [p]
+12. Brennan, MJ, and Miller, L: Overview of treatment options in the management of lymphedema. Cancer 83(12 Suppl.): 2821–2827, 1998.
+@@ 430 [p]
+13. Buchholz, TA, Avritscher, R, and Yu, T: Identifying the “sentinel lymph nodes” for arm drainage as a strategy for minimizing the lymphedema risk after breast cancer therapy. Breast Cancer Res Treat 116:539–541, 2009.
+@@ 431 [p]
+14. Bunce, IH, et al: Postmastectomy lymphoedema treatment and measurement. Med J Aust 161(2):125–128, 1994.
+@@ 432 [p]
+15. Burt, J, and White, G: Lymphedema: A Breast Cancer Patient’s Guide to Prevention and Healing. Alameda, CA: Hunter House, 1999.
+@@ 433 [p]
+16. Cameron, MH: Physical Agents in Rehabilitation: From Research to Practice. Philadelphia: WB Saunders, 1999.
+@@ 434 [p]
+17. Carroll, JK, et al: Pharmacologic treatment of cancer-related fatigue. The Oncologist 12(Suppl. 1):43–51, 2007.
+@@ 435 [p]
+18. Casley-Smith, JR: Exercises for Patients with Lymphedema of the Arm, ed. 2. Adelaide, Australia: Lymphoedema Association of Australia, 1991.
+@@ 436 [p]
+19. Casley-Smith, JR: Exercises for Patients with Lymphedema of the Leg, ed. 2. Adelaide, Australia: Lymphoedema Association of Australia, 1991.
+@@ 437 [p]
+20. Casley-Smith, JR: Information about Lymphoedema for Patients, ed. 6. Malvern, Australia: Lymphoedema Association of Australia, 1997.
+@@ 438 [p]
+21. Casley-Smith, JR: Treatment for lymphedema of the arm—The Casley-Smith method. Cancer 83(Suppl.):2843–2860, 1998.
+@@ 439 [p]
+22. Casley-Smith, JR, and Casley-Smith, JR: Modern treatment of lymphoedema. I. Complex physical therapy: the first 200 Australian limbs. Aust J Dermatol 33(2):61–68, 1992.
+@@ 440 [p]
+23. Connell, M: Complete decongestive therapy. Innovations Breast Cancer Care 3:93, 1998.
+@@ 441 [p]
+24. Connor, MP, and Gamelli, R: Challenges of cellulitis in a lymphedematous extremity: a case report. Cases Journal 22(2): 9377, 2009.
+@@ 442 [p]
+25. Czerniec, SA, et al: Assessment of breast cancer-related arm lymphedema: comparison of physical measurement methods and self-report. Cancer Investigation 28:54–62, 2010.
+@@ 443 [p]
+26. Daroczy, J: Pathology of lymphedema. Clin Dermatol 13(5): 433–444, 1995.
+@@ 444 [p]
+27. Eisenhardt, JR: Evaluation and physical treatment of the patient with peripheral vascular disorders. In Irwin, S, and Tecklin, JS (eds): Cardiopulmonary Physical Therapy, ed. 3. St. Louis: Mosby Year Book, 1995, pp 215–233.
+@@ 445 [p]
+28. Engel, JM: Relaxation and related techniques. In Hertling, D, and Kessler, RM (eds.): Management of Common Musculoskeletal Disorders, ed. 4. Philadelphia: Lippincott Williams & Wilkins, 2006, pp 261–266.
+@@ 446 [p]
+29. Erickson, V, et al: Arm edema in breast cancer patients. J Natl Cancer Inst 93:96–111, 2001.
+@@ 447 [p]
+30. Földi, M, Földi, E, and Kubik, S: Textbook of Lymphology. Müchen: Urban & Fischer/Elsevier, 2003.
+@@ 448 [p]
+31. Forner-Cordero, I, et al: Predictive factors of response to decongestive therapy in patients with breast cancer-related lymphedema. Ann Surg Oncol 17:744–751, 2010.
+@@ 449 [p]
+32. Fu, MR, et al: The effect of providing information about lymphedema on the cognitive and symptom outcomes of breast cancer survivors. Ann Surg Oncol 17:1847–1853, 2010.
+@@ 450 [p]
+33. Ganz, PA: The quality of life after breast cancer: solving the problem of lymphedema. N Engl J Med 340(5):383–385, 1999.
+@@ 451 [p]
+34. Golshan, G, Martin, WJ, and Dowlatshahi, K: Sentinel lymph node biopsy lowers the rate of lymphedema when compared with standard axillary lymph node dissection. The American Surgeon 69:209–212, 2003.
+@@ 452 [p]
+35. Goodman, CC: The cardiovascular system. In Goodman, CC, Fuller, KS, and Boissonnault, WG (eds.): Pathology: Implications for the Physical Therapist, ed. 2. Philadelphia: Elsevier, 1998, pp 367–476.
+@@ 453 [p]
+36. Goodman, CC, and Snyder, TEK: Differential Diagnosis for Physical Therapists: Screening for Referral, ed. 4. St Louis: Saunders-Elsevier, 2007.
+@@ 454 [p]
+37. Gudas, SA: Neoplasms of the breast. In Kauffman, TL (ed.): Geriatric Rehabilitation Manual. New York: Churchill Livingstone, 1999, p 182.
+@@ 455 [p]
+38. Guttman, H, et al: Achievements of physical therapy in patients after modified radical mastectomy compared with quadrantectomy, axillary dissection, and radiation for carcinoma of the breast. Arch Surg 125:389–391, 1990.
+@@ 456 [p]
+39. Hack, TF, et al: Predictors of arm morbidity following breast cancer surgery. Psychooncology 19(11):1205-1212.
+@@ 457 [p]
+40. Hansen, M: Pathophysiology: Foundations of Disease and Clinical Intervention. Philadelphia: WB Saunders, 1998.
+@@ 458 [p]
+41. Harwood, CA, and Mortimer, PS: Causes and clinical manifestations of lymphatic failure. Clin Dermatol 13(5):459–471, 1995.
+@@ 459 [p]
+42. Hayes, S, Cornish, B, and Newman, B: Comparison of methods to diagnose lymphoedema among breast cancer survivors: 6-month follow-up. Breast Cancer Res and Treat 89:221–226, 2005.
+@@ 460 [p]
+43. Hayes, SC, et al: Lymphedema after breast cancer: incidence, risk factors, and effect on upper body function. J Clin Onc 26(21): 3536–3542, 2008.
+@@ 461 [p]
+44. Helms, G, et al: Shoulder-arm morbidity in patients with sentinel node biopsy and complete axillary dissection: data from a prospective randomised trial. Eur J Surg Oncol 35(7):696–701, 2009.
+@@ 462 [p]
+45. Helyer, LK, et al: Obesity is a risk factor for developing postoperative lymphedema in breast cancer patients. Breast J 16(1): 48–54, 2010.
+@@ 463 [p]
+46. Henderson, IC: Breast cancer. In Murphy, GP, Lawrence, W, and Lenhard, RE (eds.): Clinical Oncology, ed. 2. Atlanta: American Cancer Society, 1995, p 198.
+@@ 464 [p]
+47. Hetrick, H: Lymphedema complicating healing. In McCulloch, JM, and Kloth, LC (eds): Wound Healing: Evidence-Based Management, ed. 4. Philadelphia: FA Davis, 2010, pp 279–291.
+@@ 465 [p]
+48. Hewitson, JW: Management of lower extremity lymphedema. National Lymphedema Network Newsletter 9(3):1, 1997.
+@@ 466 [p]
+49. Hladiuk, M, et al: Arm function after axillary dissection for breast cancer: a pilot study to provide parameter estimates. J Surg Oncol 50(1):47–52, 1992.
+@@ 467 [p]
+50. Holtgrefe, KM: Twice-weekly completed decongestive physical therapy in the management of secondary lymphedema of the lower extremities. Phys Ther 86(8):1128–1136, 2006.
+@@ 468 [p]
+51. Iltis, M: Cancer chemotherapy toxicity guidelines for the physical therapist. American Physical Therapy Association Oncology Section Newsletter 4(3):1986.
+@@ 469 [p]
+52. International Society of Lymphology: 2009 Consensus Document of the Diagnosis and Treatment of Peripheral Lymphedema. Lymphology 42:51–60, 2009.
+@@ 470 [p]
+53. Keeley, VL: Lymphoedema and cellulitis: chicken or egg? Br J Dermatol 158(6):1175–1176, 2008.
+@@ 471 [p]
+54. Kepics, J: Treatment of Axillary Web Syndrome: a case report using manual techniques. Dr. Vodder School International, December 2007. www.vodderschool.com/treatment_of_axillary_ web_syndrome.
+@@ 472 [p]
+55. Knight, CA: Peripheral vascular disease and wound care. In O’Sullivan, SB, and Schmitz, TJ (eds): Physical Rehabilitation: Assessment and Treatment, ed. 4. Philadelphia: FA Davis, 2001, p 583.
+@@ 473 [p]
+56. Kurtz, I: Textbook of Dr. Vodder’s Manual Lymphatic Drainage, vol 2. Therapy, ed. 2. Heidelberg: Karl F. Haug, 1989.
+@@ 474 [p]
+57. Lawenda, BD, Mondry, TE, and Johnstone, PA: Lymphedema: a primer on the identification and management of a chronic condition in oncologic treatment. CA Cancer J Clin 59(1):8–24, 2009.
+@@ 475 [p]
+58. Lawenda, BD, and Mondry, TE: The effects of radiation therapy on the lymphatic system: acute and latent effects. National Lymphedema Network Newsletter 20(3):1–5, 2008.
+@@ 476 [p]
+59. Lemieux, J, Bordeleau, LJ, and Goodwin, PJ. Medical, psychosocial, and health-related quality of life issues in breast cancer survivors. In Ganz, P (ed.): Cancer Survivorship. New York: Springer Science+Business Media, LLC, 2007, pp 122–144.
+@@ 477 [p]
+60. Lerner, R: What’s new in lymphedema therapy in America? Int J Angiol 7(3):191–196, 1998.
+@@ 478 [p]
+61. Logan, V: Incidence and prevalence of lymphedema: a literature review. J Clin Nurs 4(4):213–219, 1995.
+@@ 479 [p]
+62. Mason, M: The treatment of lymphoedema by complex physical therapy. Aust J Physiother 39:41–45, 1993.
+@@ 480 [p]
+63. Matthews, K, and Smith, J: Effectiveness of modified complex physical therapy for lymphoedema treatment. Aust J Physiother 42(4):323–328, 1996.
+@@ 481 [p]
+64. Mayrovitz, HN: Interface pressures produced by two different types of lymphedema therapy devices. Phys Ther 87(10): 1379–1388, 2007.
+@@ 482 [p]
+65. Mayrovitz, HN: The standard of care for lymphedema: current concepts and physiological considerations. Lymphatic Research & Biology 7(2):101–108, 2009.
+@@ 483 [p]
+66. McGarvey, CL: Pneumatic compression devices for lymphedema. Rehabil Oncol 10:16–17, 1992.
+@@ 484 [p]
+67. McKenzie, DC, and Kalda, AL: Effect of upper extremity exercise on secondary lymphedema in breast cancer patients: a pilot study. J Clin Oncol 21:463–466, 2003.
+@@ 485 [p]
+68. McLaughlin, SA, et al: Prevalence of lymphedema in women with breast cancer 5 years after sentinel lymph node biopsy or axillary dissection: objective measurements. J Clin Oncol 26(32):5213–5219, 2008.
+@@ 486 [p]
+69. Megens, A, and Harris, S: Physical therapist management of lymphedema following treatment for breast cancer: a critical review of its effectiveness. Phys Ther 78(12):1302–1311, 1998.
+@@ 487 [p]
+70. Miller, LT: Exercise in the management of breast cancer-related lymphedema. Innovations Breast Cancer Care 3(4):101–106, 1998.
+@@ 488 [p]
+71. Miller, LT: The enigma of exercise: participation in an exercise program after breast cancer surgery. Natl Lymphedema Netw Newslett 8(4):1996.
+@@ 489 [p]
+72. Moskovitz, AH, et al: Axillary Web Syndrome after axillary dissection. Am J Surg 181(5):434–439, 2001.
+@@ 490 [p]
+73. Mustian, KM, et al: Integrative Nonpharmacologic behavioral interventions for the management of cancer related fatigue. The Oncologist 12(Suppl 1):52–67, 2007.
+@@ 491 [p]
+74. National Comprehensive Cancer Network: NCCN Practice Guidelines in Oncology: Cancer-Related Fatigue, V.2., 2007. www.nccn.gov.
+@@ 492 [p]
+75. National Comprehensive Cancer Network: NCCN Practice Guidelines in Oncology: Invasive Breast Cancer—Principles of Radiation Therapy, V.2, 2010. www.nccn.gov.
+@@ 493 [p]
+76. National Lymphedema Network: Position Statement: Lymphedema Risk Reduction Practices. www.lymphnet.org.
+@@ 494 [p]
+77. Norman, SA, et al: Development and validation of a telephone questionnaire to characterize lymphedema in women treated for breast cancer. Phys Ther 81(6):1192–1205, 2001.
+@@ 495 [p]
+78. Paskett, ED, et al: The epidemiology of arm and hand swelling in premenopausal breast cancer survivors. Cancer Epidemiol Biomarkers Prev 16(4):775–782, 2007.
+@@ 496 [p]
+79. Peters, K, et al: Lower leg subcutaneous blood flow during walking and passive dependency in chronic venous insufficiency. Br J Dermatol 124(2):177–180, 1991.
+@@ 497 [p]
+80. Price, J, and Purtell, J: Teaming up to prevent and treat lymphedema. Am J Nurs 7(9):23, 1997.
+@@ 498 [p]
+81. Ridner, SH, et al: Bioelectric impedance for detecting upper limb lymphedema in nonlaboratory settings. Lymphat Res Biol 7(1): 11–15, 2009.
+@@ 499 [p]
+82. Rockson, SG: The unique biology of lymphatic edema. Lymphatic Research and Biology 7(2):97–100, 2009.
+@@ 500 [p]
+83. Rockson, SG: Secondary lymphedema of the lower extremities. Natl Lymphedema Network Newsletter 10(3):1–3, 1998.
+@@ 501 [p]
+84. Rockson, SG, et al: Diagnosis and management of lymphedema. Cancer 83(Suppl.):2882–2885, 1998.
+@@ 502 [p]
+85. Ross, C: Complex physical therapy: a treatment note. NZ J Physiother 22(3):19–21, 1994.
+@@ 503 [p]
+86. Schmitz, KH, et al: Weight lifting in women with breast-cancerrelated lymphedema. N Engl J Med 361(7):664–673, 2009.
+@@ 504 [p]
+87. Schuchhardt, C, Pritschow, H, and Weissleder, H: Therapy concepts. In: Weissleder, H, and Schuchhardt, C (eds.): Lymphedema Diagnosis and Therapy. Koln, Germany: Viavital, 2001, pp 336–362.
+@@ 505 [p]
+88. Sener, SF, et al: Lymphedema after sentinel lymphadenectomy for breast carcinoma. Cancer 92(4):748–752, 2001.
+@@ 506 [p]
+89. Springer, BA, et al: Pre-operative assessment enables early diagnosis and recovery of shoulder function in patients with breast cancer. Breast Cancer Res Treat 120(1):135–147, 2010.
+@@ 507 [p]
+90. Swirsky, J, and Nannery, DS: Coping with Lymphedema. Garden City Park, NY: Avery Publishing, 1998.
+@@ 508 [p]
+91. Szuba, A, Achalu, R, and Rockson, SG: Decongestive lymphatic therapy for patients with breast carcinoma-associated lymphedema: a randomized, prospective study of a role for adjunctive intermittent pneumatic compression. Cancer 95:2260–2267, 2002.
+@@ 509 [p]
+92. Tappan, FM, and Benjamin, PJ: Tappan’s Handbook of Healing Massage. Stamford, CT: Appleton & Lange, 1998.
+@@ 510 [p]
+93. Taylor, R, et al: Reliability and validity of arm volume measurements for assessment of lymphedema. Phys Ther 86(2): 205–214, 2006.
+@@ 511 [p]
+94. Tsai, RJ, et al: The risk of developing arm lymphedema among breast cancer survivors: a meta-analysis of treatment factors. Ann Surg Oncol 16(7):1959–1972, 2009.
+@@ 512 [p]
+95. Walton, J: The effects of radiotherapy: their relationship to rehabilitation. American Physical Therapy Association Oncology Section Newsletter 5(1&2):1987.
+@@ 513 [p]
+96. Ward, LC, Czerniec, S, and Kilbreath, SL: Operational equivalence of bioimpedance indices and perometry for the assessment of unilateral arm lymphedema. Lymphat Res Biol 7(2): 81–85, 2009.
+@@ 514 [p]
+97. Weiss, JM: Treatment of leg edema and wounds in patients with severe musculoskeletal injuries. Phys Ther 78(10):1104–1013, 1998.
+@@ 515 [p]
+98. Weissleder, H, and Schuchhardt, C: Primary lymphedema. In Weissleder, H, and Schuchhardt, C (eds.): Lymphedema Diagnosis and Therapy. Koln, Germany: Viavital, 2001, pp 98–113.
+@@ 516 [p]
+99. Weissleder, H: Examination methods. In Weissleder, H, and Schuchhardt, C (eds): Lymphedema Diagnosis and Therapy. Koln, Germany: Viavital, 2001, pp 49–90.
+@@ 517 [p]
+100. Wingate, L: Efficacy of physical therapy for patients who have undergone mastectomies. Phys Ther 65(6):896–900, 1985.
+@@ 518 [p]
+101. Wingate, L, et al: Rehabilitation of the mastectomy patient: a randomized, blind, prospective study. Arch Phys Med Rehabil 70:21–24, 1989.
+@@ 519 [p]
+102. Wittlinger, H, and Wittlinger, G (eds.): Textbook of Dr. Vodder’s Manuel Lymphatic Drainage, ed. 5. Brussels: Haug International English version (translated by Harris, R), 1992.
+@@ 520 [p]
+103. Woo, PCY, et al: Cellulitis complicating lymphoedema. E ur J Clin Microbiol Infect Dis 19(4):294–297, 2000.
+@@ 521 [p]
+104. Woods, EN: Reaching out to patients with breast cancer. Clin Manage Phys Ther 12:58–63, 1992.
+@@ 522 [p]
+105. Zawieja, DC: Proceedings of a mini-symposium: Lymphedema— an overview of the biology, diagnosis, and treatment of the disease (contractile physiology of lymphatics). Lymphatic Research & Biology 7(2):87, 2009.
+@@ 523 [p]
+106. Zuther, JE: Treatment of lymphedema with complete decongestive physiotherapy. Natl Lymphedema Netw Newslett 2(2): 1999.
+@@ 524 [p]
+107. Zuther, JE: Lymphedema Management: A Comprehensive Guide for Practitioners, ed. 2. New York: Thieme, 2009.
+@@ 525 [h3]
+词汇表
+@@ 526 [h4]
+A
+@@ 527 [p]
+胎盘早剥　胎盘过早从子宫剥离；附属运动　关节内及其周围软组织中的运动，为正常关节活动度所必需，但不能随意完成；关节切开术　切开关节的外科手术
+@@ 528 [li]
+ATP-PC 系统　一种无氧供能系统，磷酸肌酸（PC）分解时生成三磷酸腺苷（ATP）
+@@ 529 [li]
+萎缩　细胞、组织、器官或身体部位体积的消耗或缩小
+@@ 530 [p]
+顺应性抗阻运动　与等速运动同义使用的术语；主动抑制　一种牵伸运动，其间出现反射性抑制，随后肌肉的收缩成分被拉长
+@@ 531 [h4]
+B
+@@ 532 [p]
+平衡　将身体重心维持在支撑面上的能力；滑囊炎　滑囊的炎症；活动受限　执行日常生活任务或动作的困难或不能，与功能性受限同义；适应　生物随时间对刺激作出改变的能力；三磷酸腺苷（ATP）　身体从中获取能量的高能化合物
+@@ 533 [li]
+粘连　在制动、创伤后或作为手术并发症，胶原纤维异常黏附于周围结构，限制了相关结构的正常弹性
+@@ 534 [p]
+有氧运动　大肌群的次极量、节律性、重复性运动，所需能量由吸入的氧供给
+@@ 535 [li]
+有氧系统　一种有氧供能系统，食物分解时生成 ATP
+@@ 536 [li]
+羊水　羊膜囊内的液体。胎儿漂浮其中，该液体可缓冲损伤并帮助维持胎儿体温恒定
+@@ 537 [p]
+无氧运动　在没有吸入氧的情况下进行的运动；无氧糖酵解系统（乳酸系统）　一种无氧供能系统，葡萄糖分解为乳酸时生成 ATP；动静脉氧差（a-vO2 差）　动脉血与静脉血氧含量的差值
+@@ 538 [li]
+关节炎　关节结构的炎症
+@@ 539 [li]
+关节融合术　用钢针、钢钉、钢板与骨移植等内固定使关节骨面融合的外科手术；通常用于严重关节疼痛与不稳、而关节活动度为次要考虑的情况
+@@ 540 [li]
+关节置换术　任何重建性关节手术，伴或不伴关节植入物，旨在缓解疼痛和（或）恢复关节活动
+@@ 541 [li]
+关节镜检查　将内镜观察装置插入关节，以检查关节内部结构
+@@ 542 [h4]
+C
+@@ 543 [li]
+关节囊型限制　某一关节特有的受限模式，提示该关节存在问题
+@@ 544 [li]
+心输出量　单位时间内由心室泵出的血量；为心率与每搏输出量的乘积
+@@ 545 [li]
+心肺耐力　肺与心脏摄取并向工作肌输送足量氧的能力，使涉及大肌群的活动能长时间进行
+@@ 546 [li]
+髌骨软骨软化　髌骨后面关节软骨的退变
+@@ 547 [li]
+软骨成形术　修复关节软骨（通常在髌股关节）的清创手术；又称磨削关节成形术
+@@ 548 [li]
+慢性疼痛综合征　用于描述长期下背痛并已出现疾病行为与绝望感的病人。疼痛与明显失能之间不再有直接关系，治疗疼痛症状通常不改变病情。病人可能需要心理与社会干预及行为矫正技术
+@@ 549 [li]
+循环训练　按顺序进行选择性练习或活动的训练方案
+@@ 550 [li]
+闭链运动　肢体远端固定于支撑面，躯干与近端节段在固定部分之上运动的练习。包括功能性练习，尤其适用于下肢，即足固定于地面，肌肉控制髋、膝、踝完成下蹲、上台阶、坐起与坐下等活动
+@@ 551 [li]
+共同收缩　关节两侧肌肉同时收缩；是关节动态稳定的来源
+@@ 552 [li]
+可比较体征　可在治疗手法后重复进行的检查方法，用以判断该手法的效果
+@@ 553 [p]
+　
+@@ 554 [li]
+复杂性区域疼痛综合征　一组复杂的疼痛性疾病，发生于累及四肢的创伤之后，伴或不伴明显的神经损伤；旧称反射性交感神经营养不良与灼性神经痛
+@@ 555 [li]
+加压敷料　缠绕或覆盖于新手术切口周围的无菌绷带，用于压迫伤口部位并控制肿胀
+@@ 556 [li]
+向心运动　肌肉产生张力并对抗阻力收缩时总体缩短
+@@ 557 [li]
+调理　通过运动方案提高肌肉的能量储备能力
+@@ 558 [li]
+持续训练　在一定时间内不间断进行运动的训练方案
+@@ 559 [li]
+挛缩　皮肤、筋膜、肌肉或关节囊的缩短或活动度不足，使该结构无法达到正常的活动度或柔韧性
+@@ 560 [li]
+挫伤　直接撞击所致的青紫，造成毛细血管破裂
+@@ 561 [li]
+协调　在正确的时间以正确的强度使用正确的肌肉。协调是平滑高效运动的基础，这种运动常自动发生
+@@ 562 [p]
+交叉训练　见转移训练或训练；累积性创伤疾患　因过度或重复运动导致结缔组织或骨破坏而出现的肌肉骨骼症状。初期微创伤引起的炎症反应低于阈值，但最终累积到出现疼痛并导致功能障碍。此类综合征包括胫骨疲劳性骨膜炎、腕管综合征、滑囊炎、肌腱炎、颈部紧张、胸廓出口综合征、网球肘和行军骨折。又称累积性创伤综合征、重复性劳损和过度使用综合征；发绀　因血液氧合不足而致的皮肤与黏膜青紫
+@@ 563 [h4]
+D
+@@ 564 [li]
+去适应　长期卧床或不活动所致心血管、神经肌肉与代谢功能的改变
+@@ 565 [li]
+减充血淋巴治疗　综合管理淋巴水肿的方法，结合抬高、加压、运动、按摩与皮肤护理
+@@ 566 [p]
+退行性关节病（DJD）　见骨关节炎
+@@ 567 [li]
+迟发性肌肉酸痛（DOMS）　剧烈运动后 24 至 48 小时出现的运动诱发性肌肉压痛或僵硬
+@@ 568 [li]
+紊乱（椎间盘突出）　椎间盘髓核形状的任何改变，使其突出超出正常范围
+@@ 569 [li]
+诊断　对病理状况的病因与性质的识别或判定
+@@ 570 [li]
+腹直肌分离　腹直肌在白线处的中线分离；腹壁的连续性被破坏
+@@ 571 [li]
+失能　因身体、精神、社会或情感方面的损伤而无法进行日常生活活动（ADL）
+@@ 572 [li]
+脱位　某一部分的移位，通常指关节内相邻的骨端
+@@ 573 [li]
+扩张性　器官或组织被拉伸或扩大的能力
+@@ 574 [li]
+牵引分离　关节面的拉开或分离
+@@ 575 [li]
+背侧清理　手术切除手指与腕伸肌腱上的病变滑膜
+@@ 576 [li]
+动态稳定　躯干或近端肩带肌肉的等长或稳定收缩，以在活动肢体传来波动力时维持对功能位置的控制
+@@ 577 [li]
+测力计　定量测量肌肉力量的装置
+@@ 578 [li]
+功能障碍　因软组织适应性缩短与活动度丧失而导致的功能丧失
+@@ 579 [li]
+呼吸困难　气短；费力、痛苦的呼吸
+@@ 580 [h4]
+E
+@@ 581 [li]
+离心运动　肌肉产生张力并收缩以对抗外力控制运动时总体被拉长；做负功
+@@ 582 [li]
+效率　输出功与输入功之比
+@@ 583 [li]
+弹性　牵伸力解除后软组织恢复原长的能力
+@@ 584 [li]
+栓子　已脱落并在血流中由较大血管运送至较小血管、造成血管闭塞的血栓或物质凝块
+@@ 585 [li]
+终末感　检查者被动施加压力于可用关节活动度末端时
+@@ 586 [p]
+所感受到的质感
+@@ 587 [li]
+耐力　抗疲劳的能力
+@@ 588 [li]
+全身（整体）耐力　个体长时间维持低强度运动（如步行、慢跑或登高）的能力
+@@ 589 [li]
+肌肉耐力　肌肉在较长时间内反复收缩的能力
+@@ 590 [li]
+能量系统　由一系列化学反应构成的代谢系统，产生废物并生成三磷酸腺苷（ATP）。包括 ATP-PC（三磷酸腺苷-磷酸肌酸）系统、无氧糖酵解系统和有氧系统
+@@ 591 [li]
+上髁痛　肘内侧或外侧上髁区域的疼痛
+@@ 592 [li]
+上髁炎　常用术语，指肘部内或外侧肌腱结构因过度使用而出现微撕裂与炎症
+@@ 593 [li]
+测功计　如固定自行车或跑台，用于定量测量运动生理效应的器械
+@@ 594 [li]
+运动组数　每次训练中完成某一重复次数的组数
+@@ 595 [li]
+运动持续时间　实施运动方案的总天数、周数或月数
+@@ 596 [li]
+运动频率　一天或一周内进行运动的次数
+@@ 597 [p]
+　
+@@ 598 [li]
+运动负荷　运动中用作阻力的重量
+@@ 599 [li]
+运动处方　个体化运动方案，涉及运动的持续时间、频率、强度与方式
+@@ 600 [li]
+伸展偏向　用于描述脊柱后伸（前凸）时病人症状减轻的偏好体位。通常脊柱屈曲时症状加重
+@@ 601 [li]
+伸展迟滞　关节主动伸展范围小于被动伸展范围；在膝部通常由股四头肌机制的抑制或功能障碍引起（同股四头肌迟滞）；在手指通常由粘连限制伸肌腱活动所致
+@@ 602 [li]
+嵌压　组织被困于某结构之外，无法恢复其正常关系。当半月板样组织在关节突关节面相互滑近时被卡在关节外，运动被阻断，关节囊组织受到牵张
+@@ 603 [li]
+挤出　椎间盘髓核突出，核物质穿破外层纤维环并位于后纵韧带之下
+@@ 604 [li]
+屈曲偏向　脊柱屈曲时病人症状减轻的体位。通常脊柱后伸时症状被诱发
+@@ 605 [li]
+头前倾姿势　以下段颈椎与上段胸椎屈曲增加、枕骨在第一颈椎上后伸增加、上段颈椎后伸增加为特征的姿势
+@@ 606 [li]
+功能位移距离　肌肉被拉至最大长度后可缩短的距离
+@@ 607 [li]
+功能性运动　模仿功能性活动的练习，
+@@ 608 [li]
+但在受控的方式或环境中进行
+@@ 609 [li]
+功能性受限　由损伤所致的受限，尚不致失能，但干扰正常功能
+@@ 610 [li]
+功能位　病人感到最舒适或该区域组织受力最小的位置或关节活动度。也可称为休息位或中立位。该位置并非静止不变，可随病情变化而改变
+@@ 611 [li]
+功能性技能　独立完成日常生活活动或任务所必需的运动技能：需要协调、敏捷、平衡与时机把握的精细运动
+@@ 612 [h4]
+G
+@@ 613 [h4]
+F
+@@ 614 [li]
+快肌（FT）纤维　反应时间快的骨骼肌纤维，无氧能力高，适于相位性肌肉活动
+@@ 615 [li]
+全身（整体）疲劳　人在长时间体力活动（如步行或慢跑）中反应减弱，可能由于血糖（葡萄糖）水平下降、肌肉与肝脏糖原储备减少或钾耗竭，尤其在老年人中
+@@ 616 [li]
+局部（肌肉）疲劳　肌肉因能量储备减少、氧供不足与乳酸堆积，或中枢神经系统的保护性影响，或神经肌接头冲动传导减弱而出现的反应减弱
+@@ 617 [li]
+胎儿　受精后 7 至 8 周起至出生前在子宫内发育的胚胎
+@@ 618 [li]
+体适能　通用术语，指心血管功能达到某一水平，从而具有更高的能量储备以实现最佳表现与健康
+@@ 619 [li]
+平背下背姿势　腰骶角减小、腰椎前凸减小、骨盆后倾为特征的姿势
+@@ 620 [li]
+柔韧性　肌肉及其他软组织对牵伸力产生顺应（让位）的能力

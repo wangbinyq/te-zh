@@ -1,0 +1,536 @@
+@@ 1255 [p]
+病人体位与操作：仰卧，膝伸展。为稳定骨盆与下腰部，对侧髋与膝屈曲，足平放于治疗床上。先让病人做股四头肌静力收缩，然后在保持膝伸展的情况下将腿抬至约 45° 髋屈曲。让病人保持该体位数到 10，然后放下腿。
+@@ 1256 [li]
+为进阶，让病人只抬至 30° 髋屈曲，再只抬至 15°，并保持该体位。
+@@ 1257 [li]
+为增加阻力，在病人踝部加沙袋。
+@@ 1258 [p]
+有人提出，若仰卧位直腿抬高配合髋外旋或髋等长内收，可优先激活并强化 VMO 或 VM 肌。主张这些练习的理由是，VMO 肌的许多纤维起自大收肌腱。尽管不少作者主张用这些改良直腿抬高来增加作用于髌骨的内向力，但缺乏证据支持其效果。两项定量研究比较了股四头肌静力收缩与各种直腿抬高变式中的股四头肌活动，结果发现股四头肌静力收缩相关的 VMO 或 VM 活动显著多于几种直腿抬高的变式。
+@@ 1259 [h4]
+直腿下落
+@@ 1260 [p]
+病人体位与操作：仰卧。若病人因股四头肌迟滞或无力不能完成直腿抬高，先将腿被动置于 90° 直腿抬高位置（或腘绳肌柔韧性允许的最大范围），然后让病人在保持膝完全伸展的情况下逐渐放下下肢。
+@@ 1261 [li]
+随重力产生的力矩增大，准备用手托住足跟控制下肢下降。
+@@ 1262 [li]
+若下肢下降时膝开始屈曲，让病人在该处停下，再将下肢抬回 90°。
+@@ 1263 [li]
+让病人重复该动作，每次在保持膝伸展的情况下尝试把下肢放得更低一些。
+@@ 1264 [li]
+当病人能在全关节活动度内放下腿而保持膝伸展时，即可开始直腿抬高。
+@@ 1265 [h4]
+多角度等长练习
+@@ 1266 [li]
+病人体位与操作：仰卧或长坐位。让病人在膝处于多个屈曲角度下做屈膝抬腿。
+@@ 1267 [li]
+病人体位与操作：坐在治疗床沿。可耐受时，在踝上方施加阻力，使股四头肌在不同膝屈曲角度下进行等长强化。让病人在保持膝伸展的同时将大腿压向床面以对抗阻力，可激活股四头肌与腘绳肌的共同收缩（膝伸展最后 10° 至 15° 除外）。
+@@ 1268 [p]
+短弧终末膝伸展
+@@ 1269 [h4]
+全弧伸展
+@@ 1270 [h4]
+临床提示
+@@ 1271 [p]
+过去认为 VMO 负责膝伸展的终末阶段，现已充分证明，股四头肌群的所有组成部分在主动伸膝全过程中均活动，而 VMO 主要影响髌骨对线。
+@@ 1272 [p]
+病人体位与操作：仰卧或长坐位。在膝下放卷起的毛巾或软垫，使膝在屈曲位获得支撑（图 21.23）。病人也可取短坐位坐在床沿，将椅面或凳子置于足跟下，使膝在所需角度停止屈曲。从膝屈曲数度开始。根据病人耐受程度或病情需要增加屈曲度数。
+@@ 1273 [caption]
+图 21.23　短弧终末伸展练习，用于强化股四头肌。可耐受时，在踝上方加阻力。
+@@ 1274 [li]
+最初让病人仅抗重力伸膝。若病人无疼痛或骨擦感，随后在踝部加沙袋以增加阻力。
+@@ 1275 [li]
+将短弧终末膝伸展与等长保持和／或在膝完全伸展时的直腿抬高结合。
+@@ 1276 [li]
+为减小膝的外侧剪切力，让病人在伸膝时足内翻。
+@@ 1277 [p]
+注意事项：在小腿远端加阻力时，股四头肌在膝伸展终末范围产生的力矩显著增加。在该部分范围内，股四头肌的机械效益差、生理长度不佳，却须对抗力臂很长的外在阻力收缩。所产生的肌力造成胫骨前移的力，由 ACL 约束。术后康复早期，重建的韧带最易受外加负荷影响，此练习不适合该阶段的病人。
+@@ 1278 [p]
+病人体位与操作：坐位或仰卧。让病人将膝从 90° 伸直至完全伸展。依耐受程度在运动中施加阻力。
+@@ 1279 [h4]
+临床提示
+@@ 1280 [p]
+在非负重位从 90° 至 60° 施加阻力，造成的胫骨前移小于该范围内的下蹲（闭链活动）。然而，在开链伸展中从 30° 至 0° 施加阻力，造成的胫骨前移大于在同一范围内做微蹲。
+@@ 1281 [li]
+只有在康复后期、膝无痛、稳定且无症状时，才在整个活动弧施加阻力。若有疼痛，仅应在无症状的部分范围施加阻力。
+@@ 1282 [li]
+第 6 章讨论的各种抗阻设备均可用于强化膝伸肌。强调使用重量训练设备进行高重复、低阻力训练，使用等速设备进行中至高速度训练，以尽量减少运动中对膝关节结构的压缩力与剪切力。使用设备时，可将病人伸膝时蹬踏的胫骨垫置于小腿近端，以减轻膝支持结构的过度应力。
+@@ 1283 [li]
+若在胫骨上加沙袋提供阻力，当病人坐位或仰卧、膝屈曲 90°、胫骨悬于治疗床外时，会对关节产生分离并对韧带产生应力。为避免韧带承受该应力，在足下放凳子，使腿处于下垂位时获得支撑。
+@@ 1284 [h4]
+发展膝屈曲的控制与力量（腘绳肌）
+@@ 1285 [h4]
+腘绳肌静力收缩（腘绳肌设定）
+@@ 1286 [p]
+病人体位与操作：仰卧或长坐位，膝伸展或膝下垫毛巾卷微屈。让病人等长收缩膝屈肌，只需足以感到肌群中出现张力即可，方法是轻将足跟压向治疗床并保持收缩。让病人放松，然后重复收缩。
+@@ 1287 [h4]
+多角度等长练习
+@@ 1288 [p]
+病人体位与操作：仰卧或长坐位。在关节活动度的数个位置、膝屈曲状态下，对腘绳肌的静态收缩施加手法或机械阻力。
+@@ 1289 [li]
+在对抗膝屈曲之前，将胫骨置于内旋或外旋位，以分别侧重内侧或外侧腘绳肌。
+@@ 1290 [p]
+　
+@@ 1291 [li]
+教病人在关节活动度的多个点施加自我阻力，方法是将对侧足置于要被抗阻的腿的踝后。
+@@ 1292 [h4]
+腘绳肌屈曲
+@@ 1293 [li]
+病人体位与操作：站立，扶住固定物保持平衡。让病人抬起足并屈膝（图 21.24）。膝屈曲 90° 时重力阻力最大。可用踝部沙袋或负重靴施加阻力。若病人屈髋，让其将大腿前侧抵住墙壁或固定物以稳定髋部。
+@@ 1294 [caption]
+图 21.24　腘绳肌屈曲；病人站立位时对膝屈肌的抗阻练习。膝在 90° 时阻力最大。
+@@ 1295 [li]
+病人体位与操作：俯卧。在髌骨稍近端的股骨下方放一小块折叠毛巾或泡沫橡胶，以免髌骨受压于治疗床与股骨之间。在踝部加沙袋，让病人只屈膝至 90°。膝从 0° 刚开始屈曲时重力阻力最大。若在俯卧位以手法阻力、重锤滑轮系统或等速设备进行腘绳肌屈曲，则可在膝屈曲全范围对膝屈肌施加阻力。
+@@ 1296 [p]
+注意事项：开链腘绳肌屈曲在阻力置于胫骨远端时会造成胫骨后移。PCL 损伤或重建后的病人在康复早期应避免此练习。
+@@ 1297 [h4]
+闭链（负重）练习
+@@ 1298 [p]
+渐进性闭链练习有利于激活并训练下肢肌群，使其对特定功能需求作出反应。股四头肌离心收缩控制屈膝或向心收缩伸膝时，腘绳肌与比目鱼肌发挥稳定胫骨的作用，对抗股四头肌在膝关节造成的前移力。这种协同作用连同关节的压缩负荷，为交叉韧带提供支持。此外，闭链活动中膝伸展时髋伸展、踝跖屈（反之亦然），因此双关节的腘绳肌与腓肠肌以及单关节的比目鱼肌分别在髋与踝处作用，维持有利的长度－张力关系。
+@@ 1299 [p]
+闭链练习的启动。康复中，一旦部分或完全负重安全，即可将闭链练习纳入运动方案。在关节活动度的某些部分，闭链强化练习对膝韧带产生的剪切力，尤其是胫骨前移，小于开链股四头肌强化活动。因此，伤后或术后可较开链练习更早地在闭链活动中加阻力，同时仍能保护 ACL 等正在愈合的结构。临床上，闭链练习使病人能在膝损伤或手术后较早地以功能模式发展下肢的力量、耐力与稳定性。第 20 章所述的闭链练习进阶同样适用于膝康复方案。
+@@ 1300 [p]
+部分负重与支撑技术。若病人不能耐受或不被允许患肢完全负重，先在上肢辅助下开始练习，如在双杠内或水中，以部分卸载体重、避免过度的生物力学应力。还应考虑使用支持性贴扎技术或支具，确保负重时的正确对线。从病人可耐受、且能完全控制、症状不加重的水准开始练习。
+@@ 1301 [h4]
+临床提示
+@@ 1302 [p]
+由于膝是下肢链的中间环节，负重时它显著受髋与躯干功能以及足踝功能的影响。因此，若检查中发现这些区域有损伤，膝康复中应包含针对这些区域的练习。具体应查找：
+@@ 1303 [li]
+阔筋膜张肌（TFL）、臀大肌、股直肌、腘绳肌或腓肠肌－比目鱼肌群紧张
+@@ 1304 [li]
+臀中肌、外旋肌或臀大肌无力
+@@ 1305 [h4]
+闭链等长练习
+@@ 1306 [p]
+进行闭链等长练习以促进股四头肌与腘绳肌的共同收缩。
+@@ 1307 [h4]
+共同收缩的静力收缩练习
+@@ 1308 [p]
+病人体位与操作：坐在椅上，膝伸展或微屈，足跟置于地面。让病人将足跟压向地面、大腿压向椅面，并专心同时收缩股四头肌与腘绳肌，以促进膝关节周围的共同收缩。保持肌肉收缩，放松，再重复。用生物反馈增进共同收缩的学习。
+@@ 1309 [h4]
+交替等长收缩与节律性稳定
+@@ 1310 [p]
+病人体位与操作：站立，体重平均分布于双下肢。病人保持体位时，对骨盆施加交替方向的手法阻力。这可促进踝、膝与髋肌肉的等长收缩。
+@@ 1311 [li]
+提高施加阻力的速度，以训练肌肉对力量的突然变化作出反应。
+@@ 1312 [li]
+进阶稳定活动：对肩部施加交替阻力以发展躯干稳定，然后让病人仅在患侧下肢负重时施加阻力。
+@@ 1313 [li]
+随平衡与稳定改善，进阶到在不稳定表面负重。
+@@ 1314 [p]
+抗弹性阻力的闭链等长练习。病人体位与操作：患侧下肢站立，弹性阻力环绕对侧大腿并固定于稳定物体（见图 20.26）。让病人以不同速度屈伸非负重下肢的髋，以促进肌肉共同收缩与负重腿的稳定。该闭链练习还可促进负重（患侧）下肢的本体感觉输入与平衡。
+@@ 1315 [h4]
+闭链动力性练习
+@@ 1316 [h4]
+在带轮凳上滑行
+@@ 1317 [p]
+病人体位与操作：坐在带轮凳或椅上。让病人用双足向前“走”以锻炼腘绳肌，或向后“走”以锻炼股四头肌（图 21.25）。务必使膝垂直对位于足上方，避免髋内收、内旋以及随之出现的小腿外翻对线。
+@@ 1318 [li]
+增加练习难度：让病人绕过障碍路线、在毯子上滚动凳子，或对抗阻力牵拉，如牵拉另一位也坐在带轮凳上的人。
+@@ 1319 [caption]
+图 21.25　在带轮凳上向前滑行以强化膝屈肌，向后滑行以强化膝伸肌。
+@@ 1320 [h4]
+注意：以下所有练习中病人均取站立位。
+@@ 1321 [p]
+单侧闭链终末膝伸展。病人体位与操作：站立，弹性阻力环绕大腿远端并固定于静止结构（图 21.26）。让病人在患侧下肢部分至完全负重的情况下主动完成终末伸膝。
+@@ 1322 [caption]
+图 21.26　单侧闭链终末膝伸展。
+@@ 1323 [p]
+半蹲、微蹲与短弧训练。病人体位与操作：先让病人双膝屈曲至 30° 至 45°，然后伸直。进阶时在双足下放置弹性阻力（图 21.27 A），或双手持重物。病人应保持躯干直立，专注于保持体重后移，像坐下一样先降髋再动膝。膝应与足趾保持对线，以防外翻塌陷，且不应前移超过足趾，以确保臀肌激活并减少髌股关节受力。
+@@ 1324 [li]
+必要时在治疗后期将下蹲进阶至更大的膝屈曲范围。
+@@ 1325 [li]
+通过进行单侧抗阻微蹲（图 21.27 B）或在不稳定表面下蹲来增加练习难度。进阶活动的描述与图示见第 23 章。
+@@ 1326 [p]
+　
+@@ 1327 [caption]
+图 21.27　使用弹性阻力的抗阻微蹲；闭链短弧训练，（A）双侧站姿与（B）单侧站姿。
+@@ 1328 [h4]
+靠墙滑动
+@@ 1329 [p]
+病人体位与操作：站立，背靠墙壁（见图 20.29 A）。屈髋屈膝，背部沿墙壁下滑再上移，使体重下降与上升。
+@@ 1330 [li]
+在双膝稍近端的大腿周围加弹性阻力，为髋外展肌提供触觉提示。这有助于病人保持足趾上方的垂直对线，以避免或纠正外翻塌陷。
+@@ 1331 [li]
+随控制改善，让病人进入更大的膝屈曲，最大至 60°。不建议膝屈曲超过 60°，以避免对膝韧带结构产生过大的剪切力、对髌股关节产生过大的压缩力。
+@@ 1332 [li]
+增加等长训练：让病人保持在半蹲位。若病人能够，保持半蹲并交替伸直一腿再另一腿。
+@@ 1333 [li]
+背后放健身球进行靠墙滑动会降低稳定性，需要更好的控制（见图 20.29 B）。
+@@ 1334 [li]
+通过单侧站立进行靠墙滑动来增加练习难度（见图 23.29）。
+@@ 1335 [h4]
+向前、向后与侧向上下台阶
+@@ 1336 [p]
+与下台阶（视频 21.1）。病人体位与操作：从高 2 至 3 英寸的低台阶开始，随病人能力增加高度。确保病人保持躯干直立、膝与足对线，避免“外翻塌陷”。
+@@ 1337 [li]
+为强化下肢正确对线并促进向前上台阶时臀中肌的激活，对前腿大腿外侧施加分级手法阻力（图 21.28 A）。
+@@ 1338 [li]
+强调股四头肌向心（上台阶）与离心（下台阶）活动中对体重的控制。为侧重股四头肌并尽量减少后腿跖屈肌蹬地，教病人足跟必须最后离地、最先落回，即“足趾抬起”。
+@@ 1339 [li]
+用负重腰带或手持重物加阻力，或在大腿放置弹性阻力（图 21.28 B）或将连于滑轮系统的腰带系于病人髋部。让病人在保持对线的情况下上、下台阶，并控制对抗所加阻力。
+@@ 1340 [li]
+进阶至上下更高的平面，并加入旋转动作。
+@@ 1341 [h4]
+部分与完全弓步
+@@ 1342 [p]
+弓步可通过改变步幅长度、迈入弓步后将后腿前移，或迈入弓步后推回起始位来进行。此外，也可保持弓步位并以躯干直立使身体升降。
+@@ 1343 [p]
+病人体位与操作：先双足并拢，然后让病人用患侧下肢以小步幅、小幅屈膝向前迈成弓步。
+@@ 1344 [caption]
+图 21.28　（A）向前上台阶，在大腿外侧施加手法压力，以强化下肢正确对线并促进臀中肌激活。（B）对抗弹性阻力或滑轮的抗阻上台阶，以强化膝伸肌。
+@@ 1345 [p]
+屈曲（见图 20.32）。然后伸膝并将足收回到另一足旁，回到直立位。随病人控制能力提高，相应增加步幅长度与屈膝角度。
+@@ 1346 [li]
+保持膝与足趾对线（避免髋内收与内旋），前腿屈曲不得超过从足趾向上的垂线。
+@@ 1347 [li]
+为增加难度，在躯干周围或病人手中加负重，并随控制改善提高活动速度。
+@@ 1348 [li]
+进阶：让病人向前对角方向弓步，再向侧方，再向后对角，最后直接向后。进阶的描述与图示见第 23 章。
+@@ 1349 [h4]
+膝的功能进阶
+@@ 1350 [p]
+为准备功能性活动，重要的是发展足够的力量、稳定性、爆发力、肌肉与心肺耐力、协调与动作时序，以及控制平衡和应对预期或非预期扰动的能力。这些要素都是技能习得所必需。应用训练特异性原则，使病人的活动朝期望的功能结局进阶。以下简要总结膝康复功能进阶的关键组成部分，更多信息参见其他章节。
+@@ 1351 [h4]
+力量与肌肉耐力训练
+@@ 1352 [p]
+进阶强化常涉及高负荷离心练习或速度谱训练。腿举器、Total Gym 装置或等速测力计等抗阻设备，能提供超过弹性阻力与沙袋的膝肌群渐进负荷。在高负荷开链伸膝练习中，将胫骨垫置于近端位置已被证明可减少膝的前向剪切力。
+@@ 1353 [p]
+为改善肌肉耐力，将本章前述练习通过在各阻力水平增加重复次数或时间要素来进阶。常用于心肺训练的设备，如跑台、固定自行车或踏步机，也可用于发展下肢肌肉耐力。旨在渐进发展力量与肌肉耐力的运动方案的特点以及各类设备的特点，见第 6 章与第 7 章。
+@@ 1354 [h4]
+心肺耐力训练
+@@ 1355 [p]
+一系列有氧活动的进阶，如游泳、骑车、步行、跑步，以及使用上肢功率计、椭圆机、踏步机或越野滑雪机，按病人耐受程度分级并纳入康复方案以发展心肺耐力。这些活动还能增加多个肌群的肌肉耐力。若病人计划重返运动，选择最能复制其所需肌肉活动的体能训练活动。训练指南见第 7 章。
+@@ 1356 [h4]
+平衡与本体感觉活动（扰动训练）
+@@ 1357 [p]
+需要躯干与下肢控制的一系列平衡活动是康复方案的重要组成部分，用以改善或恢复病人的功能能力。一旦允许部分至完全负重，平衡训练即可从稳定表面双侧站姿的基本活动，如对抗交替阻力的稳定练习、在多方向上肢活动中保持平衡、受控的重心转移、踏步与原地踏步，进阶到不稳定表面单侧站姿的更具挑战性的活动。姿势控制与渐进平衡训练的活动顺序见第 8、16 与 23 章。
+@@ 1358 [h4]
+超等长训练与灵敏训练
+@@ 1359 [p]
+超等长训练又称牵张－缩短练习，旨在改善爆发力并发展快速的神经肌肉反应。这种训练形式适用于康复后期、计划重返高需求工作或运动相关活动的部分病人。训练包括高速运动与快速改变方向。下肢超等长训练的例子包括前后与左右滑步、使用 Pro-Fitter，以及在高度不同的平面上跳上跳下并以正确的机制落地以降低受伤风险。下肢超等长活动的进阶见第 23 章。
+@@ 1360 [p]
+灵敏训练旨在发展协调（动作顺序与时序）、平衡与快速的神经肌肉反应。训练包括在不同运动速度下改变方向的练习。活动包括先在步行时、后在跑步时绕过或跨过环境中的障碍物，以及转身、变向切步或单足跳。灵敏训练的例子见第 23 章。
+@@ 1361 [h4]
+模拟工作相关活动与专项训练
+@@ 1362 [p]
+个体化康复方案的最后一部分是练习模拟病人工作或期望的娱乐、运动活动的体力需求。模拟活动与训练使病人能在监督下练习，获得关于正确机制的反馈。
+@@ 1363 [p]
+例如，重返反复提举工作的病人应练习发展躯干稳定肌以及髋、膝伸肌力量与平衡的活动，以便提举时保持安全的身体机制。
+@@ 1364 [p]
+下肢早期平衡活动的例子见第 20 章运动部分。提举任务的进阶与正确身体机制的应用见第 8 与 16 章。专项训练的描述超出本教材范围，但可在众多资料中找到。
+@@ 1365 [h3]
+自主学习活动
+@@ 1366 [h4]
+批判性思维与讨论
+@@ 1367 [p]
+1. 观察一项功能性活动，如穿袜子、从椅上站起或登上城市公交车。
+@@ 1368 [p]
+- 膝关节需要多大的关节活动度？分析中还要包括髋与踝。
+@@ 1369 [p]
+- 若活动受限，哪些肌肉的活动度会下降？哪些关节滑动会减少？
+@@ 1370 [p]
+- 哪些肌肉在发挥功能，需要何种水平的力量？
+@@ 1371 [p]
+- 假设活动范围与力量丧失 50%。设计一个运动方案以推进功能恢复。
+@@ 1372 [p]
+2. 描述跨越膝的所有双关节肌的功能；包括各肌肉在“另一关节”的功能，以及各肌肉在膝处依其长度－张力关系如何最有效地发挥功能。
+@@ 1373 [p]
+3. 描述步行周期中膝肌群的作用。
+@@ 1374 [p]
+- 需要多大的关节活动度？步行周期中最大屈曲与伸展程度出现在何时？
+@@ 1375 [p]
+- 步行周期中，膝部各肌肉何时活动，其功能为何？
+@@ 1376 [p]
+- 肌肉短缩、肌肉无力与关节疼痛时会出现哪些步态偏差？解释每种偏差出现的原因。
+@@ 1377 [p]
+4. 两位病人都已七十多岁，因右膝 OA 关节退变于 10 天前行 TKA，被转介到你所在的家访实践中。一位接受骨水泥型 TKA，另一位接受“混合型”TKA。他们的术后处理有何不同，或有何相似？
+@@ 1378 [p]
+5. 区分外侧支持带松解、伸膝装置近端重排与远端重排手术所涉及的结构。这些差异如何影响术后康复？
+@@ 1379 [p]
+6. 一位病人在 ACL 重建后 6 个月，单腿屈膝及上下楼梯时出现骨盆下沉与膝外翻塌陷。哪些肌肉无力或紧张时通常引起这些运动功能障碍？描述可用于纠正这些问题的方法。
+@@ 1380 [h4]
+实验室实习
+@@ 1381 [p]
+1. 设计、布置并实施一个循环训练课程，用于腘绳肌与股四头肌的激活与强化以及平衡练习。将活动从基础到进阶排列。观察每项练习的准确性与安全性，并注意所涉及的应力。
+@@ 1382 [p]
+2. 使用机械阻力（滑轮、弹性阻力与自由重量），设置满足以下各种情况的练习。
+@@ 1383 [p]
+- 强化股四头肌，使最大机械力矩分别出现在膝 90°、45° 与 25° 时。
+@@ 1384 [p]
+- 强化腘绳肌，使最大机械力矩分别出现在膝 90°、45° 与 0° 时。
+@@ 1385 [p]
+3. 复习所有膝的关节松动技术；包括基本滑动、附属运动、髌骨松动与运动中的松动技术。
+@@ 1386 [p]
+- 找出并练习增加膝伸展的技术，从膝 45° 开始，以 15° 递增，直到达到完全伸展。
+@@ 1387 [p]
+- 对膝屈曲做同样的练习，从 25° 开始，以 15° 递增，直到达到全范围。需要哪些附属运动？
+@@ 1388 [p]
+- 若髌骨不能向远端滑动，哪些运动会受限？
+@@ 1389 [p]
+- 若髌骨不能向近端滑动，哪些功能会丧失？
+@@ 1390 [p]
+4. 复习并练习可用于增加髌骨周围外侧支持带／髂胫束活动度的软组织与髌骨松动技术。松动该组织如何改善髌骨轨迹？动态活动中哪些近端肌肉有助于支持正常的髌骨对线？
+@@ 1391 [p]
+5. 找出所有跨越膝的双关节肌。复习并练习针对每种肌肉的有设备与无设备的自我牵伸技术。
+@@ 1392 [h4]
+病例研究
+@@ 1393 [p]
+1. J 女士是一位 49 岁的三个孩子的母亲。她身体健康，但近来右膝明显疼痛，尤其在长时间坐后站起时、下楼梯时以及在商场购物超过 2 小时时。她 15 年前有胫骨近端骨折史。她述说约一年后活动才恢复到相对正常。检查时未见明显畸形或关节肿胀。膝屈曲 125°，终末感硬，过度加压时疼痛；伸展 0°，终末感硬，过度加压时疼痛。与左侧相比，右侧胫骨后向滑动附属运动轻度减少，髌骨活动度下降。双侧膝屈肌与伸肌力量为 4/5 级。她主诉下蹲时右膝疼痛；疼痛在屈曲 45° 时开始。屈至 75° 时因疼痛过甚而停止。她以腰部前屈从地面拾取物品。她难以有控制地坐到低椅上。
+@@ 1394 [p]
+- 列出她的损伤与功能受限，并说明适当的目标。
+@@ 1395 [p]
+- 制定达到目标的运动方案。如何开始练习？如何进阶每项练习与整个方案？
+@@ 1396 [p]
+- 说明你拟用的每种手法技术与拟教病人的每项练习的理由。
+@@ 1397 [p]
+2. R 先生 25 岁，遭遇严重车祸，左侧多处股骨与髌骨骨折。左腿以长腿石膏固定 3 个月，随后以短腿石膏再固定 1 个月。在短腿石膏固定期间允许部分负重。今晨拆除石膏，现开始康复，但额外一个月内不允许完全负重。他述说尝试屈膝时明显僵硬与不适。观察见大腿与小腿明显萎缩。无开放性伤口或关节肿胀。活动范围极小：屈曲 25°，伸展 20°，胫股关节与髌股关节均无关节间隙活动。他能完成股四头肌与腘绳肌静力收缩，但力量无法测试。
+@@ 1398 [p]
+- 回答与前一病例相同的问题。
+@@ 1399 [p]
+- 尽管本病例与前一病例的病人均有活动受限与无力，你的干预策略有何不同？治疗中会遵循不同的注意事项吗？若有，是什么？
+@@ 1400 [h4]
+参考文献
+@@ 1401 [p]
+1. Allum, R: Aspects of current management: complications of arthroscopic reconstruction of the anterior cruciate ligament. J Bone Joint Surg Br 85:12–16, 2003.
+@@ 1402 [p]
+2. American Academy of Orthopedic Surgeons: ACL injury: does it require surgery? Available at www.orthoinfo.aaos.org.
+@@ 1403 [p]
+3. American Physical Therapy Association: Guide to Physical Therapist Practice, ed. 2. Phys Ther 81:9–744, 2001.
+@@ 1404 [p]
+4. Anbari, A, and Cole, BJ: Medial patellofemoral ligament reconstruction: a novel approach. J Knee Surg 21(3):241–245, 2008.
+@@ 1405 [p]
+5. Anderson, JK, and Noyes, FR: Principles of posterior cruciate ligament reconstruction. Orthopedics 18(5):493–500, 1995.
+@@ 1406 [p]
+6. Antich, TJ, and Brewster, CE: Modification of quadriceps femoris muscle exercises during knee rehabilitation. Phys Ther 66(8):1246–1251, 1986.
+@@ 1407 [p]
+7. Arendt, E, and Dick, R: Knee injury patterns among men and women in collegiate basketball and soccer. Am J Sports Med 23(6):694–701, 1995.
+@@ 1408 [p]
+8. Avramidis, K, et al: Effectiveness of electrical stimulation of the vastus medialis muscle in the rehabilitation of patients after total knee arthroplasty. Ar ch Phys Med Rehabil 84(12):1850–1853, 2003.
+@@ 1409 [p]
+9. Ayotte, NW, et al: Electromyographical analysis of selected lower extremity muscles during 5 unilateral weight-bearing exercises. J Orthop Sports Phys Ther 37(2):48–55, 2007.
+@@ 1410 [p]
+10. Bade, MJ, Kohrt, WM, and Stevens-Lapsley, JE: Outcomes before and after total knee arthroplasty compared to healthy adults. J Orthop Sports Phys Ther 40(9):559–567, 2010.
+@@ 1411 [p]
+11. Barber-Westin, SD, et al: The effect of exercise and rehabilitation on anterior posterior knee displacements after anterior cruciate ligament autograft reconstruction. Am J Sports Med 27:84–93, 1999.
+@@ 1412 [p]
+12. Bartha, L, et al: Autologous osteochondral mosaicplasty grafting. J Orthop Sports Phys Ther 36(10):739–750, 2006.
+@@ 1413 [p]
+13. Barton, CJ, Webster, KE, and Menz, HB: Evaluation of the scope and quality of systematic reviews on nonpharmacological conservative treatment for patellofemoral pain syndrome. J Orthop Sports Phys Ther 38:529–541, 2008.
+@@ 1414 [p]
+14. Beaupré, LA, et al: Exercise combined with continuous passive motion or slider board therapy compared with exercise only: a randomized, controlled trial of patients following total knee arthroplasty. Phys Ther 81:1029–1037, 2001.
+@@ 1415 [p]
+15. Berchuck, M, et al: Gait adaptations by patients who have a deficient anterior cruciate ligament. J Bone Joint Surg Am 72(6): 871–877, 1990.
+@@ 1416 [p]
+16. Berenbaum, F: Osteoarthritis, epidemiology, pathology, and pathogenesis. In Klippel, JH, et al (eds): Primer on the Rheumatic Diseases, ed. 12. Atlanta: Arthritis Foundation, 2001, pp 285-293.
+@@ 1417 [p]
+17. Bert, JM: Arthroscopic treatment of degenerative arthritis of the knee. In Insall, JN, and Scott, WN (eds): Surgery of the Knee, vol. 1, ed. 3. New York: Churchill Livingstone, 2001, p 381.
+@@ 1418 [p]
+18. Bertlet, GC, Mascia, A, and Miniaci, A: Treatment of unstable osteochondritis dessicans lesions of the knee using autogenous osteochondral grafts (mosaicplasty). Arthroscopy 15:312–316, 1999.
+@@ 1419 [p]
+19. Beynnon, BD, et al: Treatment of anterior cruciate ligament injuries. Part 1. Am J Sports Med 33(10):1579–1602, 2005.
+@@ 1420 [p]
+20. Beynnon, BD, et al: Treatment of anterior cruciate ligament injuries. Part 2. Am J Sports Med 33(11):1751–1767, 2005.
+@@ 1421 [p]
+21. Beynnon, BD, et al: Rehabilitation after anterior cruciate ligament reconstruction: a prospective, randomized, double-blind comparison of programs administered over 2 different time intervals. Am J Sports Med 33(3):347–355, 2005.
+@@ 1422 [p]
+22. Bizzini, M, et al: Systematic review of the quality of randomized, controlled trials for patellofemoral pain syndrome. J Orthop Sports Phys Ther 33(1):4–20, 2003.
+@@ 1423 [p]
+23. Blackburn, TA, Eiland, WG, and Bandy, WG: An introduction to the plica. J Orthop Sports Phys Ther 3(4):171–177, 1982.
+@@ 1424 [p]
+24. Bolgla, LA, et al: Hip strength and hip and knee kinematics during stair descent in females with and without patellofemoral pain syndrome. J Orthop Sports Phys Ther 38(1):12–18, 2008.
+@@ 1425 [p]
+25. Boling, NC, et al: Outcomes of a weight-bearing rehabilitation program for patients diagnosed with patellofemoral pain syndrome. Arch Phys Med Rehabil 87:1428–1435, 2006.
+@@ 1426 [p]
+26. Bonutti, PM: Minimally invasive total knee arthroplasty— Midvastus approach. In Hozack, WJ, et al (eds): Minimally Invasive Total Joint Arthroplasty. Heidelberg: Springer, 2004, pp 139–145.
+@@ 1427 [p]
+27. Boyce, DA, and Hanley, ST: Functional based rehabilitation of the knee after partial meniscectomy or meniscal repair. Orthop Phys Ther Clin North Am 3:555, 1994.
+@@ 1428 [p]
+28. Bradbury, N, et al: Participation in sports after total knee replacement. Am J Sports Med 26(4):530–535, 1998.
+@@ 1429 [p]
+29. Brand, J, Jr, et al: Graft fixation in cruciate ligament reconstruction. Am J Sports Med 28:761–774, 2000.
+@@ 1430 [p]
+30. Brewster, CE, Moynes, DR, and Jobe, FW: Rehabilitation for anterior cruciate reconstruction. J Orthop Sports Phys Ther 5(3):121–126, 1983.
+@@ 1431 [p]
+31. Brittberg, M, and Winalski, CS: Evaluation of cartilage injuries and repair. J Bone Joint Surg Am 85-A(Suppl 2):58–69, 2003.
+@@ 1432 [p]
+32. Brodersen, MP: Anterior cruciate ligament reconstruction. In Morrey, BF (ed): Reconstructive Surgery of the Joints, ed. 2. New York: Churchill Livingstone, 1996, p 1639.
+@@ 1433 [p]
+33. Brody, LT, and Thein, JM: Nonoperative treatment for patellofemoral pain. J Orthop Sports Phys Ther 28(5):336–344, 1988.
+@@ 1434 [p]
+34. Brownstein, BA, Lamb, RL, and Mangine, RE: Quadriceps, torque, and integrated electromyography. J Orthop Sports Phys Ther 6(6):309–314, 1985.
+@@ 1435 [p]
+35. Buckwalter, JA, and Ballard, WT: Operative treatment of arthritis. In Klippel, JH (ed): Primer on the Rheumatic Diseases, ed. 12. Atlanta: Arthritis Foundation, 2001, pp 613–623.
+@@ 1436 [p]
+36. Bynum, EB, Barrick, RL, and Alexander, AH: Open versus closed kinetic chain exercises after anterior cruciate ligament reconstruction: a prospective study. Am J Sports Med 23(4):401–406, 1995.
+@@ 1437 [p]
+37. Cailliet, R: Knee Pain and Disability, ed 3. Philadelphia: FA Davis, 1992.
+@@ 1438 [p]
+38. Callaghan, JJ, et al: Mobile-bearing knee replacement. J Bone Joint Surg Am 82:1020–1041, 2000.
+@@ 1439 [p]
+39. Cameron, H, and Brotzman, SB: The arthritic lower extremity. In Brotzman, SB, and Wilk, KE (eds): Clinical Orthopedic Rehabilitation, ed. 2. Philadelphia: Mosby, 2003, pp 441–474.
+@@ 1440 [p]
+40. Camp, CL, et al: Medial patellofemoral ligament repair for recurrent patellar dislocation. Am J Sports Med 38(11):2248–2254, 2010.
+@@ 1441 [p]
+41. Carrey, CT, and Tria, AJ: Surgical principles of total knee replacement: Incisions, extensor mechanism, ligament balancing. In Pellicci, PM, Tria, AJ, and Garvin, KL (eds): Orthopedic Knowledge Update, 2. Hip and Knee Reconstruction. Rosemont, IL: American Academy of Orthopedic Surgeons, 2000, p 281.
+@@ 1442 [p]
+42. Chester, R, et al: The relative timing of VMO and VL in the aetiology of anterior knee pain: a systematic review and metaanalysis. BMC Musculoskeletal Disord 9:64, 2008.
+@@ 1443 [p]
+43. Chiarello, CM, Gunderson, L, and O’Halloran, T: The effect of continuous passive motion duration and increment on range of motion in total knee arthroplasty patients. J Orthop Sports Phys Ther 25(2):119–127, 1997.
+@@ 1444 [p]
+44. Chu, BI, et al: Surgical techniques and postoperative rehabilitation for isolated posterior cruciate ligament injury. Orthop Phys Ther Prac 19(3):185–189, 2007.
+@@ 1445 [p]
+45. Chu, C: Cartilage therapies: Chondrocyte transplantation, osteochondral allografts, and autographs. In Pedowitz, RA, O’Conor, JJ, and Akeson, WH (eds): Daniel’s Knee Injuries: Ligament and Cartilage Structure, Function, Injury, and Repair, ed. 2. Philadelphia: Lippincott Williams & Wilkins, 2003, pp 227–237.
+@@ 1446 [p]
+46. Clifton, R, Ng, CY, and Nutton, RW: What is the role of lateral retinacular release? J Bone Joint Surg Br 92(1):1–6, 2010.
+@@ 1447 [p]
+47. Colvin, AC, and West, RV: Patellar instability. J Bone Joint Surg Am 90:2751–2762, 2008.
+@@ 1448 [p]
+48. Cooper, DE, DeLee, MD, and Ramamurthy, S: Reflex sympathetic dystrophy of the knee. J Bone Joint Surg Am 71(3): 365–369, 1989.
+@@ 1449 [p]
+49. Crossley, K, et al: A systematic review of physical interventions for patellofemoral pain syndrome. Clin J Sport Med 11(2): 103–110, 2001.
+@@ 1450 [p]
+50. Cyriax, J: Textbook of Orthopaedic Medicine, vol. 1. Diagnosis of Soft Tissue Lesions, ed. 8. London: Bailliere Tindall, 1982.
+@@ 1451 [p]
+51. D’Amato, M, and Bach, BR: Knee injuries. In Brotzman, SB, and Wilk, KE (eds): Clinical Orthopedic Rehabilitation, ed. 2. Philadelphia: Mosby, 2003, pp 251–370.
+@@ 1452 [p]
+52. D’Antonio, JA: Complications of total hip and knee arthroplasty: Lessons learned. In Hozack, WJ, Krismer, M, and Nogler, M, et al (eds): Minimally Invasive Total Joint Arthroplasty. Heidelberg: Springer, 2004, pp 304–308.
+@@ 1453 [p]
+53. Davis, I, Ireland, ML, and Hanaki, S: ACL injuries—The gender bias. J Orthop Sports Phys Ther 37(2):A1–A7, 2007.
+@@ 1454 [p]
+54. Davis, IS, and Powers, C: Patellofemoral pain syndrome: proximal, distal, and local factors. J Orthop Sports Phys Ther 40(3):A3–A9, 2010.
+@@ 1455 [p]
+55. Denis, M, et al: Effectiveness of continuous passive motion and conventional physical therapy after total knee arthroplasty: a randomized, clinical trial. Phys Ther 86:174–185, 2006.
+@@ 1456 [p]
+56. de Jong Z, et al: Long-term follow-up of a high-intensity exercise program in patients with rheumatoid arthritis. Clin Rheumatol 28(6):663–671, 2009.
+@@ 1457 [p]
+57. de Jong, Z, and Vlieland, TP: Safety of exercise in patients with rheumatoid arthritis. Curr Opin Rheumatol 17(2):177–182, 2005.
+@@ 1458 [p]
+58. Deyle, GD, et al: Physical therapy treatment effectiveness for osteoarthritis of the knee: a randomized comparison of supervised clinical exercise and manual therapy procedures versus a home exercise program. Phys Ther 85:1301–1317, 2005.
+@@ 1459 [p]
+59. Dietrichson, J, and Souryal, TO: Preoperative and postoperative rehabilitation of anterior cruciate ligament tears. Orthop Phys Ther Clin North Am 3:539, 1994.
+@@ 1460 [p]
+60. Dixon, MC, et al: Modular fixed-bearing total knee arthroplasty with retention of the posterior cruciate ligament: a study of patients followed for a minimum of fifteen years. J Bone Joint Surg Am 87(3):598–603, 2005.
+@@ 1461 [p]
+61. Doucette, SA, and Goble, EM: The effect of exercise on patellar tracking in lateral patellar compression syndrome. Am J Sports Med 20(4):434–440, 1992.
+@@ 1462 [p]
+62. Drez, D, Edwards, TB, and Williams, CS: Results of medial patellofemoral ligament reconstruction in the treatment of patellar dislocations. Arthroscopy 17(3):298–306, 2001.
+@@ 1463 [p]
+63. Dunn, WR, et al: The effect of anterior cruciate ligament reconstruction on the risk of knee re-injury. Am J Sports Med 32(8):1906–1914, 2004.
+@@ 1464 [p]
+64. Eitzen, I, et al: A progressive 5-week exercise therapy program leads to significant improvement in knee function early after anterior cruciate ligament reconstruction. J Orthop Sports Phys Ther 40(11):705–721, 2010.
+@@ 1465 [p]
+65. Eng, JJ, and Peirrynowsk, MR: Evaluation of soft foot orthotics in the treatment of patellofemoral pain syndrome. Phys Ther 73(2):62–68, 1993.
+@@ 1466 [p]
+66. Enloe, J, et al: Total hip and knee replacement programs: a report using consensus. J Orthop Sports Phys Ther 23(1):3–11, 1996.
+@@ 1467 [p]
+67. Escamilla, RF, et al: Biomechanics of the knee during closed kinetic chain and open kinetic chain exercises. Med Sci Sports Exerc 30(4):556–569, 1998.
+@@ 1468 [p]
+68. Escamilla, RF, et al: Patellofemoral joint force and stress between a short- and long-step forward lunge. J Orthop Sports Phys Ther 38(11):681–690, 2008.
+@@ 1469 [p]
+69. Ethgen, O, et al: Health-related quality of life in total hip and total knee arthroplasty: a qualitative and systematic review of the literature. J Bone Joint Surg Am 86:963–974, 2004.
+@@ 1470 [p]
+70. Farquhar, SJ, Reisman, DS, and Snyder-Mackler, L: Persistence of altered movement patterns during a sit-to-stand task 1 year following unilateral total knee arthroplasty. Phys Ther 88(5):567–579, 2008.
+@@ 1471 [p]
+71. Feller, JA, and Webster, KE: A randomized comparison of patellar tendon and hamstring tendon anterior cruciate ligament reconstruction. Am J Sports Med 31(4):564–573, 2003.
+@@ 1472 [p]
+72. Finch, E, et al: Functional ability perceived by individuals following total knee arthroplasty compared to age-matched individuals without knee disability. J Orthop Sports Phys Ther 27: 255–263, 1998.
+@@ 1473 [p]
+73. Fineberg, MS, Zarins, B, and Sherman, OH: Practical considerations in anterior cruciate ligament replacement surgery. Arthroscopy 16(7):715–724, 2000.
+@@ 1474 [p]
+74. Finger, S, and Paulos, LE: Arthroscopic-assisted posterior cruciate ligament repair/reconstruction. In Jackson, DW (ed): Master Techniques in Orthopedic Surgery: Reconstructive Knee Surgery, ed. 2. Philadelphia: Lippincott Williams & Wilkins, 2003, pp 159–177.
+@@ 1475 [p]
+75. Fisher, NM, et al: Quantitative effects of physical therapy on muscular and functional performance in subjects with osteoarthritis of the knees. Arch Phys Med Rehabil 74(8):840–847, 1993.
+@@ 1476 [p]
+76. Fitzgerald, GK, et al: The efficacy of perturbation training in nonoperative anterior cruciate ligament rehabilitation programs for physically active individuals. Phys Ther 80(2): 128–140, 2000.
+@@ 1477 [p]
+77. Fitzgerald, GK, Axe, MJ, and Snyder-Mackler, L: Proposed practice guidelines for nonoperative anterior cruciate ligament rehabilitation of physically active individuals. J Orthop Sports Phys Ther 30:194–203, 2000.
+@@ 1478 [p]
+78. Fitzgerald, GK, Piva, SR, and Irrgang, JJ: Reports of knee instability in knee osteoarthritis: prevalence and relationship to physical function. Arthritis Rheum 51:941–946, 2004.
+@@ 1479 [p]
+79. Ford, DH, and Post, WR: Open or arthroscopic lateral release: indications, techniques, and rehabilitation. Clin Sports Med 16:29–49, 1997.
+@@ 1480 [p]
+80. Fortin, PR, et al: Outcomes of total hip and knee replacement: preoperative functional status predicts outcomes at six months after surgery. Arthritis Rheum 42:1722–1728, 1999.
+@@ 1481 [p]
+81. Fransen, M, McConnell, S, and Bell, M: Exercise for osteoarthritis of the hip or knee. The Cochrane Database of Systematic Reviews 2001, Issue 2. Art. No.: CD004376. DOI: 10.1002/14561858. CD004376.
+@@ 1482 [p]
+82. Fu, FH, et al: Current trends in anterior cruciate ligament reconstruction. Part I. Biology and biomechanics of reconstruction. Am J Sports Med 27(6):821–830, 1999.
+@@ 1483 [p]
+83. Fu, FH, et al: Current trends in anterior cruciate ligament reconstruction. Part II. Operative procedures and clinical correlations. Am J Sports Med 28(1):124–130, 2000.
+@@ 1484 [p]
+84. Fujimoto, E, et al: An early return to vigorous activity may destabilize anterior cruciate ligaments reconstructed with hamstring grafts. Arch Phys Med Rehabil 85:298–302, 2004.
+@@ 1485 [p]
+85. Fukuda, TY, et al: Short-term effects of hip abductors and lateral rotators strengthening in females with patellofemoral pain syndrome: a randomized, controlled clinical trial. J Orthop Sports Phys Ther 40(11):736–742, 2010.
+@@ 1486 [p]
+86. Fulkerson, JP: Anteromedial tibial tubercle transfer. In Jackson, DW (ed): Master Techniques in Orthopedic Surgery: Reconstructive Knee Surgery, ed. 2. Philadelphia: Lippincott Williams & Wilkins, 2006, pp 13–25.
+@@ 1487 [p]
+87. Fulkerson, JP: Diagnosis and treatment of patients with patellofemoral pain (Review). Am J Sports Med 30:447–456, 2002.
+@@ 1488 [p]
+88. Garth, WP, DiChristina, DG, and Holt, G: Delayed proximal repair and distal realignment after patellar dislocation. Clin Orthop 377:132–144, 2000.
+@@ 1489 [p]
+89. Gasser, SI, and Jackson, DW: Arthroscopic lateral release of the patella with radiofrequency ablation. In Jackson, DW (ed): Master Techniques in Orthopedic Surgery: Reconstructive Knee Surgery, ed. 2. Philadelphia: Lippincott Williams & Wilkins, 2006, pp 3–13.
+@@ 1490 [p]
+90. Gerber, JP, et al: Safety, feasibility, and efficacy of negative work exercise via eccentric muscle activity following anterior cruciate ligament reconstruction. J Orthop Sports Phys Ther 37(1):10–18, 2007.
+@@ 1491 [p]
+91. Gersoff, WK: Meniscal transplantation. In Mirzayan, P: Cartilage Injury in the Athlete. New York: Thieme, 2006, pp 263–271.
+@@ 1492 [p]
+92. Gill, TJ, Asnis, PD, and Berkson, EM: The treatment of articular cartilage defects using the microfracture technique. J Orthop Sports Phys Ther 36(10):728–738, 2006.
+@@ 1493 [p]
+93. Gillogly, SD, Myers, TH, and Reinold, MM: Treatment of full-thickness chondral defects in the knee with autologous chondrocyte implantation. J Orthop Sports Phys Ther 36(10): 751–764, 2006.
+@@ 1494 [p]
+94. Goodfellow, J, Hungerford, D, and Woods, C: Patello-femoral joint mechanics and pathology of chondromalacia patellae. J Bone Joint Surg Br 58(3):291–299, 1976.
+@@ 1495 [p]
+95. Gose, JC: CPM in the postoperative treatment of patients with total knee replacements. Phys Ther 67(1):39–42, 1987.
+@@ 1496 [p]
+96. Grelsamer, RP, and Klein, JR: The biomechanics of the patellofemoral joint. J Orthop Sports Phys Ther 28(5):286–298, 1998.
+@@ 1497 [p]
+97. Grelsamer, RP, and McConnell, J: The Patella: A Team Approach. Gaithersburg, MD: Aspen, 1998.
+@@ 1498 [p]
+98. Griffin, LY, et al: Noncontact anterior cruciate ligament injuries: risk factors and prevention strategies . J Am Acad Orthop Surg 8(3):141–150, 2000.
+@@ 1499 [p]
+99. Grood, ES, et al: Biomechanics of the knee: Extension exercise. J Bone Joint Surg Am 66(5):725–734, 1984.
+@@ 1500 [p]
+100. Gross, MT, and Foxworth, JL: The role of foot orthoses as an intervention for patellofemoral pain. J Orthop Sports Phys Ther 33(11):661–670, 2003.
+@@ 1501 [p]
+101. Gryzlo, SM, et al: Electromyographic analysis of knee rehabilitation exercises. J Orthop Sports Phys Ther 20(1):36–43, 1994.
+@@ 1502 [p]
+102. Gupte, CM, et al: A review of the function and biomechanics of the meniscofemoral ligaments. Arthroscopy 19(2):161–171, 2003.
+@@ 1503 [p]
+103. Hangood, L: Mosaicplasty. In Insall, JN, and Scott, WN (eds): Surgery of the Knee, vol. 1, ed. 3. New York: Churchill Livingstone, 2001, p 357.
+@@ 1504 [p]
+104. Hartigan, EH, Axe, MJ, and Snyder-Mackler, L: Timeline for noncopers to return-to-sports criteria after anterior cruciate ligament reconstruction. J Orthop Sports Phys Ther 40(3):141–154, 2010.
+@@ 1505 [p]
+105. Hartigan, E, Lewek, M, and Snyder-Mackler, L: The knee. In Levangie, PK, and Norkin, CC: Joint Structure and Function: A Comprehensive Analysis, ed. 5. Philadelphia: FA Davis, 2011, pp 399–443.
+@@ 1506 [p]
+106. Healy, WL, Iorio, R, and Lemos, MJ: Athletic activity after total knee arthroplasty. Clin Orthop 390:65–71, 2000.
+@@ 1507 [p]
+107. Heckman, TP, Barber-Westin, SD, and Noyes, FR: Meniscal repair and transplantation: indications, techniques, rehabilitation, and clinical outcomes. J Orthop Sports Phys Ther 36(10): 795–815, 2006.
+@@ 1508 [p]
+108. Heckman, TP, Noyes, FR, and Barber-Westin, SD: Autogenic and allogenic anterior cruciate ligament rehabilitation. In Ellenbecker, TS (ed): Knee Ligament Rehabilitation. New York: Churchill Livingstone, 2000, p 132.
+@@ 1509 [p]
+109. Heiderscheidt, B: Lower extremity hip injuries: is it just about strength? (Editorial) J Orthop Sports Phys Ther 40(2):39–41. 2010.
+@@ 1510 [p]
+110. Herrington, L, and Al-Sherhi, A: A controlled trial of weightbearing versus nonweight-bearing exercises for patellofemoral pain. J Orthop Sports Phys Ther 37(4):155–160, 2007.
+@@ 1511 [p]
+111. Hewett, TE, Blum, KR, and Noyes, FR: Gait characteristics of the anterior cruciate ligament-deficient varus knee. Am J Knee Surg 10(4):246–254, 1997.
+@@ 1512 [p]
+112. Hewitt, B, and Shakespeare, D: Flexion versus extension: A comparison of postoperative total knee arthroplasty mobilization regimes. Knee 8:305–309, 2001.
+@@ 1513 [p]
+113. Hiemstra, LA, Lo, I, and Fowler, PJ: Effect of fatigue on knee proprioception: implications for dynamic stabilization. J Orthop Sports Phys Ther 31(10):598–605, 2001.
+@@ 1514 [p]
+114. Hinton, RY, and Sharma, KM: Acute and recurrent patellar instability in the young athlete. Orthop Clin North Am 34: 385–396, 2003.
+@@ 1515 [p]
+115. Holmes, SW, and Clancy, WG: Clinical classification of patellofemoral pain and dysfunction. J Orthop Sports Phys Ther 28(5):299–306, 1998.
+@@ 1516 [p]
+116. Hung, Y, and Gross, MT: Effect of foot position on electromyographic activity of the vastus medialis oblique and vastus lateralis during lower-extremity weight-bearing activities. J Orthop Sports Phys Ther 29(2):93–105, 1999.
+@@ 1517 [p]
+117. Hurd, WJ, Axe, MJ, and Snyder-Mackler, L: A 10-year prospective trial of a patient management algorithm and screening examination for highly active individuals with anterior cruciate ligament injury. Part 1. Outcomes. Am J Sports Med 36:40–47, 2008.
+@@ 1518 [p]
+118. Hurd, WJ, Axe, MJ, and Snyder-Mackler, L: A 10-year prospective trial of a patient management algorithm and screening examination for highly active individuals with anterior cruciate ligament injury. Part 2. Determinants of dynamic knee stability. Am J Sports Med 36:48–56, 2008.
+@@ 1519 [p]
+119. Insall, JN, and Clark, HD: Historic development, classification and characteristics of total knee prostheses. In Insall, JN, and Scott, WN (eds): Surgery of the Knee, vol. 2, ed. 3. New York: Churchill Livingstone, 2001, p 1516.
+@@ 1520 [p]
+120. Insall, JN, and Easley, ME: Surgical techniques and instrumentation in total knee arthroplasty. In Insall, JN, and Scott, WN (eds): Surgery of the Knee, vol. 2, ed. 3. New York: Churchill Livingstone, 2001, p 1553.
+@@ 1521 [p]
+121. Ireland, ML, et al: Hip strength in females with and without patellofemoral pain. J Orthop Sports Phys Ther 33(11):671–676, 2003.
+@@ 1522 [p]
+122. Jain, NB, et al: Trends in epidemiology of knee arthroplasty in the United States 1990–2000. Arthritis Rheum 52(12): 3928–3933, 2005.
