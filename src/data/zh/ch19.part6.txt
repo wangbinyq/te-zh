@@ -1,0 +1,288 @@
+@@ 1090 [p]
+4. 一位病人 4 周前因拇指腕掌（CMC）关节创伤后关节炎接受了韧带重建肌腱填充关节置换术，现转诊至你处。术后 3½ 周拆除拇指人字石膏，病人目前佩戴拇指人字支具，可在运动时取下。请为该病人制定运动计划并逐步推进。病人已重返办公室工作岗位。病人希望能在娱乐活动中恢复打高尔夫球。
+@@ 1091 [p]
+5. 一名 8 岁儿童在雕刻南瓜时，非优势手示指与中指掌侧发生 III 区裂伤，在指深屈肌腱（FDP）与指浅屈肌腱（FDS）手术修复后转诊至你处。修复术后，该儿童的手以腕与手指屈曲位石膏固定 3 周。该儿童目前佩戴背侧阻挡支具，可在运动时取下。该儿童的主动与被动伸直明显受限。请为该儿童设计运动计划并逐步推进。指出哪些活动必须在该儿童的直接监督下进行，哪些可独立进行。
+@@ 1092 [h4]
+参考文献
+@@ 1093 [p]
+1. Adams, BD: Complications of wrist arthroplasty. Hand Clin 26:213–220, 2010.
+@@ 1094 [p]
+2. Amadio, PC, Murray, PM, and Linscheid, RL: Arthroplasty of the proximal interphalangeal joint. In Morrey, BF (ed): Joint Replacement Arthroplasty, ed. 3. Philadelphia: Churchill Livingstone, 2003, pp 163–174.
+@@ 1095 [p]
+3. American Physical Therapy Association: Guide to Physical Therapist Practice, ed. 2. Phys Ther 81:9–744, 2001.
+@@ 1096 [p]
+4. Anderson, RJ: Rheumatoid arthritis: clinical and laboratory features. In Klippel, JF (ed): Primer on Rheumatic Diseases, ed. 11. Atlanta: Arthritis Foundation, 1997, p 161.
+@@ 1097 [p]
+5. Angst, F, et al: Comprehensive assessment of clinical outcome and quality of life after resection interposition arthroplasty of the thumb saddle joint. Arthritis Rheum 53(2):205–213, 2005.
+@@ 1098 [p]
+6. Austin, NM: The wrist and hand complex. In Levange, PK, and Norkin, CC (eds): Joint Structure and Function: A Comprehensive Analysis, ed. 5. Philadelphia: FA Davis, 2011, pp 309–357.
+@@ 1099 [p]
+7. Backstrom, KM: Mobilization with movement as an adjunct intervention in a patient with complicated de Quervain’s tenosynovitis: a case report. J Orthop Sports Phys Ther 32(3):86–97, 2002.
+@@ 1100 [p]
+8. Baimbridge, LC, et al: A comparison of postoperative mobilization of flexor tendon repairs with “passive flexion-active extension” and “controlled active motion” techniques. J Hand Surg Br 19:517–521, 1994.
+@@ 1101 [p]
+9. Baxter-Petralia, P, and Penney, V: Cumulative trauma. In Stanley, BG, and Tribuzi, SM (eds): Concepts in Hand Rehabilitation. Philadelphia: FA Davis, 1992, p 419.
+@@ 1102 [p]
+10. Beasley, RW: Surgery of the Hand. New York: Thieme, 2003.
+@@ 1103 [p]
+11. Beckenbaugh, RD: Arthroplasty of the wrist. In Morrey, BF (ed): Joint Replacement Arthroplasty, ed. 3. Philadelphia: Churchill Livingstone, 2003, pp 244–265.
+@@ 1104 [p]
+12. Berger, RA, Beckenbaugh, RD, and Linschied, RL: Arthroplasty of the hand and wrist. In Green, DP, Hotchkiss, RN, and Pederson, WC (eds): Green’s Operative Hand Surgery, vol 1, ed. 4. New York: Churchill Livingstone, 1999, p 147.
+@@ 1105 [p]
+13. Bielefeld, T, and Neumann, DA: The unstable metacarpophalangeal joint in rheumatoid arthritis: anatomy, pathomechanics, and physical rehabilitation considerations. J Orthop Sports Phys Ther 35(8):502–520, 2005.
+@@ 1106 [p]
+14. Biese, J, and Goudzward, P: Postoperative management of metacarpophalangeal implant resection arthroplasty. Orthop Phys Ther Clin North Am 10(4):595–616, 2001.
+@@ 1107 [p]
+15. Blair, WF, Schurr, DG, and Buckwalter, JA: Metacarpophalangeal joint arthroplasty with a Silastic spacer. J Bone Joint Surg Am 66:365–370, 1984.
+@@ 1108 [p]
+16. Bodell, LS, and Leonard, L: Wrist arthroplasty. In Berger, RA, and Weiss, A (eds): Hand Surgery, vol II. Philadelphia: Lippincott Williams & Wilkins, 2004, pp 1340–1394.
+@@ 1109 [p]
+17. Brotzman, SB, et al: Hand and wrist injuries. In Brotzman, SB, and Wilk, KE (eds): Clinical Orthopedic Rehabilitation, ed. 2. Philadelphia: Mosby, 2003, pp 1–83.
+@@ 1110 [p]
+18. Browne, EZ Jr, and Ribick, CA: Early dynamic splinting for extensor tendon injuries. J Hand Surg Am 14(1):72–76, 1989.
+@@ 1111 [p]
+19. Brüner, S, et al: Dynamic splinting after extensor tendon repair in zones V to VII. J Hand Surg Br 28(3):224–227, 2003.
+@@ 1112 [p]
+20. Buckwalter, JA, and Ballard, WT: Operative treatment of arthritis. In Klippel, JH (ed): Primer of the Rheumatic Diseases, ed. 12. Atlanta: Arthritis Foundation, 2001, pp 613–623.
+@@ 1113 [p]
+21. Burr, N, Pratt, AL, and Smith, PJ: An alternative splinting and rehabilitation protocol for metacarpophalangeal arthroplasty in patients with rheumatoid arthritis. J Hand Ther 15(1):41–47, 2002.
+@@ 1114 [p]
+22. Burton, RI, and Melchior, JA: Extensor tendons—late reconstruction. In Green, DP, Hotchkiss, RN, and Pederson, WC (eds): Green’s Operative Hand Surgery, vol 2, ed. 4. New York: Churchill Livingstone, 1999, p 1988.
+@@ 1115 [p]
+23. Burton, RI, and Pellegrini, VD: Surgical management of basal joint arthritis of the thumb. Part II. Ligament reconstruction with tendon interposition arthroplasty. J Hand Surg Am 11: 324–332, 1986.
+@@ 1116 [p]
+24. Cannon, N: Post flexor tendon repair protocol. Indiana Hand Center Newsletter 1:13, 1993.
+@@ 1117 [p]
+25. Cannon, NM: Diagnosis and Treatment Manual for Physicians and Therapists, ed. 4. Indianapolis: Hand Rehabilitation Center of Indiana, 2001.
+@@ 1118 [p]
+26. Carney, KL, and Griffin-Reed, N: Rehabilitation after extensor injury and repair. In Berger, RA, and Weiss, APC (eds): Hand Surgery, vol I. Philadelphia: Lippincott Williams & Wilkins, 2004, pp 767–778.
+@@ 1119 [p]
+27. Chow, JA, et al: A combined regimen of controlled motion following flexor tendon repair in “no man’s land.” Plast Reconstr Surg 79(3):447–453, 1987.
+@@ 1120 [p]
+28. Chow, JA, et al: A comparison of results of extensor tendon repair followed by early controlled mobilization versus static immobilization. J Hand Surg Br 14(1):18–20, 1989.
+@@ 1121 [p]
+29. Chung, KC, et al: A multicenter clinical trial in rheumatoid arthritis comparing silicone metacarpophalangeal joint arthroplasty with medical treatment. J Hand Surg Am 34(5):815–823, 2009.
+@@ 1122 [p]
+30. Cook, SD, et al: Long-term follow-up of pyrolytic carbon metacarpophalangeal implants. J Bone Joint Surg Am 81: 635–648, 1999.
+@@ 1123 [p]
+31. Cooney, WP III, Linscheid, RL, and Beckenbaugh, RD: Arthroplasty of the metacarpophalangeal joint. In Morrey, BF (ed): Joint Replacement Arthroplasty, ed. 3. Philadelphia: Churchill Livingstone, 2003, pp 175–203.
+@@ 1124 [p]
+32. Cooney, WP III: Arthroplasty of the thumb axis. In Morrey, BF (ed): Joint Replacement Arthroplasty, ed. 3. Philadelphia: Churchill Livingstone, 2003, pp 204–225.
+@@ 1125 [p]
+33. Cooney, WP, III, Leddy, TP, and Larson, DR: Revision of thumb trapeziometacarpal arthroplasty. J Hand Surg Am 31(2): 219–227, 2006.
+@@ 1126 [p]
+34. Creighton, JJ, Steichen, JB, and Strickland, JW: Long-term evaluation of Silastic trapezial arthroplasty in patients with osteoarthritis. J Hand Surg Am 16(3):510–519, 1991.
+@@ 1127 [p]
+35. Crosby, CA, and Wehbe, MA: Early protected motion after extensor tendon repair. J Hand Surg Am 24:1061–1070, 1999.
+@@ 1128 [p]
+36. Culp, RW, and Taras, JS: Primary care of flexor tendon injuries. In Mackin, EJ, et al (eds): Rehabilitation of the Hand and Upper Extremity, ed. 5. St. Louis: Mosby, 2002, pp 415–427.
+@@ 1129 [p]
+37. Cyriax, J: Textbook of Orthopaedic Medicine, ed. 8. vol 1. Diagnosis of Soft Tissue Lesions. London: Bailliere Tindall, 1982.
+@@ 1130 [p]
+38. Davenport, TE, et al: The EdUReP model for nonsurgical management of tendinopathy. Phys Ther 85(10):1093–1103, 2005.
+@@ 1131 [p]
+39. Degnan, GG, and Lichtman, DM: Soft tissue arthroplasty about the wrist. In Lichtman, DM, and Alexander, AH (eds): The Wrist and Its Disorders, ed. 2. Philadelphia: WB Saunders, 1997, p 609.
+@@ 1132 [p]
+40. Delaney, R, and Stanley, J: A postoperative study of the range of movement following metacarpophalangeal joint replacement: optimum time of recovery. Br J Hand Ther 5(3):85–87, 2000.
+@@ 1133 [p]
+41. Delaney, R, Trail, IA, and Nutall, D: A comparative study of outcome between the Neuflex and Swanson Silastic metacarpophalangeal joint replacements. J Hand Surg Br 30(1):3–7, 2005.
+@@ 1134 [p]
+42. Divelbiss, BJ, Sollerman, C, and Adams, BD: Early results of the Universal total wrist arthroplasty in rheumatoid arthritis. J Hand Surg Am 27:195–204, 2002.
+@@ 1135 [p]
+43. Doyle, JR: Extensor tendons—acute injuries. In Green, DP, Hotchkiss, RN, and Pederson, WC (eds): Green’s Operative Hand Surgery, vol 2, ed. 4. New York: Churchill Livingstone, 1999, p 1950.
+@@ 1136 [p]
+44. Drake, ML, and Segalman, KA: Complications of small joint arthroplasty. Hand Clin 26:205–212, 2010.
+@@ 1137 [p]
+45. Duran, RJ, and Houser, RC: Controlled passive motion following flexor tendon repair in zones II and III. In AAOS: Symposium on Tendon Surgery in the Hand. St. Louis: CV Mosby, 1975.
+@@ 1138 [p]
+46. Evans, RB: Clinical management of extensor tendon injuries. In Mackin, EJ, et al (eds): Rehabilitation of the Hand and Upper Extremity, ed. 5. St. Louis: Mosby, 2002, pp 542–579.
+@@ 1139 [p]
+47. Evans, RB: Early active short arc motion for the repaired central slip. J Hand Surg Am 19(6):991–997, 1994.
+@@ 1140 [p]
+48. Evans, RB, and Burkhalter, WE: A study of the dynamic anatomy of extensor tendons and implications for treatment. J Hand Surg Am 11(5):774–779, 1986.
+@@ 1141 [p]
+49. Evans, RB, and Thompson, DE: The application of force to the healing tendon. J Hand Ther 6(4):266–284, 1993.
+@@ 1142 [p]
+50. Evans, RB: Early active motion after flexor tendon repairs. In Berger, RA, and Weiss, APC (eds): Hand Surgery, vol I. Philadelphia: Lippincott Williams & Wilkins, 2004, pp 709–735.
+@@ 1143 [p]
+51. Feldon, PG, Nalebuff, EA, and Terrono, AL: Partial wrist fusions: intercarpal and radiocarpal. In Lichtman, DM, and Alexander, AH (eds): The Wrist and Its Disorders, ed. 2. Philadelphia: WB Saunders, 1997, p 652.
+@@ 1144 [p]
+52. Feldon, PG, et al: Rheumatoid arthritis and other connective tissue diseases. In Green, DP, Hotchkiss, RN, and Pederson, WC (eds): Green’s Operative Hand Surgery, vol 2, ed. 4. New York: Churchill Livingstone, 1999, p 1651.
+@@ 1145 [p]
+53. Feldscher, SB: Postoperative management for PIP joint pyrocarbon arthroplasty. J Hand Ther 23(3):315–322, 2010.
+@@ 1146 [p]
+54. Ferlic, DC: Repair of ruptured finger extensors in rheumatoid arthritis. In Strickland, JW, and Graham, TJ (eds): The Hand, ed. 2. Philadelphia: Lippincott Williams & Wilkins, 2005, pp 457–462.
+@@ 1147 [p]
+55. Gellman, H, et al: Silastic metacarpophalangeal joint arthroplasty in patients with rheumatoid arthritis. Clin Orthop 342: 16–21, 1997.
+@@ 1148 [p]
+56. Germann, G, Sherman, R, and Levin, LS: Decision Making in Reconstructive Surgery: Upper Extremity. Berlin: Springer-Verlag, 2000.
+@@ 1149 [p]
+57. Groth, GN: Pyramid of progressive force exercises to the injured flexor-tendon. J Hand Ther 17(1):31–42, 2004.
+@@ 1150 [p]
+58. Hunter, JM, and Mackin, EJ: Staged flexor tendon reconstruction. In Mackin, EJ, Callahan, AD, and Skirven, TM, et al (eds): Rehabilitation of the Hand and Upper Extremity, ed. 5. St. Louis: Mosby, 2002, pp 469–497.
+@@ 1151 [p]
+59. Ip, WY, and Crow, SP: Results of dynamic splintage following extensor tendon repair. J Hand Surg Br 22(2):283–287, 1997.
+@@ 1152 [p]
+60. Jeter, E, Degnan, GG, and Lichtman, DM: Postoperative wrist rehabilitation. In Lichtman, DM, and Alexander, AH (eds): The Wrist and Its Disorders. St. Louis: CV Mosby, 1997, p 709.
+@@ 1153 [p]
+61. Jolly, SL, et al: Swanson silicone arthroplasty of the wrist in rheumatoid arthritis: a long-term follow-up. J Hand Surg Am 17(1):142–149, 1992.
+@@ 1154 [p]
+62. Kapandji, IA, and Kandel, MJ: The Physiology of the Joints, vol 1, ed. 5. Edinburgh: Churchill-Livingstone, 1997.
+@@ 1155 [p]
+63. Khandawala, AR, et al: A comparison of dynamic extension splinting and controlled active mobilization of complete divisions of extensor tendons in zones 5 and 6. J Hand Surg Br 25(2):140–146, 2000.
+@@ 1156 [p]
+64. Kistler, U, et al: Long-term results of silicone wrist arthroplasty in patients with rheumatoid arthritis. J Hand Surg Am 30(6): 1282–1287, 2005.
+@@ 1157 [p]
+65. Kitsis, CK, et al: Controlled active motion following primary flexor tendon repair: a prospective study over a year. J Hand Surg Br 23(3):344–349, 1998.
+@@ 1158 [p]
+66. Kleinert, HE, Kutz, JE, and Cohen, MJ: Primary repair of zone 2 flexor tendon lacerations. In AAOS: Symposium on Tendon Surgery in the Hand. St. Louis: CV Mosby, 1975.
+@@ 1159 [p]
+67. Kleinman, WB, and Eckenrode, JF: Tendon suspension sling arthroplasty for thumb trapeziometacarpal arthritis. J Hand Surg Am 16(6):983–991, 1991.
+@@ 1160 [p]
+68. Kriegs-AU, G, et al: Ligament reconstruction with or without tendon interposition to treat primary thumb carpometacarpal osteoarthritis: a prospective randomized study. J Bone Joint Surg Am 86(2):209–218, 2004.
+@@ 1161 [p]
+69. Linschied, RL, et al: Development of a surface replacement arthroplasty for proximal interphalangeal joints. J Hand Surg Am 22(2):286–298, 1997.
+@@ 1162 [p]
+70. Lister, GD, et al: Primary flexor tendon repair followed by immediate controlled mobilization. J Hand Surg 2(6):441–451, 1977.
+@@ 1163 [p]
+71. Long, R, et al: Intrinsic-extrinsic muscle control of the hand in power grip and precision handling. J Bone Joint Surg Am 52(5):853–867, 1970.
+@@ 1164 [p]
+72. Lubahn, JD, and Wolfe, TL: Joint replacement in the rheumatoid hand: surgery and therapy. In Mackin, EJ, et al (eds): Rehabilitation of the Hand and Upper Extremity, ed. 5. St. Louis, Mosby, 2002, pp 1583–1597.
+@@ 1165 [p]
+73. Lubahn, JD, and Wolfe, TL: Surgical treatment and rehabilitation of tendon ruptures in the rheumatoid hand. In Mackin, EJ, et al (eds): Rehabilitation of the Hand and Upper Extremity, ed. 5. St. Louis, Mosby, 2002, pp 1598–1607.
+@@ 1166 [p]
+74. Magee, DJ: Orthopedic Physical Assessment, ed. 4. Philadelphia: WB Saunders, 2002.
+@@ 1167 [p]
+75. Manuel, JL, and Weiss, AC: Silicone metacarpal phalangeal joint arthroplasty. In Strickland, JW, and Graham, TJ (eds): Master Techniques in Orthopedic Surgery: The Hand, ed. 2. Philadelphia, Lippincott Williams and Wilkins, 2005, pp 391–403.
+@@ 1168 [p]
+76. Mass, DP: Early repairs of flexor tendon injuries. In Berger, RA, and Weiss, APC (eds): Hand Surgery, vol 1. Philadelphia: Lippincott Williams & Wilkins, 2004, pp 679–698.
+@@ 1169 [p]
+77. Meuli, HC, and Fernandez, DL: Uncemented total arthroplasties. J Hand Surg Am 20:115–122, 1995.
+@@ 1170 [p]
+78. Moment, A, Grauel, E, and Chang, J: Complications after flexor tendon injuries. Hand Clin 26:179–189, 2009.
+@@ 1171 [p]
+79. Moore, T, Anderson, B, and Seiler II, JG: Flexor tendon reconstruction. J Hand Surg 35(6):1025–1030, 2010.
+@@ 1172 [p]
+80. Morgan, RL, and Lindner, MM: Common wrist injuries. Am Family Physician 55(3):857–868, 1997.
+@@ 1173 [p]
+81. Mulligan, BR: Manual Therapy “NAGS,” “SNAGS,” MWM’S: etc., ed. 4. Wellington: Plane View Press, 1999.
+@@ 1174 [p]
+82. Murphy, MS, Astifidis, R, and Saunders, R: Current management of tendon injuries in the hand. Orthop Phys Ther Clin North Am 10(4):567–593, 2001.
+@@ 1175 [p]
+83. Nalebuff, EA, Terrono, AL, and Feldon, PG: Arthrodesis of the wrist: indications and surgical technique. In Lichtman, DM, and Alexander, AH (eds): The Wrist and Its Disorders, ed. 2. Philadelphia: WB Saunders, 1997, p 671.
+@@ 1176 [p]
+84. Nalebuff, EA: Silicone arthroplasty of the metacarpophalangeal joint. In Blair, WF, and Steyers, CM (eds): Techniques in Hand Surgery. Baltimore: Williams & Wilkins, 1996, p 936.
+@@ 1177 [p]
+85. Napier, JR: The prehensile movements of the human hand. J Bone Joint Surg Br 38-B(4):902–913, 1956.
+@@ 1178 [p]
+86. Neumann, DA: Hand. In Neumann, DA: Kinesiology of the Musculoskeletal System: Foundations for Rehabilitation, ed. 2. St. Louis: Mosby/Elsevier, 2010, pp 244–297.
+@@ 1179 [p]
+87. Neumann, DA, and Bielefeld, T: The carpometacarpal joint of the thumb: stability, deformity, and therapeutic intervention. J Orthop Sports Phys Ther 33(7):386–399, 2003.
+@@ 1180 [p]
+88. Newport, ML: Early repair of extensor tendon injuries. In Berger, RA, and Weiss, APC (eds): Hand Surgery, vol 1. Philadelphia: Lippincott Williams & Wilkins, 2004, pp 737–752.
+@@ 1181 [p]
+89. Newport, ML, Blair, WF, and Steyers, CM Jr.: Long term results of extensor tendon repair. J Hand Surg Am 15(6): 961–966, 1990.
+@@ 1182 [p]
+90. O’Connell, SJ, et al: Results of zone I and zone II flexor tendon repairs in children. J Hand Surg Am 19(1):48–52, 1994.
+@@ 1183 [p]
+91. Ottawa Panel: Ottawa Panel evidence-based clinical practice guidelines for therapeutic exercises in the management of rheumatoid arthritis in adults. Phys Ther 84(10):934–972, 2004.
+@@ 1184 [p]
+92. Palmer, AK, et al: Functional wrist motion: a biomechanical study. J Hand Surg Am 10:39–46, 1985.
+@@ 1185 [p]
+93. Pettengill, KM Stewart, and van Strien, G: Postoperative management of flexor tendon injuries. In Mackin, EJ, et al (eds): Rehabilitation of the Hand and Upper Extremity, ed. 5. St. Louis: Mosby, 2002, pp 431–456.
+@@ 1186 [p]
+94. Phillips, CA: Rehabilitation of the patient with rheumatoid hand involvement. Phys Ther 69(12):1091–1098, 1989.
+@@ 1187 [p]
+95. Phillips, CA: Therapist’s management of patients with rheumatoid arthritis. In Hunter, JM, Mackin, EJ, and Callahan, AD (eds): Rehabilitation of the Hand: Surgery and Therapy, vol II, ed. 4. St. Louis: CV Mosby, 1995, p 1345.
+@@ 1188 [p]
+96. Purcell, T, et al: Static splinting of extensor tendon repairs. J Hand Surg Br 25(2):180–182, 2000.
+@@ 1189 [p]
+97. Randall, T, Portney, L, and Harris, BA: Effects of joint mobilization on joint stiffness and active motion of the metacarpalphalangeal joint. J Orthop Sports Phys Ther 16(1):30–36, 1992.
+@@ 1190 [p]
+98. Rettig, LA, Luca, L, and Murphy, MS: Silicone implant arthroplasty in patients with idiopathic osteoarthritis of the metacarpophalangeal joint. J Hand Surg Am 30:667–672, 2005.
+@@ 1191 [p]
+99. Riley, G: Tendinopathy—from basic science to treatment. Nat Clin Pract Rheumatol 4(2):82–89, 2008.
+@@ 1192 [p]
+100. Rizzo, M, and Beckenbaugh, RD: Results of biaxial total wrist arthroplasty with a modified (long) metacarpal stem. J Hand Surg Am 28:577–584, 2003.
+@@ 1193 [p]
+101. Rosenthal, EA: The extensor tendons: anatomy and management. In Mackin, EJ, et al (eds): Rehabilitation of the Hand and Upper Extremity, ed. 5. St. Louis: Mosby, 2002, pp 498–541.
+@@ 1194 [p]
+102. Ryu, JY, et al: Functional ranges of motion of the wrist joint. J Hand Surg Am 16:409–419, 1991.
+@@ 1195 [p]
+103. Saldama, MJ, et al: Results of acute zone III extensor tendon injuries treated with dynamic extension splinting. J Hand Surg Am 16(6):1145–1150, 1991.
+@@ 1196 [p]
+104. Saunders, RJ: Thumb carpometacarpal joint arthroplasty. In Clark, GL, et al (eds): Hand Rehabilitation: A Practical Guide. New York: Churchill Livingstone, 1998, p 363.
+@@ 1197 [p]
+105. Saunders, SR: Physical therapy management of hand fractures. Phys Ther 69(12):1065–1076, 1989.
+@@ 1198 [p]
+106. Savage, R: The influence of wrist position on the minimum force required for active movement of the interphalangeal joints. J Hand Surg Br 13(3):262–268, 1988.
+@@ 1199 [p]
+107. Savage, R, and Risitano, G: Flexor tendon repair using a “six strand” method of repair and early active motion. J Hand Surg Br 14(4):396–399, 1989.
+@@ 1200 [p]
+108. Schenk, RR, and Lenhart, DE: Results of zone II flexor tendon lacerations in civilians treated by the Washington regimen. J Hand Surg Am 21(6):984–987, 1996.
+@@ 1201 [p]
+109. Schneider, LH: Flexor tendons—late reconstruction. In Green, DP, Hotchkiss, RN, and Pederson, WC (eds): Green’s Operative Hand Surgery, vol 2, ed. 4. New York: Churchill Livingstone, 1999, p 1898.
+@@ 1202 [p]
+110. Silfverskiöld, KL, May, EJ, and Thornvall, AH: Flexor digitorum profundis excursions during controlled motion after flexor tendon repair in zone II: a prospective clinical study. J Hand Surg Am 17(1):122–131, 1992.
+@@ 1203 [p]
+111. Silfverskiöld, KL, and May, EJ: Flexor tendon repair in zone II with a new suture technique and an early mobilization program combining passive and active flexion. J Hand Surg Am 19:53–62, 1994.
+@@ 1204 [p]
+112. Stanley, B: Therapeutic exercise: maintaining and restoring mobility in the hand. In Stanley, BG, and Tribuzi, SM (eds): Concepts in Hand Rehabilitation. Philadelphia: FA Davis, 1992, p 178.
+@@ 1205 [p]
+113. Stanley, JK, and Tolat, AR: Long-term results of Swanson Silastic arthroplasty in the rheumatoid wrist. J Hand Surg Br 18(3):381–388, 1993.
+@@ 1206 [p]
+114. Steinberg, B: Extensor tendon repair. In Clark, GL, et al (eds): Hand Rehabilitation: A Practical Guide, ed. 2. New York: Churchill Livingstone, 1998, p 93.
+@@ 1207 [p]
+115. Steinberg, B: Flexor tendon repair. In Clark, GL, et al (eds): Hand Rehabilitation: A Practical Guide, ed. 2. New York: Churchill Livingstone, 1998, p 103.
+@@ 1208 [p]
+116. Steinberg, DR: Osteoarthritis of the hand and digits: metacarpophalangeal and carpometacarpal joints. In Berger, RA, and Weiss, APC (eds): Hand Surgery, vol II. Philadelphia: Lippincott Williams & Wilkins, 2004, pp 1269–1278.
+@@ 1209 [p]
+117. Stewart, KM: Review and comparisons in the postoperative management of tendon repair. Hand Clin 7(3):447–460, 1991.
+@@ 1210 [p]
+118. Strickland, JW: Development of flexor tendon surgery: twentyfive years of progress. J Hand Surg Am 25(2):214–235, 2000.
+@@ 1211 [p]
+119. Strickland, JW: Flexor tendons—acute injuries. In Green, DP, Hotchkiss, RN, and Pederson, WC (eds): Green’s Operative Hand Surgery, vol 2, ed. 4. New York: Churchill Livingstone, 1999, p 1851.
+@@ 1212 [p]
+120. Strickland, JW: Flexor tendon injuries. In Strickland, JW, and Graham, TJ (eds): Master Techniques in Orthopedic Surgery: The Hand, ed. 2. Philadelphia: Lippincott Williams & Wilkins, 2005, pp 251–266.
+@@ 1213 [p]
+121. Strickland, JW, and Dellacqua, D: Rheumatoid arthritis in the hand and digits. In Berger, RA, and Weiss, APC (eds): Hand Surgery, vol II. Philadelphia: Lippincott Williams & Wilkins, 2004, pp 1179–211.
+@@ 1214 [p]
+122. Swanson, AB, and deGroot Swanson, G: Implant arthroplasty in the carpal and radiocarpal joints. In Lichtman, DM, and Alexander, AH (eds): The Wrist and Its Disorders, ed. 2. Philadelphia: WB Saunders, 1997, p 616.
+@@ 1215 [p]
+123. Swanson, AB, and deGroot Swanson, G: Flexible implant resection arthroplasty of the proximal interphalangeal joint. Hand Clin 10(2):261–266, 1994.
+@@ 1216 [p]
+124. Swanson, AB, deGroot Swanson, G, and Leonard, JB: Postoperative rehabilitation programs in flexible implant arthroplasty of the digits. In Hunter, JM, Mackin, EJ, and Callahan, AD (eds): Rehabilitation of the Hand: Surgery and Therapy, vol 2, ed. 4. St. Louis: CV Mosby, 1995, p 1351.
+@@ 1217 [p]
+125. Swanson, AB, Swanson, GD, and Maupin, BK: Flexible implant arthroplasty of the radiocarpal joint: surgical techniques and long-term study. Clin Orthop 187:94–106, 1984.
+@@ 1218 [p]
+126. Swanson, AB: Pathogenesis of arthritic lesions. In Hunter, JM, Mackin, EJ, and Callahan, AD (eds): Rehabilitation of the Hand: Surgery and Therapy, vol 2, ed. 4. St. Louis: CV Mosby, 1995, p 1307.
+@@ 1219 [p]
+127. Sweets, TM, and Stern, PJ: Proximal interphalangeal joint arthroplasty. J Hand Surg Am 35:1190–1193, 2010.
+@@ 1220 [p]
+128. Sylaidis, M, Youatt, M, and Logan, A: Early active mobilization for extensor tendon injuries: the Norwich regime. J Hand Surg Br 22(5):594–596, 1997.
+@@ 1221 [p]
+129. Terrono, AL, Nalebuff, EA, and Phillips, CA: The rheumatoid thumb. In Mackin, EJ, et al (eds): Rehabilitation of the Hand and Upper Extremity, ed. 5. St. Louis: Mosby, 2002, pp 1555–1568.
+@@ 1222 [p]
+130. Theisen, L: Metacarpophalangeal joint arthroplasty. In Clark, GL, et al (eds): Hand Rehabilitation: A Practical Guide, ed. 2. New York: Churchill Livingstone, 1998, p 349.
+@@ 1223 [p]
+131. Theisen, L: Proximal interphalangeal and distal interphalangeal joint arthroplasty. In Clark, GL, et al (eds): Hand Rehabilitation: A Practical Guide, ed. 2. New York: Churchill Livingstone, 1998, p 355.
+@@ 1224 [p]
+132. Tottenham, VM, Wilton-Bennet, K, and Jeffrey, J: Effects of delayed therapeutic intervention following zone II flexor tendon repair. J Hand Ther 8:23–26, 1995.
+@@ 1225 [p]
+133. Trumble, TE, et al: Zone-II flexor tendon repair: a randomized prospective trial of active place-and-hold therapy compared with passive motion therapy. J Bone Joint Surg Am 92: 1381–1389, 2009.
+@@ 1226 [p]
+134. van Rijn, J, and Gosens, T: A cemented surface replacement prosthesis in the basal thumb joint. J Hand Sur 35(4):572–579, 2010.
+@@ 1227 [p]
+135. Waite, J: Physical therapy management of patients with wrist and hand disorders. Orthop Phys Ther Clin North Am 8:135–165, 1999.
+@@ 1228 [p]
+136. Wehbé, MA, and Hunter, JM: Flexor tendon gliding in the hand. Part II. Differential gliding. J Hand Surg Am 10:575–579, 1985.
+@@ 1229 [p]
+137. Weiss, APC, et al: Upper extremity function after wrist arthrodesis. J Hand Surg Am 20:813–817, 1995.
+@@ 1230 [p]
+138. Weiss, S, and Falkenstein, N: Hand Rehabilitation: A Quick Reference Guide and Review, ed. 2. St. Louis: Mosby, 2004.
+@@ 1231 [p]
+139. Wijk, I, et al: Outcomes of proximal Interphalangeal joint pyrocarbon implant. J Hand Surg 35(1):A38–A43, 2010.
+@@ 1232 [p]
+140. Wood, MB: Soft tissue reconstruction. In Cooney, WP, Linscheid, RL, and Dobyns, JH (eds): The Wrist: Diagnosis and Operative Treatment, vol 2. St. Louis: CV Mosby, 1998, p 887.
+@@ 1233 [p]
+141. Wynn Parry, CB, and Stanley, JK: Synovectomy of the hand. Br J Rheumatol 32(12):1089–1095, 1993.
