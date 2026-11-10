@@ -54,7 +54,6 @@ if (main) {
   }
 
   window.addEventListener("scroll", schedule, { passive: true });
-  window.addEventListener("pagehide", commit);
   document.addEventListener("visibilitychange", () => {
     if (document.visibilityState === "hidden") commit();
   });
