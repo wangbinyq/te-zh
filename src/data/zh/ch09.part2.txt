@@ -1,0 +1,363 @@
+@@ 538 [p]
+指导病人保持脊柱中立位，完成收腹动作（drawing-in maneuver），并“固定”脊柱使其稳定。指导病人在保持脊柱中立位的同时，完成单侧或双侧的抗阻肢体运动模式。单侧模式比双侧模式的要求更高。增加速度或延长持续时间均可提高运动强度。
+@@ 539 [h4]
+独立进行的肌力强化运动
+@@ 540 [p]
+病人常独立进行水中肌力强化运动。由于在水中移动时产生的阻力取决于速度，病人能够控制所做的功，以及施加于收缩成分的要求。通常，水中借助器材进行肌力强化活动时的体位与完成方式，与传统陆上运动相似。然而，水中环境允许病人采用多种体位（仰卧、俯卧、侧卧、坐位、直立位）。注意病人的具体体位，可使治疗师利用水的浮力特性，和／或器材的浮力与阻力特性，来辅助或对抗病人的运动。在开始水中肌力强化活动之前，应向病人说明速度与表面积对阻力的影响。此处不逐一描述身体各部位机械性强化的具体运动。仅讨论并图示部分运动，以强调应用的主要概念和原则。
+@@ 541 [p]
+下列术语用于借助器材的运动。
+@@ 542 [li]
+浮力辅助（buoyancy-assisted，BA）：与浮力的垂直方向平行的垂直运动，由浮力协助运动（病人可使用浮力器材协助运动）。
+@@ 543 [li]
+浮力支持（buoyancy-supported，BS）：水平运动，浮力的垂直分力消除或减小了支撑肢体抗重力的需要（病人可使用浮力器材协助运动）。
+@@ 544 [li]
+浮力抗阻（buoyancy-resisted，BR）：对抗或垂直于浮力垂直方向的运动，产生流体阻力（不使用器材）。
+@@ 545 [li]
+浮力超抗阻（buoyancy-superresisted，BSR）：使用器材增大在水中运动的总表面积，从而产生更大的流体阻力。提高在水中的运动速度可进一步产生阻力。
+@@ 546 [h4]
+肢体肌力强化运动
+@@ 547 [h4]
+（图 9.24 A、B、C、D、E）
+@@ 548 [p]
+最常见的水中上肢与下肢肌力强化运动见表 9.1。通常，上肢肌力强化时病人取站立位、浸至肩部水平，下肢肌力强化时浸至躯干中部水平。
+@@ 549 [caption]
+图 9.24　肌力强化所用的机械阻力：（A）肩关节内旋与外旋，（B）肘关节屈曲与伸展，（C）髋关节屈曲与伸展，（D）功能性下蹲，（E）踝关节跖屈。
+@@ 550 [p]
+然而，许多运动可让病人取直立位在深水中完成。当治疗师希望为病人进阶，或病人需要特定体位或专项运动的强化时，俯卧位或仰卧位是有用的。有些运动，尤其是双侧下肢对角线模式，需要病人取仰卧位、俯卧位，或在深水中取直立位。
+@@ 551 [h4]
+腰椎肌力强化
+@@ 552 [p]
+脊柱稳定运动可在浅水、中等深度水或深水中进行。通常，指导病人在完成功能性活动或移动肢体时，用收腹动作维持脊柱中立位（见第 16 章）。可通过延长活动时间、提高在水中移动的速度或增大移动的表面积，以及在深水中增加浮力装置，来挑战病人的脊柱稳定能力。这些运动汇总于表 9.2。
+@@ 553 [h4]
+躯干肌力强化运动：站位
+@@ 554 [li]
+让病人在水中竖直握住浮板以增加阻力，同时以各种模式行走。
+@@ 555 [li]
+让病人取单腿或双腿站立位完成上肢运动。水的浮力与涡流力要求躯干肌共同收缩，以稳定浸在水中的身体。使用器材（Hydro-tone 铃、划水掌、抗阻弹力管）以增加阻力以及躯干肌共同收缩的需要。
+@@ 556 [table]
+表 9.1　上肢与下肢 | 肌力强化运动汇总
+肩 | 屈曲／伸展
+外展／内收
+水平外展／内收
+内旋／外旋
+单侧对角线模式
+双侧对角线模式
+肘 | 屈曲／伸展
+对角线模式
+推／拉
+髋 | 屈曲／伸展
+外展／内收
+内旋／外旋
+单侧对角线模式
+双侧对角线模式
+膝 | 屈曲／伸展
+对角线模式
+@@ 557 [p]
+躯干肌力强化运动：半卧位　病人可用浮条、哑铃或浮板提供支撑。治疗师可让病人握住划水掌等浮力器材，然后使躯干在运动中保持稳定，从而进一步挑战病人。表 9.2 中建议了多种下肢运动。
+@@ 558 [h4]
+躯干肌力强化运动：仰卧位
+@@ 559 [p]
+仰卧位下使用各种游泳打腿动作。指导病人在移动双腿时专注于收腹动作，并维持脊柱中立位。可在膝间放置长哑铃，在维持脊柱中立位的条件下完成桥式运动。
+@@ 560 [h4]
+躯干肌力强化运动：俯卧位
+@@ 561 [p]
+在俯卧位下使用交替打水等各种游泳打腿动作，同时病人完成收腹动作并维持脊柱中立位。
+@@ 562 [h4]
+深水中的躯干肌力强化运动
+@@ 563 [p]
+在深水中以直立位进行的稳定运动，通常要求病人用腹肌支撑。强调在完成各种活动时识别脊柱中立位、启动收腹动作，并将脊柱保持在稳定位置。利用上肢和／或下肢单侧或双侧运动的任意组合，进一步
+@@ 564 [table]
+表 9.2　腰椎 | 肌力强化运动汇总
+站位 | 步行模式：向前、向后、侧向、弓步走、高抬腿走
+上肢运动下的单腿／双腿站立
+半卧位 | 骑车动作
+髋外展／内收
+交替打水
+双侧下肢 PNF 模式
+单侧／双侧髋、膝屈曲／伸展
+仰卧位 | 膝间放置长哑铃的桥式运动
+游泳打腿
+俯卧位 | 游泳打腿
+深水区 | 直立位稳定运动；在屈体位与十字交叉位下配合上肢和下肢运动的腹部支撑
+坐于哑铃上；完成单侧或双侧上肢运动时的腹部支撑与平衡
+立于浮板或哑铃上；完成骑车动作和／或上肢运动时的腹部支撑与平衡
+@@ 565 [p]
+挑战其稳定用力。当病人能够维持良好的稳定控制时，可在手或腿上添加器材以增加阻力并提高挑战。变化形式包括：
+@@ 566 [li]
+改变躯干位置，如屈体位或十字交叉位。
+@@ 567 [li]
+坐在哑铃上向前或向后做骑车动作，或使上肢完成任意组合的运动。
+@@ 568 [li]
+站在浮板或哑铃上完成各种组合的上肢运动，先不用器材，再用器材。此类站立活动通常会引起不自主的腹部支撑，并对平衡构成挑战。
+@@ 569 [h3]
+有氧训练
+@@ 570 [p]
+强调有氧／心血管训练的水中运动，可以是许多康复计划的重要组成部分。有氧／心血管运动通常让病人垂直悬浮于深水池中，双足不触及池底。可在中等深度（4 至 6 英尺深）水中进行的替代活动包括慢跑、游泳泳姿、水中骑车和水中跑台。了解各种治疗选择、生理反应、监测方法、正确动作形式和器材选择，可使临床工作者在康复计划中有效而安全地使用这种运动形式。
+@@ 571 [h4]
+治疗干预
+@@ 572 [p]
+深水行走／跑步（图 9.25）。深水行走和跑步是最常见的垂直深水心血管耐力运动。替代形式包括越野滑雪动作和高抬腿行进。深水心血管训练可作为中等深度水或陆上心血管训练的前期准备，它消除了冲击对下肢和脊柱的影响。
+@@ 573 [caption]
+图 9.25　深水行走／慢跑。（Rothhammer International Inc., San Luis Obispo, CA 提供。）
+@@ 574 [p]
+在空间有限的泳池中，可用绳索将病人系于池边进行深水跑步。有些小型水池设有阻力水流，供病人逆流运动。
+@@ 575 [p]
+中等深度水中的慢跑／跑步（水中跑台跑步）。中等深度水中有氧运动可作为陆上训练的前期准备，它减轻冲击对脊柱和下肢的影响。随着病人对冲击的耐受改善，可在逐渐变浅的水中进行中等深度水中慢跑，以提供更大的负重和功能模拟。在空间有限的泳池中，用抗阻弹力管系住病人可提供阻力。
+@@ 576 [p]
+水中器材。水中器材包括水中自行车、跑台或上肢功率计。
+@@ 577 [p]
+游泳泳姿。对于能够耐受完成各种泳姿所需体位（颈部和肩部关节活动度，以及俯卧、仰卧或侧卧位）的病人，游泳可以是训练和改善心血管体适能的极好手段。与其他水中活动相比，游泳可能使心率、血压和最大摄氧量的升高更为明显。对某些脊柱疾病病人，游泳还有强化髋部和躯干的额外益处。
+@@ 578 [p]
+注意事项：对心功能受损且游泳技术不佳者推荐游泳，可能对病人的心血管系统造成不良挑战。
+@@ 579 [h4]
+深水行走／跑步的生理反应
+@@ 580 [p]
+已报道了深水行走和跑步的多项生理反应。
+@@ 581 [p]
+心血管反应。无心血管功能受损的病人，与相似的陆上运动相比，其心率、通气和最大摄氧量的升高可能较为平缓。低强度运动时，心脏病病人的心血管应激可能较低。随着运动强度增加，心血管应激接近相应陆上运动的水平。
+@@ 582 [p]
+训练效应。病人可获得最大摄氧量从水中条件到陆上条件的迁移性收益。此外，水中心血管训练可维持健康跑者的腿部力量和最大摄氧量。
+@@ 583 [h4]
+深水跑步的正确动作形式
+@@ 584 [p]
+对初学者的指导。正确的指导对确保动作正确很重要，因为许多初学者需要经历相当的学习过程。入水后，病人应保持颈椎中立位、躯干轻度前屈，双臂置于体侧。跑步时，髋关节应交替屈曲至约 80°，此时膝关节伸展；然后髋关节伸至中立位，同时膝关节屈曲。
+@@ 585 [p]
+适应特定病人群体。对有脊柱疾病相关体位性疼痛的病人，后方浮力带有助于维持轻度前屈位，浮力背心有助于维持更直立的姿势和相对伸展的脊柱。单侧下肢截肢的病人可能难以维持直立位。将浮力带置于侧方（截肢对侧），可使病人更容易保持直立。
+@@ 586 [h4]
+运动监测
+@@ 587 [p]
+监测运动强度。监测自觉用力度和心率。
+@@ 588 [li]
+自觉用力度。由于技术可能影响动作，描绘自觉用力的主观数字量表可能无法充分反映初学深水跑步者的强度水平。然而，在次最大和最大用力水平下，主观用力数字评分似乎与水中运动时的心率有足够的相关性。
+@@ 589 [li]
+心率。由于颈部水平浸泡引起的生理变化，文献中建议采用多种调整，以降低接近最大心血管运动时的水中最大心率。建议的降低幅度为每分钟 7 至 20 次。水中心率可通过人工或防水电子监测装置可靠监测。
+@@ 590 [p]
+监测初学者。应定期监测初学深水跑步者，或已知有心脏、肺或外周血管疾病病人的心血管反应。初学深水跑步者的自觉用力度和最大摄氧量可能高于其在相似陆上运动时的水平。
+@@ 591 [h4]
+器材选择
+@@ 592 [p]
+深水器材。浮力装置的选择应反映所期望的病人姿势、舒适度和预计的强度水平。深水跑步最常用的浮力装置是置于后方的浮力带（见图 9.7）。躯干有损伤或感觉敏感的病人可能需要其他浮力装置，如背心、浮力哑铃或浮条。给病人提供较小的浮力器材（即较小的浮力带、较少的浮条）要求病人更用力以维持足够浮力，从而提高活动强度。可在腿和足部加装脚蹼和专门设计的靴子以增加阻力。也可在手握铃或浮力哑铃以增加阻力（见图 9.10）。
+@@ 593 [p]
+中等深度水器材。专门设计的袜子有助于消除跑步等冲击活动中足部皮肤破损的潜在问题。病人可逆强制水流跑步，或用弹力管系住以提供阻力。在腰部套浮条或持浮板跑步，可增大流体阻力，使病人必须对抗更大的阻力移动。
+@@ 594 [h3]
+自主学习活动
+@@ 595 [h4]
+病例研究
+@@ 596 [h4]
+关节镜膝关节半月板切除术后
+@@ 597 [p]
+迈克（Mike）是一位 54 岁男性，打篮球时撕裂了右膝内侧半月板。他处于关节镜下撕裂软骨片清除术后 2 周。迈克已恢复其计算机程序员的办公室工作，但非常希望恢复以往积极的锻炼计划和周末体育联赛。外科医生告诉迈克，除疼痛外他没有其他限制。
+@@ 598 [li]
+既往病史：迈克健康，无既往疾病。他从未有过使其缺席体育参与超过几天的损伤。
+@@ 599 [li]
+功能状况：迈克不使用辅助器具行走，但因膝关节僵硬而轻度跛行。他能够上下楼梯，但只能一步一台阶，且必须先用左腿。
+@@ 600 [li]
+肌骨状况：迈克右膝仅有轻度肿胀。他评定静息时疼痛为 10 分中的 1 分，活动时为 3 分。其主动膝关节活动度为 5° 至 100°。右腿其余关节活动度正常。迈克能完成直腿抬高，股四头肌收缩良好。徒手肌力测试显示股四头肌肌力 4/5，
+@@ 601 [p]
+腘绳肌和小腿三头肌肌力 4/5。其髌股关节活动性良好。
+@@ 602 [p]
+医师转介：迈克的医生给出的处方写明：“评估并治疗右膝，关节镜半月板清除术后；可采用陆上和水中的运动以改善关节活动度和力量。”
+@@ 603 [li]
+制定一项利用浅水（4 英尺深）让迈克开始进行力量和柔韧性独立运动的计划。
+@@ 604 [li]
+描述你可能为迈克实施的、用于增强力量或柔韧性的手法技术。
+@@ 605 [li]
+当迈克进展至全范围关节活动度和接近正常的力量时，你如何利用水中运动复制篮球运动的要求？
+@@ 606 [li]
+在膝关节愈合期间，迈克可在池中做什么来维持其心血管体适能？
+@@ 607 [h4]
+小腿拉伤
+@@ 608 [p]
+塞西莉（Cecily）是一位 30 岁的天气预报主持人，同时也是一名精英马拉松跑者。4 天前，她在跑上坡时感到左小腿膝下不远处有“牵拉”感。她决定第二天参加 10 公里马拉松赛，但约 5 公里后因小腿锐痛不得不退出。医生嘱她使用拐杖，并在接下来 3 天保持 25% 负重。此后她可逐渐开始增加经腿传递的负重，在下一周内逐步增加。医生告诉塞西莉，她应在 1 周内达到完全负重，3 周内能够跑步。塞西莉急于恢复其高强度训练计划。
+@@ 609 [p]
+既往病史：塞西莉健康，无既往疾病。她自记事起就因“平足”在鞋内使用矫形鞋垫。她说在可追溯到高中时期的跑步生涯中，左小腿曾多次拉伤。
+@@ 610 [p]
+功能状况：塞西莉使用拐杖进入治疗场所。她约将 25% 的体重通过左足。她使用拐杖和／或扶手可无困难地上下楼梯。
+@@ 611 [p]
+肌骨状况：塞西莉左腓肠肌肌腹内侧头可见瘀斑。该处触诊非常敏感，并有轻度肿胀。她评定静息时疼痛为 10 分制中的 1 分，活动时疼痛为 2 分。除背屈外，其踝关节各方向主动与被动活动度均正常。她主动背屈 5°，被动背屈 8°。你评定其踝部肌力除跖屈为 4/5 外均为 5/5；跖屈受限可能因疼痛所致。你还注意到她左侧髋屈肌、股四头肌和腘绳肌均紧张。
+@@ 612 [p]
+医师转介：塞西莉的医生给出的处方写明：“水中治疗；评估并治疗左小腿拉伤：步态训练、关节活动度、力量。按耐受逐步过渡到陆上。”
+@@ 613 [li]
+制定一项利用水中环境处理塞西莉功能障碍与损伤的计划。
+@@ 614 [li]
+塞西莉须在中等深度水的何种深度进行水中步态训练，同时仍维持 25% 负重？
+@@ 615 [li]
+制定一项深水计划，帮助塞西莉维持其高水平的心血管体适能。
+@@ 616 [li]
+哪些器材可能有助于她在深水中独立牵伸，以及进行深水心血管训练？
+@@ 617 [h4]
+慢性下背痛
+@@ 618 [p]
+为一位慢性下背痛、需要针对腿部和躯干的全面柔韧性与肌力强化计划的病人制定水中运动计划。保险公司仅批准一次就诊。然而，病人家中后院有一个水深从 3 英尺逐渐增至 7 英尺的泳池。7 英尺深区域仅长 10 英尺、宽 5 英尺。病人无其他会限制其完成该水中计划的健康问题。
+@@ 619 [h4]
+参考文献
+@@ 620 [p]
+1. Assis, MR, et al: A randomized controlled trial of deep water running: clinical effectiveness of aquatic exercise to treat fibromyalgia. Arthritis Rheum 55(1):57–65, 2006.
+@@ 621 [p]
+2. Ay, A, and Yurtkuran, M: Influence of aquatic and weight-bearing exercises on quantitative ultrasound variable in postmenopausal women. Am J Phys Med Rehab 84(1):52–61, 2005.
+@@ 622 [p]
+3. Babb, R, and Simelson-Warr, A: Manual techniques of the lower extremities in aquatic physical therapy. J Aquatic Phys Ther 4(2):7–15, 1996.
+@@ 623 [p]
+4. Barbosa, TM, Garrido, MF, and Bragada, J: Physiological adaptations to head-out aquatic exercises with different levels of body immersion. J Strength Cond Res 21(4):1255–1259, 2007.
+@@ 624 [p]
+5. Barbosa, TM, et al: Effects of musical cadence in the acute physiologic adaptations to head-out aquatic exercises. J Strength Cond Res 24(1):244–250, 2010.
+@@ 625 [p]
+6. Barczyk, K, et al: The influence of corrective exercises in a water environment on the shape of the anteroposterior curves of the spine and on the functional status of the locomotor system in children with lo scoliosis. Orto Truama Rehab 11(3):209–211, 2009.
+@@ 626 [p]
+7. Bartels, EM, et al: Aquatic exercise for the treatment of knee and hip osteoarthritis. Cochrane Database Syst Rev , 2009.
+@@ 627 [p]
+8. Batavia, M: Contraindications in Physical Rehabilitation: Doing No Harm. St. Louis: Saunders Elsevier, 2006.
+@@ 628 [p]
+9. Becker, BE: Aquatic therapy: scientific foundations and clinical rehabilitation applications. Phys Med Rehab 1(9):859–872, 2009.
+@@ 629 [p]
+10. Biscarini, A, and Cerulli, G: Modeling of the knee joint load in rehabilitative knee extension exercises under water. J Biomech 40(2):345–355, 2007.
+@@ 630 [p]
+11. Brady, B, et al: The addition of aquatic therapy to rehabilitation following surgical rotator cuff repair: a feasibility study. Physiother Res Int 13(3):153–161, 2008.
+@@ 631 [p]
+12. Broach, E, and Dattilo, J: The effect of aquatic therapy on strength of adults with multiple sclerosis. Ther Recreation 37:224–239, 2003.
+@@ 632 [p]
+13. Broman, G, et al: High intensity deep water training can improve aerobic power in elderly women. Eur J Appl Physiol 98(2): 117–123, 2006.
+@@ 633 [p]
+14. Brosseau, L, et al: Efficacy of aerobic exercises for osteoarthritis (Part II): a meta-analysis. Phys Ther Rev 9(3):125–145, 2004.
+@@ 634 [p]
+15. Bukowski, EL, and Nolan, TP: Hydrotherapy: The Use of Water as a Therapeutic Agent. In Michlovitz, S, and Nolan, TP (eds): Modalities for Therapeutic Intervention, ed. 5. Philadelphia: FA Davis, 2011, pp 109–134.
+@@ 635 [p]
+16. Camilotti, BM, et al: Stature recovery after sitting on land and in water. Manual Ther 14(6):685–689, 2009.
+@@ 636 [p]
+17. Cardoso, JR, et al: Aquatic therapy exercise for treating rheumatoid arthritis. Cochrane Database Syst Rev , 2009.
+@@ 637 [p]
+18. Choukroun, ML, and Varene, P: Adjustments in oxygen transport during head-out immersion in water at different temperatures. J Appl Physiol 68:1475–1480, 1990.
+@@ 638 [p]
+19. Cider, A, et al: Hydrotherapy—A new approach to improve function in the older patients with chronic heart failure. Eur J Heart Hail 5:527–535, 2003.
+@@ 639 [p]
+20. Colado, JC, et al: Effects of a short-term aquatic resistance program on strength and body composition in fit young men. J Strength Cond Res 23:549–559, 2009.
+@@ 640 [p]
+21. Cole, AJ, et al: Aquatic rehabilitation of the spine. Rehab Manag 9:55–62, 1996.
+@@ 641 [p]
+22. Datta, A, and Tipton, M: Respiratory responses to cold water immersion: neural pathways, interactions, and clinical consequences awake and asleep. J Appl Physiol 100(6):2057–2064, 2006.
+@@ 642 [p]
+23. DeMaere, JM, and Ruby, BC: Effects of deep water and treadmill running on oxygen uptake and energy expenditure in seasonally trained cross country runners. J Sports Med Phys Fitness 37(3):175–181, 1997.
+@@ 643 [p]
+24. Denny, MW: Air and Water: The Biology and Physics of Life’s Media. Princeton: Princeton University Press, 1993.
+@@ 644 [p]
+25. Devereux, K, Robertson, D, and Briffa, NK: Effects of a waterbased program on women 65 years and over: a randomised controlled trial. Aust J Physiother 51:102–108, 2005.
+@@ 645 [p]
+26. Duffield, MH, Skinner, AT, and Thompson, AM: Duffield’s Exercise In Water. Philadelphia: W.B. Saunders, 1983.
+@@ 646 [p]
+27. Dumas, H, and Francesconi, S: Aquatic therapy in pediatrics: annotated bibliography. Phys Occup Ther Pediatr 20(4):63–78, 2001.
+@@ 647 [p]
+28. Evcik, D, et al: Effectiveness of aquatic therapy in the treatment of fibromyalgia syndrome: a randomized controlled open study. Rheumatol Int 28(9):885–890, 2008.
+@@ 648 [p]
+29. Eversden, L, et al: A pragmatic randomized controlled trial of hydrotherapy and land exercises on overall well being and quality of life in rheumatoid arthritis. BMC Musculoskelet Disord 8:23, 2007.
+@@ 649 [p]
+30. Fallon, RJ: Pseudomonas aeruginosa and whirlpool baths. Lancet 346(8978):841, 1995.
+@@ 650 [p]
+31. Fappiano, M, and Gangaway, JMK: Aquatic physical therapy improves joint mobility, strength, and edema in lower extremity orthopedic injuires. J Aquatic Phys Ther 16(1):10–15, 2008.
+@@ 651 [p]
+32. Fischer-Cripps, AC: The Physics Companion. Philadelphia: Institute of Physics Publishing, 2003.
+@@ 652 [p]
+33. Frangolias, DD, and Rhodes, EC: Metabolic responses and mechanics during water immersion running and exercise. Sports Med 22(1):38–53, 1996.
+@@ 653 [p]
+34. Frangolias, DD, et al: Metabolic responses to prolonged work during treadmill and water immersion running. J Sci Med Sports 3(4):47–92, 2000.
+@@ 654 [p]
+35. Frey Law, LA, Smidt, GL: Underwater forces produced by the Hydro-Tone bell. JOSPT 23(4):267–271, 1996.
+@@ 655 [p]
+36. Fuller, RA, et al: The activity levels of the vastus medialis oblique muscle during a single leg squat on the land and at varied water depths. J Aquatic Phys Ther 7(1):13–18, 1999.
+@@ 656 [p]
+37. Getz, M, Jutzler, Y, and Vermeer, A: Effects of aquatic interventions in children with neuromotor impairments: a systematic review of the literature. Clinic Rehab 20:927–936, 2006.
+@@ 657 [p]
+38. Giancoli, DC: Physics, ed. 5. Upper Saddle River, NJ: Prentice Hall, 1998.
+@@ 658 [p]
+39. Green, J, et al: Home exercises are as effective as outpatient hydrotherapy for osteoarthritis of the hip. Br J Rheumatol 32(9):812–815, 1993.
+@@ 659 [p]
+40. Gusi, N, et al: Exercise in waist high warm water decreases pain and improves health-related quality of life and strength in the lower extremities in women with fibromyalgia. Arthritis Rheum 55:66–73, 2006.
+@@ 660 [p]
+41. Hall, J, et al: Does aquatic exercise relieve pain in adults with neurologic or musculoskeletal disease? A systematic review and meta-analysis of randomized controlled trials. Arch Phys Med Rehabil 89:873–883, 2008.
+@@ 661 [p]
+42. Hecox, B: Integrating Physical Agents in Rehabilitation. Upper Saddle River, NJ: Pearson/Prentice Hall, 2006.
+@@ 662 [p]
+43. Hinman, RS, Heywood, SE, and Day, AR: Aquatic physical therapy for hip and knee osteoarthritis: results of a single-blind randomized controlled trial. Phys Thera 87(1):32–43, 2007.
+@@ 663 [p]
+44. Hollyoak, VA, and Freeman, R: Pseudomonas aeruginosa and whirlpool baths. Lancet 346:644–645, 1995.
+@@ 664 [p]
+45. Hollyoak, VA, Boyd, P, and Freeman, R: Whirlpool baths in nursing homes: use, maintenance, and contamination with Pseudomonas aeruginosa. Commun Dis Rep CDR Rev 5:R102–R104, 1995.
+@@ 665 [p]
+46. Jamison, LJ: Aquatic therapy for the patient with lymphedema. J Aquatic Phys Ther 13(1):9–12, 2005.
+@@ 666 [p]
+47. Jamison, LJ: The therapeutic value of aquatic therapy in treating lymphedema. Comprehensive decongestive physiotherapy. Rehab Manage Interdiscipl J Rehab 13(6):29–31, 2000.
+@@ 667 [p]
+48. Jentoft, ES, Kvalik, AG, and Mendshoel, AM: Effects of poolbased and land-based aerobic exercise on women with fibromyalgia/chronic widespread muscle pain. Arthritis Rheum 45:42–47, 2001.
+@@ 668 [p]
+49. Kaneda, K, et al: Lower extremity muscle activity during different types and speeds of underwater movement. J Physiol Anthropol 26(2):197–200, 2007.
+@@ 669 [p]
+50. Kinder, T, and See, J: Aqua Aerobics: A Scientific Approach. Dubuque, IA: Eddie Bowers Publishing, 1992.
+@@ 670 [p]
+51. Kurabayashi, H, et al: Breathing out into water during subtotal immersion: a therapy for chronic pulmonary emphysema. Am J Phys Med Rehabil 79:150–153, 2000.
+@@ 671 [p]
+52. Manguria-Izquierdo D, and Legaz-Arrese, A: Assessment of the effects of aquatic therapy on global symptomatology in patients with fibromyalgia syndrome: a randomized controlled trial. Arch Phys Med Rehabil 89(12):2250–2257, 2008.
+@@ 672 [p]
+53. Mannerkorpi, K, et al: Pool exercise combined with an education program for patients with fibromyalgia syndrome. A prospective randomized study. J Rheumatol 27:2473–2481, 2000.
+@@ 673 [p]
+54. McManus, BM, and Kotelchuck, M: The effect of aquatic therapy on functional mobility of infants and toddlers in early intervention. Pediatr Phys Ther 19(4):275–282, 2007.
+@@ 674 [p]
+55. Meyer, K, and Leblanc, MC: Aquatic therapies patients with compromised left ventricular function and heart failure. Clin Invest Med 31:E90–E97, 2008.
+@@ 675 [p]
+56. Myer, RL: The Basics of Physics. Westport, CT: Greenwood Press, 2006.
+@@ 676 [p]
+57. Noh, DK, et al: The effect of aquatic therapy on postural balance and muscle strength in stroke survivors: a randomized controlled pilot trial. Clin Rehabil 22:966–976, 2008.
+@@ 677 [p]
+58. O’Neill, DF: Return to function through aquatic therapy. Athletic Ther Today 5:14–16, 2000.
+@@ 678 [p]
+59. Pariser, G, Madras, D, and Weiss, E: Outcomes of an aquatic exercise program including aerobic capacity, lactate threshold, and fatigue in two individuals with multiple sclerosis. J Neurol Phys Ther 30:82–90, 2006.
+@@ 679 [p]
+60. Pechter, U, et al: Beneficial effects of water-based exercise in patients with chronic kidney failure. Int J Rehabil Res 26(2): 153–156, 2003.
+@@ 680 [p]
+61. Peterson, C: Exercise in 94 degrees F water for a patient with multiple sclerosis. Phys Ther 81:1049–1058, 2001.
+@@ 681 [p]
+62. Poyhonen, T, et al: Determination of hydrodynamic drag forces and drag coefficients on human leg/foot model during knee exercise. Clin Biomech 15(4):256–260, 2000.
+@@ 682 [p]
+63. Poyhonen, T, et al: Neuromuscular function during therapeutic exercise under water and on dry land. Arch Phys Med Rehabil 82:1446–1452, 2001.
+@@ 683 [p]
+64. Prins, J, and Cutner, D: Aquatic therapy in the rehabilitation of athletic injuries. Clin Sports Med 18(2):447–461, 1999.
+@@ 684 [p]
+65. Reilly, T, Dowzer, CN, and Cable, NT: The physiology of deep-water running. J Sports Sci 21(12):959–972, 2003.
+@@ 685 [p]
+66. Resnick, B: Encouraging exercise in older adults with congestive heart failure. Geriat Nurs 25:204–211, 2004.
+@@ 686 [p]
+67. Revay, S, Dahlstrom, M, and Dalen, N: Water exercise versus instruction for self-training following a shoulder fracture. Int J Rehabil Res 15(4):327–333, 1992.
+@@ 687 [p]
+68. Robinson, LE, et al: The effects of land vs. aquatic plyometrics on power, torque, velocity, and muscle soreness in women. J Strength Cond Res 18(1):84–91, 2004.
+@@ 688 [p]
+69. Ruoti, RG, Morris, DM, and Cole, AJ: Aquatic Rehabilitation. Philadelphia: JB Lippincott, 1997.
+@@ 689 [p]
+70. Sagawa, S, et al: Water temperature and intensity of exercise in maintenance of thermal equilibrium. J Appl Physiol 65(6): 2413–2419, 1988.
+@@ 690 [p]
+71. Saggini, R, et al: Efficacy of two microgravitational protocols to treat chronic low back pain associated with discal lesions: a randomized controlled trial. Eura Medicophys 40:311–316, 2004.
+@@ 691 [p]
+72. Schrepfer, R, and Babb, R: Manual techniques of the shoulder in aquatic physical therapy. J Aquatic Phys Ther 6(1):11–15, 1998.
+@@ 692 [p]
+73. Silva, LE, et al: Hydrotherapy versus conventional land-based exercise for the management of patients with osteoarthritis of the knee: a randomized clinical trial. Phys Ther 88:12–21, 2008.
+@@ 693 [p]
+74. Takeshima, N, et al: Water-based exercise improved healthrelated aspects of fitness in older women. Med Sci Sports Exerc 34:544–551, 2002.
+@@ 694 [p]
+75. Takken, T, et al: Aquatic fitness for children with juvenile idiopathic arthritis. Rheumatology (Oxford) 42:1408–1414, 2003.
+@@ 695 [p]
+76. Thein, JM, and Brody, LT: Aquatic-based rehabilitation and training for the elite athlete. JOSPT 27(1):32–41, 1998.
+@@ 696 [p]
+77. Tomas-Carus, P, et al: Aquatic training and detraining on fitness and quality of life in fibromyalgia. Med Sci Sports Exer 39: 1044–1050, 2007.
+@@ 697 [p]
+78. Volaklis, KA, Spassis, AT, and Tokmakidis, SP: Land versus water exercise in patients with coronary artery disease: effects on body composition, blood lipids, and physical fitness. Am Heart J 154:E1–E6, 2007.
+@@ 698 [p]
+79. Vonder Hulls, DS, Walker, LK, and Powell, JM: Clinicians’ perceptions of the benefits of aquatic therapy for young children with autism: a preliminary study. Phys Occup Ther in Pediatr 26(1–2):13–22, 2006.
+@@ 699 [p]
+80. Wadell, K, et al: Muscle performance in patients with chronic obstructive pulmonary disease—effects of a physical training programme. Adv Physiother 7:51–59, 2005.
+@@ 700 [p]
+81. Waller, B, Lambeck, J, and Daly, D: Therapeutic aquatic exercise in the treatment of low back pain: a systematic review. Clin Rehabil 23:3–14, 2009.
+@@ 701 [p]
+82. Wang, TJ, et al: Effects of aquatic exercise on flexibility, strength, and aerobic fitness in adults with osteoarthritis of the hip or knee. J Adv Nurs 57:141–152, 2007.
+@@ 702 [p]
+83. Watts, KE, and Gangaway, JMK: Evidence-based treatment of aquatic physical therapy in the rehabilitation of upper-extremity orthopedic injuries. J Aquatic Phys Ther 15(1):19–26, 2007.
+@@ 703 [p]
+84. Wykle, MO: Safety first. Rehab Manage 16(6):24–27, 50, 2003.
+@@ 704 [p]
+85. Yilmaz, I, et al: Effects of swimming training on physical fitness and water orientation in autism. Pediatr Int 46:624–626, 2004.

@@ -1,0 +1,312 @@
+@@ 264 [p]
+此外，还存在软组织损伤，伴出血与瘢痕形成。由于骨折愈合需要制动，软组织瘢痕在形成过程中无法沿应力线机化（见第 10 章）。在骨折部位可耐受的范围内早期进行不造成破坏的运动最为理想，但通常难以实现，除非采用某种内固定来稳定骨折部位。重要的是，在不危及愈合中骨折部位对线的前提下，通过适当的运动使相关区域的结构尽可能接近正常状态。治疗师必须警惕骨折后可能发生的并发症（见专栏 11.7 汇总）。
+@@ 265 [h4]
+卧床制动
+@@ 266 [p]
+若需要卧床休息或卧床制动，例如骨牵引时，全身会系统地出现继发性生理改变。应开始对未受累部位进行全身性运动，以尽量减轻这些问题。
+@@ 267 [h4]
+功能性适应
+@@ 268 [p]
+若为下肢骨折，对允许离床的病人应教会其替代的行走方式，如使用拐杖或助行器。器械与步态模式的选择取决于骨折部位、制动方式以及病人的功能能力。应咨询病人的医生，以确定允许的负重程度。处理指南见专栏 11.8 汇总。
+@@ 269 [h4]
+解除制动后
+@@ 270 [h4]
+损伤
+@@ 271 [li]
+关节活动度、关节间隙活动和肌肉柔韧性下降。
+@@ 272 [li]
+肌肉萎缩，伴力量减弱和肌肉耐力差。
+@@ 273 [li]
+初期，病人在开始运动时感到疼痛，但随着关节运动、肌力和关节活动度改善，疼痛应逐渐减轻。
+@@ 274 [li]
+若骨折时存在软组织损伤，无弹性的瘢痕会限制瘢痕所在区域的组织活动性。
+@@ 275 [h4]
+局部组织反应
+@@ 276 [p]
+制动会导致结缔组织削弱、关节软骨退变、肌肉萎缩和挛缩形成，并使循环迟缓。
+@@ 277 [h4]
+专栏 11.6　骨折异常愈合的类型
+@@ 278 [p]
+畸形愈合：骨折在不理想的位置愈合，导致骨性畸形。
+@@ 279 [p]
+延迟愈合：骨折愈合所需的时间超过正常。不愈合：骨折未能形成骨性连接。可能存在纤维性连接或假关节。
+@@ 280 [h4]
+专栏 11.7　骨折的并发症
+@@ 281 [li]
+被有限空间（筋膜间隔或过紧的石膏）限制的肿胀导致神经与循环受损。
+@@ 282 [li]
+脂肪栓塞（可发生于骨髓最多的骨，如长骨和骨盆的骨折），栓子迁移至肺并阻塞肺血管。这具有潜在的生命危险。
+@@ 283 [li]
+固定装置的问题，如螺钉移位、钢丝断裂
+@@ 284 [li]
+局部或全身性感染
+@@ 285 [li]
+再骨折
+@@ 286 [li]
+延迟愈合或畸形愈合
+@@ 287 [p]
+　
+@@ 288 [h4]
+专栏 11.8　处理指南——骨折后／制动期
+@@ 289 [h4]
+损伤、活动受限与参与限制：
+@@ 290 [p]
+初期炎症与肿胀；制动区域进行性肌肉萎缩、挛缩形成、软骨退变和循环减少；若卧床则可能出现全身性衰弱；由骨折部位和所用制动方法造成的活动受限，以及日常生活活动（ADL）、工具性日常生活活动（IADL）和工作的参与受限
+@@ 291 [li]
+处理计划：1. 教育病人。干预：1. 教会功能性适应；教会安全行走与床上活动。
+@@ 292 [li]
+2. 减轻急性期炎症的影响。干预：2. 冰敷、抬高。3. 减轻制动的影响。干预：3. 间歇性肌肉静力收缩；对制动区域上下相邻的关节进行主动关节活动度运动。
+@@ 293 [li]
+4. 若病人卧床，维持主要肌群的力量与关节活动度。干预：4. 对未制动的主要肌群进行抗阻运动，尤其为将来行走作准备
+@@ 294 [h4]
+处理：解除制动后
+@@ 295 [p]
+处理指南见专栏 11.9 汇总。
+@@ 296 [p]
+必须与转诊医生会诊，以确定是否达到临床愈合或影像学愈合。在骨折部位达到影像学愈合之前，任何时候在骨折部位施加应力都应谨慎，例如施加阻力或牵伸力时，或进行负重活动时。一旦达到影像学愈合，骨便具有正常的结构完整性，可承受正常应力。
+@@ 297 [p]
+对病人进行检查，以确定损伤，并评估当前的功能状态、活动水平和期望结局。测量并记录关节活动度、关节活动性和肌肉功能以及任何其他损伤。通常，制动区域的所有关节及关节周围组织均受累。
+@@ 298 [p]
+典型干预包括：
+@@ 299 [li]
+关节松动术。关节松动术可有效恢复丧失的关节间隙活动，而不损伤关节软骨或对骨折部位施加应力。干预从轻柔牵伸开始，随着关节反应变得可预测而逐渐增加强度。
+@@ 300 [li]
+PNF 牵伸。解除制动后可应用保持-放松和主动肌收缩技术，因为其强度可由病人控制。
+@@ 301 [p]
+需要监测收缩强度，并且在骨达到影像学愈合之前，不得越过骨折部位施加阻力或牵伸力，以避免骨折部位受到弯曲力。一旦骨达到影像学愈合，牵伸力可施加到骨折部位以外。
+@@ 302 [li]
+功能性活动。病人可谨慎恢复日常活动。解除制动的早期，重要的是不要损伤减弱的肌肉、软骨、骨和结缔组织。下肢骨折后必须继续部分负重数周，直至骨折部位完全愈合并能承受完全负重。
+@@ 303 [li]
+肌肉功能：力量强化与肌肉耐力。制动后 2 至 3 周内，骨和软骨均不能耐受过度的压缩力或弯曲力，因此运动从轻度等长收缩开始。随着关节间隙活动和关节活动度改善，进展为在可用范围内进行轻度抗阻运动。在骨达到影像学愈合之前，阻力应施加于骨折部位的近端。一旦愈合，可开始渐进抗阻运动（PRE）和其他更强的动态运动。
+@@ 304 [li]
+瘢痕组织松解。若存在限制活动的瘢痕组织，采用手法技术松解瘢痕。技术的选择取决于受累的组织。
+@@ 305 [h4]
+专栏 11.9　处理指南——骨折后／解除制动后
+@@ 306 [table]
+损伤：运动时疼痛，并逐渐减轻；关节活动度下降；关节间隙活动下降；瘢痕组织粘连；力量和耐力下降
+处理计划 | 干预
+1. 教育病人。 | 1. 告知病人在骨折部位达到影像学愈合之前的限制。教授可强化各项干预的家庭运动。
+2. 在达到影像学愈合前提供保护。 | 2. 下肢采用部分负重，上肢采用无应力的活动。
+3. 开始主动运动。 | 3. 主动关节活动度运动、轻柔的多角度等长收缩
+4. 增加关节与软组织的活动性。 | 4. 开始关节间隙活动牵伸技术（采用 III 级和 IV 级），施力点位于愈合中骨折部位的近端。肌肉牵伸时，在达到影像学愈合之前，施力点位于愈合中骨折部位的近端。
+5. 增加力量与肌肉耐力。 | 5. 随着关节活动度增加和骨愈合，开始抗阻运动和重复性运动。
+6. 改善心肺适能。 | 6. 开始不使骨折部位承受应力的安全有氧运动，直至愈合。
+注意事项：在骨达到影像学愈合之前数周内，不得越过骨折部位施加牵伸力或阻力，也不得造成过度的关节压缩或剪切。 | 在骨达到影像学愈合之前不得越过骨折部位施力。制动期结束后数周内采用保护性负重。
+@@ 307 [h3]
+自主学习活动
+@@ 308 [h4]
+批判性思维与讨论
+@@ 309 [p]
+1. 你的病人在一次车祸中遭受膝关节创伤性损伤。事故后 2 天，存在关节积液、关节活动度受限和关节间隙活动下降。当你接近可用范围的末端时，病人保护性地抗拒运动。请指出该病人的治疗原则、目标和处理计划。描述并练习你将用于干预的具体治疗技术，并说明你将如何在愈合的各阶段推进这些技术。
+@@ 310 [p]
+2. 为一位膝关节骨关节炎的病人制定干预方案，该病人上下楼梯时疼痛，从椅子上站起困难。你希望进行哪些检查项目？你希望记录哪些功能测试？对于一位有类风湿关节炎症状、处于疾病活动期（急性期）的个体，该方案应有何不同？在缓解期（慢性期）又应有何不同？
+@@ 311 [p]
+3. 描述你对一位 55 岁、已绝经并有骨质疏松早期征象的女性的处理计划，并列出具体干预措施。应包括哪些重要的病人指导？
+@@ 312 [p]
+4. 某人在 6 周前发生骨折，患肢刚刚去除石膏。其治疗与其他创伤性情况在受伤后 6 周时的治疗有何不同？请描述你将遵循的注意事项，以及为何这些注意事项重要。
+@@ 313 [p]
+5. 你的病人在 6 个月前遭遇机动车事故。你在 3 个月前见过她，现在她因纤维肌痛（FM）的诊断再次就诊。她的医生建议运动。请描述你的治疗方案，并考虑 FM 的特点以及该人群运动的益处与问题。
+@@ 314 [p]
+6. 你的新病人是一位秘书，主诉上背部和颈部疼痛。她描述为逐渐起病。她说自己每天坐在电脑前 6 至 8 小时，还要经常接听电话。你对病人进行检查，发现数个活动性肌筋膜触发点。请描述你对该病人的疗程。你将如何处理她的工作对其问题的影响？
+@@ 315 [h4]
+参考文献
+@@ 316 [p]
+1. Aguila, FJ, et al: Immediate effect of ultrasound and ischemic compression techniques for the treatment of trapezius latent myofascial trigger points in healthy subjects: a randomized controlled study. J Manipulative Physiol Ther 32:515–520, 2009.
+@@ 317 [li]
+1a. American College of Rheumatology: Fibromyalgia Fact Sheet. Available at http://www.rheumatology.org/practice/clinical/ patients/diseases_and_conditions/fibromyalgia.pdf .
+@@ 318 [p]
+2. American College of Rheumatology Subcommittee on Osteoarthritis Guidelines: Recommendations for the medical management of osteoarthritis of the hip and knee: 2000 update. Arthritis Rheum 43(9):1905–1915, 2000.
+@@ 319 [p]
+3. American College of Rheumatology Subcommittee on Rheumatoid Arthritis Guidelines: 2002 Update. Arthritis Rheum 46(2): 328–346, 2002.
+@@ 320 [p]
+4. American College of Sports Medicine: American College of Sports Medicine’s Guidelines for Exercise Testing and Prescription, ed. 8. Philadelphia: Lippincott Williams & Wilkins, 2010.
+@@ 321 [p]
+5. Anderson, RJ: Rheumatoid arthritis: Clinical and laboratory features. In Klippel, JH (ed): Primer on the Rheumatic Diseases, ed. 12. Atlanta: Arthritis Foundation, 2001, p 218.
+@@ 322 [p]
+6. Arnett, FC, et al: The American Rheumatism Association 1987 revised criteria for the classification of rheumatoid arthritis. Arthritis Rheum 31:315–324, 1988.
+@@ 323 [p]
+7. Bergstrom, I, et al: Physical training preserves bone mineral density in postmenopausal women with forearm fractures and low bone mineral density. Osteoporos Int 19:177–183, 2008.
+@@ 324 [p]
+8. Bilberg, A, Ahlmen, M, and Mannerkorpi, K: Moderately intensive exercise in a temperate pool for patients with rheumatoid arthritis: a randomized controlled study. Rheumatology (Oxford) 44(4):502–508, 2005.
+@@ 325 [p]
+9. Bocalini, DS, et al: Strength training preserves the bone mineral density of postmenopausal women without hormone replacement therapy. J Aging Health 21:519–527, 2009.
+@@ 326 [p]
+10. Boissonnault, WG, and Goodman, CC: Bone, joint, and soft tissue disorders. In Goodman, CC, Fuller, KS, and Boissonnault, WG (eds): Pathology: Implications for the Physical Therapist, ed. 2. Philadelphia: WB Saunders, 2003, p 929.
+@@ 327 [p]
+11. Bonaiuti, D, et al: Exercise for preventing and treating osteoporosis in postmenopausal women. Cochrane Database Syst Rev 2002(3):CD000333.
+@@ 328 [p]
+12. Borg, G, Hassmen, P, and Lagerstrom, M: Perceived exertion related to heart rate and blood lactate during arm and leg exercise. Eur J Appl Physiol 65:679–685, 1987.
+@@ 329 [p]
+13. Brosseau, L, et al: Intensity of exercise for the treatment of osteoarthritis. Cochrane Database Syst Rev 2003(2):CD004259.
+@@ 330 [p]
+14. Brosseau, L, et al: Ottawa panel evidence-based clinical practice guidelines for therapeutic exercise in the management of rheumatoid arthritis in adults. Phys Ther 84(10):934–972, 2004.
+@@ 331 [p]
+15. Brosseau, L, et al: Ottawa panel evidence-based clinical practice guidelines for therapeutic exercises and manual therapy in the management of osteoarthritis. Phys Ther 85(9):907–971, 2005.
+@@ 332 [p]
+16. Brosseau, L, et al: Ottawa panel evidence-based clinical practice guidelines for aerobic fitness exercises in the management of fibromyalgia: Part 1. Phys Ther 88:857–871, 2008.
+@@ 333 [p]
+17. Brosseau, L, et al: Ottawa panel evidence-based clinical practice guidelines for strengthening exercises in the management of fibromyalgia: Part 2. Phys Ther 88:873–886, 2008.
+@@ 334 [p]
+18. Bruce, ML, and Peck, B: New rheumatoid arthritis treatments. Holistic Nurs Pract 19(5):197–204, 2005.
+@@ 335 [p]
+19. Busch, A, et al: Exercise for treating fibromyalgia syndrome. Cochrane Database Syst Rev 2007(4):CD003786 .
+@@ 336 [p]
+20. Busch, A, et al: Exercise for fibromyalgia: a systematic review. J Rheumatol, 35:1130–1144, 2008.
+@@ 337 [p]
+21. Centers for Disease Control and Prevention: Physical Activity for Everyone. Available at http://www.cdc.gov/physicalactivity/ everyone/guidelines/index.html.
+@@ 338 [p]
+22. Chodzko-Zajko, W, Proctor, D, and Singh, M: American College of Sports Medicine position stand on exercise and physical activity for older adults. Med Sci Sports Exerc 41:1510–1530, 2009.
+@@ 339 [p]
+23. Christie, A, et al: Effectiveness of nonpharmacological and nonsurgical interventions for patients with rheumatoid arthritis: an overview of systematic reviews. Phys Ther 87(12):1697–1715, 2007.
+@@ 340 [p]
+24. Clark, SR, Burckhardt, CS, and Bennett, RM: The use of exercise to treat rheumatic disease. In Goldberg, L, and Elliot, DL (eds): Exercise for Prevention and Treatment of Illness. Philadelphia: FA Davis, 1994, p 83.
+@@ 341 [p]
+25. Cochrane, T, Davey, RC, and Matthes Edwards, SM: Randomised controlled trial of the cost-effectiveness of water-based therapy for lower limb osteoarthritis. Health Technol Assess 9(31):1–114, 2005.
+@@ 342 [p]
+26. Cummings, GS, and Tillman, LJ: Remodeling of dense connective tissue in normal adult tissues. In Currier, DP, and Nelson, RM (eds): Dynamics of Human Biologic Tissues. Philadelphia: FA Davis, 1992, p 45.
+@@ 343 [p]
+27. De Jong, Z, and Vlieland, TP: Safety of exercise in patients with rheumatoid arthritis. Curr Opin Rheumatol 17(2):177–182, 2005.
+@@ 344 [p]
+28. de Kam, D, Smulders, E, and Weerdesteyn, V: Exercise interventions to reduce fall-related fractures and their risk factors in individuals with low bone density: a systematic review of randomized controlled trials. Osteoporos Int 20:2111–2125, 2009.
+@@ 345 [p]
+29. Dommerholt, J, Bron, C, and Franssen, J: Myofascial trigger points: an evidence-informed review. J Manual Manip Ther 14:203–221, 2006.
+@@ 346 [p]
+30. Evcik, D, et al: Effectiveness of aquatic therapy in treatment of fibromyalgia syndrome: a randomized controlled open study. Rheumatol Int 28:885–890, 2008.
+@@ 347 [p]
+31. Felson, DT, et al: Osteoarthritis: New insights. Part 1: The disease and its risk factors. Ann Intern Med 133(8):635–646, 2000.
+@@ 348 [p]
+32. Felson, DT, et al: Osteoarthritis: New insights. Part 2: Treatment approaches. Ann Intern Med 133(9):726–737, 2000.
+@@ 349 [p]
+33. Fernandes-de-las-Penas, C, Alonso-Blanco, C, and Miangolarra, JC: Myofascial trigger points in subjects presenting with mechanical neck pain: a blinded, controlled study. Manual The 12:29–33, 2007.
+@@ 350 [p]
+34. Fernandes-de-las-Penas, C, Cuadrado, M, and Pareja, J: Myofascial trigger points, neck mobility, and forward head posture in episodic tension-type headache. Headache 47:662–672, 2007.
+@@ 351 [p]
+35. Fernandes-de-las-Penas, C, et al: Myofascial trigger points and sensitization: an updated pain model for tension-type headache. Cephalagia 27:383–393, 2007.
+@@ 352 [p]
+36. Fiatorone, M, et al: Exercise training and nutritional supplementation for physical frailty in very elderly people. N Engl J Med 30(25):1769–1775, 1994.
+@@ 353 [p]
+37. Foley, A, et al: Does hydrotherapy improve strength and physical function in patients with osteoarthritis—a randomized controlled trial comparing a gym based and a hydrotherapy based strengthening programme. Ann Rheum Dis 62(12):1162–1167, 2003.
+@@ 354 [p]
+38. Frontera, W, et al: Strength conditioning in older men: skeletal muscle hypertrophy and improved function. J Appl Physiol 64(3):1038–1044, 1988.
+@@ 355 [p]
+39. Gerwin, R: The taut band and other mysteries of the trigger point: an examination of the mechanisms relevant to the development and maintenance of the trigger point. J Musculoskel Pain 16:115–121, 2008.
+@@ 356 [p]
+40. Guadalupe-Grau, A, et al: Exercise and bone mass in adults. Sports Med 39:439–468, 2009.
+@@ 357 [p]
+41. Haskell, W, et al: Physical activity and public health: updated recommendations for adults from the American College of Sports Medicine and the American Heart Association. Circulation 116:1081–1093, 2007.
+@@ 358 [p]
+42. Hawley, DJ: Health status assessment. In Wegener, ST (ed): Clinical Care in the Rheumatic Diseases. Atlanta: American College of Rheumatology, 1996.
+@@ 359 [p]
+43. Hidalgo-Losano, A, et al: Muscle trigger points and pressure hyperalgesia in the shoulder muscles in patients with unilateral shoulder impingement: a blinded, controlled study. Exp Brain Res 202:915–925, 2010.
+@@ 360 [p]
+44. Hockberg, MC: Osteoarthritis: Clinical features and treatment. In Klippel, JH (ed): Primer on the Rheumatic Diseases, ed. 11. Atlanta: Arthritis Foundation, 1997, p 218.
+@@ 361 [p]
+45. Hoeksma, HL, et al: Comparison of manual therapy and exercise therapy in osteoarthritis of the hip: a randomized clinical trial. Arthritis Rheum 51(5):722–729, 2004.
+@@ 362 [p]
+46. Holtgrefe, K, McCloy, C, and Rome, L: Changes associated with a quota-based approach on a walking program for individuals with fibromyalgia. JOSPT 37:717–724, 2007.
+@@ 363 [p]
+47. Huntoon, E, Schmidt, C, and Sinaki, M: Significantly fewer refractures after vertebroplasty in patients who engage in backextensor-strengthening exercises. Mayo Clin Proc 83:54–57, 2008.
+@@ 364 [p]
+48. Kaelin, ME, et al: Cardiopulmonary responses, muscle soreness, and injury during the one repetition maximum assessment in pulmonary rehabilitation patients. J Cardiopulm Rehabil 19(6): 366–372, 1999.
+@@ 365 [p]
+49. Kaltenborn, F: Manual Mobilization of the Extremity Joints: The Kaltenborn Method of Joint Examination and Treatment. Vol I. The Extremities, ed. 5. Oslo: Olaf Norlis Bokhandel, 1999.
+@@ 366 [p]
+50. Karlsson, M, Nordqvist, A, and Karlsson, C: Sustainability of exercise induced increased in bone density and skeletal structure. Food Nutr Res 2008:52. DOI: 10.3402/fnr.v52i0.1872.
+@@ 367 [p]
+51. Kukuljan, S, et al. Effects of a multi-component exercise program and calcium-viamin-D3-fortified milk on bone mineral density in older men: a randomized controlled trial. Osteoporos Int 20:1241–1251, 2009.
+@@ 368 [p]
+52. Lawrence, RC, et al: Estimates of the prevalence of arthritis and other rheumatic conditions in the United States: Part II. Arthritis and Rheumatism 58:26–35, 2008.
+@@ 369 [p]
+53. Leonard, JB: Joint protection for inflammatory disorders. In Lichtman, DM, and Alexander, AH (eds): The Wrist and Its Disorders, ed. 2. Philadelphia: WB Saunders, 1997, p 1377.
+@@ 370 [p]
+54. Lucas, K, Polus, B, and Rich, P: Latent myofascial trigger points: their effects on muscle activation and movement efficiency. J Body Movt Ther 8:160–166, 2004.
+@@ 371 [p]
+55. Lucas, K, Rich, P, and Polus, B: How common are latent myofascial trigger points in the scapular positioning muscles? J Musculoskel Pain 16:279–286, 2008.
+@@ 372 [p]
+56. Majlesi, J, and Unalan, H: High power pain threshold ultrasound technique in the treatment of active myofascial trigger points: a randomized, double blind, case-control study. Arch Phys Med Rehabil 85:833–836, 2004.
+@@ 373 [p]
+57. Mannerkorpi, K, et al: Pool exercise for patients with fibromyalgia or chronic widespread pain: a randomized controlled trial and subgroup analyses. J Rehabil Med 41:751–760, 2009.
+@@ 374 [p]
+58. Margolis, S, and Flynn, JA: Arthritis: The Johns Hopkins White Papers. Baltimore: The Johns Hopkins Medical Institutions, 2000.
+@@ 375 [p]
+59. Martyn-St James, M, and Carroll, S: Meta-analysis of walking for preservation of bone mineral density of postmenopausal women. Bone 43:521–531, 2008.
+@@ 376 [p]
+60. Matteson, EL: Rheumatoid arthritis: Treatment. In Klippel, JH (ed): Primer on the Rheumatic Diseases, ed. 12. Atlanta: Arthritis Foundation, 2001, p 225.
+@@ 377 [p]
+61. McDonough, A: Effect of immobilization and exercise on articular cartilage: a review of literature. J Orthop Sports Phys Ther 3(1):2–5, 1981.
+@@ 378 [p]
+62. McKinnis, LN: Fundamentals of Musculoskeletal Imaging, ed. 3. Philadelphia: FA Davis, 2010.
+@@ 379 [p]
+63. Metsios, GS, et al: Rheumatoid arthritis, cardiovascular disease, and physical exercise: a systematic review. Rheumatology 47(3):239–248, 2007.
+@@ 380 [p]
+64. Minor, MA, et al: Efficacy of physical conditioning exercise in patients with rheumatoid arthritis and osteoarthritis. Arthritis Rheum 32(11):1396–1405, 1989.
+@@ 381 [p]
+65. Moayyeri, A: The association between physical activity and osteoporosis fractures: a review of the evidence and implications for future research. Ann Epidemiol 18:827–835, 2008.
+@@ 382 [p]
+66. Morganti, C, et al: Strength improvements with 1 yr of progressive resistance training in older women. Med Sci Sports Exerc 27(6):906–912, 1995.
+@@ 383 [p]
+67. National Institutes of Arthritis and Musculoskeletal and Skin Diseases: Osteoporosis. Available at http://www.niams.nih.gov/ health_Info/Bone/Osteoporosis/default.asp.
+@@ 384 [p]
+68. National Osteoporosis Foundation: Disease Facts. Available at http://www.nof.org/osteoporosis/diseasefacts.htm.
+@@ 385 [p]
+69. National Osteoporosis Foundation: Prevention. Available at http://www.nof.org/osteoporosis/prevention/index.htm.
+@@ 386 [p]
+70. Nelson, M, and Wernick, S: Strong Women, Strong Bones, Updated. New York: Berkley Publishing Group, 2006.
+@@ 387 [p]
+71. Nelson, M, et al: Physical activity and public health in older adults: recommendation from the American College of Sports Medicine and the American Heart Association. Circulation 116:1094–1105, 2007.
+@@ 388 [p]
+72. Nelson, M, et al: Physical activity and public health in older adults: recommendation from the American College of Sports Medicine and the American Heart Association. Med Sci Sports Exerc 39:1435–1445, 2007.
+@@ 389 [p]
+73. Phillips, CA: Therapist’s management of patients with RA. In Lichtman, DM, and Alexander, AH (eds): The Wrist and Its Disorders, ed. 2. Philadelphia: WB Saunders, 1997, p 1345.
+@@ 390 [p]
+74. Pincus, T: Rheumatoid arthritis. In Wegener, ST (ed): Clinical Care in the Rheumatic Diseases. Atlanta: American College of Rheumatology, 1996, p 147.
+@@ 391 [p]
+75. Roddy, E, et al: Evidence-based recommendations for the role of exercise in the management of osteoarthritis of the hip or knee—the MOVE consensus. Rheumatology 44(1):67–73, 2005.
+@@ 392 [p]
+76. Roddy, E, Zhang, W, and Doherty, M: Aerobic walking or strengthening exercise for osteoarthritis of the knee? A systematic review. Ann Rheum Dis 64(4):544–548, 2005.
+@@ 393 [p]
+77. Rotstein, A, Harush, M, and Vaisman, N: The effect of a water exercise program on bone density of postmenopausal women. J Sports Med Phys Fitness 48:352–359, 2008.
+@@ 394 [p]
+78. Russel, IJ: Fibromyalgia syndrome. In Mense, S, and Simons, D: Muscle Pain, Understanding its Nature, Diagnosis, and Treatment. Philadelphia: Lippincott Williams & Wilkins, 2001, pp 289–337.
+@@ 395 [p]
+79. Salter, RB: Textbook of Disorders and Injuries of the Musculoskeletal System, ed. 3. Baltimore: Williams & Wilkins, 1999.
+@@ 396 [p]
+80. Sanita, P, and de Alencar, F: Myofascial pain syndrome as a contributing factor in patients with chronic headaches. J Musculoskel Pain 17:15–25, 2009.
+@@ 397 [p]
+81. Shah, J, and Gilliams, E: Uncovering the biochemical milieu of myofascial trigger points using in vivo microdialysis: an application of muscle pain concepts to myofascial pain syndrome. J Bodywork Movt Ther 12:371–384, 2008.
+@@ 398 [p]
+82. Sharma, L, et al: Physical functioning over three years in knee osteoarthritis: role of psychosocial, local mechanical, and neuromuscular factors. Arthritis Rheum 48(12):3359–3370, 2003.
+@@ 399 [p]
+83. Shaw, C, McCully, K, and Posner, J: Injuries during the one repetition maximum assessment in the elderly. J Cardiopulm Rehabil 15(4):283–287, 1995.
+@@ 400 [p]
+84. Simon, LS: Arthritis: New agents herald more effective symptom management. Geriatrics 54(6):37–42, 1999.
+@@ 401 [p]
+85. Simons, D: Myofascial Pain Caused by Trigger Points. In Mense, S, and Simons, D: Muscle Pain, Understanding its Nature, Diagnosis, and Treatment. Philadelphia: Lippincott Williams & Wilkins, 2001, pp 205–288.
+@@ 402 [p]
+86. Simons, D, Travell, J, and Simons, L: Myofascial Pain and Dysfunction: The Trigger Point Manual, Vol 1, ed. 2. Baltimore: Williams & Wilkins, 1999.
+@@ 403 [p]
+87. Simons, D: Review of enigmatic MTrPs as a common cause of enigmatic musculoskeletal pain and dysfunction. J Electromyogr Kinesiol 14:95–107, 2004.
+@@ 404 [p]
+88. Sinaki, M: Effect of physical activity on bone mass. Curr Opin Rheumatol 8:376–383, 1996.
+@@ 405 [p]
+89. Song, R, et al: Effect of Tai Chi exercise on pain, balance, muscle strength, and perceived difficulties in physical functioning in older women with osteoarthritis: a randomized clinical trial. J Rheumatol 30(9):2039–2044, 2003.
+@@ 406 [p]
+90. Starlanyl, D, and Copeland, M: Fibromyalgia and Chronic Myofascial Pain , ed. 2. Oakland: New Harbinger Publications, 2001.
+@@ 407 [p]
+91. The Arthritis Foundation’s Guide to Good Living with Osteoarthritis. Atlanta: Arthritis Foundation, 2000.
+@@ 408 [p]
+92. The Arthritis Foundation’s Guide to Good Living with Rheumatoid Arthritis. Atlanta: Arthritis Foundation, 2000.
+@@ 409 [p]
+93. Tough, E, White, A, and Cummings, TM: Acupuncture and dry needling in the management of myofascial trigger point pain: a systematic review and meta-analysis of randomized controlled trials. Eur J Pain 13:3–10, 2009.
+@@ 410 [p]
+94. United States Department of Health and Human Services: Bone Health and Osteoporosis: A report by the Surgeon General (2004). Available at http://www.surgeongeneral.gov/library/ bonehealth/content.html.
+@@ 411 [p]
+95. Van den Ende, CH, et al: Effect of intensive exercise on patients with active rheumatoid arthritis: a randomised clinical trial. Ann Rheum Dis 59(8):615–621, 2000.
+@@ 412 [p]
+96. Wegener, L, Kisner, C, and Nichols, D: Static and dynamic balance responses in persons with bilateral knee osteoarthritis. J Orthop Sports Phys Ther 25:13–18, 1997.
+@@ 413 [p]
+97. Wolfe, F, Clauw, D, and Fitzcharles, M: The American College of Rheumatology preliminary diagnostic criteria for fibromyalgia and measurement of symptom severity. Arthritis Care Res 62:600–610, 2010.
+@@ 414 [p]
+98. Wolfe, F, Smythe, HA, and Yunus, MB: The American College of Rheumatology 1990 criteria for the classification of fibromyalgia: report of the Multicenter Criteria Committee. Arthritis Rheum 33:160–172, 1990.
+@@ 415 [p]
+99. Ytterberg, SR, Mahowald, ML, and Krug, HE: Exercise for arthritis. Baillieres Clin Rheumatol 8(1):161–189, 1994.

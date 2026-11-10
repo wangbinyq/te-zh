@@ -1,0 +1,116 @@
+@@ 224 [table]
+处理计划 | 慢性炎症期的干预
+1.教育病人。 | 1.就慢性刺激的原因进行宣教，说明在炎症期间必须避免对该部位施加应力。调整环境以减轻组织应力。实施家庭运动计划，以强化治疗性干预。
+2.促进愈合；减轻疼痛与炎症。 | 2.冷疗、加压、按摩；让该部位休息（停止机械应力，使用夹板、贴扎、石膏）
+3.维持受累组织的完整性与活动性。 | 3.在疼痛限度内进行无应力的被动运动、按摩与肌肉设定
+4.增强相关区域的支持。 | 4.姿势训练；稳定运动
+处理计划 | 干预——控制运动期与恢复功能期
+1.教育病人。 | 1.就预防复发的方法进行人体工程学宣教。在家中指导病人安全地进阶牵伸与肌力强化运动。讲解应力过大的征象（见专栏 10.3）
+2.形成坚固、可活动的瘢痕。 | 2.摩擦按摩；软组织松动术
+3.使肌肉的长度与力量达到平衡。 | 3.用分级适当的牵伸与肌力强化运动纠正肌肉与关节力学异常的原因。
+4.促进功能独立。 | 4.训练肌肉按需求发挥功能；若肌肉无法做到，则提供替代方式或支持。训练协调性与时序。发展耐力。
+5.分析工作／活动。 | 5.调整家庭、工作与运动环境／工具。
+@@ 225 [p]
+注意事项：如果牵伸导致关节活动度进行性丧失，不要继续牵伸。重新评估病情，判断是否仍存在慢性炎症伴瘢痕挛缩，或是否存在保护性肌肉防御。强调稳定该部位，并训练安全的适应性运动模式。
+@@ 226 [p]
+　
+@@ 227 [h4]
+临床提示
+@@ 228 [p]
+借助图示帮助病人理解累积性创伤综合征中组织破坏的机制——例如一个人反复用锤子敲到拇指指甲，或者在皮肤区域愈合之前反复刺激或擦伤该处——有助于病人把反复创伤与其肌骨问题联系起来，并理解必须停止“敲打或刺激疼痛部位”。
+@@ 229 [li]
+初期只允许无应力的活动。
+@@ 230 [li]
+与处理任何急性损伤一样，对受累组织以安全、无应力的强度开始运动，并在不使受累组织承受应力的情况下，对相关区域以适当的矫正强度进行运动。
+@@ 231 [h4]
+慢性炎症后愈合的亚急性期与慢性期
+@@ 232 [p]
+一旦慢性炎症引起的持续性疼痛减轻，就让病人通过施加控制应力的运动计划逐步进阶，直到受累区域的结缔组织具备承受功能活动所施加应力的能力。
+@@ 233 [li]
+局部方面，若存在限制活动范围、或反复因微断裂而受刺激的慢性挛缩瘢痕，可用摩擦按摩、软组织手法或牵伸技术将组织内的瘢痕松动。如果炎症
+@@ 234 [p]
+由牵伸手法引起，则按急性损伤处理。由于慢性炎症可导致瘢痕组织增生与瘢痕挛缩，活动范围进行性丧失是牵伸强度过大的警示信号。
+@@ 235 [li]
+肌肉防御可能是身体试图保护该部位免于过度运动的信号。此时应着重发展该部位的稳定性，并训练安全的适应性运动模式。
+@@ 236 [li]
+找出肌肉与关节力学异常的原因。肌力强化与稳定运动，配合工作或娱乐活动的调整，是尽量减少刺激性运动模式所必需的。
+@@ 237 [li]
+由于慢性刺激问题常源于无法维持重复性活动，肌肉耐力是肌肉再教育计划中合适的组成部分。既要考虑姿势稳定肌的耐力，也要考虑所需功能活动主要动力肌的耐力。
+@@ 238 [li]
+与治疗慢性期的病人一样，将运动进阶以发展功能独立。运动变得针对具体需求，并包括时序、协调与技巧。
+@@ 239 [li]
+可用工作能力训练与工作强化计划为病人恢复工作做好准备；专项运动训练对个体重返运动十分重要。
+@@ 240 [p]
+注：具体的过度使用综合征在相应受累区域的各章中详述。
+@@ 241 [h2]
+自主学习活动
+@@ 242 [h4]
+批判性思维与讨论
+@@ 243 [p]
+1. 你的病人发生了一块肌肉的损伤。描述他或她在炎症与修复各阶段会出现的症状，并说明各阶段应采用的运动干预原则。确定原则之后，选择一块常见的受伤肌肉，例如腘绳肌，描述各干预阶段的症状、检查结果、目标、治疗计划与实际干预。
+@@ 244 [p]
+2. 按第 1 题做同样的练习，但改用韧带损伤，例如肱尺韧带扭伤或距腓前韧带扭伤。
+@@ 245 [p]
+3. 描述常见过度使用综合征的损伤机制，例如外上髁炎或胫骨内侧应力综合征，并解释此类损伤与急性创伤性损伤的差异。
+@@ 246 [h4]
+参考文献
+@@ 247 [p]
+1. Arnheim, DD, and Prentice, WE: Principles of Athletic Training, ed. 3. Boston: McGraw-Hill, 1997.
+@@ 248 [p]
+2. Bandy, WD: Functional rehabilitation of the athlete. Orthop Phys Ther Clin North Am 1:269–281, 1992.
+@@ 249 [p]
+3. Barrick, EF: Orthopedic trauma. In Kauffman, TL (ed): Geriatric Rehabilitation Manual. New York: Churchill Livingstone, 1999.
+@@ 250 [p]
+4. Boissonnault, WG, and Goodman, CC: Bone, joint, and muscle disorders. In Goodman, CC, Guller, KS, and Boissonnault, WG (eds): Pathology: Implications for the Physical Therapist, ed. 2. Philadelphia: Saunders, 2003, p 929.
+@@ 251 [p]
+5. Boissonnault, WG, and Goodman, CC: Introduction to pathology of the musculoskeletal system. In Goodman, CC, Guller, KS, and Boissonnault, WG (eds): Pathology: Implications for the Physical Therapist, ed. 2. Philadelphia: Saunders, 2003, p 821.
+@@ 252 [p]
+6. Cailliet, R: Soft Tissue Pain and Disability, ed. 3. Philadelphia: F.A. Davis, 1996.
+@@ 253 [p]
+7. Cummings, GS, and Tillman, LJ: Remodeling of dense connective tissue in normal adult tissues. In Currier, DP, and Nelson, RM (eds): Dynamics of Human Biologic Tissues. Philadelphia: F.A. Davis, 1992, p 45.
+@@ 254 [p]
+8. Cyriax, J: Textbook of Orthopaedic Medicine, Vol 1. Diagnosis of Soft Tissue Lesions, ed. 8. London: Bailliere & Tindall, 1982.
+@@ 255 [p]
+9. Davenport, TE, et al: The EdUReP model for nonsurgical management of tendinopathy. Phys Ther 85(10):1093–1103, 2005.
+@@ 256 [p]
+10. Enwemeka, CS: Connective tissue plasticity: ultrastructural, biomechanical, and morphometric effects of physical factors on intact and regenerating tendons. J Orthop Sports Phys Ther 14(5):198–212, 1991.
+@@ 257 [p]
+11. Guidotti, TL: Occupational repetitive strain injury. Am Fam Physician 45:585–592, 1992.
+@@ 258 [p]
+12. Hawley, DJ: Health status assessment. In Wegener, ST (ed): Clinical Care in the Rheumatic Diseases. Atlanta: American College of Rheumatology, 1996.
+@@ 259 [p]
+13. Isernhagen, SJ: Exercise technologies for work rehabilitation programs. Orthop Phys Ther Clin North Am 1:361–374, 1992.
+@@ 260 [p]
+14. Keene, J, and Malone, TR: Ligament and muscle-tendon unit injuries. In Malone, TR, McPoil, TG, and Nitz, AJ (eds): Orthopaedic and Sports Physical Therapy, ed. 3. St. Louis: CV Mosby, 1997, p 135.
+@@ 261 [p]
+15. Kellet, J: Acute soft tissue injuries: a review of the literature. Med Sci Sports Exerc 18:489–500, 1986.
+@@ 262 [p]
+16. Khan, JM, and Scott, A: Mechanotherapy: how physical therapists’prescription of exercise promotes tissue repair. Br J Sports Med 43:247–252, 2009.
+@@ 263 [p]
+17. McGinty, JB (ed): Operative Arthroscopy. Philadelphia: LippincottRaven, 1996.
+@@ 264 [p]
+18. Noonan, TJ, and Garrett, WE: Injuries at the myotendinous junction. Clin Sports Med 11:783–806, 1992.
+@@ 265 [p]
+19. Noyes, FR, et al: Advances in understanding of knee ligament injury, repair, and rehabilitation. Med Sci Sports Exerc 16:427– 443, 1984.
+@@ 266 [p]
+20. Pease, BJ: Biomechanical assessment of the lower extremity. J Orthop Phys Ther Clin North Am 3:291–325, 1994.
+@@ 267 [p]
+21. Puffer, JC, and Zachazewski, JE: Management of overuse injuries. Am Fam Physician 38:225–232, 1988.
+@@ 268 [p]
+22. Rabin, A: Evidence in practice: is there evidence to support the use of eccentric strengthening exercises to decrease pain and increase function in patients with patellar tendinopathy? Phys Ther 86(3):450–456, 2006.
+@@ 269 [p]
+23. Riley, G: Tendinopathy—from basic science to treatment. Nat Clin Pract Rheumatol 4(2):82–89, 2008.
+@@ 270 [p]
+24. Salter, RB: Continuous Passive Motion, A Biological Concept. Baltimore: Williams & Wilkins, 1993.
+@@ 271 [p]
+25. Salter, RB: Textbook of Disorders and Injuries of the Musculoskeletal System, ed. 3. Baltimore: Williams & Wilkins, 1999.
+@@ 272 [p]
+26. Sharma, P, and Maffulli, N: Biology of tendon injury: healing, modeling, and remodeling. J Musculoskelet Neuronal Interact 6(2):181–190, 2006.
+@@ 273 [p]
+27. Tillman, LJ, and Cummings, GS: Biologic mechanisms of connective tissue mutability. In Currier, DP, and Nelson, RM (eds): Dynamics of Human Biologic Tissues. Philadelphia: FA Davis, 1992, p 1.
+@@ 274 [p]
+28. Wang, J: Mechanobiology of tendon. J Biomech 39(9):1563– 1582, 2006.
+@@ 275 [p]
+29. Wilk, KE, and Arrigo, C: An integrated approach to upper extremity exercises. J Orthop Phys Ther Clin North Am 1:337–360, 1992.
+@@ 276 [p]
+30. Wynn Parry, CB, and Stanley, JK: Synovectomy of the hand. Br J Rheumatol 32:1089–1095, 1993.
