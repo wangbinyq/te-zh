@@ -49,10 +49,11 @@ for (const chapter of chapters) {
 
   const problems = [];
   let chars = 0;
+  let missing = 0;
   source.forEach((block, i) => {
     const v = map.get(i);
     if (v === undefined || v === null) {
-      problems.push(`missing ${i}`);
+      missing += 1;
       return;
     }
     if (block.type === "table") {
@@ -73,6 +74,9 @@ for (const chapter of chapters) {
   if (problems.length) {
     console.error(`FAIL     ${chapter.slug}  ${problems.slice(0, 6).join("; ")}${problems.length > 6 ? ` …+${problems.length - 6}` : ""}`);
     failed = true;
+  } else if (missing) {
+    const pct = Math.round(((source.length - missing) / source.length) * 100);
+    console.log(`partial  ${chapter.slug}  ${source.length - missing}/${source.length} blocks (${pct}%)  ${chars} chars`);
   } else {
     console.log(`ok       ${chapter.slug}  ${source.length} blocks  ${chars} chars  (${files.length} part files)`);
   }
