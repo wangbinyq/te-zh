@@ -20,6 +20,7 @@ export function initToc() {
 
   open.addEventListener("click", () => {
     dialog.showModal();
+    dialog.focus();
     const current = dialog.querySelector("li.current");
     if (current) current.scrollIntoView({ block: "center" });
   });

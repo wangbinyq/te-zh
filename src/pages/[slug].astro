@@ -19,12 +19,13 @@ const done = new Set(translatedChapters(chapters).map((c) => c.slug));
 
 <Base>
   <header class="bar">
+    <a class="bar-home" href="https://wangbinyq.github.io/library/">书架</a>
     <button id="open-toc" type="button">目录</button>
     <span class="bar-title">{chapter.title}</span>
     <button id="open-settings" type="button">设置</button>
   </header>
 
-  <main data-slug={chapter.slug} data-title={chapter.title} data-num={chapter.num}>
+  <main data-slug={chapter.slug} data-title={chapter.title} data-num={chapter.num} data-index={i} data-total={chapters.length}>
     <div id="resume" class="resume" hidden></div>
     <p class="kicker">第 {chapter.num} 章</p>
     <h1>{chapter.title}</h1>
@@ -137,9 +138,9 @@ const done = new Set(translatedChapters(chapters).map((c) => c.slug));
     </nav>
   </main>
 
-  <dialog id="toc" class="drawer">
+  <dialog id="toc" class="drawer" tabindex="-1">
     <div class="drawer-head">
-      <span class="drawer-title">{book.title}</span>
+      <a class="drawer-title" href="https://wangbinyq.github.io/library/">{book.title} · 书架</a>
       <button type="button" class="sheet-close" data-close aria-label="关闭">×</button>
     </div>
     <ol class="drawer-list">

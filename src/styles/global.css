@@ -733,3 +733,16 @@ dialog.drawer::backdrop {
 .drawer-list li:not(.touched)::after {
   display: none;
 }
+
+.bar-home {
+  flex: none;
+  color: var(--muted);
+}
+
+a.drawer-title {
+  color: var(--muted);
+}
+
+dialog.drawer:focus {
+  outline: none;
+}
