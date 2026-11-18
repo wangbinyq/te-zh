@@ -746,3 +746,30 @@ a.drawer-title {
 dialog.drawer:focus {
   outline: none;
 }
+
+.fig-block {
+  margin: 1.7rem 0 1.9rem;
+}
+
+.fig-block > .figcap {
+  margin: 0.55rem 0 0;
+}
+
+figure.fig {
+  margin: 0;
+}
+
+figure.fig img {
+  background: color-mix(in srgb, var(--ink) 4%, var(--paper));
+}
+
+figure.fig-multi {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(8.5rem, 1fr));
+  gap: 0.4rem;
+  align-items: start;
+}
+
+figure.fig-multi img {
+  width: 100%;
+}

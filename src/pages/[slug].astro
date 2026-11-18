@@ -101,10 +101,26 @@ const share = shares.get(slug);
 
           if (b.type === "caption") {
             return (
-              <p id={`b-${b.i}`} class="block figcap" data-anchor={b.i}>
-                {text}
-                {b.zh && <span class="en" lang="en">{b.en}</span>}
-              </p>
+              <div id={`b-${b.i}`} class="block fig-block" data-anchor={b.i}>
+                {b.figs && (
+                  <figure class:list={["fig", b.figs.length > 1 && "fig-multi"]}>
+                    {b.figs.map((f) => (
+                      <img
+                        src={`${base}figures/${f.src}`}
+                        width={f.w}
+                        height={f.h}
+                        alt=""
+                        loading="lazy"
+                        decoding="async"
+                      />
+                    ))}
+                  </figure>
+                )}
+                <p class="figcap">
+                  {text}
+                  {b.zh && <span class="en" lang="en">{b.en}</span>}
+                </p>
+              </div>
             );
           }
 

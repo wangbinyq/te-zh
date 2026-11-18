@@ -45,10 +45,21 @@ function readInto(file, map) {
   flush();
 }
 
+let figureCache = null;
+
+export function figures() {
+  if (!figureCache) {
+    const file = path.join(dataDir, "figures.json");
+    figureCache = fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, "utf8")) : {};
+  }
+  return figureCache;
+}
+
 export function loadChapter(slug) {
   const file = path.join(dataDir, "source", `${slug}.json`);
   if (!fs.existsSync(file)) return null;
   const source = JSON.parse(fs.readFileSync(file, "utf8"));
+  const figMap = figures()[slug] ?? {};
   const zh = readZh(slug);
   const blocks = source.map((block, i) => {
     const tr = zh?.get(i) ?? null;
@@ -64,7 +75,16 @@ export function loadChapter(slug) {
       enRows: block.rows ?? null,
       zh: pageOnly ? null : zhText,
       zhRows: tr?.rows ?? null,
+      figs: figMap[i] ?? null,
     };
+  });
+
+  // (A)/(B)/(C) labels that the PDF text layer left as stray paragraphs now sit
+  // next to the picture that already carries them.
+  blocks.forEach((b, i) => {
+    if (b.skip || b.type !== "p") return;
+    if (!blocks[i + 1]?.figs) return;
+    if (/^[A-C]$/.test((b.en ?? "").trim())) b.skip = true;
   });
   return { blocks, translated: Boolean(zh) };
 }

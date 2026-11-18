@@ -3,6 +3,7 @@
 Kisner & Colby, *Therapeutic Exercise: Foundations and Techniques*（6th ed., F. A. Davis, 2012）的中文译本阅读站。
 
 - 全书 25 章已译完：20,817 个内容块、约 151 万汉字、133 张表格重建为中文表格。
+- 696 处插图（照片与示意图）按原书位置重新收录，共 697 张；图内标注保留英文原貌。
 - 段落可切换显示英文原文；参考文献条目、索引页码保留英文原貌。
 - 阅读进度、字号、原文开关都存在浏览器 localStorage。
 - Astro 生成，发布在 GitHub Pages：`/te-zh/<slug>/`。
