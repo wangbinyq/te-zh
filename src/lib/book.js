@@ -84,7 +84,7 @@ export function loadChapter(slug) {
   blocks.forEach((b, i) => {
     if (b.skip || b.type !== "p") return;
     if (!blocks[i + 1]?.figs) return;
-    if (/^[A-C]$/.test((b.en ?? "").trim())) b.skip = true;
+    if (/^[A-H](?:[ ,]+[A-H])*$/.test((b.en ?? "").trim())) b.skip = true;
   });
   return { blocks, translated: Boolean(zh) };
 }
